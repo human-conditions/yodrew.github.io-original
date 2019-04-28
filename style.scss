@@ -9,347 +9,411 @@
 /* BASE RULES */
 /**************/
 
-html  {
-  font-size: 100% ;  }
+html {
+    font-size: 100%;
+    }
 
-body  {
-  background-color: black ;
-  margin-top: 10px ;
-  font: 18px/1.4 helvetica ;
-  color: grey ;  }
+body {
+    margin: 10px auto 0;
+    max-width: 790px;
+    padding: 10px;
+    background-color: black;
+    font: 18px/1.4 helvetica;
+    color: grey;
+    display: block;
+    }
 
-.container  {
-  margin: 0 auto ;
-  max-width: 790px ;
-  padding: 10px ;
-  width: 100% ;  }
+h1, h2, h3, h4, h5, h6 {
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+    color: #bbb;
+    font-weight: bold;
+    line-height: 1.4;
+    margin: 20px 0 15px;
+    padding: 0;
+    }
 
-h1, h2, h3, h4, h5, h6  {
-  font-family: $helveticaNeue ;
-  color: $lightGray ;
-  font-weight: bold ;
-  line-height: 1.4 ;
-  margin: 20px 0 15px ;
-  padding: 0 ;
-  }
+h1 {
+    font-size: 36px;
+    line-height: 1em; }
+    h1 a {
+    color: inherit;
+    }
 
-h1  {
-  font-size: 36px ;
-  line-height: 1em ;
-  a  {
-    color: inherit ;  }  }
+h2 {
+    font-size: 32px;
+    }
 
-h2  {
-  font-size: 32px ;  }
+h3 {
+    font-size: 28px;
+    }
 
-h3  {
-  font-size: 28px ;  }
+h4 {
+    font-size: 24px;
+    color: #888;
+    }
 
-h4  {
-  font-size: 24px ;
-  color: $gray ;  }
+h5 {
+    font-size: 21px;
+    color: #888;
+    }
+    
+h6 {
+    font-size: 18px;
+    color: #888;
+    }
 
-h5  {
-  font-size: 21px ;
-  color: $gray ;  }
+p {
+    margin: 15px 0;
+    }
 
-h6  {
-  font-size: 18px ;
-  color: $gray ;  }
+a {
+    color: #4183C4;
+    text-decoration: none;
+    cursor: pointer; }
+    a:hover, a:active {
+    color: #4183C4;
+    }
 
-p  {
-  margin: 15px 0 ;  }
+ul, ol {
+    margin: 15px 0;
+    padding-left: 30px;
+    }
 
-a  {
-  color: $blue ;
-  text-decoration: none ;
-  cursor: pointer ;
-  &:hover, &:active  {
-    color: $blue ;  }  }
+ul {
+    list-style-type: disc;
+    }
 
-ul, ol  {
-  margin: 15px 0 ;
-  padding-left: 30px ;  }
+ol {
+    list-style-type: decimal;
+    }
 
-ul  {
-  list-style-type: disc ;  }
+ol ul, ul ol, ul ul, ol ol {
+    margin: 0;
+    }
 
-ol  {
-  list-style-type: decimal ;  }
+ul ul, ol ul {
+    list-style-type: circle;
+    }
 
-ol ul, ul ol, ul ul, ol ol  {
-  margin: 0 ;  }
+em, i {
+    font-style: italic;
+    }
 
-ul ul, ol ul  {
-  list-style-type: circle ;  }
+strong, b {
+    font-weight: bold;
+    }
 
-em, i  {
-  font-style: italic ;  }
+sup {
+    vertical-align: super;
+    font-size: smaller;
+    }
 
-strong, b  {
-  font-weight: bold ;  }
+img {
+    max-width: 600px;
+    max-height: 600px;
+    background-color: white;
+    padding: 20px;
+    }
 
-sup  {
-    vertical-align: super ;
-    font-size: smaller ;  }
+dl:after {
+    content: "";
+    display: table;
+    clear: both;
+    }
 
-img  {
-  max-width: 600px ;
-  max-height: 600px ;
-  background-color: white ;
-  padding: 20px ;  }
-
-dl:after {content:"";display:table;clear:both;}
 dd {
-    padding:.5em 0;}
+    padding: .5em 0;
+    }
+
 dl {
-    width:100%;}
+    width: 100%;
+    }
+
 dt, dd {
-    display:inline-block ;
-    width:20%;}
+    display: inline-block;
+    width: 20%;
+    }
+
 dt {
-    text-align:right ;
-    font-weight:bold ;
-    clear:left ;
-    float:left;}
+    text-align: right;
+    font-weight: bold;
+    clear: left;
+    float: left;
+    }
+
 dd {
-    width:80% ;
-    padding-left:1em ;
-    clear:right;}
+    width: 80%;
+    padding-left: 1em;
+    clear: right;
+    }
+
 dt:first-child {
-    padding-top:.5em;}
+    padding-top: .5em;
+    }
+
 dd + dt {
-   clear:both ;
-    padding-top:.5em;}
+    clear: both;
+    padding-top: .5em;
+    }
 
 table {
-    border: solid 1px #AAAAAA ;
-    border-collapse: collapse ;
-    border-spacing: 0 ;  }
+    border: solid 1px #AAAAAA;
+    border-collapse: collapse;
+    border-spacing: 0;
+    }
 
 thead th {
-    border: solid 1px #AAAAAA ;
-    padding: 10px ;
-    text-align: left ;  }
+    border: solid 1px #AAAAAA;
+    padding: 10px;
+    text-align: left;
+    }
 
 tbody td {
-    border: solid 1px #AAAAAA ;
-    padding: 4px ;  }
+    border: solid 1px #AAAAAA;
+    padding: 4px;
+    }
 
 td {
- white-space: nowrap ;  }
+    white-space: nowrap;
+    }
 
-/*
-dl
-  {    
-  width: 100% ;  }
-dt  {
-  float: left ;
-  text-align: right ;
-  width: 25% ;
-  font-weight: bold ;  }
+.gmnoprint img {
+    max-width: none;
+    }
 
-dt::after
- {
-    content: ":" ;  }
+.date {
+    font-style: italic;
+    color: #555;
+    }
 
-dd  {
-  color: grey ;
-  margin-left: 30% ;  }
-*/
+::-moz-selection {
+    color: #080808;
+    background: #bbb;
+    }
 
-// Fix images Google Translate popup boxes
-.gmnoprint img  {
-  max-width: none ;  }
+::selection {
+    color: #080808;
+    background: #bbb;
+    }
 
-.date  {
-  font-style: italic ;
-  color: $darkGray ;  }
-
-// Specify the color of the selection
-::-moz-selection  {
-  color: $black ;
-  background: $lightGray ;  }
-::selection  {
-  color: $black ;
-  background: $lightGray ;  }
-
-// http://nicolasgallagher.com/micro-clearfix-hack/
 .clearfix:before,
-.clearfix:after  {
-  content: " " ;
-  display: table ;  }
+.clearfix:after {
+    content: " ";
+    display: table;
+    }
 
-.clearfix:after  {
-   clear: both ;  }
+.clearfix:after {
+    clear: both;
+    }
 
 /*********************/
 /* LAYOUT / SECTIONS */
 /*********************/
-
-
-.none  {
-    display: none ;
-ul li  {
-    list-style-type:none; 
-    margin-left: -30px ;  }  }
-
-.submenu  {
-  float: right ;
-  margin: 25px 10px 30px 40px ;
-  font-size:90% ;
-  li  {list-style-type: none;}
-  a {color: $blue2;}  }
-
-.arrow  {
-    padding-top: 20px ;
-     font-size: 3em ;
-     font-weight: 600 ;
-     text-decoration: none ;
-    text-align: center ;  }
-
-.arrowblog  {
-    padding-top: 20px ;
-    font-size: 1.1em ;
-    font-weight: 600 ;
-    text-decoration: none ;
-    text-align: center ;  }
-
-
-.posts > .post  {
-  padding-bottom: 2em ;
-  border-bottom: 1px solid $darkGray ;  }
-
-.posts > .post:last-child  {
-  padding-bottom: 1em ;
-  border-bottom: none ;  }
-
-.post  {
-  blockquote  {
-    margin: 1.8em .8em ;
-    border-left: 2px solid $gray ;
-    padding: 0.1em 1em ;
-    color: $gray ;
-    font-size: 22px ;
-    font-style: italic ;
+.none {
+    display: none; }
+    .none ul li {
+    list-style-type: none;
+    margin-left: -30px;
     }
 
-  .comments  {
-    margin-top: 10px ;
+.arrow {
+    padding-top: 20px;
+    font-size: 3em;
+    font-weight: 600;
+    text-decoration: none;
+    text-align: center;
     }
 
-  .read-more  {
-    text-transform: uppercase ;
-    font-size: 15px ;  }  }
-
-footer  {
-  text-align: center ;  }
-
-#title  {
-  margin: 0;
-  color: $lightGray ;
-  cursor: pointer ;
-  font-family: $helveticaNeue ;
-  font-weight: bold ;
-  font-size: 36px ; }
-
-#subtitle  {
-    display: none;
-    margin: 0 ;
-    color: $gray ;
-    font-weight: normal;
-    font-size: 18px ;
-    line-height: 20px ;
+.arrowblog {
+    padding-top: 20px;
+    font-size: 1.1em;
+    font-weight: 600;
+    text-decoration: none;
+    text-align: center;
     }
 
-h1#title:hover p  {
-   display: block;
-  }
+.posts > .post {
+    padding-bottom: 2em;
+    border-bottom: 1px solid #555;
+    }
 
-nav  {
-  padding: 10px;
-  font-family: $helveticaNeue ;
-  font-size: 18px; 
+.posts > .post:last-child {
+    padding-bottom: 1em;
+    border-bottom: none;
+    }
 
-  a  {
-    color: $blue ;
-    font-weight: 300 ;
-    letter-spacing: 1px ;
-    }  }
+.post blockquote {
+    margin: 1.8em 0.8em;
+    border-left: 2px solid #888;
+    padding: 0.1em 1em;
+    color: #888;
+    font-size: 22px;
+    font-style: italic; }
+.post .comments {
+    margin-top: 10px; }
+.post .read-more {
+    text-transform: uppercase;
+    font-size: 15px;
+    }
 
-.man  {
-    margin: 0 0 10px 0;
+
+footer {
+    text-align: center;
+    }
+
+
+////////////////////
+// HEADER //
+///////////////////
+
+.flex-container {
+    display: flex;
+    flex-wrap: nowrap;
+    }
+
+.flex-container > div {
+    }
+
+nav {
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-size: 18px;
+    position: relative;
+    }
+
+.man {
+    margin: 0;
+    padding:0;
+    }
+
+.man ul {
+    list-style: none;
+    position: relative;
+     margin: 0;
     padding: 0;
     }
-.man ul  {
-    list-style: none ;
-    position: relative ;
-    float: left ;
-    margin: 0 ;
-    padding: 0 ;  }
 
-.man ul a  {
-    display: block ;
-    text-decoration: none ;
-    font-weight: 700 ;
-  }
+.man ul li {
+	position:relative;
+    font-weight: 700;
+    font-size: 40px;
+    line-height: 44px;
+    padding: 0 20px 0 0;
+    }
 
-.man ul li  {
-    position: relative ;
-    float: left ;
-    font-weight: 700 ;
-    font-size: 30px ;
-    line-height: 35px ;
-    padding: 0;   }
+/* .man ul li.current-menu-item {
+    background: #555;
+    }
+*/
 
-.man ul li.current-menu-item  {
-    background: #555  }
+.man ul li:hover {
+    background: #333;
+    border-radius: 7px ;
+    }
 
-.man ul li:hover  {
-    background: #333  }
+.man ul ul {
+    display: none;
+    position: absolute;
+    top: 100%;
+    background-color: #222;
+    border-radius: 7px ;
+    padding: 0;
+    z-index:1;
+    }
 
-.man ul ul  {
-    display: none ;
-    position: absolute ;
-    top: 100% ;
-    left: 0 ;
-    background: #222 ;
-    padding: 0 ;  }
+.man ul ul a {
+    display:block;
+    font-weight: normal;
+    font-size: 20px;
+    line-height: 25px;
+    padding: 1px 5px;
+    text-align: left;
+    border-radius: 7px ;
+    }
 
-.man ul ul li  {
-    float: none ;
-    font-weight: normal ;
-    font-size: 20px ;
-    line-height: 25px ;
-    padding: 1px 10px ;
-    text-align: right ;  }
+.man ul ul li {
+    font-weight: normal;
+    font-size: 20px;
+    line-height: 25px;
+    padding: 1px 5px;
+    text-align: right;
+    border-radius: 7px ;
+    }
 
-.man ul ul a  {
-    font-weight: normal ;
-    font-size: 20px ;
-    line-height: 25px ;
-    padding: 1px 10px; 
-    text-align: left; }
 
-.man ul ul ul  {
-    top: 0 ;
-    left: 100% ;  }
+.man ul ul ul {
+    top: 0;
+    left: 100%;
+    width: 240px;
+    border-radius: 7px ;
+    }
 
-.man ul ul ul li  {
-    text-align: left ;
-    font-style: italic ;
-    padding: 1px 10px;  }
+.man ul ul ul li {
+    text-align: left;
+    font-style: italic;
+    padding: 1px 5px;
+    border-radius: 7px ;
+    }
 
-.man ul ul ul a  {
-    font-weight: normal ;
-    font-style: normal ;
-    font-size: 20px ;
-    line-height: 25px ;
-    width: 280px ;
-    padding: 1px 10px ;  }
+.man ul ul ul a {
+    font-weight: normal;
+    font-style: normal;
+    font-size: 20px;
+    line-height: 25px;
+    width: 240px;
+    padding: 1px 5px;
+    border-radius: 7px ;
+    }
 
-.man ul li:hover > ul  {
-    display: block ;  }
+.man ul li:hover > ul {
+    display: block;
+    border-radius: 7px;
+    }
+
+#title {
+    margin: 0;
+    color: #bbb;
+    cursor: pointer;
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-weight: bold;
+    font-size: 36px;
+    line-height: 44px;
+    }
+
+#subtitle {
+    display: none;
+    margin: 3px 0 0 10px;
+    padding: 5px 10px;
+    color: #888;
+    font-weight: normal;
+    font-size: 18px;
+    line-height: 22px;
+    position: absolute;
+    background-color: #222;
+    border-radius: 5px ;
+    z-index:1;
+    }
+
+h1#title:hover + p {
+    display: block;
+    }
+    
+#img  {
+    width:80px;
+    padding:0;
+    margin: 5px 0 0 25px;
+    filter:brightness(90%);
+    }
+
+#img2  {
+    display:none;
+    width:250px;
+    padding:0;
+    margin: 0;
+    }
+
+img#img:hover + img {
+    display: block;
+    }
 
 // @import "highlights" ;
 // @import "svg-icons" ;

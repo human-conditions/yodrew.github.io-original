@@ -12,7 +12,7 @@ In our way of life, we are:
 - exhausted. We need rest.
 - hurt and sick. We need recovery.
 
-How? By _hygienic darkroom retreating:_ profound rest in total darkness for the self-healing organism. It is a rational method of switching off the world, with its noise and demands. One takes refuge in one's essential self, supporting it in healing itself by itself, completely. This book is a complete manual for understanding and doing it. 
+How? By _hygienic darkroom retreating_. By resting profoundly in total darkness, the self-healing organism can succeed. It is a rational method of switching off the world, with its noise and demands. One takes refuge in the deep self, supporting it in healing itself by itself. This book is a complete manual for understanding and doing it. 
 
 #### basics
 

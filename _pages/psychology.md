@@ -10,24 +10,24 @@ navnext: format
 
 It's time to get down and dirty. Something's broken and we have to fix it.
 
-Hygiene's basic structure is sound. It is objective, deals in universal facts of biology, and constrains its analyses and recommendations to the abilities of a reasonable person living an ordinary life anywhere in the world. If hygiene has a problem, it is only due to not being hygienic enough, to a contradiction between its secondary ideas or practices and its fundamental principles. Once we discover problems, we can use hygiene's own principles and methods to correct them.
+Hygiene's basic structure is sound. It is objective. It deals in universal facts of biology. It constrains its analyses and recommendations to the abilities of a reasonable person living an ordinary life anywhere in the world. If hygiene has a problem, it is only due to not being hygienic enough. It is because its secondary ideas or practices contradict its fundamental principles. Once we discover a problem, we can use hygiene's own principles and methods to correct it.
 
-Darkness exposes flaws in hygiene's secondary structure. Hygiene must become more hygienic to fully accommodate darkness and its implications. In this chapter, we'll pop the hood of hygiene, analyse its flaws, and make necessary modifications. The result will be a philosophy that works better by orders of magnitude.
+Darkness exposes flaws in hygiene's secondary structure. Hygiene must become more hygienic to accommodate darkness and its implications. In this chapter, we'll pop the hood of hygiene. We'll analyse its flaws and make necessary modifications. The result will be a philosophy that works better by orders of magnitude.
 
 ~~
 
-Lacking a psychology, hygiene could not penetrate the depths of human experience. It could not deal with certain grave issues, namely trauma. Hygiene has focused on daily choices. Trauma doesn't happen every day. It lies beyond one's control. Changes of habit affect it little. Trauma just strikes, suddenly incapacitating whole systems. It distorts their character and behavior beyond recognition.
+Lacking a psychology, hygiene could not penetrate the depths of human experience. It could not deal with the grave issue of trauma. Hygiene has focused on daily choices. Trauma doesn't happen every day. It lies beyond one's control. Changes of habit affect it little. Trauma strikes, incapacitating whole systems. It distorts their character and behavior beyond recognition.
 
-Besides repose, trauma is the most influential force in our lives. Lacking the means of sufficiently profound rest, hygiene was helpless. It passed the buck to doctors and priests. This has subordinated hygiene to medicine and religion for nearly two centuries.
+Besides rest, trauma is the most influential force in our lives. Lacking the greatest means of profound rest, hygiene was helpless. It passed the buck to doctors and priests. This subordinated hygiene to medicine and religion for nearly two centuries.
 
 Hygiene's helplessness disappears with four changes: 
 
-- structuring and completion of laws
+- organization and completion of its laws
 - locating trauma at the root of illness 
-- accepting darkness as the essential means nature provides us to heal from trauma
+- recognizing darkness as the essential means nature provides us to heal from trauma
 - including a psychology based on these facts
 
-Hygienism becomes a complete system of health capable of addressing every illness people face, physical and psychic. No one need bear any longer the absurd costs and failures of medicine and other quasi-scientific systems, rooted as they are in the mystical doctrine of original sin and practice of exorcism. 
+With these, hygienism becomes a complete system of health. It is capable of addressing every illness people face, physical and psychic. No one need suffer further the absurdities of medicine and other quasi-scientific systems. , rooted as they are in the mystical doctrine of original sin and practice of exorcism. 
 
 The acid test of any science is its ability to predict events and thus cause or prevent them if desired. By healing from trauma, we not only end dysfunction and suffering. We prevent unconscious repetition of trauma through common disasters like car crashes, familial breakdown, and psychosomatic illness.
 
@@ -210,11 +210,11 @@ However, some of us find this common state to be, well, sheer insanity, if you d
 
 I could go on. No doubt, you could extend the list yourself. Perhaps you have wept over the world's desperate madness. Perhaps you have wept over your own.
 
-I told you this chapter was heavy and dirty. But there is light at the end of this tunnel.
+I said this chapter would get down and dirty. But light shines at the end of the tunnel.
 
-Normally, calling something crazy halts further consideration and conversation. After all, "you can't fix crazy." So what use is it to think or talk about it? Is it even craziness? Or is it just human nature, as we have long assumed? That is what religion and most philosophy says. Nothing overcomes nature. So they are rendered helpless by their own pronouncements. 
+Calling something crazy usually halts further consideration and conversation. After all, "you can't fix crazy." So what good does it do to think about it? Is it even craziness? Or is it human nature, as we have long assumed? That is what most religion and philosophy say. Since nothing overcomes nature. So they render themselves helpless by their own pronouncements. Also, they excuse themselves.
 
-Conventional psychology has failed to fix our craziness. One by one, psychological reformers have proved marginally effective. They either consign their tough cases to psychiatry or outright join its worship of drugs. It's the further medical application of our culture's mythos of original sin. In other words, debilitation, incompetence, failure, and suffering "are just human nature". We refuse further examination of symptoms and causes. Mass psychosis is the biggest elephant in our room. 
+Conventional psychology has failed to fix our craziness. And psychological reformers have proven ineffective. They consign their tough cases to psychiatry or surrender to its worship of drugs. It is the further medical application of our culture's mythos of original sin. In other words, debilitation, incompetence, failure, and suffering are human nature. We refuse further examination of symptoms and causes. Mass psychosis is the biggest elephant in our room. 
 
 I submit, we are actually crazy. But we weren't always. Something went terribly wrong and here we are. Happily, we are alive. Therefore we are self-healing. So somehow we can recover.
 
@@ -289,7 +289,7 @@ Hygiene upholds basic findings of psychology from several traditions. Hygiene me
 
 ##### fasting
 
-Focusing on deep psychic rest in absolute darkness is new in hygiene. Until now, it has focused on the profound physiological rest of fasting due to its naive pathology. Fasting has been hygiene's ultimate means of dealing with serious illness. At most, hygiene recommends keeping curtains and eyes closed during fasts because it reduces the significant work of sensory processing of vision[^8]. A darkroom retreat embodies this principle fully while providing the energy and, frankly, the psychic security of food until the underlying psychic system necessary for fasting comfortably has repaired itself.
+Focusing on profound psychic rest in absolute darkness is new in hygiene. Due to its naive pathology, it has focused on the profound physiological rest of fasting. Fasting has been hygiene's ultimate means of dealing with serious illness. At most, hygiene recommends keeping curtains and eyes closed during fasts. This reduces the significant work of sensory processing of vision[^8]. A darkroom retreat embodies this principle fully. It provides the energy and, frankly, the psychic security of food.  until the underlying psychic system necessary for comfortable fasting has repaired itself.
 
 In other words, the psychic system is more fundamental than the digestive and eliminative systems. Darkroom retreating is thus more urgently needed than fasting in most cases.
 
@@ -321,4 +321,5 @@ I am only saying enough here to give you a solid basis for beginning to do hygie
 [^6]: See my longer essay about cataclysm, [catastrophe](/darkness-conjecture/catastrophe)
 [^7]: Psychologists Michael Meade and James Hillman say it all with the title of their 1993 book, _We’ve Had a Hundred Years of Psychotherapy—And the World’s Getting Worse_.
 [^8]: Hygienist, [Bernarr Zovluck](http://www.towardsfreedom.com/wdh/towardsfreedom/RTAlternativeHeal.html)
+
 
