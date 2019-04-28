@@ -19,24 +19,30 @@ Welcome. This website contains my book, <em>hygienic darkroom retreat</em>, rela
 
 #### bio
 
-{% include bio-contact-raw.md %}
+{% include bio.md %}
 
 #### site changelog
 
 2019
 
+April
+
+- hygiene: improved Law of Force with idea of structure.
+- psychology: started simplifying the style with hemingway app
+
 March
 
 Radical goings on, pushing the theory of hygiene fully over the hump to v3.0
 
-- hygiene: organized hygiene's Laws of Life, adding _Law of Coordination_  
+- hygiene
+    - organized hygiene's Laws of Life, adding _Law of Coordination_ and dividing _Great Law_ into laws _Force_ and _Proportion_.
+    - reinstated the old law list as an appendix
 - psychology
     - completed the revision of the hygienic pathology
     - reordered the pathology section, demoting the traditional pathology as well as allopathy
-- reinstated the old law list as an appendix
-- helix vent reverted to old version with slight improvements to make it smaller and more durable. New 4-channel design was too hard to make. It could work with machines.
+- air: helix vent reverted to old version with slight improvements to make it smaller and more durable. New 4-channel design was too hard to make. It could work with machines.
 
-It just needs new drawings now.
+The book just needs new drawings now.
 
 2018
 

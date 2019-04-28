@@ -17,8 +17,8 @@
 |                                                                     _____                |
 |                             H Y G I E N I C                 |        |               |
 |               D A R K R O O M   R E T R E A T   |        |               |
-|               \ /       intro                                                |_____|               |
-|               / \    chapters                                                                  |
+|               \ /       intro                                   |_____|               |
+|               / \    chapters                                                         |
                                                                                                                        
                                                                                                                        
                                                                                                                        

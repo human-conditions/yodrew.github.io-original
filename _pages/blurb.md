@@ -4,4 +4,4 @@ permalink: "/blurb/"
 layout: page
 ---
 
-{% include blurb-raw.md %}
+

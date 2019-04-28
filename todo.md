@@ -53,7 +53,7 @@ Countless people have dedicated their lives to solving our problem for thousands
 
 I'm a psychologist who disbelieves in civilization. But I'm not a scholar. So I have not read Freud's _Civilization and Its Discontents_. I just heard a couple things about it and it's all I want to know: 
 
-- Our suffering comes from trauma, which comes from civilization.
+- Our suffering comes from trauma, which comes from civilization, which comes from cataclysm
 
 
 --------------------------
