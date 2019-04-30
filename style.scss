@@ -295,9 +295,10 @@ nav {
 .man ul li {
 	position:relative;
     font-weight: 700;
-    font-size: 40px;
-    line-height: 44px;
+    font-size: 38px;
+    line-height: 38px;
     padding: 0 20px 0 0;
+    margin:0;
     }
 
 /* .man ul li.current-menu-item {
@@ -395,8 +396,8 @@ nav {
 
 #sub {
     display: block;
-    margin: 3px 0 0 5px;
-    padding: 5px 10px;
+    margin: 0 0 0 60px;
+    padding: 3px 10px;
     color: #888;
     font-weight: normal;
     font-size: 18px;
@@ -413,7 +414,7 @@ h1#title:hover + p {
 #img  {
     width:80px;
     padding:0;
-    margin: 5px 0 0 25px;
+    margin: 8px 0 0 25px;
     filter:brightness(90%);
     }
 
@@ -433,8 +434,8 @@ img#img:hover + img {
 .man ul li {
 	position:relative;
     font-weight: 700;
-    font-size: 40px;
-    line-height: 44px;
+    font-size: 32px;
+    line-height: 32px;
     padding: 0 10px 0 0;
     }
 
