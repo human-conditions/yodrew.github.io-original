@@ -6,13 +6,13 @@ navprev: preface
 navnext: hygiene
 ---
 
-In our way of life, we are:
+In civilization, we are:
 
 - over-stimulated and distressed. We need relief.
 - exhausted. We need rest.
 - hurt and sick. We need recovery.
 
-How? By _hygienic darkroom retreating_. By resting profoundly in total darkness, the self-healing organism can succeed. It is a rational method of switching off the world, with its noise and demands. One takes refuge in the deep self, supporting it in healing itself by itself. This book is a complete manual for understanding and doing it. 
+How? By _hygienic darkroom retreating_: profound rest in total darkness for the self-healing organism. It is a rational method of switching off the world, with its noise and demands. One takes refuge in the deep self, supporting it in healing itself by itself. This book is a complete manual for understanding and doing it. 
 
 #### basics
 
@@ -132,23 +132,23 @@ The fundamentals of hygiene help us reconnect with our own common sense about he
 
 My parents had taught me the importance of eating well through their interest in natural diet. When I was 9 years old, I got sick and realized it was from the junk food I had eaten the day before. Diet became my religion for 30 years.
 
-Natural Hygiene came knocking three times. Once in 1989 through my dad's second wife, a truthseeker among whose fascinating books I found the ecstatic _Fit for Life_ by Harvey and Marilyn Diamond. Again in 1992 through a great friend, Sterling Voss. He told me, in the greatest letter anyone ever wrote me, about _Fasting Can Save Your Life_ by Herbert Shelton, hygiene's systematizer. Finally, in 2001, through friend and colleague, Frederic Patenaude, editor of _Just Eat An Apple_ magazine and author of _The Raw Secrets_. These were about the raw vegan diet.
+Natural Hygiene came knocking three times. The first time was in 1989 through my dad's second wife, Jennifer Justice, also a truthseeker. Among her fascinating books I found the ecstatic _Fit for Life_ by Harvey and Marilyn Diamond. Again in 1992 through a great friend, Sterling Voss. In the greatest letter anyone ever wrote me, he told me about _Fasting Can Save Your Life_ by Herbert Shelton, hygiene's systematizer. Finally, in 2001, through friend and colleague, Frederic Patenaude. He was the editor of _Just Eat An Apple_ magazine and author of _The Raw Secrets_. These publications were about the raw vegan diet.
 
 ###### frederic
 
-I worked and was housemates with [Frederic Patenaude](http://fredericpatenaude.com) a total of three years off and on from 1998 till 2003. First at Nature's First Law in California; then Tree of Life in Arizona; then at his new office in Quebec. Frederic had started in hygiene not with Herbert Shelton, but by studying all the works of French hygienic master, Albert Mosseri, with whom he was in contact for many years. Slowly, I absorbed the essence of Natural Hygiene's radical perspective through Frederic. 
+I worked and was housemates with [Frederic Patenaude](http://fredericpatenaude.com) a total of three years off and on from 1998 till 2003. We worked  at Nature's First Law in California; then Tree of Life in Arizona; then at his new office in Quebec. Frederic had started in hygiene not with the works of Herbert Shelton, but the old French hygienic master, Albert Mosseri. Frederic read all his 20+ books and was in contact with him till his death in 2012.
 
-By this, I mean he got it through my thick skull with his calm, relentless, crystalline arguments. I was challenging but sympathetic, so I kept asking and he kept answering. It took time because I started out quite lost in the mess of alternative dietary ideas floating around my head since childhood. Something finally clicked and I started studying hygiene on my own.
+Slowly, I absorbed the essence of Natural Hygiene's radical perspective through Frederic. By this, I mean he got it through my thick skull with his calm, relentless, crystalline arguments. I was challenging but sympathetic, so I kept asking and he kept answering. It took time because I started out quite lost. A mess of alternative dietary ideas floated around my head since childhood. Something finally clicked and I started studying hygiene on my own.
 
-In our many conversations, Frederic mentioned Los Angeles hygienist, Bernarr Zovluck, who advised people to fast with their eyes closed in a curtained room. Later, this comment would help me connect darkness with hygiene.
+In our many conversations, Frederic mentioned Los Angeles hygienist, Bernarr Zovluck, whom he had met. Zovluck advised people to fast with their eyes closed in a curtained room. Later, this comment would help me connect darkness with hygiene.
 
 Frederic's dedication and great knowledge made him immovable where I was merely stubborn. I can only hope to return the favor with the current work. It illuminates certain mysteries of diet that frustrated us. Like why some people can stick with eating healthy food and others can't (see [*hygiene > capacity*](/hygiene#capacity)). And the greater mystery of metaphysical suffering that we, like so many others, failed to solve with diet.
 
 ###### finn
 
-I first heard about darkroom retreating in 2004 from my former guru, Purna Steinitz. An American Hindu, he had heard about its use in Ayurveda. "Apparently, after a few weeks of it, one comes out completely renewed," he said. I found the idea very strange. A budding hygienist and attracted to spirituality's Apollonian upper world, I thought we needed _light_. But like a lot of earthy things Purna said, the idea of renewal in darkness stayed with me.
+I first heard about darkroom retreating in 2004 from my former guru, Purna Steinitz. An American Hindu, he had heard about its use in Ayurveda. He told me, "Apparently, after a few weeks of it, one comes out completely renewed." I found the idea very strange. A budding hygienist and attracted to spirituality's Apollonian upper world, I thought we needed light. But like a lot of earthy things Purna said, the idea of renewal in darkness stayed with me.
 
-A year later, I moved to an ecovillage in Oregon. I hit it off with the old village maintenance man, a hippy-from-birth (since his dad was a beatnik). Name of [Finn Po](http://www.efn.org/~finnpo/info.html). Scrawny guy. Lots of energy. Wizard-level resourcefulness. Full of wry optimistic sayings as well as good-natured quips about people's hang-ups. Drinks his own pee and lives in a tiny geodesic dome he built out of garbage 20 years ago.
+A year later, I moved to an ecovillage in Oregon. I hit it off with the old village maintenance man. Name of [Finn Po](http://www.efn.org/~finnpo/info.html). Scrawny guy. Lots of energy. A hippy from birth since his dad was a beatnik. Wizard-level resourcefulness. Full of wry optimistic sayings as well as good-natured quips about people's hang-ups. Drinks his own pee and lives in a tiny geodesic dome he built out of garbage 20 years ago.
 
 Naturally, Finn also had a darkroom.
 
@@ -170,23 +170,23 @@ A benevolent Pied Piper and the coolest 60 year-old around, he had inspired all 
 
 [Wow](/reports/four-darkness-experiences).
 
-But as Finn says, I was just getting started. It would take two more years, the massive shock of leaving my guru, and another successful retreat for me to grasp the significance of retreating in darkness.
+But as Finn says, I was just getting started. It would take two more years, the shock of leaving my guru, and another successful retreat for me to grasp the significance of retreating in darkness.
 
 ###### andrew
 
 How did all this begin?
 
-My parents are far out. They taught me a lot of what they knew: mainly philosophy (including a big dose of politics), health, and design. I worshiped them and took all of it seriously. My intense older brother did, too, and he was as big a force in my life as they. Like a lot of families, we had our problems. Other [*influences*](/about/bibliography-influences/) and [*people*](/about/acknowledgments/) smoothed some of it out.
+My parents were far out. They taught me what they knew of philosophy, health, and design. I worshiped them, taking it all more seriously than they intended. My intense older brother was as big a force in my life as they. We had some problems. Other [*influences*](/about/bibliography-influences/) and [*people*](/about/acknowledgments/) smoothed things out a little.
 
-By age 15, I felt morose and alienated. But something from childhood was stirring in me. Slumped in front of the TV one day, one of the tiny people living inside it mentioned the importance of loving oneself and being happy. It was perfect timing. If my mood was like the Death Star, this advice was like Luke Skywalker's photon torpedo.
+By age 15, I felt morose and alienated. But something from childhood stirred in me. Slumped in front of the TV one day, one of the tiny people living inside it mentioned the importance of loving oneself and being happy. It was perfect timing. If my mood was the Death Star, this advice was Luke Skywalker's photon torpedo.
 
-In a moment, I was spontaneously overcome by [rapture](/darkness-conjecture/rapture): sublime joy in apprehending the perfect, beautiful universe I was a part of. It was even greater than when I was 3 and 4 years old. This feeling and perspective lasted three months solid. When they faded, so did my previous interests. More than anything, I wanted to understand the cause of joy. I wanted it back. [Living out](http://warmlite.com) of a [backpack](http://mchalepacks.com), I independently investigated this mystery for 21 years, experimenting with philosophy, health, and design. Toward the end of this period, I did my first darkroom retreats. Soon after, in late 2008, the answer came:
+In a moment, I was overcome by [rapture](/darkness-conjecture/rapture): sublime joy in apprehending our perfect, beautiful universe. I had felt it at 3 and 4 years old. Now it was bigger. This perspective and feeling lasted three months solid. When they faded, so did my previous interests. More than anything, I wanted to understand the cause of joy. I wanted it back. [Living out](http://warmlite.com) of a [backpack](http://mchalepacks.com), I independently investigated this mystery for 21 years, experimenting with the elements of my legacy: philosophy, health, and design. Toward the end of this period, I did my first darkroom retreats. Soon after, in late 2008, the answer came:
 
 >_A slight increase of vital energy from adolescence had caused a temporary, partial restoration of my damaged psychic integrity, revealing an enrapturing universe. So a massive increase from profound rest in darkness would cause permanent and complete restoration._
 
-With this breakthrough, my search ended and application began. I and 25 clients have tried it. Their results echoed my early ones. Over the course of my 20 retreats of 2--7 days, noticeable restoration of my psychic integrity and function has occurred. My body's scent has improved. I regained some access to my long-buried sexuality. From one retreat, I woke up feeling like an adult for the first time in 41 years; this feeling has not changed. In retreat, symptoms of fibro-myalgia dissipate. Flexibility returns. I wake up _just knowing_ things that have always mystified me and feeling resolved about issues that have frustrated me for decades. Insomnia, exhaustion, and suicidal thoughts and feelings evaporate. Clarity, energy, relaxedness, even joy return for weeks at a time. Basic functioning lasts two months. All these came to me after going years at a time without them.
+With this breakthrough, my search ended. Application of my discovery began. I and 25 clients have tried it. Their results echoed my early ones. Over the course of my 25 retreats of 2--7 days, noticeable restoration of my psychic integrity and function has occurred. My body's scent has improved. I regained some access to my long-buried sexuality. From one retreat, I woke up feeling like an adult for the first time in 41 years; this feeling has not changed. Alongside my childish panic in the face of challenges, an adult now thinks through them. In retreat, symptoms of fibro-myalgia dissipate. Flexibility returns. I wake up _just knowing_ things that have always mystified me and feeling resolved about issues that have frustrated me for decades. Insomnia, exhaustion, and suicidal thoughts and feelings evaporate. Clarity, energy, relaxedness, even joy return for weeks at a time. Basic functioning lasts two months. All these came to me after going years at a time without them.
 
-Besides this supporting evidence, no data contradicting the basic idea has yet emerged. Interest in darkness is growing worldwide. An internationally recognized psychology professor with decades of experience as a flotation researcher unqualifiedly agrees with my theory and wants to do research with my exact method. Wherever I go, people are as struck as I am by the simple logic of this idea and want to try a retreat.
+Besides this supporting evidence, no data contradicting the basic idea has yet emerged. Interest in darkness is growing worldwide. I met an internationally recognized psychology professor with decades of experience as a flotation researcher. She unqualifiedly agrees with my theory and wants to do research with my exact method. Wherever I go, people are as struck as I am by the simple logic of this idea and want to try a retreat.
 
 As Finn says, what else can go right?
 
@@ -198,17 +198,17 @@ This book is for:
 
 - those who appreciate good arguments and reasonable tests thereof
 - those who suffer in any way---spiritually, mentally, emotionally, physically, socially, ecologically---and who need hope that their suffering is impermanent
-- hygienists who sense much more is possible in hygiene 
-- self-experimenters and self-explorers, not necessarily with terrible problems, perhaps just yearning, curiosity, wonder, or a wish to find their next steps.
+- hygienists who sense hygiene's greater potential 
+- self-experimenters and self-explorers. Those who don't necessarily have terrible problems, just yearning, curiosity, wonder, or a wish to find their next steps.
 - those who wish to understand why humanity is in such rough shape and what to do about it
 
-Darkroom retreating is for anyone to whom it makes sense and who feels moved to do it, whether to heal from acute illness or to simply see what it's like. Besides psychic illness, much physical illness is psychosomatic and therefore amenable to self-healing in darkness.
+Darkroom retreating is for anyone to whom it makes sense and who feels moved to do it, whether to heal from acute illness or just see what it's like. Much physical illness is psychosomatic and therefore amenable to self-healing in darkness. 
 
 However, darkness is no escape. Sometimes illness needs to be addressed in other obvious ways first. But just knowing about darkroom retreating can be greatly encouraging in doing so. It helps puts things in perspective. And acquaintance with hygienic principles is invaluable in healing from any illness. 
 
 ##### how to use this book
 
-Above all, this book presents an idea for consideration. For now, doing a retreat is not at issue. To do something like this, you must want to. To want to, you must believe in it. To believe, you must know enough about it. So first absorb the idea. Natural motivation comes from rational belief. Invest your time in knowledge by reading every word, cover to cover. As Finn says, "Nothing costs more than what you don't pay for."
+Above all, this book presents an idea for consideration. For now, doing a retreat is not at issue. To do something like this, you must know how and you must want to. To want to, you must believe in it. To believe, you must know enough about it to find it true. So first, learn the idea. Natural motivation comes from rational belief. Invest your time in knowledge by reading every word of this book, cover to cover. As Finn says, "Nothing costs more than what you don't pay for."
 
 Once you are motivated, use the book as a manual for making basic darkness for yourself at your own place. Download the companion darkroom retreat [zip file](/darkroom-retreat.zip) to get all the plans for components<!-- as well as some reference reading -->. Or find a retreat center. See [*prepare*](/prepare) for resources.
 
@@ -242,10 +242,10 @@ Then:
 Note: underlined words in paper book are clickable links in the [e-book](/ebook) and online. When *italicized*, they are crosslinks to other chapters and sections of the book. Usually, the *link text* indicates the link target, like this:  
 *chapter > section > sub-section*.
 
-Book is online at [leanpub.com/darkroomretreat/read](http://leanpub.com/darkroomretreat/read) and my website, [darkroomretreat.com](/). There, you can also read: 
+This book is online at [leanpub.com/darkroomretreat/read](http://leanpub.com/darkroomretreat/read) and my website, [darkroomretreat.com](/). There, you can also read: 
 
 - a series of my retreat [reports](/reports)
-- [theoretical essays](/darkness-conjecture) linked to in this booklet
+- [theoretical essays](/darkness-conjecture) linked to in this book
 - elaborative [blog](/blog) posts
 - related [myths](/other-writings/myths) and
 - essays, designs, prose, poetry, and lyrics from the [past 25 years](/other-writings).
@@ -254,43 +254,12 @@ Book is online at [leanpub.com/darkroomretreat/read](http://leanpub.com/darkroom
 
 Thanks for reading. Please copy and give out this free book as much as you please. See [*license*](/about/license) for more options.
 
-If you have comments or corrections, email me or [open an issue](https://github.com/yodrew/yodrew.github.io) at github. This is free content and an open source project contained in a public code repository. Fork the project, submit a pull request, etc. [Learn](http://rogerdudler.github.io/git-guide) distributed version control.
-
-If you find a theoretical or practical error in the approach or a way to improve it, please let me know. I am happy to alter the book if your proposal:
-
-- presents a rational argument
-- remains consonant with hygienic principles
-- includes clear reports of your own reproducible experiments with the current method
-
-Likewise, I am open to working with you in any way to develop hygienic darkroom retreating and advance its cause as long as you:
-
-- have read my book 
-- demonstrate understanding of its basic ideas
-- have done a retreat according to my protocol and are convinced of the value of my approach
-- aren't abusive
-
-I continually update this book. Especially before building, download the latest version of the book and review relevant sections for new plans.
-
-##### help
-
-Join the dolphin economy: I help you help me help you help me help you...
+If you have comments or corrections, email me or [open an issue](https://github.com/yodrew/yodrew.github.io) at github. This is free content and an open source project contained in a public code repository. If you know [distributed version control](http://rogerdudler.github.io/git-guide), fork the project, and submit a pull request.
 
 In addition to this book, I can assist you by email, skype, and in person. See [*services*](/about/services) for details.
+ 
+I continually update this book. Especially before building, download the latest version of the book and review relevant sections for new plans. 
 
-You can contribute by: 
+~~
 
-- writing me with a friendly question or comment
-- darkening your room and retreating according to this method
-- reporting your experience online with photos and sending me the link
-- improving the method and designs
-- improving the website
-- donating money to me on my [homepage](/); I live extremely simply, so even small amounts help
-- lending or helping me rent or build a [*suitable*](/design) retreat location for a month so I can heal from my own psychosis, characterized by exhaustion-depression and various physical ailments
-- doing something not listed above, perhaps something only you know about or that we can develop together
-
-Thanks for reading and best wishes. 
-
-Now on to the life-restoring perspective of hygiene and how darkness completes it.
-
-
-
+Now on to how darkness completes the life-restoring perspective of hygiene.

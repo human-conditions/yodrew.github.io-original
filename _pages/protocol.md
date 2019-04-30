@@ -350,7 +350,7 @@ In ordinary life, you must arrange certain conditions to live. You must keep you
 
 Your non-expert, non-mind-reading, non-therapist supporter (if you have one) will be on the outside helping you do that. She will be maintaining the darkroom, bringing food, perhaps finding your lost shoes. Like any decent person would, she will talk to you for a few minutes if you need. It's your retreat. If something is not working, say so.
 
-On your last transition day, write a description of what happened while it is fresh in your memory. Finalize it with insights from your aftermath. Share it online if you like and please send me a link. I have found these reports very useful in improving the darkroom, understanding the process, and learning to explain it to people. More writers and readers of reports will help spread hygienic darkroom retreating and advance its theory and practice.
+On your last transition day, write a description of what happened while it is fresh in your memory. Finalize it later with insights from your aftermath. Share it online if you like and please send me a link. I have found these reports very useful in improving the darkroom, understanding the process, and learning to explain it to people. More writers and readers of reports will help spread hygienic darkroom retreating and advance its theory and practice.
 
 
 

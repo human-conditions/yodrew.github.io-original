@@ -2,7 +2,7 @@
 title: faq
 permalink: "/faq/"
 layout: page
-navprev: water
+navprev: participate
 navnext: about/bibliography-influences
 ---
 

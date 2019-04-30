@@ -19,7 +19,7 @@ A darkroom is a real thing you see and touch, make, use, and offer others. It is
 
 These are normal human activities everyone can do to some degree and get help with the rest. If you can walk down stairs without falling, hit a plate when you aim food at it, hold a pencil, cognize sentences, tell light from dark, and feel a breeze, you are mechanically sufficient to begin. As Jack Nuckols, an engineer and my grand-elder, once told me when my time came, "Become a craftsman." Perhaps your time has come.
 
-I suggest that, your first time through these chapters, you read everything in this one but just the prose parts of the last three. Save the lists of instructions for when it comes time to build. They make dense reading. Eventually, they'll be replaced with graphical assembly instructions like IKEA's. For now, slog through with me.
+I suggest that, your first time through these chapters, you read everything in this one. But just read the prose parts of the next three. Save the lists of instructions for the next time and again when it comes time to build. They make dense reading. Eventually, they'll be replaced with graphical assembly instructions like IKEA's. For now, slog through with me. 
 
 All components rely on the basic instructions in the following sections: **metric**, **tools**, **plans**, and **fabrication**. Each component has special instructions and design constraints in its own section in later chapters:
 

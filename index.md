@@ -20,7 +20,7 @@ _continue reading online_{: style="font-size: .5em;padding-top:-10px 0;"} [&gt;]
 
 #### help out
 
-See [introduction > help](/introduction#help) for many ways to participate in and support hygienic darkroom retreating.
+See [participate](/participate) for many ways to support hygienic darkroom retreating.
 
 I wish to make another attempt at a 20-day retreat in order to heal from my psychosis and accompanying exhaustion-depression. I have difficulty organizing this. If you would like to help me please [write me](/about).
 

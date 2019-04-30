@@ -20,23 +20,21 @@ In general, the longer a retreat, the better its conditions must be. This means 
 
 ##### tonight
 
-Start like this: 
-
-Put dark, dense sheet material over your bedroom windows and doors to get relief _tonight_ from most outdoor ambient light. 
+Get relief _tonight_ from most outdoor ambient light. Put dark, dense sheet material over your bedroom windows and doors. In 5-10 minutes:
 
 - tack or tape up 
     - blankets, sleeping bags, dark bedsheets or extra curtains
     - black plastic, carpet, or cardboard
     - or prop up plywood, old doors, or big table tops
-    - use whatever you have
+    - use whatever you have to cover the windows
 - extend corners of flexible materials as far past door on either side as possible
 - turn off or cover any devices in your room that produce light
 - make sure you have plenty of fresh air, even if it lets in a little light
-- block some of it with a sleeping mask from an airline or travel store; a loose winter hat pulled down, or a dark t-shirt draped over your eyes
+- block some of the remaining light with a sleeping mask from an airline or travel store; a tall winter hat pulled down, or a dark t-shirt draped over your eyes. Every bit helps.
 
 We all know how it feels to sleep a lot after too many short nights: we feel sluggish afterward. Some people call this getting too much sleep, a physiological impossibility. They just do not know how tired people can get and still not get fired from their jobs. In fact, we are tapping into the first layer of a backlog of lost sleep. Feeling groggy is the first phase of catching up. This can take days. Reversing sleep deprivation is like withdrawing from strong drug. Like me, you may need a retreat to get to the other side of it without backsliding.
 
-In the meantime, this format helps us remember just how important darkness is. When you decide you want perfect darkness for sleeping nightly, make [*blackout blinds*](/darkness#blinds), a [*silencer*](/air#silencer) and [*lightproof vents*](/darkness#lightproof) so your room is dark, quiet, airy, _and_ easily reopened to light during the day.
+In the meantime, this format helps us remember how important darkness is. Next step is to make an [instant sleeping mask](/darkness#instant). When ready for perfect darkness for nightly sleep, make [*blackout blinds*](/darkness#blinds), a [*silencer*](/air#silencer) and [*lightproof vents*](/darkness#lightproof) so your room is dark, quiet, airy, _and_ easily reopened to light during the day.
 
 ##### nightly
 

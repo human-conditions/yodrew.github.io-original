@@ -52,7 +52,7 @@ Hygiene's generic pathology could not be simpler. We become unwell because we've
     2. **elimination**: removal of endogenous waste and exogenous toxins from cells through the lymph and organs of elimination
     3. **re-energization**: recharging of nerves and refueling of cells
 
-This pathology is much simplified and radicalized compared to hygiene's traditional pathology. This we will now review and critique to justify the above revision.
+This pathology is much simplified and radicalized compared to hygiene's traditional pathology. Which we will review and critique now in support of the above revision.
 
 ##### seven stages of disease
 
@@ -190,7 +190,7 @@ Sages throughout history have observed in us civilized people a pattern of _mass
 
 Broadly, psychosis means psychic illness. This mostly results from trauma. This leads to exhaustion and toxification: the abject absorption of poisonous ideas, attitudes, emotions, and behavior. These compound in further dysfunctions in thinking, feeling, and moving intelligences. Dysfunction leads to failure and pain, both physically, emotionally, and intellectually. Sure enough, sickness, unhappiness, and confusion (or dogmatism) characterize civilized people. Such comprehensive chronic dysfunction is the principal sign of our psychosis.
 
-Narrowly, psychosis means the inability to distinguish reality from fantasy. Our particular fantasy is that the sliver of reality we are aware of makes up the whole of reality. Which we are unaware of due to constricted psychic function. Any idea that doesn't fit into our postage stamp-worldview gets ignored or crushed. We can't help it. It's the inevitable pathology of mass major psychic trauma.
+Narrowly, psychosis means the inability to distinguish reality from fantasy. Our particular fantasy is that the sliver of reality we are aware of makes up the whole of reality. Which we are unaware of due to constricted psychic function. Any idea that doesn't fit into our postage stamp-worldview gets unnoticed, ignored, or crushed. We can't help it. It is the inevitable pathology of mass major psychic trauma.
 
 The sliver consists of the grossest part of reality. Scientists call it spacetime: three maneuverable dimensions of space, with one dimension of time, the present, locked in forward motion. Being grossly sensible, spacetime is especially amenable to intellection and mechanical manipulation. Thus our hypermental, industrial lifeway. We emphasize thinking at the expense of feeling and, to a lesser extent, action. We exalt the useless activity of athletics and prefer to make machines do the rest for us. Obsessive control of this sliver enables enough of us to survive each generation to imagine we are doing as well as possible.
 
@@ -305,9 +305,9 @@ But one always knows the result: restoration of function---recovery of the lost 
 
 And then? Healed from trauma, one will no longer be compelled to repeat it. One will absorb and redeem its history and consequences. As with the rest of hygiene, hygienic psychology's bad news is much worse, and its good news is far better than anyone dreamed. 
 
-#### conclusion
+~~
 
-The emergence of a hygienic psychology; the identification of trauma at the root of all illness; and the greater importance of darkness than fasting for resting and healing have massive implications for hygiene's pathology and destiny, and humanity's as well. Hygiene has said illness originates with enervation (low energy) and toxemia. Trauma explains how these conditions themselves originate. And in coming to terms with trauma, hygiene can finally meet and obsolete allopathy (Western medicine) in its stronghold. I discuss these implications further in [*hygiene notes*](/darkness-conjecture/hygiene-notes).
+The maturation of hygiene's laws; the emergence of a hygienic psychology; the identification of trauma at the root of all illness; and the greater importance of darkness than fasting for resting and healing have massive implications for hygiene's pathology and destiny, and humanity's as well. Hygiene has said illness originates with enervation (low energy) and toxemia. Trauma explains how these conditions themselves originate. And in coming to terms with trauma, hygiene can finally meet and obsolete allopathy (Western medicine) in its stronghold. I discuss these implications further in [*hygiene notes*](/darkness-conjecture/hygiene-notes).
 
 I am only saying enough here to give you a solid basis for beginning to do hygienic darkroom retreats. If you like what happens, further study is natural. For a thorough introduction to hygiene's principles, practices, and intriguing history, read Shelton's [*The Science and Fine Art of Natural Hygiene*](/nhs.pdf).
 

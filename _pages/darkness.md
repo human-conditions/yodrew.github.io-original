@@ -58,15 +58,27 @@ Some measurements in the drawing are marked with a tilde (~). This means they ar
 
 &nbsp;
 
-Put this one together in a few minutes. It's the mask below with no seals. Combined with a mostly darkened room, it blocks 95% of light and lets me sleep in and nap.
+Put this one together in a few minutes. It's like the mask below but without seals. Combined with a mostly darkened room, it blocks 95% of light and lets me sleep in and nap. Later, I succeeded in stapling seals to it.
 
-The black fabric is 100% cotton jersey from a T-shirt, 250mm x 440. Fold it in 4 layers. Staple it along its length. The 4 strap anchors are either 3mm holes poked through with a ballpoint pen tip, elastic going through them then knotted, or 2 staples each. Knot where comfortable, endknots (overhand or figure-8) on one end, two half-hitches or slip knots on the other. A slipknot in each end of the vertical elastic piece that tightens around the horizontal straps.
+- cut a piece from a black 100% cotton 
+    - T-shirt, 250mm x 440, folded the short way in 4 layers
+    - or sweatshirt, 250mm x 330, folded in 3
+- staple along its long edges
+- 4 strap anchors
+        - 3mm holes poked through with a ballpoint pen tip, elastic going through them then knotted
+        - or 2 staples each
+        - knot where comfortable, endknots (overhand or figure-8) on one end, two half-hitches or slip knots on the other.
+- vertical strap: make a slipknot in each end of the vertical elastic piece that tightens around the horizontal straps.
 
 ##### standard
 
 1. materials
-    - soft black knit fabric: polar fleece, cotton jersey, or other natural smooth fiber. Cotton is cooler than fleece, which can feel scratchy, too. Use a knit if possible, but a soft, loose weave could work. Then add a 40mm to width and length as a seam allowance to fold underneath when sewing it to other cover pieces. A colored piece of cloth on the outside makes finding the mask in the light a lot easier. 
-    - elastic, 5mm, white, which helps to find the mask
+    - soft black knit fabric: 
+        - 100% cotton sweatshirt fabric (French Terry cloth or loopback cotton) 
+        - 100% T-shirt fabric (cotton jersey)
+        - polar fleece for the cold
+        - cotton is cooler than fleece, which can feel scratchy, too. Avoid woven fabric. It frays and doesn't flex. A bright colored piece of cloth on the outside makes finding the mask in the light and in bags a lot easier. 
+    - elastic, 3-5mm, white, helps to find the mask and is much more common in stores
     - cord, 3mm polyester or nylon, white
     - thread
 2. follow instructions in [air > fabricate](/air/#fabricate)

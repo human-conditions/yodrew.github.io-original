@@ -22,6 +22,10 @@
         <nav class="man">
             <ul>
                 <li>&#9776;
+                    <ul id="subtitleul">
+                        <li id="subtitleli"><em>profound rest for the self&#8209;healing&nbsp;psyche</em><br />
+                        a book by andrew durham</li>
+                    </ul>
                     <ul>
                         <li>intro
                             <ul>
@@ -73,8 +77,8 @@
     </div>
     <div>
         <div><h1 id="title"><a href="/">hygienic darkroom retreat</a></h1>
-                   <p id="subtitle"><em>profound rest for the self&#8209;healing&nbsp;psyche</em><br />
-                        a book by andrew durham</p>
+                     <!-- <p id="subtitle"><em>profound rest for the self&#8209;healing&nbsp;psyche</em><br />
+                        a book by andrew durham</p> -->
         </div>
     </div>
     <div><a href="https://leanpub.com/darkroomretreat"><img src="/img/book-cover.png" id="img" title="click to buy" label="book cover image"><!--<img src="/img/book-cover.png" id="img2" label="buy book">--> </a>
@@ -94,9 +98,9 @@
           {% include svg-icons.html %}
     </footer>
 </div>
+    
 
     {% include analytics.html %}
-
 </body>
 </html>
 
