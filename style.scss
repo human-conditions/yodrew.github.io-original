@@ -317,7 +317,7 @@ nav {
     background-color: #222;
     border-radius: 7px ;
     padding: 0;
-    z-index:1;
+    z-index:2;
     }
 
 .man ul ul a {
@@ -338,7 +338,6 @@ nav {
     text-align: right;
     border-radius: 7px ;
     }
-
 
 .man ul ul ul {
     top: 0;
@@ -369,6 +368,7 @@ nav {
     border-radius: 7px;
     }
 
+
 #title {
     margin: 0;
     color: #bbb;
@@ -376,7 +376,7 @@ nav {
     font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
     font-weight: bold;
     font-size: 36px;
-    line-height: 44px;
+    line-height: 36px;
     }
 
 #subtitle {
@@ -389,6 +389,19 @@ nav {
     line-height: 22px;
     position: absolute;
     background-color: #222;
+    border-radius: 5px ;
+    z-index:1;
+    }
+
+#sub {
+    display: block;
+    margin: 3px 0 0 5px;
+    padding: 5px 10px;
+    color: #888;
+    font-weight: normal;
+    font-size: 18px;
+    line-height: 22px;
+    position: relative;
     border-radius: 5px ;
     z-index:1;
     }
@@ -413,6 +426,60 @@ h1#title:hover + p {
 
 img#img:hover + img {
     display: block;
+    }
+
+ @media only screen and (max-width: 600px) {
+
+.man ul li {
+	position:relative;
+    font-weight: 700;
+    font-size: 40px;
+    line-height: 44px;
+    padding: 0 10px 0 0;
+    }
+
+#title {
+    margin: 0;
+    color: #bbb;
+    cursor: pointer;
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-weight: bold;
+    font-size: 28px;
+    line-height: 30px;
+    }
+
+#subtitle {
+    display: none;
+    margin: 3px 0 0 10px;
+    padding: 5px 10px;
+    color: #888;
+    font-weight: normal;
+    font-size: 18px;
+    line-height: 22px;
+    position: absolute;
+    background-color: #222;
+    border-radius: 5px ;
+    z-index:1;
+    }
+
+#sub {
+    display: block;
+    margin: 0;
+    padding: 0;
+    color: #888;
+    font-weight: normal;
+    font-size: 16px;
+    line-height: 18px;
+    position: relative;
+    border-radius: 5px ;
+    z-index:1;
+    }
+#img  {
+    width:90px;
+    padding:0;
+    margin: 5px 0 0 5px;
+    filter:brightness(90%);
+    }
     }
 
 // @import "highlights" ;
