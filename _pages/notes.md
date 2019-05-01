@@ -6,7 +6,7 @@ navprev: dedication
 navnext: foreword
 ---
 
-This book is an integrated whole. I give the idea immediately in brief, then in detail. Every word contributes to understanding, including the blurb, dedication, etc. Each paragraph builds upon the last.
+This book is an integrated whole. I present the idea immediately in brief, then in detail. Every word contributes to understanding, including the blurb, dedication, etc. Each paragraph builds upon the last.
 
 The book has links. On the web, they are colored. In the ebook and print, they look like this:
 
