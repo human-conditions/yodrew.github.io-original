@@ -1,9 +1,11 @@
-# goal
+### Sklenarka Darkroom
+
+#### goal
 
 - world-class darkroom in terms of function
 - within limitations of budget, time, and existing wagon structure
 
-# current
+#### current
 
 1. major
     1. unlevel
@@ -42,15 +44,15 @@
 3. unsolvable but acceptable
     - low ceiling 
 
-# actions
+#### actions
 
-## provisional phase
+##### provisional phase
 
 1. bring dining chair with pad XXX
 2. improvise silencer XXX
 3. replace noisy duct fan with less noisy case fan XXX
 
-## phase 1
+##### phase 1
 
 1. major
     1. level wagon: jack, log sections, remove boards XXX
@@ -78,7 +80,7 @@
     2. heater light: cover or destroy
     3. pad or pillow as back rest for bed
 
-## phase 2 
+##### phase 2 
 
 1. major
     1. entry

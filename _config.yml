@@ -17,5 +17,8 @@ url: http://darkroomretreat.com
 markdown: kramdown
 plugins:
 - jekyll-feed
+- jekyll-compose
+jekyll_compose:
+    auto_open: true
 include:
 - _pages
