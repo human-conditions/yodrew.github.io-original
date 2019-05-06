@@ -14,7 +14,7 @@ After 21 years of investigation, I did. Others had discovered the destroyer of j
 
 Briefly, joy is a function of being alive, not effort. Lack of joy indicates a damaged system, not moral failure. Given conditions of profound rest, this damage heals by itself, and joy returns. 
 
-It's that simple. We are all months away from happiness, health, harmony. My condolences to the founders of world religions for either getting it wrong or explaining it so badly.
+It's that simple. We are all days away from a return to happiness, health, and peace. My condolences to the founders of world religions for either getting it wrong or explaining it so badly.
 
 Effort, our lifeway's smug panacea, gives false and fleeting results. With the will, one can do nothing directly to restore joy. One can only provide proper conditions. The organism does the rest autonomically.
 

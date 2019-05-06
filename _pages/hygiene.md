@@ -57,7 +57,7 @@ Profound rest means extended retreat lasting days, weeks, even months. It is for
 - fasting
 - darkness
 
-The benefits of profound rest accumulate day by day. If interrupted, some healing processes must start over. A good night's sleep, even several in a row, are simply not enough to recover from what really ails us. We must bring retreats into our lives in a serious way to get the profound rest needed for healing.
+The benefits of profound rest accumulate day by day. If interrupted, some healing processes must start over. One good night's sleep, or several in a row, are simply not enough to recover from what really ails us. We must bring retreats into our lives in a serious way to get the profound rest needed for healing.
 
 #### history
 

@@ -15,8 +15,6 @@ HWL to xyz
 
 fix mosseri
 
-script to copy text from index to blurb or use includes
-
 templates will need a special knife holder that guides the knife in the grooves so the knife and creaser can never be confused and the template does not get cut up. It will slide in a groove wider than the creaser. It can be easily made.
 
 # TEXT
@@ -59,6 +57,9 @@ I'm a psychologist who disbelieves in civilization. But I'm not a scholar. So I 
 --------------------------
 # DONE
 --------------------------
+
+
+script to copy text from index to blurb or use includes
 
 - retreat requirements : internal, external
     - knowledge: theory and practice > attitude, self
