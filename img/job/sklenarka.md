@@ -5,6 +5,45 @@
 - world-class darkroom in terms of function
 - within limitations of budget, time, and existing wagon structure
 
+# current
+
+1. major
+    1. unlevel
+    2. ventilation: noisy, insufficient, inefficient, vent locations cause cold drafts
+    3. entry: opens onto toilet, so problems with coordination and lightproofing, door unprotected from rain
+	 4. toilet: 
+        1. pipe upside down
+        2. unventilated
+        3. not private
+        4. low?
+        5. collection bucket too small
+        6. middle bar unnecessary?
+    5. wiring: surrounding occupant
+    6. windows: permanently covered, unshuttered, cold, unsoundproofed
+    7. hum: low frequency noise 
+    8. stairs: steep, unrailed
+    9. deck: small
+2. minor
+    1. no dining chair
+    2. heater: visible light
+    3. water tastes bad
+        2. no mirror
+    4. countertop: 
+        - warping: needs reinforcement front to back in 3 places, slowly at left. Screwed in from bottom with thick, unpointed wood screws
+        - incorrect height: raise for counter, lower for table. Or just raise chair and put foot stool
+    5. shelves: too deep, hole at back, far from bed
+    6. bed: 
+        1. narrow
+        2. built-in
+    7. shower
+        1. low bracket
+        2. no curtain at end
+    8. no reclining seat
+3. unsolvable but acceptable
+    - low ceiling 
+
+# actions
+
 ## provisional phase
 
 1. bring dining chair with pad XXX
@@ -94,40 +133,4 @@
         - extra coat of paint on wall, sealing all cracks?
         - bracket for shower head up and in from sink?
    
-# current
-
-1. major
-    1. unlevel
-    2. ventilation: noisy, insufficient, inefficient, vent locations cause cold drafts
-    3. entry: opens onto toilet, so problems with coordination and lightproofing, door unprotected from rain
-	 4. toilet: 
-        1. pipe upside down
-        2. unventilated
-        3. not private
-        4. low?
-        5. collection bucket too small
-        6. middle bar unnecessary?
-    5. wiring: surrounding occupant
-    6. windows: permanently covered, unshuttered, cold, unsoundproofed
-    7. hum: low frequency noise 
-    8. stairs: steep, unrailed
-    9. deck: small
-2. minor
-    1. no dining chair
-    2. heater: visible light
-    3. water tastes bad
-        2. no mirror
-    4. countertop: 
-        - warping: needs reinforcement front to back in 3 places, slowly at left. Screwed in from bottom with thick, unpointed wood screws
-        - incorrect height: raise for counter, lower for table. Or just raise chair and put foot stool
-    5. shelves: too deep, hole at back, far from bed
-    6. bed: 
-        1. narrow
-        2. built-in
-    7. shower
-        1. low bracket
-        2. no curtain at end
-    8. no reclining seat
-3. unsolvable but acceptable
-    - low ceiling 
 
