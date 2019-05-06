@@ -1,5 +1,3 @@
-# Sklenarka darkroom
-
 # goal
 
 - world-class darkroom in terms of function
