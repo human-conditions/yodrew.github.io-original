@@ -10,7 +10,9 @@
 1. major
     1. unlevel
     2. ventilation: noisy, insufficient, inefficient, vent locations cause cold drafts
-    3. entry: opens onto toilet, so problems with coordination and lightproofing, door unprotected from rain
+    3. entry: 
+        - opens onto toilet, so issues with privacy, coordination, and lightproofing
+        - top of door (and windows) unprotected from rain
 	 4. toilet: 
         1. pipe upside down
         2. unventilated
