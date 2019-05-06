@@ -1,4 +1,10 @@
-### Sklenarka Darkroom
+---
+title: sklenarka darkroom
+permalink: "/img/job/sklenarka/"
+layout: page
+---
+
+[See drawing here](/img/job/sklenarka.png)
 
 #### goal
 
