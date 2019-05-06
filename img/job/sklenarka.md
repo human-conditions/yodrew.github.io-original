@@ -141,4 +141,4 @@ layout: page
         - extra coat of paint on wall, sealing all cracks?
         - bracket for shower head up and in from sink?
    
-
+<iframe name="embed_readwrite" src="https://pad.disroot.org/p/sklenarka#?showControls=true&showChat=true&showLineNumbers=true&useMonospaceFont=false" width=800 height=400></iframe>
