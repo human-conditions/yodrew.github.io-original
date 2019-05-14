@@ -82,8 +82,9 @@ Here are further design constraints, photos, plans, and instructions for making 
 
 ##### constraints
 
-(helix vent specifications in parentheses / helix sr version)  
-{threshold vent specifications in curly braces}:
+Key:
+(helix vent / helix-z  specifications in parentheses )  
+{threshold vent specifications in curly braces}
 
 - durable (protected by cardboard shell or silencer){subject to damage by kicking but easily rebuilt and can be made of sheet metal or shielded with cardboard or thin wooden boards}
 - thin enough to fit between blind and window (80mm) or door and threshold {adjustable}
@@ -101,7 +102,11 @@ Here are further design constraints, photos, plans, and instructions for making 
 
 ![photo: helix vent, exploded core](/img/photo/helix-vent-core-exploded.jpg)
 
+&nbsp;
+
 This photo is of the old helix vent. The new one is similar but: a bit narrower; triangles inside are more pointy; their edges have flaps; there is no fabric; at the side opening, the cardboard has a lip and the core has flaps.
+
+&nbsp;
 
 [![plan: helix vent, assembly](/img/plan/image/helix-vent-assembly.png)](/img/plan/helix-vent-assembly.pdf)
 
@@ -198,6 +203,8 @@ Read through instructions once while studying plans.
 
 For inside silencer or other enclosure with two or more corners for light to go around. Follow helix vent instructions above, adapting as necessary.
 
+&nbsp;
+
 [![plan: helix vent-z, assembly](/img/plan/image/helix-vent-z-assembly.png)](/img/plan/helix-vent-z-assembly.pdf)
 
 [![plan: helix vent-z, channels](/img/plan/image/helix-vent-z-channels.png)](/img/plan/helix-vent-z-channels.pdf)
@@ -205,6 +212,8 @@ For inside silencer or other enclosure with two or more corners for light to go 
 [![plan: helix vent-z, inner-wall](/img/plan/image/helix-vent-z-inner-wall.png)](/img/plan/helix-vent-z-inner-wall.pdf)
 
 [![plan: helix vent-z, outer-wall](/img/plan/image/helix-vent-z-outer-wall.png)](/img/plan/helix-vent-z-outer-wall.pdf)
+
+&nbsp;
 
 ##### threshold vent
 
@@ -214,7 +223,10 @@ If greater than 33mm, add cardboard or wood to the bottom of the door or build u
 
 Block light that reaches the door from the outside as much as possible. For example, make a [removable partition](http://andrewdurham.shutterfly.com/313) in the hallway, which can also darken the path between darkroom and bathroom. It's a wooden frame a little wider than the hallway so it wedges in at an angle, with a fleece seal around the frame, filled with black plastic sheeting with helix vents as needed.
 
-[![plan: threshold vent perspective](/img/plan/image/threshold-vent-perspective.png)](/img/plan/threshold-vent-perspective.pdf)  
+&nbsp;
+
+[![plan: threshold vent perspective](/img/plan/image/threshold-vent-perspective.png)](/img/plan/threshold-vent-perspective.pdf)
+
 [![plan: threshold vent](/img/plan/image/threshold-vent.png)](/img/plan/threshold-vent.pdf)
 
 &nbsp;
@@ -276,6 +288,8 @@ In the past year, I built two box silencers into window recesses. They were simp
 
 Thanks to Richard Nöjd of Skattungbyn, Sweden, for pointing out these cool solutions. Silencers and acoustic ducting are standard industrial components, making buildings quiet worldwide. 
 
+&nbsp;
+
 [![plan: silencer](/img/plan/image/silencer.png)](/img/plan/silencer.pdf)
 
 &nbsp;
@@ -289,6 +303,12 @@ Discarded furniture is made of melamine, an excellent material for silencer boxe
 Use a table saw to cut the 8 pieces so they come out square. Or have a carpenter do it for you, including the holes. Just take the drawing with you, modified for your needs. The carpenter probably has some extra melamine laying around to sell you cheap. To screw pieces together, first drill pilot holes so edges don't break. I always drill pilot holes in wood less than 30mm wide for this reason.
 
 To insulate, make round tubes of plastic screen. Cover with porous fabric if insulation is fine, like cellulose. Stuff insulation around it and close the box. Roughen the plastic surface first with sandpaper so the glue sticks. 
+
+##### hum
+
+In Europe, I have detected a strange hum in many places. It is a low-frequency sound and vibration that comes through the air and ground. My best explanation is that all the machines we use combined generate this hum. Cars, trains, airplanes, factories, ventilation (ironically), farm machinery, underground pumps all add up to this noise. Most people can't hear it. It drives me nuts. 
+
+In fact, tomorrow I'll visit a music recording studio. Their technique of building a room within a room may work to stop this noise. It is exactly what it sounds like. The walls and ceilings of each structure don't touch. The floor floats on vibration-dampening springs or rubber blocks. Let's hope the acoustic and recording engineers have solved this for us.
 
 #### machines
 
@@ -311,7 +331,7 @@ I just discovered cheap centrifugal "blower" fans in the same size. $10-20 on eB
 
 ##### fan mount
 
-[![plan: fan mount](/img/plan/image/fan-mount.png)](/img/plan/fan-mount.pdf)  
+[![plan: fan mount](/img/plan/image/fan-mount.png)](/img/plan/fan-mount.pdf)
 
 &nbsp;
 
@@ -373,12 +393,17 @@ The most interesting plate exchangers use the Mitsubishi _Lossnay_ core, found i
 
 ##### purity
 
-In some cases, an air purifier becomes necessary. If your house is near a factory, busy roads, in a smoggy city, or near a smelly restaurant or neighbor, get one. Recently, I upgraded the ventilation system of a darkroom where people nearby burn coal for heat. Coal smoke smells terrible. I installed a carbon filter into the silencer. The $50, 18 x 18 cm filter eliminates the smell. Catching the particles would require HEPA filtration but seemed less important. The filter also stops all light and some sound. It requires a more powerful fan than a standard case fan to overcome the resistance it presents. The cheap DC centrifugal blower fan I mentioned above would work. Soon I will test it with the silencer, which will likely cancel its extra noise. If so, I'll adapt the fan mount for it, too.
+In some cases, an air purifier becomes necessary. If your house is near a factory, busy roads, in a smoggy city, or near a smelly restaurant or neighbor, get one. Purification methods include:
 
-Regarding other purification methods, I had heard of ionization, but just learned it also produces toxic levels of ozone. Photo Catalytic Oxydation ([PCO](https://www.sciencedirect.com/science/article/pii/S0926337316308001)) is a new, interesting technology that destroys pollutants at the molecular level. Several companies make filters with it. Prices vary widely. UV-C light bulbs with 253.7nm wavelength destroys VOCS and germs and cost less than $10. These would use the regular case fan and just need a helix vent to stop light.
+- carbon
+- HEPA
+- Photo Catalytic Oxydation ([____PCO____](https://www.sciencedirect.com/science/article/pii/S0926337316308001)) is a new, interesting technology that destroys pollutants at the molecular level. Several companies make filters with it. Prices vary widely. 
+- UV-C light bulbs with 253.7nm wavelength destroys VOCS and germs and cost less than $10. These would use the regular case fan and just need a helix vent to stop light.
+- ionization produces toxic levels of ozone 
+
+Recently, I upgraded the ventilation system of a darkroom where people nearby burn coal for heat. Coal smoke smells terrible. I installed a carbon filter into the silencer. The $50, 18 x 18 cm filter eliminates the smell. Catching the particles would require HEPA filtration, but it seemed less important at the time. The filter also stops all light and some sound. It requires a more powerful fan than a standard case fan to overcome the resistance it presents. The cheap DC centrifugal blower fan I mentioned above would work. Soon I will test it with the silencer, which will likely cancel its extra noise. If so, I'll adapt the fan mount for it, too.
 
 If air quality at your home is bad enough, consider moving. Lots of places in small towns and the countryside have clean air and are less polluted in general. It can be a cheap and simple solution to multiple problems.
-
 ~~
 
 That's it for lightproof ventilation, silence, power, heating, and purification. On to darkening doors and windows.

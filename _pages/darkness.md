@@ -32,7 +32,7 @@ We will start with the simplest and most portable design, which darkens the smal
 
 #### sleeping mask
 
-[![plan: sleeping mask](/img/plan/image/sleeping-mask.png)](/img/plan/sleeping-mask.pdf)  
+[![plan: sleeping mask](/img/plan/image/sleeping-mask.png)](/img/plan/sleeping-mask.pdf)
 
 &nbsp;
 
@@ -123,6 +123,8 @@ This is a new design. I feel there is an easier way to do it, but this works for
 #### door seal
 
 [![plan: door seal section](/img/plan/image/door-seal.png)](/img/plan/door-seal.pdf)
+
+&nbsp;
 
 Black polar fleece makes darkening a door easy and quick. Use masking tape at first. Tack edge of fleece in position with 10mm pieces of masking tape every 400mm. Then put a continuous strip of tape over the edge. Once you get the hang of it and know where you want the fleece to stay, use glue where possible (glue removal described below).
 
@@ -272,8 +274,13 @@ Attach a handle to the panel so you can lift it in and out. Just a 30 x 30 x 30 
 
 ##### velcro
 
-Note: the plan view in this drawing shows just the top left corner of the blind and how the various materials come together.   
+Note: the plan view in this drawing shows just the top left corner of the blind and how the various materials come together.
+
+&nbsp;
+
 [![plan: velcro blind](/img/plan/image/velcro-blind.png)](/img/plan/velcro-blind.pdf)
+
+&nbsp;
 
 I am still testing this design. At first, I cut the fabric from an IKEA Tupplar blackout blind and attached it to a window frame with adhesive velcro (hook & loop). This was the prototype. It only took an hour and it almost worked! Problems:
 
@@ -352,10 +359,15 @@ Thus, these (untested) improvements should make it work.
 
 ##### roller blind
 
-![photo: roller blind, closed](/img/photo/roller-blind-closed.jpg)  
-![photo: roller blind, panel and joint](/img/photo/roller-blind-panel&joint.jpg)  
-![photo: roller blind, frame and parts](/img/photo/roller-blind-frame&parts.jpg)  
-![photo: roller blind, rail section](/img/photo/roller-blind-rail-section.jpg)  
+![photo: roller blind, closed](/img/photo/roller-blind-closed.jpg)
+
+![photo: roller blind, panel and joint](/img/photo/roller-blind-panel&joint.jpg)
+
+![photo: roller blind, frame and parts](/img/photo/roller-blind-frame&parts.jpg)
+
+![photo: roller blind, rail section](/img/photo/roller-blind-rail-section.jpg)
+
+&nbsp;
 
 This design takes considerable time. I've built it only once. The price of manufactured fully sealed blackout roller blinds annoyed me so much, I wanted to see if it could be done for a tenth the price.
 
@@ -365,9 +377,14 @@ This design takes considerable time. I've built it only once. The price of manuf
 - _h_ (italicized): height of recess, measured between T and B sills. Measure both sides.
 - _w_ (italicized): width of window recess, measured between the side sills. _w_ changes slightly top to bottom. Measure top for cassette, bottom for rail B or footer, and 170mm up from bottom sill for joint. w of blind itself should be narrowest of 3 measurements.
 
-[![plan: roller blind, layout](/img/plan/image/roller-blind-layout.png)](/img/plan/roller-blind-layout.pdf)  
-[![plan: roller blind, frame](/img/plan/image/roller-blind-frame.png)](/img/plan/roller-blind-frame.pdf)  
-[![plan: roller blind, panel](/img/plan/image/roller-blind-panel.png)](/img/plan/roller-blind-panel.pdf)  
+&nbsp;
+
+[![plan: roller blind, layout](/img/plan/image/roller-blind-layout.png)](/img/plan/roller-blind-layout.pdf)
+
+[![plan: roller blind, frame](/img/plan/image/roller-blind-frame.png)](/img/plan/roller-blind-frame.pdf)
+
+[![plan: roller blind, panel](/img/plan/image/roller-blind-panel.png)](/img/plan/roller-blind-panel.pdf)
+
 [![plan: roller blind, parts](/img/plan/image/roller-blind-parts.png)](/img/plan/roller-blind-parts.pdf)
 
 &nbsp;
