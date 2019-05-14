@@ -306,9 +306,9 @@ To insulate, make round tubes of plastic screen. Cover with porous fabric if ins
 
 ##### hum
 
-In Europe, I have detected a strange hum in many places. It is a low-frequency sound and vibration that comes through the air and ground. My best explanation is that all the machines we use combined generate this hum. Cars, trains, airplanes, factories, ventilation (ironically), farm machinery, underground pumps all add up to this noise. Most people can't hear it. It drives me nuts. 
+In Europe, I have detected a strange hum in many places. It is a low-frequency sound and vibration that comes through the air and ground. My best explanation is that all the machines we use combined generate this hum. This includes cars, trains, airplanes, factories, ventilation (ironically), farm machinery, underground pumps and anything else you can think of. Most people can't hear it. It drives me more nuts than usual.
 
-In fact, tomorrow I'll visit a music recording studio. Their technique of building a room within a room may work to stop this noise. It is exactly what it sounds like. The walls and ceilings of each structure don't touch. The floor floats on vibration-dampening springs or rubber blocks. Let's hope the acoustic and recording engineers have solved this for us.
+In fact, tomorrow I'll visit a music recording studio. Their technique of building a room within a room may work to stop this noise. The walls and ceilings of each structure don't touch. The inner room's' floor "floats" on vibration-dampening springs or rubber blocks. Let's hope the acoustic and recording engineers have solved this problem.
 
 #### machines
 

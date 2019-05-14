@@ -5,15 +5,17 @@ layout: page
 navprev: 
 navnext: notes
 ---
-
-For late friends,  
+    
+_For late friends,  
 Lisa Saavedra and John Rosenberg,  
-who burned bright in a benighted lifeway  
-and so fell long before their time;
+&nbsp; who burned bright in a benighted lifeway  
+and so fell long before their time;_
 
-And my brilliant, life-imprisoned cousin,  
+&nbsp;
+
+_And my brilliant, life-imprisoned cousin,  
 Damon Durham,  
-on whom the sins of our fathers  
+&nbsp; on whom the sins of our fathers  
 are so heavily visited  
-these decades of hard time.
+&nbsp; &nbsp; these decades of hard time._
 {:#dedication}
