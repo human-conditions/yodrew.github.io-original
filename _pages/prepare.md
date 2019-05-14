@@ -94,10 +94,10 @@ alternate:\_\_\_\_\_\_\_\_\_\_\_\_ +/-\_\_\_ days
 
 Most of the time, just eat plain fruit:
 
-	- eat one fruit until you lose your taste for it
-	- if still hungry, switch to another
-	- start with the most watery (melons) foods, end with the least (bananas, dates)
-	- eat greens anytime
+- eat one fruit until you lose your taste for it
+- if still hungry, switch to another
+- start with the most watery (melons) foods, end with the least (bananas, dates)
+- eat greens anytime
 
 Some days, have a yummy recipe:
 

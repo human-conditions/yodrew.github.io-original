@@ -338,7 +338,13 @@ Regarding some aspects of our own lives, we all know better. I mean things we th
 
 Darkroom retreating provides the conditions in which the organism restores one's capacity for both self-care and its benefits. This is recapacitation. The intensity of a retreat mostly fades, but restored capacity remains. A broken leg, once healed, doesn't spontaneously become broken again.
 
-The full application of the [**idea**](/darkness-conjecture) behind hygienic darkroom retreating consists of **doing retreats of increasing length alternated with periods of radical lifeway change until health is fully restored.** "Health through healthful living," as we hygienists like to say.
+The full application of the [**idea**](/darkness-conjecture) behind hygienic darkroom retreating consists of 
+
+**doing retreats of increasing length  
+alternated with periods of radical lifeway change  
+until health is fully restored.** 
+
+We attain, "Health through healthful living," as we hygienists like to say.
 
 You already know some changes you would like to make. Now you can make some of them. Those you do not know, you will, in darkness, become capable of discovering, learning, and applying. Resources and opportunities that were right under your nose, on the tip of your tongue, out of the corner of your eye suddenly become visible, compelling, accessible. Having restored a lost part of yourself, _how_ you are changes. You notice and attract different things. Once you see you can walk through the front door of a bakery and get whatever you like, you will stop begging crumbs out its back door.
 

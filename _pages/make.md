@@ -45,24 +45,24 @@ I give all measurements in metric, mostly millimeters. Are you used to inches, p
         - 1L=10cm x 10cm x 10cm (1000cm<sup>3</sup>)
         - 1L water=1kg
         - thus, 1mL water=1cm<sup>3</sup>=1g 
-		- brilliant! simple! humane! 
+        - brilliant! simple! humane! 
 2. use these imperial near-equivalents to practice the metric system, visualize my descriptions, and make estimations. Not for precise conversions or large quantities. (*My favorites):
     - length
-		- *25mm = 1" (inch)
-		- *100mm = 4"
+        - *25mm = 1" (inch)
+        - *100mm = 4"
         - 30cm = 1' (foot)
         - 1m = 1 yard & 4" 
         - 3m = 10'
-	- area
-		- 1m<sup>2</sup> = 11'<sup>2</sup>
-		- 4' x 8' sheet = 120cm x 240cm (~3m<sup>2</sup>)
-		- the genius &radic;2-based A1-A8 paper size system
-	- volume
-		- *4L = 1 gallon
-		- 1.7cmh = 1cfm (cubic meter/hour; cubic feet/minute of air)
-	- mass 
-		- 28g = 1 oz
-		- *1kg = 2 lb
+    - area
+        - 1m<sup>2</sup> = 11'<sup>2</sup>
+        - 4' x 8' sheet = 120cm x 240cm (~3m<sup>2</sup>)
+        - the genius &radic;2-based A1-A8 paper size system
+    - volume
+        - *4L = 1 gallon
+        - 1.7cmh = 1cfm (cubic meter/hour; cubic feet/minute of air)
+    - mass 
+        - 28g = 1 oz
+        - *1kg = 2 lb
 
 #### tools
 
@@ -78,7 +78,7 @@ Making components requires some or all of these tools:
         3. repeat with other sticks till you find a match
         4. buy one of them 
     3. metric measuring tape, 5m
-		1. use a tape whose case length is easily and accurately added to the figure on the tape itself. Some measuring tapes are designed to give highly accurate internal measurements, eg, between sills
+        1. use a tape whose case length is easily and accurately added to the figure on the tape itself. Some measuring tapes are designed to give highly accurate internal measurements, eg, between sills
         2. hook tape on end of meter stick and compare marks for accuracy of external measurement
         3. push end of meter stick against a wall, put tape on top of meter stick, and compare marks for accuracy of internal measurement
 3. mark
@@ -165,21 +165,21 @@ Images in this book are only for reference and hand-reproduction. They are reduc
             2. align cut marks at perimeter of plan first, then the one(s) in the middle. 
             3. use masking tape to join sheets
     3. by hand
-    	1. ruler and magnifying glass
-			1. get large white paper to make a reusable pattern with. Don't measure directly on materials.
-    	    2. to keep drawing orthogonal, use some combination of graph paper, drafting table, and extra careful measurement and marking. An [Incra ruler](https://incra.com) will help a lot with this. 
-			3. use magnifying glass to see small words and numbers in the book
+        1. ruler and magnifying glass
+            1. get large white paper to make a reusable pattern with. Don't measure directly on materials.
+            2. to keep drawing orthogonal, use some combination of graph paper, drafting table, and extra careful measurement and marking. An [Incra ruler](https://incra.com) will help a lot with this. 
+            3. use magnifying glass to see small words and numbers in the book
             4. plans are as symmetrical and uniform as possible. If two similar-looking areas of a plan look the same size, they are. So from measurements given in plans, infer the rest. There is some redundancy so you don't have to figure out everything and can double-check essential measurements with arithmetic. 
             5. use grey-numbered cumulative measurements in plan to quickly mark lines
-		2. trace
-			1. trace directly from a flat screen monitor
-			2. zoom image till stated measurements match a ruler both horizontally and vertically
-			3. tape paper to the screen
-			4. mark ends, corners, and intersections of lines precisely and lines just well enough to know what you are looking at later
-			5. you will have to overlap multiple sheets of paper for most plans, as with a desktop printer. On each new piece of paper, repeat the last set of marks from the previous so you know where to overlap and tape the sheets together.
+        2. trace
+            1. trace directly from a flat screen monitor
+            2. zoom image till stated measurements match a ruler both horizontally and vertically
+            3. tape paper to the screen
+            4. mark ends, corners, and intersections of lines precisely and lines just well enough to know what you are looking at later
+            5. you will have to overlap multiple sheets of paper for most plans, as with a desktop printer. On each new piece of paper, repeat the last set of marks from the previous so you know where to overlap and tape the sheets together.
 3. key
 
-    Here is a key to the computer-drafted plans. Find further explanation of symbols, especially dash-dotted lines, in **fabricate** section below.
+Here is a key to the computer-drafted plans. Find further explanation of symbols, especially dash-dotted lines, in **fabricate** section below.
 
 [![plan key](/img/plan/image/key.png)](/img/plan/key.pdf)
 
@@ -218,8 +218,8 @@ These instructions apply to all components, or as indicated. Read special instru
     3. transfer plan with straight pin
         - use magnifying glass for ease of marking and geeky precision thrills
         - poke straight pin through 
-        	- all black lines close to ends (not grey glue sausages)
-        	- centers of holes
+            - all black lines close to ends (not grey glue sausages)
+            - centers of holes
     4. remove plan from material
     5. label drawing, words oriented the same as in plan
         - dashed lines: circles
@@ -227,22 +227,22 @@ These instructions apply to all components, or as indicated. Read special instru
         - solid lines: squares
         - dash-dotted lines: triangle
         - holes: star
-	7. mark the marked holes again
-	    - draw short lines from circles, triangles, and squares in the same direction as lines in plan
+    6. mark the marked holes again
+        - draw short lines from circles, triangles, and squares in the same direction as lines in plan
         - circles/double circles: add asterisk where indicated 
         - copy joint labels (A, B, C, etc)
 3. make parts:
     1. keep scrap cardboard on work surface
     2. fabric parts (sleeping mask, roller blind seals)
         1. tape plans to fleece over tape holes
-        2. roller blind locking seals: cut 8mm slits through plan with razor knife 
+        2. roller blind locking seals: cut 8mm slits through plan with razor knife
         3. cut parts exactly around plan outline with scissors 
         4. leave plans taped to sleeping mask side seals
         5. remove plans from other parts
         6. repeat steps 1-4 to make
-            - 2 sleeping mask center seals
-            - 4 sleeping mask covers. For the 4th cover, use optional cotton fabric, add 20mm on side for seam allowance, and leave plan taped to fabric.
-            - 4 roller blind locking seals
+             - 2 sleeping mask center seals
+             - 4 sleeping mask covers. For the 4th cover, use optional cotton fabric, add 20mm on side for seam allowance, and leave plan taped to fabric.
+             - 4 roller blind locking seals
         7. skip remaining steps 2-4 and resume special instructions
     3. cardboard shell of helix vent
         1. trim excess cardboard around pattern but don't cut its edges (between squared holes) yet
@@ -252,17 +252,17 @@ These instructions apply to all components, or as indicated. Read special instru
         5. cut between squared holes
         6. fold cardboard at creases, bending it well past 90&deg;
     4. paper parts
-    	1. between holes with asterisks
+        1. between holes with asterisks
             - circled pairs, score back, fold forward
-			- double-circled pairs, score front, fold backward
+            - double-circled pairs, score front, fold backward
         2. between circled and double-circled holes
             - crease front side with back of table knife tip
             - fold at creases forward
             - then, fold double-circled creases backward
         3. between squared holes: cut with razor knife
         4. between starred holes 
-    		- expand to diameter indicated in plan
-        	- use a pointed dowel of appropriate diameter
-        	- spin it with your fingers or a power drill as you gently push it into hole
+            - expand to diameter indicated in plan
+            - use a pointed dowel of appropriate diameter
+            - spin it with your fingers or a power drill as you gently push it into hole
 
 Voila. Now that we've covered the basics that apply to all darkroom components, let's look at those in the air, silence, and warmth department.

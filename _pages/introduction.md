@@ -67,11 +67,11 @@ lifeway
 
 Here is a note on my use of words.
 
-I don't use neologisms. I don't use words in any special sense. A reader should profit by looking up a word from the text in a good dictionary. 
+I don't use neologisms. I don't use words in any special sense. Virtually any dictionary will clear up confusion you may have while reading. Read through the senses and the etymology as well.
 
-My usage is sometimes unusual because I take pains to recover the original or essential meanings of words using etymology and historical usage. Popular use and manipulation by elites constantly degrade the true senses of high-level abstractions. Words become corrupt or acquire unfortunate associations. Language is artificial and must be maintained. 
+My usage is sometimes unusual because I take pains to recover the original or essential meanings of words using etymology and historical usage. Popular use and manipulation by elites constantly degrade the true senses of high-level abstractions. Words become corrupt or acquire unfortunate associations. Language is artificial and must be maintained.
 
-I consider this half the job of writers, speakers, and readers alike. The Oxford English Dictionary exemplifies this collective effort. Editions of American Heritage Dictionary and Webster's from before 1970 are usually good enough. Beware of newer lexicology, which is both better and worse than ever due to extreme divergence of philosophical influences of the past 250 years.
+I consider this half the job of intellectuals and our audiences alike. The Oxford English Dictionary exemplifies this effort. Editions of American Heritage Dictionary and Webster's from before 1970 are excellent. Beware of newer lexicology. It is both better and worse than ever due to extreme divergence of philosophical influences in the last 40 years.
 
 ##### requirements
 
@@ -88,7 +88,7 @@ To retreat, one needs three things: knowledge, materials, and support.
         - time
 - support
     - hygiene is the basis on which sick people can help each other without making things worse
-    - our problem is collective and is solved with increasing degrees of cooperation
+    - our problem is collective and is solved with increasing degrees of cooperation as we become more capable of it
 
 Meet these requirements by reading this book, preparing for a retreat, and retreating. Your first retreats are just warm-ups. You will get better at it.
 

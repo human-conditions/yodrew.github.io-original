@@ -217,7 +217,7 @@ Deeper preparation than that is made the same way you prepare for weeks in tract
 
 &nbsp;
 
-[^1]: Herbert Shelton, [*The Science and Fine Art of Natural Hygiene*](/nhs.pdf), p 35
+[^1]: Herbert Shelton, [*Science and Fine Art of Natural Hygiene*](/nhs.pdf), p 35
 [^2]: Ibid, p 139
 [^3]: Ayn Rand, _The Virtue of Selfishness_, p18, "The Objectivist Ethics"
 

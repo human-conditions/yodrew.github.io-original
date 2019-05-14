@@ -9,9 +9,9 @@ navnext: notes
 For late friends,  
 Lisa Saavedra and John Rosenberg,  
 who burned bright in a benighted lifeway  
-and so fell long before their time;  
-&nbsp;  
-and my brilliant, life-imprisoned cousin,  
+and so fell long before their time;
+
+And my brilliant, life-imprisoned cousin,  
 Damon Durham,  
 on whom the sins of our fathers  
 are so heavily visited  

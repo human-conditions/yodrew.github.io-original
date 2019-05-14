@@ -75,7 +75,8 @@ Shelton describes hygiene as "the employment of materials, agents, and influence
 
 I have grouped laws by subject and importance. Four primary laws form the context for the rest. I formulated two of them, _Coordination_ and _Capacity_. I suppose that has not happened since Shelton or earlier. 
 
-I substantially edited the original list. See it in [_appendix: laws of life_](/appendix-laws-of-life)), along with my criticisms of it. Titles in parentheses below refer to it.
+I substantially edited the original list. See it in  
+[_appendix: laws of life_](/appendix-laws-of-life)), along with my criticisms of it. Titles in parentheses below refer to it.
 
 Here are all the laws of life, the strongest dose of hygienism you can get.
 
@@ -226,5 +227,5 @@ This is the general theory of hygiene 3.0. Our main subject, the darkroom retrea
 
 &nbsp;
 
-[^1]: TC Fry, [*The Life Science Health System*](http://www.scribd.com/doc/225734352/The-Life-Science-Health-System-T-C-Fry), a paraphrase of original quote by Herbert Shelton in  [*Natural Hygiene: Man's Pristine Way of Life*](http://soilandhealth.org/wp-content/uploads/02/0201hyglibcat/020125shelton.pristine/020125ch8.htm)
-[^2]: Herbert Shelton, [*The Science and Fine Art of Natural Hygiene*](/nhs.pdf), back cover
+[^1]: TC Fry, [*Life Science Health System*](http://www.scribd.com/doc/225734352/The-Life-Science-Health-System-T-C-Fry), This is actually Fry's 'elegant paraphrase of original quote by Herbert Shelton in  [*Natural Hygiene: Man's Pristine Way of Life*](http://soilandhealth.org/wp-content/uploads/02/0201hyglibcat/020125shelton.pristine/020125ch8.htm)
+[^2]: Herbert Shelton, [*Science and Fine Art of Natural Hygiene*](/nhs.pdf), back cover

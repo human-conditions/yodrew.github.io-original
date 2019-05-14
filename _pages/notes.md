@@ -14,13 +14,13 @@ The book has links. On the web, they are colored. In the ebook and print, they l
 - <u><em>internal links</em></u> to other parts of this book. Chapter and section indicated for readers of print version.
 - <u><em>books</em></u>, downloadable 
 
-To download the current version of book:
+Get current version:
 
-- ebook (pdf, epub, mobi):
-    - [leanpub.com/darkroomretreat](http://leanpub.com/darkroomretreat)
-    - [darkroomretreat.com/ebook](/ebook)
-- web:
-    - [leanpub.com/darkroomretreat/read](http://leanpub.com/darkroomretreat/read): all on one page, white background
-    - [darkroomretreat.com](http://darkroomretreat.com): one chapter per page, dark background
-- plans: [darkroom-retreat.zip](/darkroom-retreat.zip/ ): all pdfs and svg source code
+- ebook (pdf, epub, mobi)
+    - with updates of new versions: [leanpub.com/darkroomretreat](http://leanpub.com/darkroomretreat)
+    - direct: [darkroomretreat.com/ebook](/ebook)
+- web
+    - all on one page, light background [leanpub.com/darkroomretreat/read](http://leanpub.com/darkroomretreat/read)
+    - one chapter per page, dark background [darkroomretreat.com](http://darkroomretreat.com): 
+- plan pdfs and svg source code: [darkroom-retreat.zip](/darkroom-retreat.zip/ ): 
 - printable pdf: write me

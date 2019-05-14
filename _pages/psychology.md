@@ -116,7 +116,7 @@ The hygienist's rational and benevolent view of disease keeps him cool as a cucu
 
 This approach reveals the poor conditions and the ordinary ways to correct them. Indeed, a client of a hygienist is really a student. He soon learns to take care of himself, then his family and neighbors. It's open source health care. Viral, so to speak.
 
-For further study of hygienic pathology, see Herbert Shelton's two volumes on orthopathy. One is on [general pathology](http://soilandhealth.org/book/the-hygienic-system-vol-vi-orthopathy/), one is on [specific symptoms and responses](http://health4thebillions.org/product.php?id_product=91). Now we will more closely examine the primary cause of disease, trauma. 
+For further study of hygienic pathology, see Herbert Shelton's two volumes on orthopathy. One is on [general pathology](http://soilandhealth.org/book/the-hygienic-system-vol-vi-orthopathy/), one is on specific [symptoms and responses](http://health4thebillions.org/product.php?id_product=91). Now we will more closely examine the primary cause of disease, trauma. 
 
 #### trauma
 
@@ -307,7 +307,8 @@ And then? Healed from trauma, one will no longer be compelled to repeat it. One 
 
 The maturation of hygiene's laws; the emergence of a hygienic psychology; the identification of trauma at the root of all illness; and the greater importance of darkness than fasting for resting and healing have massive implications for hygiene's pathology and destiny, and humanity's as well. Hygiene has said illness originates with enervation (low energy) and toxemia. Trauma explains how these conditions themselves originate. And in coming to terms with trauma, hygiene can finally meet and obsolete allopathy (Western medicine) in its stronghold. I discuss these implications further in [*hygiene notes*](/darkness-conjecture/hygiene-notes).
 
-I am only saying enough here to give you a solid basis for beginning to do hygienic darkroom retreats. If you like what happens, further study is natural. For a thorough introduction to hygiene's principles, practices, and intriguing history, read Shelton's [*The Science and Fine Art of Natural Hygiene*](/nhs.pdf).
+I am only saying enough here to give you a solid basis for beginning to do hygienic darkroom retreats. If you like what happens, further study is natural. For a thorough introduction to hygiene's principles, practices, and intriguing history, read Shelton's  
+[*Science and Fine Art of Natural Hygiene*](/nhs.pdf).
 
 &nbsp;
 
