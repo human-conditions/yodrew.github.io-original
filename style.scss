@@ -269,6 +269,7 @@ footer {
 .flex-container {
     display: flex;
     flex-wrap: nowrap;
+    max-width: 600px;
     }
 
 .flex-container > div {
@@ -301,14 +302,13 @@ nav {
     margin:0;
     }
 
-/* .man ul li.current-menu-item {
+.man ul li.current-menu-item {
     background: #555;
     }
-*/
 
 .man ul li:hover {
     background: #333;
-    border-radius: 7px ;
+    border-radius: 3px ;
     }
 
 .man ul ul {
@@ -334,6 +334,7 @@ nav {
 .man ul ul li {
     font-weight: normal;
     font-size: 20px;
+    color:#bbbbbb;
     line-height: 25px;
     padding: 1px 5px;
     text-align: right;
@@ -380,23 +381,9 @@ nav {
     line-height: 36px;
     }
 
-#subtitle {
-    display: none;
-    margin: 3px 0 0 10px;
-    padding: 5px 10px;
-    color: #888;
-    font-weight: normal;
-    font-size: 18px;
-    line-height: 22px;
-    position: absolute;
-    background-color: #222;
-    border-radius: 5px ;
-    z-index:1;
-    }
-
 #sub {
     display: block;
-    margin: 0 0 0 60px;
+    margin: 0 0 50px 60px;
     padding: 3px 10px;
     color: #888;
     font-weight: normal;
@@ -412,21 +399,11 @@ h1#title:hover + p {
     }
     
 #img  {
-    width:80px;
+    width:120px;
+     float: right;
     padding:0;
-    margin: 8px 0 0 25px;
+    margin: -130px 110px 20px 10px;
     filter:brightness(90%);
-    }
-
-#img2  {
-    display:none;
-    width:250px;
-    padding:0;
-    margin: 0;
-    }
-
-img#img:hover + img {
-    display: block;
     }
 
  @media only screen and (max-width: 600px) {
@@ -449,19 +426,6 @@ img#img:hover + img {
     line-height: 30px;
     }
 
-#subtitle {
-    display: none;
-    margin: 3px 0 0 10px;
-    padding: 5px 10px;
-    color: #888;
-    font-weight: normal;
-    font-size: 18px;
-    line-height: 22px;
-    position: absolute;
-    background-color: #222;
-    border-radius: 5px ;
-    z-index:1;
-    }
 
 #sub {
     display: block;
@@ -476,9 +440,10 @@ img#img:hover + img {
     z-index:1;
     }
 #img  {
+    float:right;
     width:90px;
     padding:0;
-    margin: 5px 0 0 5px;
+    margin: -80px 5px 10px 5px;
     filter:brightness(90%);
     }
     }
