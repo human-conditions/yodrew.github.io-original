@@ -74,13 +74,13 @@ It is the same as sleeping nightly in darkness except you:
 
 A mini-retreat helps maintain restedness between 4- and 8-day retreats. Some benefits of retreating fade and at different rates. To extend them and smooth the transition to the moment of needing to retreat again, do a mini-retreat once a week between regular retreats.
 
-W> __CAUTION:__ Do _not_ start a mini-retreat after 20:00, nor stay in longer than 16 hours. In me, these induced mild shock and very negative feelings and thoughts that took a 4-day retreat to recover from.
+> __CAUTION:__ Do _not_ start a mini-retreat after 20:00, nor stay in longer than 16 hours. In me, these induced mild shock and very negative feelings and thoughts that took a 4-day retreat to recover from.
 
-W> In retreat, the organism strongly resets natural biological rhythms. Namely, going to sleep whenever tired, especially at nightfall. If you can't start your mini-retreat on time, postpone it till you can. Starting regular retreats an hour or two late is less than ideal, but it still works because the organism has time to compensate. This is not the case with mini-retreating.
+> In retreat, the organism strongly resets natural biological rhythms. Namely, going to sleep whenever tired, especially at nightfall. If you can't start your mini-retreat on time, postpone it till you can. Starting regular retreats an hour or two late is less than ideal, but it still works because the organism has time to compensate. This is not the case with mini-retreating.
 
-W> __48-hour cycle:__ The human organism in darkness seems to go through a 48-hour cycle with a point of no return after 16--18 hours. So either exit before going past this point or complete the cycle with a 4-day retreat. Otherwise you may experience very negative consequences. It's like jumping out of a Ferris wheel after it has gone too far up. Read my blog post, [how not to retreat](/blog/2013/05/how-not-to-retreat), for a longer explanation. 
+> __48-hour cycle:__ The human organism in darkness seems to go through a 48-hour cycle with a point of no return after 16--18 hours. So either exit before going past this point or complete the cycle with a 4-day retreat. Otherwise you may experience very negative consequences. It's like jumping out of a Ferris wheel after it has gone too far up. Read my blog post, [how not to retreat](/blog/2013/05/how-not-to-retreat), for a longer explanation. 
 
-W> Biological rhythms are very powerful and apparently cannot be messed with in this way. So, better safe than sorry, at least until you have retreated enough to feel confident about experimenting with mini-retreats. 
+> Biological rhythms are very powerful and apparently cannot be messed with in this way. So, better safe than sorry, at least until you have retreated enough to feel confident about experimenting with mini-retreats. 
 
 ###### 4-day retreat
 
@@ -96,7 +96,7 @@ Besides sleeping as much as possible, eating, eliminating, and bathing, what doe
 
 Afterward, slowly re-adjust to light. You did not just watch a matinee in a dark cinema, but spent days in total darkness. Sudden exposure to daylight would be a painful and unnecessary shock. Spend a minimum of 15 minutes gradually relighting the room by opening the door and window panels a few millimeters at a time. 
 
-W> __CAUTION__: I got caught in a whirlpool made of a several 4-day retreats that was increasingly difficult to break out of. I lost too much [*false capacity*](/hygiene#false-capacity) before restored normal capacity could compensate. Avoid this mistake. If you do one, just do **one** 4-day retreat, absolutely no more than three, then steam ahead with arrangements for an 8-day retreat._
+> __CAUTION__: I got caught in a whirlpool made of a several 4-day retreats that was increasingly difficult to break out of. I lost too much [*false capacity*](/hygiene#false-capacity) before restored normal capacity could compensate. Avoid this mistake. If you do one, just do **one** 4-day retreat, absolutely no more than three, then steam ahead with arrangements for an 8-day retreat._
 
 ###### transition
 
@@ -153,9 +153,9 @@ I like how he attributes his amazing recovery not to his practices in darkness n
 
 This is part of everybody. It means you and I are enough. Given the chance---the proper conditions---we have in ourselves what we need to recover.
 
-W> #### warning
+#### warning
 
-There are four harmful and dangerous ways to retreat in darkness. I learned about them the hard way. The only possible point of my enduring them was so I could warn you. These are little gateways to hell. I sincerely wish for you heed my words and to avoid such suffering.
+There are four harmful and dangerous ways to retreat in darkness. I learned about them the hard way and am paying the price to this day. The only possible point of my enduring them was so I could warn you. These are little gateways to hell. I sincerely wish for you heed my words and to avoid such suffering.
 
 Fortunately, avoiding it is easy once you know. I will just list them here and point you to longer discussions of them elsewhere in the book. Just say no to:
 
@@ -165,7 +165,7 @@ Fortunately, avoiding it is easy once you know. I will just list them here and p
 4. Poor support:
 	- insufficient support
 	- hostile support (!) or people hostile toward either you or retreating in or even near the same house. Say no to abusive relationships.
-5. I know I said four dangerous ways, but maybe there are more. And worse. Why find out? What is the penalty for following the guidelines? Stick to the tried and true. Err conservatively. Be reckless about some other part of your life. The most amazing thing you ever do is bound to have rough edges if handled incorrectly. Don't pet pigs backwards, either.
+5. I know I said four dangerous ways, but maybe there are more. And worse. Why find out? There is no penalty for following the guidelines. Until you have gotten somewhere and know what you are doing, stick to the tried and true. Err conservatively. Be reckless about some other part of your life. The most amazing thing you ever do is bound to have rough edges if handled incorrectly. Don't pet pigs backwards, either.
 
 Ok, now you know, so you are safe. Back to the many wonders of hygienic darkroom retreating.
 
