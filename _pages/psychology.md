@@ -8,7 +8,7 @@ navnext: format
 
 #### intro
 
-It's time to get down and dirty. Something's broken and we have to fix it.
+It's time to get our hands dirty. Something is broken and we have to fix it.
 
 Hygiene's basic structure is sound. It is objective. It deals in universal facts of biology. It constrains its analyses and recommendations to the abilities of a reasonable person living an ordinary life anywhere in the world. If hygiene has a problem, it is only due to not being hygienic enough. It is because its secondary ideas or practices contradict its fundamental principles. Once we discover a problem, we can use hygiene's own principles and methods to correct it.
 
@@ -209,8 +209,6 @@ However, some of us find this common state to be, well, sheer insanity, if you d
 - sickening health care
 
 I could go on. No doubt, you could extend the list yourself. Perhaps you have wept over the world's desperate madness. Perhaps you have wept over your own.
-
-I said this chapter would get down and dirty. But light shines at the end of the tunnel.
 
 Calling something crazy usually halts further consideration and conversation. After all, "you can't fix crazy." So what good does it do to think about it? Is it even craziness? Or is it human nature, as we have long assumed? That is what most religion and philosophy say. Since nothing overcomes nature. So they render themselves helpless by their own pronouncements. Also, they excuse themselves.
 
