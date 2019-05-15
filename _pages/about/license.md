@@ -6,9 +6,9 @@ navprev: acknowledgments
 navnext: disclaimer
 ---
 
-Welcome to the political-economy of _cool_, where you get rewarded for cooperating, not threatened with punishment if you don't.
+Welcome to the political-economy of _cool_, where you get rewarded for cooperating, not threatened with punishment if you don't. We now possess the means of recovering the source of all wealth. Applying it even slightly will make money irrelevant. Let's have a good time with this.
 
-1. [Copyleft](http://sam.zoy.org/wtfpl) 2009-2015 by [Andrew Durham](/). Copying is an act of [♥](http://copyheart.org). Please copy, distribute, and sell (yes, _sell_) this book in its entirety or its industrial applications, ie, darkroom components, in any media or business venture for your own personal gain.
+1. [Copyleft](http://sam.zoy.org/wtfpl) 2009-2015 by [Andrew Durham](/). Copying is an act of [♥](http://copyheart.org). Write me for a print-worthy pdf. Please copy, distribute, and sell (yes, _sell_) this book in its entirety or its industrial applications, ie, darkroom components, in any media or business venture for your own personal gain.
 2. I would like credit where due, so I will recognize and link to you on this site if you:
     1. credit me for a quotation or excerpt and tell me where it appears
     2. share suggestions for text or designs by making pull requests or opening issues in my [github repo](https://github.com/yodrew/yodrew.github.io), or sending [*email*](/about)

@@ -322,7 +322,9 @@ Lots of little changes like this can quickly de-escalate severe psychosis to mer
 
 The effects of a retreat continue afterward, sometimes with an intensity greater than the retreat's. It can feel like a storm sometimes. So I call it the aftermath. This is another phase of exploration, metamorphosis, and insight. It can last from a few days to several weeks. The transition days of a retreat reduce its length and intensity to tolerable levels. 
 
-> __CAUTION__: Do not attempt a retreat without transition days, no matter how desperate and short on time you may be. See [format > warning](/format/) for more.
+> __CAUTION__
+
+> Do not attempt a retreat without transition days, no matter how desperate and short on time you may be. See [format > warning](/format/) for more.
 
 For about a week after your retreat, plan only usual things: job, school, family. This most quickly returns you to functional stability, minimizes exposure to disturbance, and maximizes your chance of absorbing the value of the retreat. Avoid traveling or big new things. Stay in when you might go out. The party will still be there in a week. Be subdued. Keep to yourself. Whose life is it anyway?
 
@@ -344,19 +346,17 @@ The full application of the [**idea**](/darkness-conjecture) behind hygienic dar
 alternated with periods of radical lifeway change  
 until health is fully restored.** 
 
-We attain, "Health through healthful living," as we hygienists like to say.
+"Health through healthful living," as we hygienists like to say.
 
 You already know some changes you would like to make. Now you can make some of them. Those you do not know, you will, in darkness, become capable of discovering, learning, and applying. Resources and opportunities that were right under your nose, on the tip of your tongue, out of the corner of your eye suddenly become visible, compelling, accessible. Having restored a lost part of yourself, _how_ you are changes. You notice and attract different things. Once you see you can walk through the front door of a bakery and get whatever you like, you will stop begging crumbs out its back door.
 
 #### summary
 
-I have tried to impress you with the idea that you are not the main actor in darkness. But in truth, a part of you is. It is the part we are taught to ignore, deny, and disown: the autonomic self. In darkness, we cease to identify so closely with the conscious self. And it is revealed as the servant of the autonomic self. This corrects the conventional relationship, which mistakenly attempts to harness the unfailing processes of life to the desperate agenda of a crippled will we view as our sole identity.
+I have tried to impress upon you the idea that you are not the main actor in darkness. But, of course, a part of you is. We are taught to belittle, deny, and disown it: the autonomic self. In darkness, we cease to identify so closely with the conscious. It emerges as the servant of the unconscious. The conventional relationship is corrected. We have mistakenly tried to harness life's unfailing virtues to the desperate agenda of a crippled will, which we view as our sole identity.
 
 In ordinary life, you must arrange certain conditions to live. You must keep your wits about you. You are accountable for your own experience. These basic facts not only persist in the darkroom, they become especially clear. In darkness, it is your job to maintain certain conditions of the retreat. 
 
-Your non-expert, non-mind-reading, non-therapist supporter (if you have one) will be on the outside helping you do that. She will be maintaining the darkroom, bringing food, perhaps finding your lost shoes. Like any decent person would, she will talk to you for a few minutes if you need. It's your retreat. If something is not working, say so.
+Your non-expert, non-mind-reading, non-therapist supporter will be on the outside helping you do that. He will be maintaining the darkroom, bringing food, perhaps finding your lost shoes. Like any decent person would, he will talk to you for a few minutes if you need. It's your retreat. If something is not working, say so.
 
-On your last transition day, write a description of what happened while it is fresh in your memory. Finalize it later with insights from your aftermath. Share it online if you like and please send me a link. I have found these reports very useful in improving the darkroom, understanding the process, and learning to explain it to people. More writers and readers of reports will help spread hygienic darkroom retreating and advance its theory and practice.
-
-
+On your last transition day, write a description of what happened while it is fresh in your memory. Finalize it later with insights from your aftermath. Share it online if you like and send me a link. I have found these reports useful in improving darkrooms, understanding the process, and explaining it to people. More writers and readers of reports will help spread hygienic darkroom retreating, advancing its theory and practice.
 

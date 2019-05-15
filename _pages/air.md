@@ -203,8 +203,6 @@ Read through instructions once while studying plans.
 
 For inside silencer or other enclosure with two or more corners for light to go around. Follow helix vent instructions above, adapting as necessary.
 
-&nbsp;
-
 [![plan: helix vent-z, assembly](/img/plan/image/helix-vent-z-assembly.png)](/img/plan/helix-vent-z-assembly.pdf)
 
 [![plan: helix vent-z, channels](/img/plan/image/helix-vent-z-channels.png)](/img/plan/helix-vent-z-channels.pdf)

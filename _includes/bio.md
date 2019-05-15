@@ -10,7 +10,7 @@ In 2008, my quest culminated in [_the darkness conjecture_](/darkness-conjecture
 
 Now I seek a way to fully apply it in a 20-day retreat in order to heal from my own psychophysical illness.
 
-#### contact
+##### contact
 
 website: [darkroomretreat.com](/)  
 email: info {at} andrewdurham.com  

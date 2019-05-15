@@ -27,18 +27,18 @@ Very slowly. And after becoming familiar with the room and making memorable plac
 - _Could you just retreat with a sleeping mask?_
 
 No. The skin has enough light receptors to awaken you from sleep. Masks do not stay in place, so they leak light. They are not comfortable for extended use. And you still need a properly ventilated room, minimally furnished to eliminate dangers, distractions, and associations. 
-	
+
 Sleeping masks are good for travel, naps, and sleeping until your bedroom can be darkened. Also, for walking through a semi-lit space between a darkroom and a bathroom in dwellings where this is necessary.
 
 - _Is it like meditation?_
 
-In essence, no. On the surface, the two processes have some similarities. Each involves less physical activity. Attention gravitates from the world to oneself. But what goes on inside oneself radically differs. 
+In essence, no. On the surface, the two processes have some similarities. Each involves less physical activity. Attention gravitates from the world to oneself. But what goes on inside oneself radically differs.
 
-	Meditation is active, ie, the will drives the process. Willed activity is the primary process that goes on. The purpose of meditation is to make the unconscious conscious, or to compel the conscious to submit to the unconscious. It is a quiet internal war. 
+Meditation is active, ie, the will drives the process. Willed activity is the primary process that goes on. The purpose of meditation is to make the unconscious conscious, or to compel the conscious to submit to the unconscious. It is a quiet internal war. 
 
-	Darkroom retreating is passive, ie, the unconscious drives the process. Unconscious activity is the primary process that goes on. Willed activity is secondary, The will is servant. The purpose of retreating is to rest so the being can restore itself to wholeness naturally. It is peaceful. 
+Darkroom retreating is passive, ie, the unconscious drives the process. Unconscious activity is the primary process that goes on. Willed activity is secondary, The will is servant. The purpose of retreating is to rest so the being can restore itself to wholeness naturally. It is peaceful. 
 
-	These subtly different drivers and purposes have massive effects on one's experience and results. As extraordinary as the process and results of meditation and spiritual practice can be, they still pale before the power of the autonomic self.
+These subtly different drivers and purposes have massive effects on one's experience and results. As extraordinary as the process and results of meditation and spiritual practice can be, they still pale before the power of the autonomic self.
 
 #### concerns
 
@@ -87,14 +87,14 @@ Our obsession with building---the principle activity of civilization for 13,000 
 I wish it were that easy. Then none of this would be necessary. The sad fact is there are many ways to gain temporary relief and sometimes heal from the very worst part of our suffering. That's good. It enables us to catch our breath, function a little, and survive. But it does not get us anywhere near full recovery. It is merely acceptable by our lifeway's pitifully low standards.
 
 For full recovery, as with all living functions, nature provides single conditions or specific combinations thereof. We're not talking about which color to paint a house. There is no menu, no smorgasbord of options in physiology to suit one's tastes. To breathe, one must have air. To heal from major trauma, one must have darkness and associated conditions of profound rest. These solutions work for everyone, even other animals. But there is no substitute. Physiology is what it is. Post-modernist dogma doesn't alter it one whit.
-	
+
 We can look at it in the negative as well. If this tired statement were true,
 
-    - the "many other ways to heal" would make sense and work
-    - everyone who tried them would now be ok
-    - the deep healing necessary in cases of cataclysmic trauma could occur without profound rest
-    - profound rest can occur in semi-darkness and other compromised conditions
-    - or psychic trauma is not the primary cause of metaphysical suffering
-    - or the human organism has no specific needs for recovering from such pain. It is all random. This, despite its specific and universal need of rest for recovery in all other cases. As well as its specific need of light for seeing, food for eating, etc. And despite suffering's being an indication that something is wrong.
+- the "many other ways to heal" would make sense and work
+- everyone who tried them would now be ok
+- the deep healing necessary in cases of cataclysmic trauma could occur without profound rest
+- profound rest can occur in semi-darkness and other compromised conditions
+- or psychic trauma is not the primary cause of metaphysical suffering
+- or the human organism has no specific needs for recovering from such pain. It is all random. This, despite its specific and universal need of rest for recovery in all other cases. As well as its specific need of light for seeing, food for eating, etc. And despite suffering's being an indication that something is wrong.
  
 Evidence shows all these are false. Again, relativism makes fashionable philosophy but poor physiology. Repeating it changes nothing.

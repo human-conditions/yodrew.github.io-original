@@ -31,7 +31,7 @@ Hygiene has three senses in its definition:
 2. conditions and practices conducive to the preservation of health
 3. cleanliness
 
-Strange, then, that In common usage, the third sense dominates. It is reduced to vigilant cleanliness against germs and use of safety equipment to protect against a hostile environment. We will get to why this happened. Meanwhile, the dictionary shows that hygiene includes all healthy conditions and practices. We will see that it is fearless and relaxed. It respects life's resilience.
+In common usage, the third sense strangely dominates. Hygiene is reduced to vigilant cleanliness against germs and the use of safety equipment to protect against a hostile environment. Why? We will get to that. Meanwhile, the dictionary shows that hygiene includes all healthy conditions and practices. Ist is fearless and relaxed. It respects life's resilience.
 
 Natural Hygiene makes all this explicit. It identifies "preservation" with life's defining characteristic of self-preservation. And it identifies "conditions and practices conducive" to health with the normal conditions of life. Thus it recognizes the self-preserving organism and seeks to provide it with normal conditions of life in both sickness and health. This originates in hygiene's observation of ubiquitous health in nature, where organisms also get injured and sick, yet only normal conditions of life exist. For humans, these conditions and practices, both physiological and social, include:
 
