@@ -7,7 +7,7 @@ When the door shuts and the light goes out, the miracle begins.
 - profound rest from exhaustion
 - complete recovery from illness and injury
 
-This is a _hygienic darkroom retreat_: extended rest in total darkness. Autonomic processes accelerate. Healing super-intensifies. Energy and function are restored. Clarity, strength, and joy reappear. The lost self returns.
+This is a _hygienic darkroom retreat_: extended rest in total darkness. Healing super-intensifies. Energy and function are restored. Clarity, strength, and joy reappear. The lost self returns.
 
 This complete manual explains why a retreat works, how to do it, and how to make a darkroom at home. It shows that miracles are easy. Simply provide their conditions.
 

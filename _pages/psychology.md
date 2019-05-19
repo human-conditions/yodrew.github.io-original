@@ -78,7 +78,7 @@ But for many, doing all that is a big **if**. If they do not make such changes, 
 
 We note the pathology's emphasis on toxemia: chronic internal uncleanliness. This reveals not only Tilden's focus but Natural Hygiene's Puritanical character. It is how medicine trapped hygienism by reducing it to cleanliness. It is why the word, hygiene, makes everyone think of cleanliness no matter what the dictionary says.
 
-**Orthopathy's missing link is trauma**. Its absence has undermined hygiene's status and success. Early hygienists did not grasp the arch-importance of trauma. They missed its relation to chronic illness, which they viewed as more important. They could not deal with trauma hygienically. They didn't notice psychic trauma. They saw physical trauma as mere mechanics best left to surgeons. 
+**Orthopathy's missing link is trauma**. Its absence has undermined hygiene's status and success. Early hygienists did not grasp the arch-importance of trauma. They missed its relation to chronic illness, which they viewed as more important. They didn't seem to notice psychic trauma. They could not deal with physical trauma. They saw it as mechanics best left to surgeons. 
 
 For their part, the surgeons relished the challenge. Their willingness to deal with trauma is the source of medicine's dominance today. By surrendering the imperative of trauma, hygiene lent allopathy social power.
 
