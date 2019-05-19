@@ -301,13 +301,13 @@ nav {
     margin:0;
     }
 
-.man ul ul li.current-menu-item {
-    background: #555;
+.man ul li:hover {
+    background: #222;
+    border-radius: 3px ;
     }
 
-.man ul ul li:hover {
-    background: #333;
-    border-radius: 8px ;
+.man ul li.current-menu-item {
+    background: #555
     }
 
 .man ul ul {
@@ -315,8 +315,8 @@ nav {
     position: absolute;
     top: 100%;
     background-color: #222;
-    border-radius: 7px ;
     border: 1px solid #aaa;
+    border-radius: 7px ;
     padding: 0;
     z-index:2;
     }
@@ -327,8 +327,8 @@ nav {
     font-size: 20px;
     line-height: 25px;
     padding: 1px 5px;
-    text-align: left;
     border-radius: 7px ;
+    text-align: left;
     }
 
 .man ul ul li {
@@ -337,9 +337,10 @@ nav {
     color:#bbbbbb;
     line-height: 25px;
     padding: 1px 10px 1px 5px;
-    text-align: right;
     border-radius: 7px ;
+    text-align: right;
     }
+
 
 .man ul ul ul {
     top: 0;
@@ -352,7 +353,6 @@ nav {
     text-align: left;
     font-style: italic;
     padding: 1px 5px;
-    border-radius: 7px ;
     }
 
 .man ul ul ul a {
@@ -360,12 +360,10 @@ nav {
     font-style: normal;
     width: 240px;
     padding: 1px 5px;
-    border-radius: 7px ;
     }
 
 .man ul li:hover > ul {
     display: block;
-    border-radius: 7px;
     }
 
 #title {
@@ -413,6 +411,7 @@ nav {
     }
 
 span#phrase { display:inline-block; }
+
 
  @media only screen and (max-width: 600px) {
 
@@ -486,5 +485,4 @@ span#phrase { display:inline-block; }
 
 // @import "highlights" ;
 // @import "svg-icons" ;
-
 
