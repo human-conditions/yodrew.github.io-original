@@ -343,7 +343,7 @@ Darkroom retreating provides the conditions in which the organism restores one's
 The full application of the [**idea**](/darkness-conjecture) behind hygienic darkroom retreating consists of 
 
 > **doing retreats of increasing length  
-alternated with periods of radical lifeway change  
+alternated with periods of radical change in lifeway  
 until health is fully restored.** 
 
 "Health through healthful living," as we hygienists like to say.

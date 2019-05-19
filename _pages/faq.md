@@ -98,3 +98,12 @@ We can look at it in the negative as well. If this tired statement were true,
 - or the human organism has no specific needs for recovering from such pain. It is all random. This, despite its specific and universal need of rest for recovery in all other cases. As well as its specific need of light for seeing, food for eating, etc. And despite suffering's being an indication that something is wrong.
  
 Evidence shows all these are false. Again, relativism makes fashionable philosophy but poor physiology. Repeating it changes nothing.
+
+- _Andrew, if hygienic darkroom retreating is so great, how come you are still sick and dysfunctional?_
+
+Is it great?
+
+It is a great question, anyway. It tells me I have succeeded in getting my idea across to you. Now you struggle with it, just as I do. When enough people are struggling with it, a great door will open, and we will sail through. 
+
+
+

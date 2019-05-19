@@ -78,15 +78,15 @@ But for many, doing all that is a big **if**. If they do not make such changes, 
 
 We note the pathology's emphasis on toxemia: chronic internal uncleanliness. This reveals not only Tilden's focus but Natural Hygiene's Puritanical character. It is how medicine trapped hygienism by reducing it to cleanliness. It is why the word, hygiene, makes everyone think of cleanliness no matter what the dictionary says.
 
-**Orthopathy's missing link is trauma**. Its absence has undermined hygiene's status and success. Early hygienists did not grasp the arch-importance of trauma. They missed its relation to chronic illness, which they viewed as more important. They didn't seem to notice psychic trauma. They could not deal with physical trauma. They saw it as mechanics best left to surgeons. 
+**The missing link in Orthopathy is trauma**. Its absence has undermined hygiene's success and status. Early hygienists viewed chronic illness as important.  did not grasp the importance of trauma. They missed its relation to chronic illness, which they viewed as more important. They saw trauma as mechanics best left to surgeons. 
 
-For their part, the surgeons relished the challenge. Their willingness to deal with trauma is the source of medicine's dominance today. By surrendering the imperative of trauma, hygiene lent allopathy social power.
+For their part, the surgeons relished the challenge. Their willingness to deal with trauma is the source of medicine's dominance today. By surrendering the imperative of trauma, hygiene lent allopathy mythic power.
 
 Most early hygienic physicians started as allopaths. They never shook their fascination with surgery. Surgery makes doctors seem powerful on nature's scale. It affirms civilization's fear of the body and nature. It reinforces the feeling of helplessness following trauma.
 
 Engaging the dragon of trauma with their little swords, doctors acquire the status of gods and heroes. Deep down, everyone knows that trauma is the source of all disease, suffering, and incapacity. Unhealed trauma has destroyed most of our personal power. Anyone who can bring back, even a little, must be divine.
 
-Fortunately, we have rationality and science. Biology helps us correct hygiene's' over-emphasis on cleanliness. In the three phases of healing, repair is prior to elimination. The organism cleans itself only as it repairs itself. At first, repair always causes a mess and must be cleaned up as it proceeds. Damaged tissue is unprotected and attracts foreign debris. It is dysfunctional and cannot clean itself. Beyond a certain point, cleaning without repair is pointless and the body knows it. This explains endless detoxification when switching to a "clean diet".
+Fortunately, rationality prevails in hygiene, which is, after all, a science. Both etymology and biology help us correct hygiene's over-emphasis on cleanliness. In the three phases of healing, repair is prior to elimination. The organism cleans itself only as it repairs itself. At first, repair always causes a mess and must be cleaned up as it proceeds. Until then, damaged tissue is unprotected and attracts foreign matter. It is dysfunctional and cannot clean itself. Beyond a certain point, cleaning without repair is pointless. The body knows it and awaits a chance to repair itself. This explains endless detoxification when switching to a "clean diet".
 
 Likewise, the organism reenergizes tissue only as it repairs and cleans itself. Tissue is fully charged only when integrity is completely restored. Therefore, trauma comes before enervation and toxemia in the pathology. Remaining stages become subordinate to these primary three. Thus our revised pathology.
 

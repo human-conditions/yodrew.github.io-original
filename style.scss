@@ -67,11 +67,15 @@ p {
     }
 
 a {
-    color: #4183C4;
+//    color: #4183C4;
+//    color: #59844c;
+    color: #83a976;
     text-decoration: none;
     cursor: pointer; }
     a:hover, a:active {
-    color: #4183C4;
+//    color: #4183C4;
+    color: #83a976;
+//    color: #59844c;
     }
 
 ul, ol {
@@ -301,20 +305,17 @@ nav {
     margin:0;
     }
 
-.man ul ul li.current-menu-item {
-    background: #555;
-    }
 
 .man ul ul li:hover {
     background: #333;
-    border-radius: 8px ;
+    border-radius: 7px ;
     }
 
 .man ul ul {
     display: none;
     position: absolute;
     top: 100%;
-    background-color: #222;
+    background-color: #181818;
     border-radius: 7px ;
     border: 1px solid #aaa;
     padding: 0;
@@ -334,7 +335,7 @@ nav {
 .man ul ul li {
     font-weight: normal;
     font-size: 20px;
-    color:#bbbbbb;
+    color:#bebebe;
     line-height: 25px;
     padding: 1px 10px 1px 5px;
     text-align: right;
