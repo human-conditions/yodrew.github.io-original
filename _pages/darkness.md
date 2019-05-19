@@ -446,6 +446,6 @@ This design takes considerable time. I've built it only once. The price of manuf
 
     Uncovered edge of vertical frame member holds rails for roller blind that covers remaining part of window. To keep blind in place when wind blows too strong, stick pushpins through rails and blind every 200-300mm. Always use same holes. 
 
-~~
+~/~
 
 That's darkness. Now for managing water and waste in a darkroom.

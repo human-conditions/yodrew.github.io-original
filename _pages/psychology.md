@@ -52,7 +52,7 @@ Hygiene's generic pathology could not be simpler. We become unwell because we've
     2. **elimination**: removal of endogenous waste and exogenous toxins from cells through the lymph and organs of elimination
     3. **re-energization**: recharging of nerves and refueling of cells
 
-This pathology is much simplified and radicalized compared to hygiene's traditional pathology. Which we will review and critique now in support of the above revision.
+This pathology is simplified and radicalized compared to hygiene's traditional pathology. The old pathology helps explain disease once it has begun, but not its inception. We will review and critique it now.
 
 ##### seven stages of disease
 
@@ -70,21 +70,25 @@ We have [Victoria Bidwell](http://getwellstaywell.com), a tireless contemporary 
 
 ##### revision
 
-Tilden's analysis shows the close relationship between enervation and toxemia as two of the most obvious causes of all illness. Indeed, they play a huge part in ongoing symptomology. It shows where a sick person really is in the course of illness. It can subtly inform one's response. It explains hygiene's countless unreported successes for two centuries with those allopathy had pronounced hopeless. Hygienists merely put them to bed with plenty of water and fresh air and ceased to poison them with drugs. 
+Tilden's analysis shows the close relationship between enervation and toxemia as two of the most obvious causes of all illness. Indeed, they play a huge part in ongoing symptomology. It shows where a sick person really is in the course of illness. It can subtly inform one's response. It explains hygiene's countless unreported successes for two centuries with people allopathy had pronounced hopeless. 
 
-If afterward, they could quit the ultra-toxins of coffee, tea, and tobacco; cut back on overwork and stress; increase daily rest; fast sometimes; move away from pollution; eat better and take up exercise; then they would heal more deeply and stay healthy. It continues to happen every day without media fanfare as millions in each generation discover hygiene.
+Usually, hygienists put people to bed with plenty of water and fresh air and ceased to poison them with drugs. if they could improve their lifestyles enough afterward, then they would not relapse. Common advice is to quit the ultra-toxins of coffee, tea, and tobacco; eliminate overwork and reduce stress; increase daily rest; increase fresh food in the diet; take up exercise; fast sometimes; and move away from polluted areas.
 
-But for many, doing all that is a big **if**. If they do not make the necessary lifestyle changes, then hygiene is unable to help them. They drift back to medicine or some alternative. A few get lucky there, reducing their worst symptoms. The rest find ways to cope with semi-recovery or perish quietly. 
+But for many, doing all that is a big **if**. If they do not make such changes, then hygiene is unable to help them. Most drift back to medicine. A few get lucky with alternatives, reducing their worst symptoms. The rest find ways to cope with semi-recovery or perish quietly. 
 
-We note the pathology's emphasis on toxemia: chronic internal uncleanliness. This characterizes not only Tilden's focus but Natural Hygiene's Puritanical character. It is how medicine trapped hygienism by reducing it to cleanliness. 
+We note the pathology's emphasis on toxemia: chronic internal uncleanliness. This reveals not only Tilden's focus but Natural Hygiene's Puritanical character. It is how medicine trapped hygienism by reducing it to cleanliness. It is why the word, hygiene, makes everyone think of cleanliness no matter what the dictionary says.
 
-**Orthopathy's missing link is trauma**. Its lack has undermined hygiene's status and success. Early hygienists did not grasp the arch-importance of trauma and could not deal with it. They missed its relation to the more important issue of chronic illness, viewing it as mere mechanics best left to surgeons. For their part, the surgeons relished the challenge. This is the source of their godlike status. By surrendering the imperative of trauma, hygiene lent allopathy mythic power.
+**Orthopathy's missing link is trauma**. Its absence has undermined hygiene's status and success. Early hygienists did not grasp the arch-importance of trauma. They missed its relation to chronic illness, which they viewed as more important. They could not deal with trauma hygienically. They didn't notice psychic trauma. They saw physical trauma as mere mechanics best left to surgeons. 
 
-Most hygienic physicians started as allopaths. The fascination with surgery seems hard to shake. It makes doctors seem powerful on nature's scale. It affirms civilization's fear of nature and the body. It reinforces the unconscious feeling of infantile helplessness following trauma. Engaging the dragon of trauma with their little swords, doctors acquire the status of gods and heroes. For everyone knows deep down that trauma is the source of all pain and incapacity. All our power has been ferreted away down its rabbit's hole. Anyone who can bring back a little of it must be divine.
+For their part, the surgeons relished the challenge. Their willingness to deal with trauma is the source of medicine's dominance today. By surrendering the imperative of trauma, hygiene lent allopathy social power.
 
-Biology helps us correct this over-emphasis on cleanliness. In the three phases of healing, repair is prior to elimination. The organism cleans itself only as it repairs itself. Repair always causes a mess and must be cleaned up as it proceeds. Damaged tissue is unprotected and attracts foreign debris. It cannot clean itself. Beyond a certain point, cleaning without repair is pointless and the body knows it. This explains endless detoxification when switching to a "clean diet".
+Most early hygienic physicians started as allopaths. They never shook their fascination with surgery. Surgery makes doctors seem powerful on nature's scale. It affirms civilization's fear of the body and nature. It reinforces the feeling of helplessness following trauma.
 
-Likewise, the organism reenergizes tissue as it repairs and cleans itself. It is fully charged only when substantial integrity is restored. Therefore, trauma comes before enervation and toxemia in the pathology. Remaining stages become subordinate to these primary three. Thus our revised pathology, three sections above.
+Engaging the dragon of trauma with their little swords, doctors acquire the status of gods and heroes. Deep down, everyone knows that trauma is the source of all disease, suffering, and incapacity. Unhealed trauma has destroyed most of our personal power. Anyone who can bring back, even a little, must be divine.
+
+Fortunately, we have rationality and science. Biology helps us correct hygiene's' over-emphasis on cleanliness. In the three phases of healing, repair is prior to elimination. The organism cleans itself only as it repairs itself. At first, repair always causes a mess and must be cleaned up as it proceeds. Damaged tissue is unprotected and attracts foreign debris. It is dysfunctional and cannot clean itself. Beyond a certain point, cleaning without repair is pointless and the body knows it. This explains endless detoxification when switching to a "clean diet".
+
+Likewise, the organism reenergizes tissue only as it repairs and cleans itself. Tissue is fully charged only when integrity is completely restored. Therefore, trauma comes before enervation and toxemia in the pathology. Remaining stages become subordinate to these primary three. Thus our revised pathology.
 
 Disease can begin with any of these. But chronic illness generally originates in past unhealed trauma. It set up the conditions for enervation or toxemia. If enervation or toxemia occur in the normal course of living, it must be extreme to lead to chronic conditions. Without trauma, self-corrective instincts usually remain intact. They immediately prompt an individual to restore normal conditions even if enervated or intoxicated.
 
@@ -304,7 +308,7 @@ But one always knows the result: restoration of function---recovery of the lost 
 
 And then? Healed from trauma, one will no longer be compelled to repeat it. One will absorb and redeem its history and consequences. As with the rest of hygiene, hygienic psychology's bad news is much worse, and its good news is far better than anyone dreamed. 
 
-~~
+~/~
 
 The maturation of hygiene's laws; the emergence of a hygienic psychology; the identification of trauma at the root of all illness; and the greater importance of darkness than fasting for resting and healing have massive implications for hygiene's pathology and destiny, and humanity's as well. Hygiene has said illness originates with enervation (low energy) and toxemia. Trauma explains how these conditions themselves originate. And in coming to terms with trauma, hygiene can finally meet and obsolete allopathy (Western medicine) in its stronghold. I discuss these implications further in [*hygiene notes*](/darkness-conjecture/hygiene-notes).
 

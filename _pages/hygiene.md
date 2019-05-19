@@ -221,7 +221,7 @@ This is the hardest lesson I have learned about darkness. With every new breakth
 
 But, no. Doing far too many 3- and 4-day retreats caused the problem of _overloss_ of false capacity. False capacity breaks down too much before the organism can restore normal capacity to the point of usefulness. The solution is simple: do no more than one or two 4-day retreats. Advance quickly to 8-day and medium-length retreats. I discuss this more in [*format*](/format).
 
-~~
+~/~
 
 This is the general theory of hygiene 3.0. Our main subject, the darkroom retreat, instigated the revision. Now, in context, we can see our subject more precisely.
 

@@ -6,7 +6,7 @@ navprev: acknowledgments
 navnext: disclaimer
 ---
 
-Welcome to the political-economy of _cool_, where you get rewarded for cooperating, not threatened with punishment if you don't. We now possess the means of recovering the source of all wealth. Applying it even slightly will make money irrelevant. Let's have a good time with this.
+Welcome to the political-economy of _cool_, where you get rewarded for cooperating, not threatened with punishment if you don't. 
 
 1. [Copyleft](http://sam.zoy.org/wtfpl) 2009-2015 by [Andrew Durham](/). Copying is an act of [♥](http://copyheart.org). Write me for a print-worthy pdf. Please copy, distribute, and sell (yes, _sell_) this book in its entirety or its industrial applications, ie, darkroom components, in any media or business venture for your own personal gain.
 2. I would like credit where due, so I will recognize and link to you on this site if you:
@@ -26,3 +26,4 @@ Welcome to the political-economy of _cool_, where you get rewarded for cooperati
     
 The idea is to make the book and components available with minimal friction in every way, at every level of distribution, so that we all can retreat asap and make reasonable livings as we go. If anything about this license seem to conflict with these goals, please let me know.
 
+We now possess the means of recovering the whole self, the source of all wealth. Applying it even slightly will make money irrelevant. Let's be cool and have a good time with this.

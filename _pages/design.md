@@ -189,7 +189,7 @@ A good building for the long-term is curved, round, or has five or more sides of
 
 Happily, a handful of elegant, cheap, quick, [round shelter designs](/other-writings/links) are available for new buildings. It turns out that orthogonal construction is not simpler or easier. It's merely a frame of mind.
 
-~~
+~/~
 
 Now, let's learn to actually make escape vehicles out of prison cells. The next chapter gives detailed instructions and computer-drawn plans for your very own darkroom.
 

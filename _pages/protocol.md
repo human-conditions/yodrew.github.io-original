@@ -350,7 +350,7 @@ until health is fully restored.**
 
 You already know some changes you would like to make. Now you can make some of them. Those you do not know, you will, in darkness, become capable of discovering, learning, and applying. Resources and opportunities that were right under your nose, on the tip of your tongue, out of the corner of your eye suddenly become visible, compelling, accessible. Having restored a lost part of yourself, _how_ you are changes. You notice and attract different things. Once you see you can walk through the front door of a bakery and get whatever you like, you will stop begging crumbs out its back door.
 
-#### summary
+~/~
 
 I have tried to impress upon you the idea that you are not the main actor in darkness. But, of course, a part of you is. We are taught to belittle, deny, and disown it: the autonomic self. In darkness, we cease to identify so closely with the conscious. It emerges as the servant of the unconscious. The conventional relationship is corrected. We have mistakenly tried to harness life's unfailing virtues to the desperate agenda of a crippled will, which we view as our sole identity.
 

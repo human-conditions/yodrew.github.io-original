@@ -22,9 +22,14 @@
         <nav class="man">
             <ul>
                 <li>&#9776;
+                    <ul id="subtitleul">
+                        <li id="subtitleli"><em>profound rest for the self&#8209;healing&nbsp;psyche</em><br />
+                        a book by andrew durham</li>
+                    </ul>
                     <ul>
                         <li>intro
                             <ul>
+                                <li><a href="/">blurb</a></li>
                                 <li><a href="/dedication">dedication</a></li>
                                 <li><a href="/notes/">notes</a></li>
                                 <li><a href="/foreword">foreword</a></li>
@@ -71,26 +76,31 @@
         </nav>
     </div>
     <div>
-        <h1 id="title"><a href="/">hygienic <span id="phrase">darkroom retreat</span></a></h1>
-                   <p id="sub">profound rest for&nbsp;the self&#8209;healing&nbsp;psyche</p>
-                  <p id="author">by&nbsp;andrew&nbsp;durham</p>
+        <div><h1 id="title"><a href="/">hygienic darkroom retreat</a></h1>
+                     <!-- <p id="subtitle"><em>profound rest for the self&#8209;healing&nbsp;psyche</em><br />
+                        a book by andrew durham</p> -->
+        </div>
     </div>
-    <div>
-        <a href="https://leanpub.com/darkroomretreat"><img src="/img/book-cover.png" id="img" title="click to buy" label="book cover image"> </a>
-    </div>
+    <div><a href="https://leanpub.com/darkroomretreat"><img src="/img/book-cover.png" id="img" title="click to buy" label="book cover image"><!--<img src="/img/book-cover.png" id="img2" label="buy book">--> </a>
+    </div>  
 </div>
+
+
+</div>
+
 <div class="container">
     {{ content }}
 </div>
 
 <div class="container">
     <footer class="footer">
-        {% include svg-icons.html %}
+
+          {% include svg-icons.html %}
     </footer>
 </div>
+    
 
     {% include analytics.html %}
-
 </body>
 </html>
 

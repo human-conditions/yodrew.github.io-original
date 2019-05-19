@@ -402,7 +402,8 @@ In some cases, an air purifier becomes necessary. If your house is near a factor
 Recently, I upgraded the ventilation system of a darkroom where people nearby burn coal for heat. Coal smoke smells terrible. I installed a carbon filter into the silencer. The $50, 18 x 18 cm filter eliminates the smell. Catching the particles would require HEPA filtration, but it seemed less important at the time. The filter also stops all light and some sound. It requires a more powerful fan than a standard case fan to overcome the resistance it presents. The cheap DC centrifugal blower fan I mentioned above would work. Soon I will test it with the silencer, which will likely cancel its extra noise. If so, I'll adapt the fan mount for it, too.
 
 If air quality at your home is bad enough, consider moving. Lots of places in small towns and the countryside have clean air and are less polluted in general. It can be a cheap and simple solution to multiple problems.
-~~
+
+~/~
 
 That's it for lightproof ventilation, silence, power, heating, and purification. On to darkening doors and windows.
 

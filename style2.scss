@@ -113,6 +113,7 @@ img {
     max-height: 600px;
     background-color: white;
     padding: 20px;
+    z-index: 1;
     }
 
 dl:after {
@@ -269,6 +270,7 @@ footer {
 .flex-container {
     display: flex;
     flex-wrap: nowrap;
+    width: 600px;
     }
 
 .flex-container > div {
@@ -297,17 +299,18 @@ nav {
     font-weight: 700;
     font-size: 38px;
     line-height: 40px;
-    padding: 0 60px 0 0;
+    padding: 0 20px 0 0;
     margin:0;
     }
 
-.man ul li.current-menu-item {
+/* .man ul li.current-menu-item {
     background: #555;
     }
+*/
 
 .man ul li:hover {
     background: #333;
-    border-radius: 3px ;
+    border-radius: 7px ;
     }
 
 .man ul ul {
@@ -333,9 +336,9 @@ nav {
 .man ul ul li {
     font-weight: normal;
     font-size: 20px;
-    color:#bbbbbb;
+    color:#aaa;
     line-height: 25px;
-    padding: 1px 10px 1px 5px;
+    padding: 1px 5px;
     text-align: right;
     border-radius: 7px ;
     }
@@ -357,6 +360,8 @@ nav {
 .man ul ul ul a {
     font-weight: normal;
     font-style: normal;
+    font-size: 20px;
+    line-height: 25px;
     width: 240px;
     padding: 1px 5px;
     border-radius: 7px ;
@@ -367,6 +372,7 @@ nav {
     border-radius: 7px;
     }
 
+
 #title {
     margin: 0;
     color: #bbb;
@@ -374,44 +380,43 @@ nav {
     font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
     font-weight: bold;
     font-size: 36px;
-    text-align: center;
     line-height: 36px;
     }
 
-#sub {
-    display: block;
-    margin: 0;
-    padding: 3px 0 0 0;
+#subtitle {
+    display: none;
+    margin: 3px 0 0 10px;
+    padding: 5px 10px;
     color: #888;
     font-weight: normal;
     font-size: 18px;
-    font-style: italic;
     line-height: 22px;
-    position: relative;
-    text-align: center;
+    position: absolute;
+    background-color: #222;
+    border-radius: 5px ;
     z-index:1;
     }
 
-#author {
-    display: block;
-    text-align: center;
-    margin: 10px 0 0 0;
+#sub {
+    display: none;
+    margin: 0 0 0 60px;
+    padding: 3px 10px;
     color: #888;
     font-weight: normal;
     font-size: 18px;
-    font-style: normal;
-    line-height: 1;
-    z-index:1;    
+    line-height: 22px;
+    position: relative;
+    border-radius: 5px ;
+    z-index:5;
     }
     
 #img  {
-    width:120px;
-     padding:0;
-    margin: 0 0 0 50px; /* -135px 40px 20px 10px; */
+    width:180px;
+     float: right;
+    padding:0;
+    margin: -80px 60px 0 0;
     filter:brightness(90%);
     }
-
-span#phrase { display:inline-block; }
 
 
  @media only screen and (max-width: 600px) {
@@ -421,7 +426,7 @@ span#phrase { display:inline-block; }
     font-weight: 700;
     font-size: 32px;
     line-height: 32px;
-    padding: 0 15px 0 0;
+    padding: 0 10px 0 0;
     }
 
 #title {
@@ -434,6 +439,20 @@ span#phrase { display:inline-block; }
     line-height: 30px;
     }
 
+#subtitle {
+    display: none;
+    margin: 3px 0 0 10px;
+    padding: 5px 10px;
+    color: #888;
+    font-weight: normal;
+    font-size: 18px;
+    line-height: 22px;
+    position: absolute;
+    background-color: #222;
+    border-radius: 5px ;
+    z-index:1;
+    }
+
 #sub {
     display: block;
     margin: 0;
@@ -441,48 +460,23 @@ span#phrase { display:inline-block; }
     color: #888;
     font-weight: normal;
     font-size: 16px;
-    font-style: italic;
     line-height: 18px;
     position: relative;
+    border-radius: 5px ;
     z-index:1;
     }
-
-#author {
-    display: block;
-    text-align: center;
-    margin: 0;
-    color: #888;
-    font-weight: normal;
-    font-size: 16px;
-    font-style: normal;
-    line-height: 18px;
-    position: relative;
-    z-index:1;    
-    }
-
 #img  {
-    width:100px;
+    float:right;
+    width:340px;
     padding:0;
-    margin: 0 5px 10px 5px;
+    margin: 5px 0 0 5px;
     filter:brightness(90%);
     }
     }
     
- @media only screen and (max-width: 359px) {
-
-.man ul ul a {
-    font-size: 18px;
-    line-height: 22px;
+img:hover p {
+    display: block;
     }
-
-.man ul ul li {
-    font-size: 18px;
-    line-height: 22px;
-    }
-#img  {
-    width:95px;
-    }
-}
 
 // @import "highlights" ;
 // @import "svg-icons" ;

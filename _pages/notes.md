@@ -17,13 +17,13 @@ This book has links. On the web, they are colored. In the ebook and print, they 
 ##### get latest version
 
 - web
-    - one chapter per page, dark background:  
+    - one page per chapter, dark background:  
     [darkroomretreat.com](http://darkroomretreat.com) 
-    - all on one page, light background:  
+    - single page, light background:  
     [leanpub.com/darkroomretreat/read](http://leanpub.com/darkroomretreat/read)
 - ebook (pdf, epub, mobi)
-    - direct: [darkroomretreat.com/ebook](/ebook)
     - get notified of new versions:  
     [leanpub.com/darkroomretreat](http://leanpub.com/darkroomretreat)
+    - direct: [darkroomretreat.com/ebook](/ebook)
 - plans: [darkroom-retreat.zip](/darkroom-retreat.zip/ )
 

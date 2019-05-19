@@ -200,7 +200,7 @@ For a few years, I focused on designing and building public darkrooms. Then came
 
 Those who support hygienic darkroom retreating are eligible for my future network, through which I can refer clients to you. Write me for more info.
 
-~~
+~/~
 
 It may take a few generations of healthy living to fully restore our health and realize our potential as human beings. But we can make huge strides in our lifetimes, getting most of the way back.
 

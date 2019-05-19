@@ -260,6 +260,6 @@ In addition to this book, I can assist you by email, skype, and in person. See [
  
 I continually update this book. Especially before building, download the latest version of the book and review relevant sections for new plans. 
 
-~~
+~/~
 
 Now on to how darkness completes the life-restoring perspective of hygiene.
