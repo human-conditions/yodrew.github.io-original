@@ -64,11 +64,15 @@ A 20L bucket sits inside a box with a hole in the top. The return duct attaches 
 
 Overall dimensions: 35cmH x 60W x 60D
 
+&nbsp;
+
 [![plan: toilet top](/img/plan/image/toilet-top.png)](/img/plan/toilet-top.pdf)
 
 [![plan: toilet frame](/img/plan/image/toilet-frame.png)](/img/plan/toilet-frame.pdf)
 
 [![plan: toilet liner](/img/plan/image/toilet-liner.png)](/img/plan/toilet-liner.pdf)
+
+&nbsp;
 
 - top
     - platform made of 15--20 tongue and groove boards or 12--20 plywood
@@ -110,6 +114,8 @@ A washcloth or sponge for a sponge bath
 ##### deluxe
 
 [![plan: shower](/img/plan/image/shower.png)](/img/plan/shower.pdf)
+
+&nbsp;
 
 It's a simple shower which collapses for storage, requiring no pipes and little water. Parts from top to bottom:
 

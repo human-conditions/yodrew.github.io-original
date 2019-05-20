@@ -34,6 +34,8 @@ We will start with the simplest and most portable design, which darkens the smal
 
 [![plan: sleeping mask](/img/plan/image/sleeping-mask.png)](/img/plan/sleeping-mask.pdf)
 
+&nbsp;
+
 The quickest way to obtain a large measure of darkness wherever you are is to cover your eyes with a good sleeping mask. No mask is comfortable for long periods while blocking all light and staying in place. And our skin has enough light-receptors for it to wake us up. So it doesn't replace a darkroom. But it is cheap, quick, accessible, discreet, and very effective for immediately improving sleep. It is a good first step toward the profound rest darkness makes possible.
 
 I have not tried every mask on the market. But so far, none has satisfied my requirements. So I designed one that works well. The strap design is very effective and would improve most existing masks. Instant and standard versions described below.
@@ -119,6 +121,8 @@ This is a new design. I feel there is an easier way to do it, but this works for
 #### door seal
 
 [![plan: door seal section](/img/plan/image/door-seal.png)](/img/plan/door-seal.pdf)
+
+&nbsp;
 
 Black polar fleece makes darkening a door easy and quick. Use masking tape at first. Tack edge of fleece in position with 10mm pieces of masking tape every 400mm. Then put a continuous strip of tape over the edge. Once you get the hang of it and know where you want the fleece to stay, use glue where possible (glue removal described below).
 
@@ -365,6 +369,8 @@ This design takes considerable time. I've built it only once. The price of manuf
 - _h_ (italicized): height of recess, measured between T and B sills. Measure both sides.
 - _w_ (italicized): width of window recess, measured between the side sills. _w_ changes slightly top to bottom. Measure top for cassette, bottom for rail B or footer, and 170mm up from bottom sill for joint. w of blind itself should be narrowest of 3 measurements.
 
+&nbsp;
+
 [![plan: roller blind, layout](/img/plan/image/roller-blind-layout.png)](/img/plan/roller-blind-layout.pdf)
 
 [![plan: roller blind, frame](/img/plan/image/roller-blind-frame.png)](/img/plan/roller-blind-frame.pdf)
@@ -372,6 +378,8 @@ This design takes considerable time. I've built it only once. The price of manuf
 [![plan: roller blind, panel](/img/plan/image/roller-blind-panel.png)](/img/plan/roller-blind-panel.pdf)
 
 [![plan: roller blind, parts](/img/plan/image/roller-blind-parts.png)](/img/plan/roller-blind-parts.pdf)
+
+&nbsp;
 
 - materials
     - white IKEA Tupplur blackout blind, enough for double layers (don't get black; the coating seems to be thinner and actually leaks more light)
