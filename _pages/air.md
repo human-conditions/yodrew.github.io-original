@@ -82,8 +82,7 @@ Here are further design constraints, photos, plans, and instructions for making 
 
 ##### constraints
 
-Key:
-(helix vent / helix-z  specifications in parentheses )  
+(helix / helix-z  specifications in parentheses)  
 {threshold vent specifications in curly braces}
 
 - durable (protected by cardboard shell or silencer){subject to damage by kicking but easily rebuilt and can be made of sheet metal or shielded with cardboard or thin wooden boards}
@@ -375,9 +374,9 @@ The most interesting plate exchangers use the Mitsubishi _Lossnay_ core, found i
 
 In some cases, an air purifier becomes necessary. If your house is near a factory, busy roads, in a smoggy city, or near a smelly restaurant or neighbor, get one. Purification methods include:
 
-- carbon
+- activated carbon
 - HEPA
-- Photo Catalytic Oxydation ([____PCO____](https://www.sciencedirect.com/science/article/pii/S0926337316308001)) is a new, interesting technology that destroys pollutants at the molecular level. Several companies make filters with it. Prices vary widely. 
+- Photo Catalytic Oxydation ([PCO](https://www.sciencedirect.com/science/article/pii/S0926337316308001)) is a new, interesting technology that destroys pollutants at the molecular level. Several companies make filters with it. Prices vary widely. 
 - UV-C light bulbs with 253.7nm wavelength destroys VOCS and germs and cost less than $10. These would use the regular case fan and just need a helix vent to stop light.
 - ionization produces toxic levels of ozone 
 
