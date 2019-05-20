@@ -102,11 +102,7 @@ Key:
 
 ![photo: helix vent, exploded core](/img/photo/helix-vent-core-exploded.jpg)
 
-&nbsp;
-
 This photo is of the old helix vent. The new one is similar but: a bit narrower; triangles inside are more pointy; their edges have flaps; there is no fabric; at the side opening, the cardboard has a lip and the core has flaps.
-
-&nbsp;
 
 [![plan: helix vent, assembly](/img/plan/image/helix-vent-assembly.png)](/img/plan/helix-vent-assembly.pdf)
 
@@ -119,8 +115,6 @@ This photo is of the old helix vent. The new one is similar but: a bit narrower;
 [![plan: helix vent, shell](/img/plan/image/helix-vent-shell.png)](/img/plan/helix-vent-shell.pdf)
 
 [![plan: helix vent, slot](/img/plan/image/helix-vent-slot.png)](/img/plan/helix-vent-slot.pdf)
-
-&nbsp;
 
 I call it a helix vent because of how air actually moves through it: like a corkscrew. It might look like air would zigzag through like light. But air is a fluid like water and takes the path of least resistance. Which is to maintain the same curved trajectory by _helixing_ through. Because the helix is the natural form of fluids in motion under any circumstance, this minimizes friction within the airstream as well. 
 
@@ -211,8 +205,6 @@ For inside silencer or other enclosure with two or more corners for light to go 
 
 [![plan: helix vent-z, outer-wall](/img/plan/image/helix-vent-z-outer-wall.png)](/img/plan/helix-vent-z-outer-wall.pdf)
 
-&nbsp;
-
 ##### threshold vent
 
 A bedroom door often has a gap at the bottom---the threshold---for ventilation. In mechanically ventilated dwellings, this gap allows air to flow out of the bedroom toward the dwelling's return vent (or perhaps just a window). The threshold vent lets air out but no light in. Its design adapts to door thickness, the height of the gap between bottom of door and threshold, width of door, and width of vent necessary for sufficient airflow. It works if gap is 15-33mm. 
@@ -221,13 +213,9 @@ If greater than 33mm, add cardboard or wood to the bottom of the door or build u
 
 Block light that reaches the door from the outside as much as possible. For example, make a [removable partition](http://andrewdurham.shutterfly.com/313) in the hallway, which can also darken the path between darkroom and bathroom. It's a wooden frame a little wider than the hallway so it wedges in at an angle, with a fleece seal around the frame, filled with black plastic sheeting with helix vents as needed.
 
-&nbsp;
-
 [![plan: threshold vent perspective](/img/plan/image/threshold-vent-perspective.png)](/img/plan/threshold-vent-perspective.pdf)
 
 [![plan: threshold vent](/img/plan/image/threshold-vent.png)](/img/plan/threshold-vent.pdf)
-
-&nbsp;
 
 1. materials
     - paper, black, acid-free, 400-600gsm
@@ -286,11 +274,7 @@ In the past year, I built two box silencers into window recesses. They were simp
 
 Thanks to Richard Nöjd of Skattungbyn, Sweden, for pointing out these cool solutions. Silencers and acoustic ducting are standard industrial components, making buildings quiet worldwide. 
 
-&nbsp;
-
 [![plan: silencer](/img/plan/image/silencer.png)](/img/plan/silencer.pdf)
-
-&nbsp;
 
 The plan is straightforward. It is just a wooden box with insulation. The zig-zag channel has a hole at each end. Each hole has 4 possible locations: either face, side, or end. Cut a circle for ducting or fan, a slot for a helix vent. The fan mount adapts to all 4 locations, inside or out.
 
@@ -330,8 +314,6 @@ I just discovered cheap centrifugal "blower" fans in the same size. $10-20 on eB
 ##### fan mount
 
 [![plan: fan mount](/img/plan/image/fan-mount.png)](/img/plan/fan-mount.pdf)
-
-&nbsp;
 
 This mounting design totally dampens vibration from the fan, which is already smooth and quiet. The silencer then absorbs the fan's airborne noise. It is inspired by studio microphones and tensegrity structures. The resulting module fits over any hole in the silencer.
 

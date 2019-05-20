@@ -2,8 +2,8 @@
 title: participate
 permalink: "/about/participate/"
 layout: page
-navprev: license
 navnext: ./
+navprev: license
 ---
 
 Join the dolphin economy: I help you help me help you...

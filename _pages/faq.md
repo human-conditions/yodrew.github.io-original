@@ -84,7 +84,7 @@ Our obsession with building---the principle activity of civilization for 13,000 
 
 - _Extended darkness could be good for some people, but there are many ways people can heal their suffering. Nothing works for everyone._
 
-I wish it were that easy. Then none of this would be necessary. The sad fact is there are many ways to gain temporary relief and sometimes heal from the very worst part of our suffering. That's good. It enables us to catch our breath, function a little, and survive. But it does not get us anywhere near full recovery. It is merely acceptable by our lifeway's pitifully low standards.
+I wish it were that easy. Then none of this would be necessary. The sad fact is there are many ways to gain temporary relief. Some help us heal from the worst part of our suffering. That is good. It enables us to catch our breath and survive. But it does not get us near full recovery. It is merely acceptable by our lifeway's low standards.
 
 For full recovery, as with all living functions, nature provides single conditions or specific combinations thereof. We're not talking about which color to paint a house. There is no menu, no smorgasbord of options in physiology to suit one's tastes. To breathe, one must have air. To heal from major trauma, one must have darkness and associated conditions of profound rest. These solutions work for everyone, even other animals. But there is no substitute. Physiology is what it is. Post-modernist dogma doesn't alter it one whit.
 
@@ -99,11 +99,11 @@ We can look at it in the negative as well. If this tired statement were true,
  
 Evidence shows all these are false. Again, relativism makes fashionable philosophy but poor physiology. Repeating it changes nothing.
 
-- _Andrew, if hygienic darkroom retreating is so great, how come you are still sick and dysfunctional?_
+- _If hygienic darkroom retreating is so great, how come you are still sick?_
 
 Is it great?
 
-Anyway, I'm glad you asked. It tells me I have succeeded in getting my idea across to you. Now you struggle with it, just as I do. When enough people are struggling with it, a great door will open, and we will sail through. 
+Anyway, I'm glad you asked. It tells me I have gotten enough of my idea across for you to begin struggling with it. When enough people are struggling with it, a great door will open, and we will sail through. 
 
 
 

@@ -181,11 +181,7 @@ Images in this book are only for reference and hand-reproduction. They are reduc
 
 Here is a key to the computer-drafted plans. Find further explanation of symbols, especially dash-dotted lines, in **fabricate** section below.
 
-&nbsp;
-
 [![plan key](/img/plan/image/key.png)](/img/plan/key.pdf)
-
-&nbsp;
 
 #### fabricate
 
