@@ -2,7 +2,7 @@
 title: bibliography and influences
 permalink: "/about/bibliography-influences/"
 layout: page
-navprev: "../faq"
+navprev: "../appendix-laws-of-life"
 navnext: acknowledgments
 ---
 

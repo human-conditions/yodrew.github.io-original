@@ -260,6 +260,16 @@ td {
     font-size: 15px;
     }
 
+.submenu
+  {
+  float: right;
+  margin: 0 10px;
+  list-style-type: none;
+  a
+    {
+    color: $blue2;
+    }
+  }
 
 footer {
     text-align: center;

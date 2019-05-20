@@ -3,7 +3,7 @@ title: services
 permalink: "/about/services/"
 layout: page
 navprev: disclaimer
-navnext: 
+navnext: license
 ---
 
 I do nearly everything related to hygienic darkroom retreating: study, experiment, write, speak, consult, design, build.  At the moment, I am not operating a darkroom or supporting retreats. For that, find darkroom retreat centers on this cool [global map](https://www.zeemaps.com/map?group=2075542).

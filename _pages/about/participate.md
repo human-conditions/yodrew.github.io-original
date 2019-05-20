@@ -1,9 +1,9 @@
 ---
 title: participate
-permalink: "/participate/"
+permalink: "/about/participate/"
 layout: page
-navprev: water
-navnext: faq
+navprev: license
+navnext: ./
 ---
 
 Join the dolphin economy: I help you help me help you...

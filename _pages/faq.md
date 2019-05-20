@@ -2,8 +2,8 @@
 title: faq
 permalink: "/faq/"
 layout: page
-navprev: participate
-navnext: about/bibliography-influences
+navprev: water
+navnext: appendix-laws-of-life
 ---
 
 #### mechanics

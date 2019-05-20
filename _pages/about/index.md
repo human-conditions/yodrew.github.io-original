@@ -7,12 +7,12 @@ navup: "/"
 navnext: "/about/bibliography-influences/"
 ---
 
-- <span style="font-size: 20px;font-weight: bold">about</span>
-	- [bibliography-influences](./bibliography-influences/)
-	- [acknowledgments](./acknowledgments/)
-	- [license](./license/)
-	- [disclaimer](./disclaimer/)
-	- [services](./services/)
+- [bibliography-influences](./bibliography-influences/)
+- [acknowledgments](./acknowledgments/)
+- [disclaimer](./disclaimer/)
+- [services](./services/)
+- [license](./license/)
+- [participate](./participate)
 {:.submenu}
 
 Welcome. This website contains my book, <em>hygienic darkroom retreat</em>, related writings, and a blog.

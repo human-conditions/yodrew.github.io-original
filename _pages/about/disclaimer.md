@@ -2,7 +2,7 @@
 title: disclaimer
 permalink: "/about/disclaimer/"
 layout: page
-navprev: license
+navprev: acknowledgments
 navnext: services
 ---
 
