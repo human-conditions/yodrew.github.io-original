@@ -103,7 +103,7 @@ Evidence shows all these are false. Again, relativism makes fashionable philosop
 
 Is it great?
 
-I'm glad you asked. It tells me I have succeeded in getting my idea across to you. Now you struggle with it, just as I do. When enough people are struggling with it, a great door will open, and we will sail through. 
+Anyway, I'm glad you asked. It tells me I have succeeded in getting my idea across to you. Now you struggle with it, just as I do. When enough people are struggling with it, a great door will open, and we will sail through. 
 
 
 
