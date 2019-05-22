@@ -63,7 +63,7 @@ psychic
 
 lifeway
 :	a way of life; everything that happens with people in a given group in the course of living.  
-&nbsp; &nbsp; I once used the word, culture, for this. Then [John Zerzan](http://johnzerzan.net) explained to me that culture is recent: an aspect of civilization. I wanted a single word which would include all approaches to human existence. Lifeway is a compressed term common in anthropology.
+&nbsp; &nbsp; I once used the word, culture, for this. Then [John&nbsp;Zerzan](http://johnzerzan.net) explained to me that culture is recent: an aspect of civilization. I wanted a single word which would include all approaches to human existence. Lifeway is a compressed term common in anthropology.
 
 Here is a note on my use of words.
 
@@ -136,11 +136,9 @@ Natural Hygiene came knocking three times. The first time was in 1989 through my
 
 ###### frederic
 
-I worked and was housemates with [Frederic Patenaude](http://fredericpatenaude.com) a total of three years off and on from 1998 till 2003. We worked  at Nature's First Law in California; then Tree of Life in Arizona; then at his new office in Quebec. Frederic had started in hygiene not with the works of Herbert Shelton, but the old French hygienic master, Albert Mosseri. Frederic read all his 20+ books and was in contact with him till his death in 2012.
+I worked and was housemates with [Frederic Patenaude](http://fredericpatenaude.com) a total of three years off and on from 1998 till 2003. We worked  at Nature's First Law in California; Tree of Life in Arizona; and at his new office in Quebec. Frederic had started in hygiene not with the works of Herbert Shelton, but the old French hygienic master, Albert Mosseri. Frederic read all his 20+ books and was in contact with him till his death in 2012.
 
 Slowly, I absorbed the essence of Natural Hygiene's radical perspective through Frederic. By this, I mean he got it through my thick skull with his calm, relentless, crystalline arguments. I was challenging but sympathetic, so I kept asking and he kept answering. It took time because I started out quite lost. A mess of alternative dietary ideas floated around my head since childhood. Something finally clicked and I started studying hygiene on my own.
-
-In our many conversations, Frederic mentioned Los Angeles hygienist, Bernarr Zovluck, whom he had met. Zovluck advised people to fast with their eyes closed in a curtained room. Later, this comment would help me connect darkness with hygiene.
 
 Frederic's dedication and great knowledge made him immovable where I was merely stubborn. I can only hope to return the favor with the current work. It illuminates certain mysteries of diet that frustrated us. Like why some people can stick with eating healthy food and others can't (see [*hygiene > capacity*](/hygiene#capacity)). And the greater mystery of metaphysical suffering that we, like so many others, failed to solve with diet.
 
@@ -176,15 +174,21 @@ But as Finn says, I was just getting started. It would take two more years, the 
 
 How did all this begin?
 
-My parents were far out. They taught me what they knew of philosophy, health, and design. I worshiped them, taking it all more seriously than they intended. My intense older brother was as big a force in my life as they. We had some problems. Other [*influences*](/about/bibliography-influences/) and [*people*](/about/acknowledgments/) smoothed things out a little.
+My parents were thinkers and somewhat unconventional. They taught me about philosophy, health, design, and music. I took all of it more seriously than they expected. They were distant. My intense older brother became as big a force in my life as they. For me, our house was more training camp than home. Other [*influences*](/about/bibliography-influences/) and [*people*](/about/acknowledgments/) helped smooth it out.
 
-By age 15, I felt morose and alienated. But something from childhood stirred in me. Slumped in front of the TV one day, one of the tiny people living inside it mentioned the importance of loving oneself and being happy. It was perfect timing. If my mood was the Death Star, this advice was Luke Skywalker's photon torpedo.
+I felt awed by life at 2, happy at 3. School started and a part of me died. About halfway through, I read _The Dark Is Rising_ series by Susan Cooper. It impressed me. Later came _Do You Really Need Eyeglasses?_, which introduced me to palming. My father's hero, Frank Lloyd Wright, showed me a future without school.
 
-In a moment, I was overcome by [rapture](/darkness-conjecture/rapture): sublime joy in apprehending our perfect, beautiful universe. I had felt it at 3 and 4 years old. Now it was bigger. This perspective and feeling lasted three months solid. When they faded, so did my previous interests. More than anything, I wanted to understand the cause of joy. I wanted it back. [Living out](http://warmlite.com) of a [backpack](http://mchalepacks.com), I independently investigated this mystery for 21 years, experimenting with the elements of my legacy: philosophy, health, and design. Toward the end of this period, I did my first darkroom retreats. Soon after, in late 2008, the answer came:
+By age 15, I felt morose and alienated. But something from childhood was stirring in me. One day, I was slumped in front of the TV. One of the tiny people living inside it mentioned the importance of loving oneself and being happy. The timing was perfect. My mood was like the Death Star and this advice was Luke Skywalker's photon torpedo.
+
+In a moment, I was overcome by [rapture](/darkness-conjecture/rapture): sublime joy in apprehending our perfect, beautiful universe. I had felt it at 3 and 4 years old. Now it was bigger. This perspective and feeling lasted three months. When they faded, so did my previous interests. More than anything, I wanted to understand the cause of joy. I wanted it back. 
+
+I finished high school. Barely. I started [living out](http://warmlite.com) of a [backpack](http://mchalepacks.com). For 21 years, I independently investigated this mystery for 21 years. I experimented with the elements of my legacy: philosophy, health, and design. Toward the end of this period, I did my first darkroom retreats. Soon after, in late 2008, the answer came:
 
 >_A slight increase of vital energy from adolescence had caused a temporary, partial restoration of my damaged psychic integrity, revealing an enrapturing universe. So a massive increase from profound rest in darkness would cause permanent and complete restoration._
 
-With this breakthrough, my search ended. Application of my discovery began. I and 25 clients have tried it. Their results echoed my early ones. Over the course of my 25 retreats of 2--7 days, noticeable restoration of my psychic integrity and function has occurred. My body's scent has improved. I regained some access to my long-buried sexuality. From one retreat, I woke up feeling like an adult for the first time in 41 years; this feeling has not changed. Alongside my childish panic in the face of challenges, an adult now thinks through them. In retreat, symptoms of fibro-myalgia dissipate. Flexibility returns. I wake up _just knowing_ things that have always mystified me and feeling resolved about issues that have frustrated me for decades. Insomnia, exhaustion, and suicidal thoughts and feelings evaporate. Clarity, energy, relaxedness, even joy return for weeks at a time. Basic functioning lasts two months. All these came to me after going years at a time without them.
+With this breakthrough, my search ended. Testing of my discovery began. I and 28 clients have tried it. Their results echoed my early ones. 
+
+Over the course of my 25 retreats of 2--7 days, noticeable restoration of my psychic integrity and function has occurred. My body's scent has improved. I regained some access to my long-buried sexuality. From one retreat, I woke up feeling like an adult for the first time in 41 years; this feeling has not changed. Alongside my childish panic in the face of challenges, an adult now thinks through them. In retreat, symptoms of fibro-myalgia dissipate. Flexibility returns. I wake up _just knowing_ things that have always mystified me and feeling resolved about issues that have frustrated me for decades. Insomnia, exhaustion, and suicidal thoughts and feelings evaporate. Clarity, energy, relaxedness, even joy return for weeks at a time. Basic functioning lasts two months. All these came to me after going years at a time without them.
 
 Besides this supporting evidence, no data contradicting the basic idea has yet emerged. Interest in darkness is growing worldwide. I met an internationally recognized psychology professor with decades of experience as a flotation researcher. She unqualifiedly agrees with my theory and wants to do research with my exact method. Wherever I go, people are as struck as I am by the simple logic of this idea and want to try a retreat.
 
@@ -197,14 +201,14 @@ As Finn says, what else can go right?
 This book is for:
 
 - those who appreciate good arguments and reasonable tests thereof
-- those who suffer in any way---spiritually, mentally, emotionally, physically, socially, ecologically---and who need hope that their suffering is impermanent
-- hygienists who sense hygiene's greater potential 
-- self-experimenters and self-explorers. Those who don't necessarily have terrible problems, just yearning, curiosity, wonder, or a wish to find their next steps.
+- those who suffer in any way---spiritually, mentally, emotionally, physically, socially, ecologically---and need hope and a way out
+- those who sense hygiene's greater potential 
+- self-experimenters and self-explorers who don't necessarily have terrible problems, just yearning, curiosity, wonder, or a wish to find their next steps.
 - those who wish to understand why humanity is in such rough shape and what to do about it
 
-Darkroom retreating is for anyone to whom it makes sense and who feels moved to do it, whether to heal from acute illness or just see what it's like. Much physical illness is psychosomatic and therefore amenable to self-healing in darkness. 
+Darkroom retreating is for anyone to whom it makes sense and who feels moved to do it, whether to heal from acute illness or just see what it's like. Much if not all physical illness is psychosomatic and therefore amenable to self-healing in darkness. 
 
-However, darkness is no escape. Sometimes illness needs to be addressed in other obvious ways first. But just knowing about darkroom retreating can be greatly encouraging in doing so. It helps puts things in perspective. And acquaintance with hygienic principles is invaluable in healing from any illness. 
+However, darkness is no escape. Sometimes illness needs to be addressed in other obvious ways first. But just knowing about darkroom retreating can be greatly encouraging in doing so. It helps puts things in perspective. And acquaintance with hygienic principles is invaluable to healing from any illness. 
 
 ##### how to use this book
 

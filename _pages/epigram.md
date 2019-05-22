@@ -10,7 +10,7 @@ _A political victory, a rise of rents, the recovery of your sick, or the return 
 _The only way to subvert people is to have more fun than they do._
  -- Bill McKibbon, ecologist & activist
 
-_\[Indigenous people\] simply have a better time than we do._
+_Indigenous people simply have a better time than we do._
  -- Jean Liedloff
 
 _You can't better the world by simply talking to it. Philosophy, to be effective, must be mechanically applied._

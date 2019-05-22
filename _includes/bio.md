@@ -14,6 +14,6 @@ Now I seek a way to fully apply it in a 20-day retreat in order to heal from my 
 
 website: [darkroomretreat.com](/)  
 email: info {at} andrewdurham.com  
-voicemail: 541.210.8470 (in the US)  
+voicemail: +1 541 210 8470 (in the US)  
 Also see [*services*](/about/services/)
 

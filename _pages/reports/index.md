@@ -6,7 +6,7 @@ navprev:
 navnext: reports/four-darkness-experiences
 ---
 
-This series of hygienic darkroom retreat reports documents my improbable recovery from an ancestral suicide program and the resulting qualification of the [darkness-conjecture](/darkness-conjecture/) as a hypothesis.
+This is a series of my reports of hygienic darkroom retreat. They document my improbable recovery from an ancestral suicide program. They result in the qualification of the [darkness-conjecture](/darkness-conjecture/) as a hypothesis.
 
 - [four darkness experiences](./four-darkness-experiences/)
 - [6-day retreat](./6-day-retreat/)

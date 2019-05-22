@@ -10,7 +10,7 @@ navnext: format
 
 It's time to get our hands dirty. Something is broken and we have to fix it.
 
-Hygiene's basic structure is sound. It is objective. It deals in universal facts of biology. It constrains its analyses and recommendations to the abilities of a reasonable person living an ordinary life anywhere in the world. If hygiene has a problem, it is only due to not being hygienic enough. It is because its secondary ideas or practices contradict its fundamental principles. Once we discover a problem, we can use hygiene's own principles and methods to correct it.
+Hygiene's basic structure is sound. It is objective. It deals in universal facts of biology. It constrains its analysis and recommendations to the abilities of a reasonable person living an ordinary life anywhere in the world. If hygiene has a problem, it is only due to not being hygienic enough. It is because its secondary ideas or practices contradict its fundamental principles. Once we discover a problem, we can use hygiene's own principles and methods to correct it.
 
 Darkness exposes flaws in hygiene's secondary structure. Hygiene must become more hygienic to accommodate darkness and its implications. In this chapter, we'll pop the hood of hygiene. We'll analyse its flaws and make necessary modifications. The result will be a philosophy that works better by orders of magnitude.
 
@@ -292,7 +292,7 @@ Hygiene upholds basic findings of psychology from several traditions. Hygiene me
 
 ##### fasting
 
-Focusing on profound psychic rest in absolute darkness is new in hygiene. Due to its naive pathology, it has focused on the profound physiological rest of fasting. Fasting has been hygiene's ultimate means of dealing with serious illness. At most, hygiene recommends keeping curtains and eyes closed during fasts. This reduces the significant work of sensory processing of vision[^8]. A darkroom retreat embodies this principle fully. It provides the energy and, frankly, the psychic security of food.  until the underlying psychic system necessary for comfortable fasting has repaired itself.
+Focusing on profound psychic rest in absolute darkness is new in hygiene. Due to its naive pathology, it has focused on the profound physiological rest of fasting. Fasting has been hygiene's ultimate means of dealing with serious illness. At most, hygiene recommends keeping curtains and eyes closed during fasts. This reduces the significant work of sensory processing of vision[^8]. A darkroom retreat embodies this principle fully. It provides the energy and, frankly, the psychic security of food, until the underlying psychic system necessary for comfortable fasting has repaired itself.
 
 In other words, the psychic system is more fundamental than the digestive and eliminative systems. Darkroom retreating is thus more urgently needed than fasting in most cases.
 
@@ -304,7 +304,7 @@ Professional hygienic fasting supervisors attempt to substitute themselves for t
 
 As in fasting, one hardly knows in darkness what the organism is doing at its deepest levels. Occasionally there is a chance to consciously participate in the process. Or to find out _why_ things have gone wrong if it is important to change ideas and behavior related to it. At mostly one feels discomfort or a strange subterranean rumbling.
 
-But one always knows the result: restoration of function---recovery of the lost self---usually accompanied by feelings of contentedness, presence, and euphoria. Darkroom retreating reveals the marvelous self-healing power of the organism under proper conditions. But for those who have suffered and failed for years with other approaches, the process is nothing less than miraculous. As with the rest of hygiene, time in darkness shows that if one wants a miracle, one need only provide its conditions.
+But one always knows the result: restoration of function---recovery of the lost self---usually accompanied by feelings of contentedness, presence, and euphoria. Darkroom retreating reveals the marvelous self-healing power of the organism under proper conditions. But for those who have suffered and failed for years with other approaches, the process is nothing less than miraculous. As with the rest of hygiene, time in darkness shows that if one wants oa miracle, one need only provide its conditions.
 
 And then? Healed from trauma, one will no longer be compelled to repeat it. One will absorb and redeem its history and consequences. As with the rest of hygiene, hygienic psychology's bad news is much worse, and its good news is far better than anyone dreamed. 
 
@@ -324,6 +324,7 @@ I am only saying enough here to give you a solid basis for beginning to do hygie
 [^5]: This echoes one of Gurdjieff's main points that a proper psychology and method of living will enable people to deal with life's inevitable _shocks_. See Ouspensky's incomparable spiritual text, _In Search of the Miraculous_.
 [^6]: See my longer essay about cataclysm, [catastrophe](/darkness-conjecture/catastrophe)
 [^7]: Psychologists Michael Meade and James Hillman say it all with the title of their 1993 book, _We’ve Had a Hundred Years of Psychotherapy—And the World’s Getting Worse_.
-[^8]: Hygienist, [Bernarr Zovluck](http://www.towardsfreedom.com/wdh/towardsfreedom/RTAlternativeHeal.html)
+[^8]: Bernarr Zovluck, [Alternative Healing: What Nobody Understands](http://www.towardsfreedom.com/wdh/towardsfreedom/RTAlternativeHeal.html) Frederic Patenaude met this Los Angeles hygienist and mentioned him and his advice to me. Later, this comment would help me connect darkness with hygiene.
+
 
 

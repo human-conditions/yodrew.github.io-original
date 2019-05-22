@@ -33,6 +33,8 @@ navnext: acknowledgments
 - health
     - my parents
     - initiated into Natural Hygiene by [Frederic Patenaude](http://fredericpatenaude.com)
+    - _Do You Really Need Eyeglasses?_, Marilyn B. Rosanes-Berrett
+    - _Fit for Life_, Harvey and Marilyn Diamond
     -  [Science and Fine Art of Natural Hygiene](/nhs.pdf), Herbert Shelton
     - _The 80/10/10 Diet_, [Dr Douglas Graham](http://foodnsport.com)
     - _Introduction to Human Technology_ and _Human Technology_, William Arthur Evans (thanks to friend, Sterling Voss, for finding this rare work)

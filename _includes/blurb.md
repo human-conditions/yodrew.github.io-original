@@ -17,4 +17,4 @@ Indigenous and spiritual traditions have used physical darkness for millennia. T
 
 Hygiene began to show nature's way to industrial civilization in 1832. Worldwide massive improvements in public health followed. Benefits continue for billions who never see doctors or even understand the terminology. Hygiene is history’s most influential approach to health. 
 
-The primary requirement of healing is profound rest. A hygienic darkroom retreat provides all its conditions, perfected and temporarily extended, as in fasting. The psyche heals itself autonomically of even the greatest injuries. The result: reliable miracles.
+The primary condition of healing is profound rest. All its conditions exist in a hygienic darkroom retreat, perfected and temporarily extended, as in fasting. The psyche heals itself autonomically of even the greatest injuries. The result: reliable miracles.
