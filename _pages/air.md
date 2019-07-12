@@ -26,12 +26,12 @@ Just like food, air becomes a part of one's organism with every breath. This aff
 
 Whether you do or not, poor air quality cancels most benefits of a retreat. Intermittently airing the room out _does not work_. I mean opening the door a couple times a day with eyes covered. Put this approach out of your mind. This is darkness, not the dark ages. Whatever it takes, no matter where you are or what you are doing, always provide yourself with continuous fresh air. 
 
-For a darkroom retreat, this means either:
+For a darkroom retreat, this means:
 
 1. following the instructions below
 2. hiring an HVAC contractor to clean, repair, replace, or install ventilation in your home
 3. moving somewhere the ventilation system just works (like the tropics or a new house in northern Europe)
-4. using [oxygen producing plants](https://www.ted.com/talks/kamal_meattle_on_how_to_grow_your_own_fresh_air/transcript?language=en)
+4. using houseplants: [high oxygen producers](https://www.ted.com/talks/kamal_meattle_on_how_to_grow_your_own_fresh_air/transcript?language=en) and [air-purifiers](https://www.tipsbulletin.com/plants-that-clean-the-air/)
 5. a combination of these
 
 Somehow, it must be done. Forget darkness a moment. We have few more urgent concerns in life than arranging to breathe fresh air continuously and comfortably. Keeping it foremost in your thinking about darkroom design and construction will help ensure a successful retreat.
