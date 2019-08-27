@@ -32,10 +32,10 @@ Donations: I appreciate them very much. I live simply, so even small amounts hel
        <img alt="" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" border="0" height="1" width="1" style="padding:0">
     </form>
 - Cryptocurrency (email me about payment, too):
-    - Skycoin: Y7XW7HY85d36pJFUohtqRyqjtXQAk7M33o
-    - Bitcoin: 1CFdob7YqaF1wj6ForPpCzYF5JvakStdzx
-    - Ether: 0x437e29b9703C74F7ece82e0D35FEDFE2B814D11d
-    - Eos: ge3dqojzgyge
+    - Skycoin: LfsxMEV6akseQQvHeADxGufvQXpcvxni9X
+    - Bitcoin: 1PMBnyh9HKCcpWaLF1Fg2BEBXQRz2fzHv2
+    - Ether: 0x53dA2A8287B91B563c95bc8DF0327a9d17C38Ef8
+    - Eos: ge3dqojzgyge                                                                                                                                                                                 
 - Snailmail, bank transfer, or deposit: email me about how to use these methods. Include your location.
 
 <p style="text-align: center;margin:80px 0 0 30px"><a href="https://leanpub.com/darkroomretreat"><img src="/img/book-cover.png" label="cover image" width="50%" title="buy now" class="cover" style="padding:0"></a>
