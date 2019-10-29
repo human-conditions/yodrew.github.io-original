@@ -182,7 +182,7 @@ By age 15, I felt morose and alienated. But something from childhood was stirrin
 
 In a moment, I was overcome by [rapture](/darkness-conjecture/rapture): sublime joy in apprehending our perfect, beautiful universe. I had felt it at 3 and 4 years old. Now it was bigger. This perspective and feeling lasted three months. When they faded, so did my previous interests. More than anything, I wanted to understand the cause of joy. I wanted it back. 
 
-I finished high school. Barely. I started [living out](http://warmlite.com) of a [backpack](http://mchalepacks.com). For 21 years, I independently investigated this mystery for 21 years. I experimented with the elements of my legacy: philosophy, health, and design. Toward the end of this period, I did my first darkroom retreats. Soon after, in late 2008, the answer came:
+I finished high school. Barely. I started [living out](http://warmlite.com) of a [backpack](http://mchalepacks.com). For 21 years, I independently investigated this mystery. I experimented with the elements of my legacy: philosophy, health, and design. Toward the end of this period, I did my first darkroom retreats. Soon after, in late 2008, the answer came:
 
 >_A slight increase of vital energy from adolescence had caused a temporary, partial restoration of my damaged psychic integrity, revealing an enrapturing universe. So a massive increase from profound rest in darkness would cause permanent and complete restoration._
 
