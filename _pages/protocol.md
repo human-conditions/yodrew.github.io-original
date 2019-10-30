@@ -285,10 +285,10 @@ Sometimes something is not quite right with the retreat or the darkroom, and I c
 
 Those with phobias related to darkness (eg, superstition, claustrophobia, fear of the dark) can still retreat using these techniques:
 
-- red light: Keep a red LED light next to your bed (pure red light gives no signal to the pineal gland to wake you up). If anxiety or panic become too great, turn on the light for a minute. This is a last resort. Don't do this regularly.
-- microretreat: retreat for five seconds. Then take a break in red light till you feel ready for the next microretreat. Gradually increase the length of the micro-retreats and decrease the breaks. Do this for 15 minutes. The next night, go 30 minutes, etc. 
-- companion: retreat with another person inside or near the darkroom till you feel ok alone
+- microretreat: retreat for five seconds. Then take a break in red light till you feel ready for the next microretreat. Gradually increase the length of the micro-retreats and decrease the breaks. Do this for at least 15 minutes. The next night, go at least 30 minutes, etc. Within a week or two, you should feel comfortable enough to retreat. 
 - reason: go over the facts of your situation in your mind. What evidence do you have for what you fear? You can learn to recognize and dismiss arbitrary (baseless) ideas.*
+- companion: retreat with another person inside or near the darkroom till you feel ok alone
+- red light: bring a red LED light with you. Pure red light gives no signal to the circadian system bring rest to an end and prepare you for action. If other techniques don't help you ease your anxiety or panic, turn on the red light for a minute. This is a last resort. Don't do this regularly.
 
 I had a client from a superstitious culture who was raised to fear the dark. But the idea of resting in darkness appealed to her common sense. She stayed in darkness for a whole night for the first time in her life at my darkroom. Afterward, she said that when her fear of monsters or ghosts came, she simply reasoned her way through it.
 
@@ -306,11 +306,13 @@ As I have said, I view our entire society and virtually everyone in it as psycho
 
 Merely this change in perspective from our current presumptions can aid the situation greatly. Lots of little ridiculous things we currently do can be exposed as such and stopped.
 
-I have not worked with severe psychotics---who would be identified simply as psychotic by conventional psychology. But I think that we can handle even these cases by ourselves. By this, I mean without the use of professionals or experts, just with the care of friends and family. That said, if an expert can behave normally, simply providing wisdom and care unobtrusively like anyone else would, without any sense of superiority, that's great. Some experts actually know something. There's no reason for their knowledge to go to waste unless it would do more harm than good on balance.
+I have not worked with severe psychotics. Conventional psychologists would identify them simply as psychotic. But I think that we can handle even these cases by ourselves. By this, I mean without the use of professionals or experts, just with the care of friends and family. 
+
+Of course, if an expert can behave normally, that's great. He would simply providing wisdom and care unobtrusively like anyone else would, without any sense of superiority. Some experts actually know useful things. There's no reason for their knowledge to go to waste unless it would do more harm than good.
 
 I think severely psychotic people will be most helped at first by the presence and love of others who have recovered their own sanity in darkness. Severely psychotic people are especially sensitive to our society's constant barrage of stupidity and hatred, especially from those who are supposed to care about them. If that reverses, most cases of severe psychosis will disappear in weeks. Let us first put our attention on ourselves. It's sort of like using an oxygen mask in an airplane: use it yourself first, then on those in your care. To continue the metaphor, please consider the plane we're on to be already depressurized, undergoing severe turbulence, and with its masks dangling down. Maybe 
 
-But I can imagine the direct use of darkness in extreme cases to excellent effect. It must be done with great care and attention to conditions, and with understanding and consent. Darkness causes great harm in those it is forced upon, and I unqualifiedly condemn this cruel and despotic use of darkness. I believe it will often require more gradual application and more support. 
+But I can imagine the direct use of darkness in extreme cases to excellent effect. It must be done with great care and attention to conditions, and with understanding and consent. Darkness causes great harm in those it is forced upon, and                                  I unqualifiedly condemn this cruel and despotic use of darkness. I believe it will often require more gradual application and more support. 
 
 Begin by removing any light the person has not asked for or replacing it with red light if he finds it agreeable. The more access the person has to reason and the more he trusts his caregivers, the easier it will be to normalize his sleeping environment. Scheduling pressure can be removed. I mean all those therapeutic activities that are supposed to help people but just distress them or help them pass the time while on debilitating medication. Allow the person to sleep more. Provide more fresh, raw fruits and leafy green vegetables, fresh air, sunlight, pure non-fluoridated water, contact with plants and earth, grounding sheets, etc.
 
