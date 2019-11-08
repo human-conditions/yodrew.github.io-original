@@ -161,17 +161,19 @@ This is part of everybody. It means you and I are enough. Given the chance---the
 
 #### warning
 
-There are four harmful and dangerous ways to retreat in darkness. I learned about them the hard way and am paying the price to this day. The only possible point of my enduring them was so I could warn you. These are little gateways to hell. I sincerely wish for you heed my words and to avoid such suffering.
+There are five harmful and dangerous ways to retreat in darkness. I learned about them the hard way and am paying the price to this day. The only possible point of my enduring them was so I could warn you. These are little gateways to hell. I sincerely wish for you heed my words and to avoid such suffering.
 
 Fortunately, avoiding it is easy once you know. I will just list them here and point you to longer discussions of them elsewhere in the book. Just say no to:
 
-1. Mini-retreating behind schedule. See _mini-retreat_ section above.
+1. Mini-retreating even one minute behind schedule. See _mini-retreat_ section above.
 2. Ending a retreat without transition days. See _4-day retreat_ above and [*protocol > post-retreat*](/protocol#post-retreat).
 3. Doing many 4-day retreats rather than quickly advancing to 8-day, medium, and long retreats. Very serious no-no, folks. Again, see _4-day retreat_ above and [*hygiene > false capacity*](/hygiene#false-capacity). There, I have understated the matter simply because it cannot be overstated.
-4. Poor support:
-	- insufficient support
-	- hostile support (!) or people hostile toward either you or retreating in or even near the same house. Say no to abusive relationships.
-5. I know I said four dangerous ways, but maybe there are more. And worse. Why find out? There is no penalty for following the guidelines. Until you have gotten somewhere and know what you are doing, stick to the tried and true. Err conservatively. Be reckless about some other part of your life. The most amazing thing you ever do is bound to have rough edges if handled incorrectly. Don't pet pigs backwards, either.
+4. Sub-standard darkrooms. We become vulnerable in darkness. We are fools to tolerate the irritations of poor design and construction: noise, low air-quality, discomfort, cold drafts, etc. See chapters 7-11 for how to build or judge a darkroom suitable for hygienic retreats. Which, by all reports, few people in the world operate. It's time to build world-class darkrooms.
+5. Retreating with poor support:
+    - insufficient support
+    - inexperienced, ignorant, or indifferent support
+    - supporters or uninvolved people who are hostile to you or to retreating itself. Say no to abusive relationships.
+6. I know I said five dangerous ways, but maybe there are more. And worse. Why find out? There is no penalty for following the guidelines. Until you have gotten somewhere and know what you are doing, stick to the tried and true. Err conservatively. Be reckless about some other part of your life. The most amazing thing you ever do is bound to have rough edges if handled incorrectly. Don't pet pigs backwards, either.
 
 Ok, now you know, so you are safe. Back to the many wonders of hygienic darkroom retreating.
 
