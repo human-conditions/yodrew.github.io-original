@@ -168,7 +168,7 @@ Fortunately, avoiding it is easy once you know. I will just list them here and p
 1. Mini-retreating even one minute behind schedule. See _mini-retreat_ section above.
 2. Ending a retreat without transition days. See _4-day retreat_ above and [*protocol > post-retreat*](/protocol#post-retreat).
 3. Doing many 4-day retreats rather than quickly advancing to 8-day, medium, and long retreats. Very serious no-no, folks. Again, see _4-day retreat_ above and [*hygiene > false capacity*](/hygiene#false-capacity). There, I have understated the matter simply because it cannot be overstated.
-4. Sub-standard darkrooms. We become vulnerable in darkness. We are fools to tolerate the irritations of poor design and construction: noise, low air-quality, discomfort, cold drafts, etc. See chapters 7-11 for how to build or judge a darkroom suitable for hygienic retreats. Which, by all reports, few people in the world operate. It's time to build world-class darkrooms.
+4. Sub-standard darkrooms. We become vulnerable in darkness. We are fools to tolerate the irritations of poor design and construction: noise, low air-quality, discomfort, cold drafts, etc. See chapters 7-11 for how to build or judge a darkroom suitable for hygienic retreats. Which few people operate. It's time to build world-class darkrooms.
 5. Retreating with poor support:
     - insufficient support
     - inexperienced, ignorant, or indifferent support
