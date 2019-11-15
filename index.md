@@ -24,13 +24,7 @@ I wish to make another attempt at a 20-day retreat in order to heal from my psyc
 
 Donations: I appreciate them very much. I live simply, so even small amounts help.
 
-- PayPal
-    <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
-       <input name="cmd" value="_s-xclick" type="hidden">
-       <input name="hosted_button_id" value="N42QEX8Y2YZTC" type="hidden">
-       <input src="https://www.paypalobjects.com/en_US/i/btn/btn_donate_SM.gif" name="submit" alt="Click here to donate with PayPal" border="0" type="image">
-       <img alt="" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" border="0" height="1" width="1" style="padding:0">
-    </form>
+- PayPal: write me for address
 - Cryptocurrency (email me about payment, too):
     - Skycoin: LfsxMEV6akseQQvHeADxGufvQXpcvxni9X
     - Bitcoin: 1PMBnyh9HKCcpWaLF1Fg2BEBXQRz2fzHv2
@@ -40,3 +34,10 @@ Donations: I appreciate them very much. I live simply, so even small amounts hel
 
 <p style="text-align: center;margin:80px 0 0 30px"><a href="https://leanpub.com/darkroomretreat"><img src="/img/book-cover.png" label="cover image" width="50%" title="buy now" class="cover" style="padding:0"></a>
 
+<!--    <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
+       <input name="cmd" value="_s-xclick" type="hidden">
+       <input name="hosted_button_id" value="N42QEX8Y2YZTC" type="hidden">
+       <input src="https://www.paypalobjects.com/en_US/i/btn/btn_donate_SM.gif" name="submit" alt="Click here to donate with PayPal" border="0" type="image">
+       <img alt="" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" border="0" height="1" width="1" style="padding:0">
+    </form>
+-->
