@@ -1,13 +1,13 @@
 ---
 title: freedom through darkness
-permalink: "/freedom-through-darkness/"
+permalink: "/freedom/"
 layout: page
 navprev: 
 navnext:
 ---
 
-_a new political strategy based on the biological origin of power_  
-four iterations
+_a natural political strategy based on the biological origin of power_
+---in four iterations
 
 #### Darkness and Politics
 
