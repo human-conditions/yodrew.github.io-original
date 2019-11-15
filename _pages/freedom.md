@@ -6,7 +6,7 @@ navprev:
 navnext:
 ---
 
-_a natural political strategy based on the biological origin of power_
+_a new political strategy based on the biological origin of power_  
 ---in four iterations
 
 #### Darkness and Politics
@@ -102,4 +102,4 @@ I hurt myself discovering the dangers of the fountain. They are easily avoided, 
 
 This discovery is personal with me. I worked on it 32 years after a childhood in training for it. I didn't do it because I was a happy person, but because it was needed and I could. I maintained my integrity by basing my investigation on my best memories and by living in poverty. I studied independently, took counsel from wise elders, and listened to responses of the ordinary people I hoped would benefit. The project is ready for capitalization with attention, care, and money. 
 
-There is a way through our ancient quandary. We can make it together, opening the door for the rest of humanity in the process. Please write me.
+There is a way through our ancient quandary. We can make it together, opening the door for the rest of humanity in the process. Please write me.  
