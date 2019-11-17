@@ -20,9 +20,7 @@ _continue reading online_{: style="font-size: .5em;padding-top:-10px 0;"} [&gt;]
 
 See [participate](/about/participate/) for many ways to support hygienic darkroom retreating.
 
-I wish to make another attempt at a 20-day retreat in order to heal from my psychosis and accompanying exhaustion-depression. I have difficulty organizing this. If you would like to help me please [write me](/about).
-
-Donations: I appreciate them very much. I live simply, so even small amounts help.
+Donations: I appreciate them very much. I live simply, so even small amounts help while I refine my book.
 
 - PayPal: write me for address
 - Cryptocurrency (email me about payment, too):
