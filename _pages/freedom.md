@@ -7,7 +7,7 @@ navnext:
 ---
 
 _a new political strategy based on the biological origin of power_  
----in four iterations
+---in 5 iterations
 
 #### Darkness and Politics
 
@@ -103,3 +103,16 @@ I hurt myself discovering the dangers of the fountain. They are easily avoided, 
 This discovery is personal with me. I worked on it 32 years after a childhood in training for it. I didn't do it because I was a happy person, but because it was needed and I could. I maintained my integrity by basing my investigation on my best memories and by living in poverty. I studied independently, took counsel from wise elders, and listened to responses of the ordinary people I hoped would benefit. The project is ready for capitalization with attention, care, and money. 
 
 There is a way through our ancient quandary. We can make it together, opening the door for the rest of humanity in the process. Please write me.  
+
+#### Trauma-Based Conditioning
+
+Trauma-based conditioning is at the root of all our suffering and problems. Reason is undermined. What to do?
+
+The exposés of the last century, beginning with Upton Sinclair's, have revealed the horrors that box us in, generation after generation. History shows the failures of every movement so far to liberate us from the drama at the heart of our psychotic way of life. No invention, no technique, no achievement has brought us out of it.
+
+The alternative is... nature. What started the horrors? Nature, through cataclysm 12,890 years ago. What holds the answer? Nature, through the biological capacity for both profound rest and the self-healing that it enables. In perfect, extended conditions of rest, we enter a state in which everything can heal completely. Trauma, illness, age itself evaporate. The set of conditions necessary is fully established now. It is called hygienic darkroom retreat.
+
+Civilization merely functions as a shock-absorber. It is not to blame, nor any humans involved from day one. Non-human intelligence seems to have had something to do with it, and we will have to deal with them. But we will not be capable of that until we use nature to get ourselves back.
+
+Start at the very beginning of my free book about it and read for 15 minutes. See if it makes sense to you. Everything else can wait. Recovery of the lost self cannot wait.  
+darkroomretreat.com
