@@ -1,7 +1,7 @@
 <!---->
 ##### relief, rest, recovery
 
-When the door shuts and the light goes out, the miracle begins.
+When the door shuts and lights go out, the miracles begin.
 
 - instant relief from distress and overstimulation
 - profound rest from exhaustion
