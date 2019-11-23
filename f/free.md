@@ -1,4 +1,8 @@
-Free
+---
+title: free
+layout: page
+permalink: /f/free
+---
 
 A simple plan for freedom, as applied to a piece of land in Guatemala
 
