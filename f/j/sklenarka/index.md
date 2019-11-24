@@ -17,7 +17,7 @@ layout: page
     1. unlevel
     2. ventilation: noisy, insufficient, inefficient, vent locations cause cold drafts
     3. entry: 
-        - opens onto toilet, so issues with privacy, coordination, and lightproofing
+        - opens onto toilet, causing issues with privacy, coordination, and lightproofing
         - top of door (and windows) unprotected from rain
 	 4. toilet: 
         1. pipe upside down
@@ -35,8 +35,8 @@ layout: page
     1. no dining chair
     2. heater: visible light
     3. water tastes bad
-        2. no mirror
-    4. countertop: 
+    4. no mirror
+    5. countertop: 
         - warping: needs reinforcement front to back in 3 places, slowly at left. Screwed in from bottom with thick, unpointed wood screws
         - incorrect height: raise for counter, lower for table. Or just raise chair and put foot stool
     5. shelves: too deep, hole at back, far from bed
@@ -47,8 +47,7 @@ layout: page
         1. low bracket
         2. no curtain at end
     8. no reclining seat
-3. unsolvable but acceptable
-    - low ceiling 
+3. probably impractical to solve but acceptable: low ceiling
 
 #### actions
 
@@ -57,11 +56,19 @@ layout: page
 1. bring dining chair with pad XXX
 2. improvise silencer XXX
 3. replace noisy duct fan with less noisy case fan XXX
+4. level with taller log sections
 
 ##### phase 1
 
 1. major
-    1. level wagon: jack, log sections, remove boards XXX
+    1. level wagon and dampen hum
+        - inflate tires
+        - raise with big jack
+        - remove log sections
+        - put metal grates or concrete pads under tires
+        - set back down onto tires
+        - cover tires and pads to keep out of sun and snow
+        - check wagon level and tire pressure twice yearly
     2. ventilation
         - triangle duct
             - moves stale air from bed to toilet 
@@ -70,21 +77,27 @@ layout: page
             - 10mm thick tongue and groove
             - plastic or paint to seal it
             - fibrous lining for silencing
-        - move shelves
+            - airtight toilet seat must be shut for ventilation to work
+        - remove shelf across from tub
         - move wiring
-        - cut hole in inner wall to bathroom
+        - cut triangle hole in inner wall to bathroom for duct
         - toilet
-            - seal seat 
+            - airtight seat 
             - large brown bin for poop with platform
             - bin lid:
                 - 12VDC blower fan to drive whole ventilation system
                 - fan mount
-                - silencer
+                - silencer?
                 - helix vent?
-        - removable seal for hole in floor below bed
+        - removable seal for floor vent (under bed)
 2. minor
+    1. water: filter and maybe magnet for iron
     2. heater light: cover or destroy
     3. pad or pillow as back rest for bed
+    4. shower
+        - curtain for end of tub 
+        - extra coat of paint on wall, sealing all cracks or tight curtain?
+        - bracket for shower head up and in from sink?
 
 ##### phase 2 
 
@@ -92,7 +105,7 @@ layout: page
     1. entry
         - new wall blocking off toilet, from outer door latch straight to inner wall
         - main room: new door, hinged
-        - toilet: new door, hinged
+        - toilet: new door, hinged, sealing
     2. toilet
         - reverse pipes
         - change ventilation
@@ -108,22 +121,20 @@ layout: page
             - shutters 
             - door
     5. hum:
-        - isolate wagon from ground
-            - raise wagon off wheels
-            - use rubber blocks 
-        - consult with sound engineers
+        - isolate wagon from ground: put it back on its wheels
+        - consult with sound engineers ;p
         - thicken/dampen walls with roofing, drywall.
-        - ants
-            - traps at foundation blocks
-            - stairs and deck cantilevered to not touch ground or ant traps for posts
-    6. deepen stairs
-    7. enlarge deck
+        - massive shutters
+    6. ants
+        - traps at foundation blocks
+        - stairs and deck cantilevered to not touch ground or ant traps for posts
+    7. deepen stairs
+    8. enlarge deck
 2. minor
-    1. water: filter and maybe magnet for iron
     2. mirror: above sink
     3. counter
         - reinforce
-        - lower it or raise chair
+        - lower it or raise chair?
     4. shelves
         - shallow
         - free-standing yet anchored to wall with an L-bracket and one screw
@@ -136,8 +147,3 @@ layout: page
         - add back rest 
             - slatted frame at angle to north wall resting on back edge of bed
             - angled cushion for reclining seat
-    6. shower
-        - curtain for end of tub 
-        - extra coat of paint on wall, sealing all cracks?
-        - bracket for shower head up and in from sink?
-
