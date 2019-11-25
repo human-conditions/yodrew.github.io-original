@@ -39,7 +39,7 @@ extended darkness
 
 Discipline, technology, and organization aid the cause of freedom. Yet they do not substitute for power. One person with power can move the world. Ten can renew it totally. The key is darkness.
 
-Czech Republic is the world capital of darkroom retreating. Yet it still lacks world-class darkrooms and protocols. Perfect Darkness will create an ideal darkroom. It will be functional, beautiful, pre-fabricated, natural, open-source. It will be shelter that supports full restoration of organic integrity. Perfect Darkness will also systematize proper protocol and train supporters.
+Czech Republic is the world capital of darkroom retreating. Yet it still lacks world-class darkrooms and protocols. Perfect Darkness, Ltd will create an ideal darkroom. It will be functional, beautiful, pre-fabricated, natural, open-source. It will be shelter that supports full restoration of organic integrity. Perfect Darkness, Ltd will also systematize proper protocol and train supporters.
 
 A darkroom is very well-built shelter. It controls exposure to all elements, including light. It offers protection from pollution: air,
 sound, etc. Restful (hygienic) darkroom protocol is rational and simple to teach and learn.
@@ -49,11 +49,8 @@ technically and conceptually. It requires designers, craftsmen, professionals, f
 
 Read: 
 
-_hygienic darkroom retreat_:
-profound rest for the self-healing psyche_
-darkroomretreat.com
+[_hygienic darkroom retreat_: profound rest for the self-healing psyche_](/) at darkroomretreat.com  
 by Andrew Durham
-info@andrewdurham.com
 
 ---
 
@@ -64,7 +61,7 @@ I wrote this quickly. Perfect Darkness may not the best name and it can change. 
 Also, besides developing darkrooms, the team may also publish, consult, speak, and anything else that has to do with hygienic
 darkroom retreating and eventually hygiene, reason, and freedom in general.
 
-#### Free Humanity in Three Years with 10 People & $100,000
+#### Free Humanity in Three Years with 10 People & $100,000I disagree with Yaron that we have to wait 100 years. 
 
 The cause of humanity's enslavement is powerlessness. 
 
