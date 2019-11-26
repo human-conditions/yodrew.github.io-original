@@ -1,9 +1,7 @@
 ---
-title: yo
-permalink: "/yo/"
+title: 
+permalink: "//"
 layout: page
 navprev: 
 navnext:
 ---
-
-
