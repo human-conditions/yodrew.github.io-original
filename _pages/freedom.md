@@ -2,8 +2,8 @@
 title: freedom through darkness
 permalink: "/freedom/"
 layout: page
-navprev: 
-navnext:
+navprev: surpassing-john-galt
+navnext: surpassing-john-galt
 ---
 
 _a new political strategy based on the biological origin of power_  
