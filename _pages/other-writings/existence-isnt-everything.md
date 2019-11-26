@@ -11,7 +11,7 @@ navnext: sociality-undenied
 _for my friend, Sterling,
 and for Michael Stuart Kelly and the generous crew at [www.objectivistliving.com][1]_
 
-> "Do you want to assess the rationality of a person, a theory or a philosophical system? Do not inquire about his or its stand on the validity of reason. Look for the stand on axiomatic concepts. It will tell the whole story."
+> "Do you want to assess the rationality of a person, a theory or a philosophical system? Do not inquire about his or its stand on the validity of reason. Look for the stand on axiomatic concepts. It will tell the whole story."  
 --Ayn Rand, _Introduction to Objectivist Epistemology _
 
 Words have always meant a great deal to me. And so when I, as a student of the work of Ayn Rand, took _existence_ into the deepest reaches of my mind as the sole content of _reality_, two things happened. First, it quickly began to restore the natural but damaged connection between myself and the obvious facts around me. But, second, in a strange and menacing way, it began to short-circuit my person until I could barely move or breathe.
