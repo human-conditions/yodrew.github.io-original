@@ -17,7 +17,7 @@ Which ingredient is missing? The last. The trouble is such people hardly exist. 
 
 What if we had a way to become as great as John Galt or Dagny Taggart? What if we could become even greater? 
 
-I discovered the way nature gives us to do it. You will know its rudiments in one minute and understand it in three. Then we can discuss it.
+I discovered the way nature gives us to do it. You will know its rudiments in one minute and understand it in three more.
 
 1. Life begins healthy, happy, harmonious, which only exist today in myths
 2. Life becomes sick, sad, and conflicted due to unhealed major trauma
@@ -43,6 +43,6 @@ Why does it work? Three reasons: physiology, environment, attitude
     - its job is healing
     - knowing this, one can finally relax on the conscious level, relinquish control, and support the process
     
-Normal rest and healing enable us to recover from daily wear and tear. Profound rest enables us to recover from the wear and tear of a lifetime, including the inheritance from our ancestors. The buck stops here. We can bring our collective drama to a close ahead of historical schedule. We recover the capacity to do so by recovering ourselves. This is how.
+Normal rest and healing enable us to recover from daily wear and tear. Profound rest enables us to recover from the wear and tear of a lifetime. The buck stops here. We can end our collective drama ahead of historical schedule. We recover the power to do so by recovering ourselves. Hygienic darkroom retreating is how.
 
-See for yourself. It takes a $50 in materials, a couple weekends to prepare, and a 3-day weekend to test it. My book explains everything in detail, from abstract theory to protocol to construction. Read it for free at darkroomretreat.com.
+See for yourself. It takes $50 in materials, a couple weekends to prepare, and a 3-day weekend to test it. My book explains everything in detail, from abstract theory to protocol to construction. Read it for free at darkroomretreat.com.
