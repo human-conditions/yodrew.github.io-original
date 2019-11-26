@@ -45,4 +45,4 @@ Why does it work? Three reasons: physiology, environment, attitude
     
 Normal rest and healing enable us to recover from daily wear and tear. Profound rest enables us to recover from the wear and tear of a lifetime. The buck stops here. We can end our collective drama ahead of historical schedule. We recover the power to do so by recovering ourselves. Hygienic darkroom retreating is how.
 
-See for yourself. It takes $50 in materials, a couple weekends to prepare, and a 3-day weekend to test it. My book explains everything in detail, from abstract theory to protocol to construction. Read it for free at darkroomretreat.com.
+See for yourself. It takes $50 in materials, a couple weekends to prepare, and a 3-day weekend to test it. My book explains everything in detail, from abstract theory to protocol to construction. Read it for free at [darkroomretreat.com](/)
