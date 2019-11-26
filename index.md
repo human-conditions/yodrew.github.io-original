@@ -23,7 +23,7 @@ See [participate](/about/participate/) for many ways to support hygienic darkroo
 Donations: I appreciate them very much. I live simply, so even small amounts help while I refine my book.
 
 - PayPal: write me for address
-- Cryptocurrency (email me about payment, too):
+- Cryptocurrency (notify me of payment by email):
     - Skycoin: LfsxMEV6akseQQvHeADxGufvQXpcvxni9X
     - Bitcoin: 1PMBnyh9HKCcpWaLF1Fg2BEBXQRz2fzHv2
     - Ether: 0x53dA2A8287B91B563c95bc8DF0327a9d17C38Ef8
