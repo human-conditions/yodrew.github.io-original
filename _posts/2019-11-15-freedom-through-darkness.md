@@ -1,7 +1,7 @@
 ---
 title: freedom through darkness
 date: 2019-11-15 00:00:00 Z
-permalink: "/blog/2019/11/freedom-through-darkness
+permalink: "/blog/2019/11/freedom-through-darkness"
 layout: post
 ---
 
