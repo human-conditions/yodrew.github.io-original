@@ -3,7 +3,7 @@ title: surpassing john galt
 permalink: "/galt/"
 layout: page
 navprev: freedom
-navnext: freedom
+navnext: november
 ---
 
 > "Poor is the pupil who does not surpass his master, poorer is the painting which does not excel the sketch."  
