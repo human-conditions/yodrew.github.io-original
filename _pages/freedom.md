@@ -2,7 +2,7 @@
 title: freedom through darkness
 permalink: "/freedom/"
 layout: page
-navprev: galt
+navprev: november
 navnext: galt
 ---
 
