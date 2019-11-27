@@ -5,7 +5,8 @@ permalink: "/blog/2019/11/surpassing-john-galt"
 layout: post
 ---
 
-> "Poor is the pupil who does not surpass his master, poorer is the painting which does not excel the sketch."  
+> "Poor is the pupil who does not surpass his master,  
+poorer is the painting which does not excel the sketch."  
 --da Vinci
 
 We are Objectivists. We wish to influence society. Let us simply use Ayn Rand's method. She gave it in Atlas Shrugged. 
