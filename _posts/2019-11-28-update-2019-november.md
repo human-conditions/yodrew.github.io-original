@@ -48,13 +48,13 @@ During these months of reflection, I figured out the answers to my dreadful ques
 - Why have I failed to retreat for 20-days, as I have intended for all these years?
 - If hygienic darkroom retreating is so great, why am I still unwell?
 
-I have failed because a 20-day retreat requires a fully developed method, a trained team, and an excellent darkroom. None of these existed yet. Even now, the method is still only in my head, not fully in my book yet.
+I have failed because a 20-day retreat requires a fully developed method, a trained team, and an excellent darkroom. None of these existed yet. Even now, the method is still partly in my head, not fully in my book yet.
 
 The greatness of hygienic darkroom retreating has only been potential, not actual. I have always seen it. But until it is realized, I cannot apply it fully and heal. 
 
 One might think I would have at least not gotten worse. But two other factors came into play.
 
-- A retreat long enough to heal requires a team. But I could not work with others at first. The same sensitivity that enabled me to discover darkness makes me vulnerable to others' influence. I could not protect the vision I had from them. I had to work alone till it was stable in my mind. My condition worsened with my exhaustion. Now, I can still be hurt, but the method cannot be. This is all that matters. Everything lost can be recovered in darkness.
+- A retreat long enough to heal requires a team. But I could not work with others at first. The same sensitivity that enabled me to discover darkness makes me vulnerable to others' influence. I could not protect the vision I had from them. I had to work alone till it was stable in my mind. My condition worsened with my exhaustion. Now, the method cannot be compromised. This is all that matters. Everything lost can be recovered in darkness.
 - I hurt myself with too many 4-day retreats. I did not know their danger. Doing a couple 4-day retreats is fine. But I did 15! They strip a person of artificial survival skills. Normal capacity replaces these in darkness, but this takes at least an 8-day retreat. See darkroomretreat.com/hygiene#false-capacity and darkroomretreat.com/format#warning for more.
 
     A 4-day retreat was enough to glimpse the potential of darkness, to get relief and begin healing, and to develop the method. So I kept going. But the cost has been very great. Some days, I cling to life. This is tragic and frightening. I live on hope for a chance to recover.
@@ -63,14 +63,12 @@ One might think I would have at least not gotten worse. But two other factors ca
 
 3. Capitalization
 
-As I said, this means a team, money, organization, a facility, a home for me, etc. It means everything necessary to realize a project. I am not so great at this. Which is why even the organization of the capitalization needs help. I am just the eccentric guy with the idea. That's what I can give. 
+As I said, this means a team, money, organization, a facility, a home for me, etc. It means everything necessary to realize a project. I am the eccentric guy with the idea.
 
-As the solution nature provides to our suffering, our oldest, biggest problem, it is the greatest idea in history, with commensurate benefits. In substandard form, it has saved my life twice. Perfected, it can restore humanity to health, happiness, and harmony. We will make it perfect.
+I discovered the way nature provides to end our suffering once and for all. This is our oldest, biggest problem. So this idea is the most important in history, with commensurate benefits. In substandard form, it has saved my life twice. Perfected, it can restore humanity to health, happiness, and harmony. We will make it perfect.
 
-Among other things, I studied business and organizations. But I am no master at them. I don't know the details. Others must lead that part of it, and I will be happy to cooperate.
+I studied some business and organizations, but it is not my expertise. However things are organized, everything directly to do with the method itself has to be done my way. In some ways, this will affect how the organization operates. I will not compromise one particle of my work. I will show the door to those who fight what they are supposed to be helping with.
 
-Everything directly to do with the method itself has to be done my way. In some ways, this will affect how the organization operates. I will not compromise one particle of my work. And I will not fight people about it who are supposed to be helping. I will show them the door, and I will have the authority to do so.
-
-It is essential that participants study my book, internalize its ideas, experience darkness my way, see what I have seen, come to believe in it, and make it their own as I have. The truth I have found is objective. Anyone can know it for himself. But only if he reads the manual and follows the instructions.
+Participants must study my book, internalize its ideas, experience darkness my way, see what I have seen, come to believe in it, and make it their own as I have. The truth I have found is objective. Anyone can know it for himself. But only if he reads the manual and follows the instructions. 
 
 When I am better and we are all more experienced, the situation can relax and roles can overlap. Expect some rigidity until then. We have to keep things straight till they can keep themselves straight. As I believe they will. This is a living thing. It is natural. Like walking and talking, it must be learned. Then it can fairly go on by itself.
