@@ -9,7 +9,7 @@ Here are the three things I figured out this month.
 
 1. The first phase of development of hygienic darkroom retreating (hdr) is finished.
 2. My failure to do a 20-day retreat all this time was a tactical necessity
-3. I must tell people my work is mature and needs capitalization: team, money, organization, etc.
+3. I must tell people my work is mature and needs capitalization.
 
 Now I will explain these.
 
@@ -57,18 +57,18 @@ One might think I would have at least not gotten worse. But two other factors ca
 - A retreat long enough to heal requires a team. But I could not work with others at first. The same sensitivity that enabled me to discover darkness makes me vulnerable to others' influence. I could not protect the vision I had from them. I had to work alone till it was stable in my mind. My condition worsened with my exhaustion. Now, the method cannot be compromised. This is all that matters. Everything lost can be recovered in darkness.
 - I hurt myself with too many 4-day retreats. I did not know their danger. Doing a couple 4-day retreats is fine. But I did 15! They strip a person of artificial survival skills. Normal capacity replaces these in darkness, but this takes at least an 8-day retreat. See darkroomretreat.com/hygiene#false-capacity and darkroomretreat.com/format#warning for more.
 
-    A 4-day retreat was enough to glimpse the potential of darkness, to get relief and begin healing, and to develop the method. So I kept going. But the cost has been very great. Some days, I cling to life. This is tragic and frightening. I live on hope for a chance to recover.
+    A 4-day retreat was enough to glimpse the potential of darkness, to get relief and begin healing, and to develop the method. So I kept going. But the cost has been very great. Some days, I cling to life. This is tragic and frightening. I  await a chance to recover.
 
     I should be in a hospital under 24 hour care. But the hospital I need does not exist. It must be organized, funded, designed, and built. The staff must be trained. I will have to be nursed back to health. In the meantime, I hang on. Once I have retreated, I will be stable and able to handle things normally. 
 
 3. Capitalization
 
-As I said, this means a team, money, organization, a facility, a home for me, etc. It means everything necessary to realize a project. I am the eccentric guy with the idea.
+The project needs all the normal elements to succeed: a team, money, organization, a facility, etc. I am just the eccentric guy with the idea. 
 
 I discovered the way nature provides to end our suffering once and for all. This is our oldest, biggest problem. So this idea is the most important in history, with commensurate benefits. In substandard form, it has saved my life twice. Perfected, it can restore humanity to health, happiness, and harmony. We will make it perfect.
 
-I studied some business and organizations, but it is not my expertise. However things are organized, everything directly to do with the method itself has to be done my way. In some ways, this will affect how the organization operates. I will not compromise one particle of my work. I will show the door to those who fight what they are supposed to be helping with.
+I studied some business and organizations. I think this needs a horizontal, self-managing organization. I can't be a CEO, but I don't think anyone else can, either. However things are organized, everything directly to do with the method itself has to be done my way. This will affect how the organization operates. I will not compromise my work. I will show the door to those who fight what they are supposed to be helping with.
 
-Participants must study my book, internalize its ideas, experience darkness my way, see what I have seen, come to believe in it, and make it their own as I have. The truth I have found is objective. Anyone can know it for himself. But only if he reads the manual and follows the instructions. 
+Participants must study my book, internalize its ideas, experience darkness my way, see what I have seen, come to believe in it, and make it their own as I have. The truth I have found is objective. Anyone can know it for himself. But only if he reads the manual and follows the instructions. The book has to be revised, but it's good enough to begin with now. I can explain the differences in 15 minutes.
 
 When I am better and we are all more experienced, the situation can relax and roles can overlap. Expect some rigidity until then. We have to keep things straight till they can keep themselves straight. As I believe they will. This is a living thing. It is natural. Like walking and talking, it must be learned. Then it can fairly go on by itself.
