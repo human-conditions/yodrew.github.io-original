@@ -43,8 +43,10 @@ Why does it work? Three reasons: physiology, environment, attitude
     - its job is healing
     - knowing this, one can finally relax on the conscious level, relinquish control, and support the process
     
-Normal rest and healing enable us to recover from daily wear and tear. Profound rest enables us to recover from the wear and tear of a lifetime. We can be restored to legendary degrees of function. This is how Francisco excelled at everything he put his hand to. How Hank Rearden could always do the jobs he encountered on his rise. How Galt never made a false move. Their consciousness worked superlatively because their faculties were so more intact than others.
+Normal rest and healing enable us to recover from daily wear and tear. Profound rest enables us to recover from the wear and tear of a lifetime. Of generations. We can be restored to legendary degrees of function. 
 
-The buck stops here. We can end our collective drama ahead of historical schedule as Galt did. We recover the power to do so by recovering ourselves. Hygienic darkroom retreating is how.
+Francisco excelled at everything he put his hand to. Hank Rearden could always do the jobs he encountered on his rise. How Galt never made a false move. Their souls and bodies worked superlatively because their faculties were so much more intact than others.
+
+The buck stops here. We can end our collective drama ahead of historical schedule, just as Galt did. We recover the power to do so by recovering ourselves. Hygienic darkroom retreating is how.
 
 See for yourself. It takes a month of reading and preparation, $50 in materials, and a 3-day weekend for the retreat. My book explains everything in detail, from abstract theory to protocol to construction. Read it for 10 minutes at [darkroomretreat.com](/). If it makes sense, keep reading.
