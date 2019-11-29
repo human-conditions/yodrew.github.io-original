@@ -90,4 +90,4 @@ When I am better and we are all more experienced, the situation can relax and ro
 
 #### conclusion
 
-I have gotten a job as a handyman for $6/hour. It is honest work. Every day I do it, billions suffer and tens of thousands die needlessly. In the end, nature will find a way through someone to solve our problems. Thirty-two years ago, at age 16, I resolved to do it somehow. I am doing my part. Who is in?
+I have gotten a job as a handyman. It is honest work. Every day I do it, billions suffer and tens of thousands die needlessly. Eventually, someone will solve the problem. Thirty-two years ago, at age 16, I resolved to do it. I am doing my part. Who is in?
