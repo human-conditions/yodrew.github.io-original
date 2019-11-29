@@ -5,17 +5,17 @@ permalink: "/blog/2019/11/update-2019-november"
 layout: post
 ---
 
-Here are the three things I figured out this month.
+I figured out three important things this month:
 
-1. Prototyping hygienic darkroom retreating is complete
+1. Eleven years of prototyping hygienic darkroom retreating is complete
 2. Now it needs capitalization
 3. My failure to do the 20-day retreat I have sought all this time was a tactical necessity
 
 #### explanations
 
-##### Prototype
+##### prototype
 
-I developed a model of hygienic darkroom retreating over 11 years. I worked out its theory, protocol, and design in great detail. It is 98% in my book now. I focused on [short retreats](/format#short). On this basis, a team can:
+I developed a model of hygienic darkroom retreating over 11 years. I worked out its theory, protocol, and design in great detail. 98% of it is in my book now. I focused on [short retreats](/format#short). On this basis, a team can:
 
 - develop my model for full application
 - prototype and develop medium and long retreats
@@ -28,19 +28,19 @@ Our first tasks include:
 - public presentations
 - prototyping a complete, prefabricated darkroom
 
-Development ended this autumn when I saw three things:
+Development ended this autumn when I saw:
 
-- the last pieces of the method
+1. the last pieces of the method
     - air filtration
     - bed design
     - the infinite nature of the self (thanks to George Kavassilas). It shows that we have the access we need now to the deep self we will completely recover in darkness
-- the method as a whole 
+2. the method as a whole 
     - importance of and high standards necessary for all pieces. I tried for years to get by on quick, cheap solutions. That was fine for experiments. But for full application, everything needs serious attention.
     - how they all work together. The main elements are:
         - darkroom
         - retreatant
         - support
-- the place of method in the world
+3. the place of method in the world
     - humanity has huge potential
         - the hygienic use of darkness has political implications. By recovering wholeness, we recover personal power, the basis of freedom.
         - in darkness, we can pull ourselves together to deal with huge changes predicted for Earth in the near future 
@@ -48,9 +48,9 @@ Development ended this autumn when I saw three things:
         - ruled by deception and force, we begin at a disadvantage
         - we are each damaged and conditioned as slaves
 
-These six months have been strange. I had worked for 11 years like a juggernaut. My momentum blinded me to the fact that I was reaching the end. Somehow, I had to slow down and reorient. I subconsciously arranged the theft of my computer, the destruction of my smartphone, and recently, getting defrauded of a significant amount of money. It was shocking and discouraging. But it got me to stop. 
+These six months have been strange. I had worked over a decade like a juggernaut. My momentum blinded me to the fact that I was reaching the end. Somehow, I had to slow down and reorient. I subconsciously arranged the theft of my computer, the destruction of my smartphone, and recently, getting defrauded of a significant amount of money. It was shocking and discouraging. But it got me to stop. 
 
-After my computer was stolen, I read George's book (darkroomretreat.com/f/journey.pdf). That helped a lot. I did one more retreat. It was a failure, but I found the last pieces there.
+After my computer was stolen, I read George's book (darkroomretreat.com/f/journey.pdf). This was critical. I did one more retreat based on its encouragement. The retreat mostly failed, but I found the last pieces there.
 
 I experimented in reaching out to others regarding capitalization. This proved costly and mostly chimeric. However, a man is donating 2 hours of consulting per month.
 
@@ -90,4 +90,4 @@ When I am better and we are all more experienced, the situation can relax and ro
 
 #### conclusion
 
-I have gotten a job as a handyman for $6/hour. It is honest work. Every day I do it, billions suffer and tens of thousands of people die needlessly. Things partly depend on how much of it people with time and money but lesser ideas can stomach. In the end, nature will find a way through someone to solve our problems. Thirty-two years ago, at age 16, I decided not to wait, that I would do it somehow. Who is in?
+I have gotten a job as a handyman for $6/hour. It is honest work. Every day I do it, billions suffer and tens of thousands die needlessly. In the end, nature will find a way through someone to solve our problems. Thirty-two years ago, at age 16, I resolved to do it somehow. I am doing my part. Who is in?
