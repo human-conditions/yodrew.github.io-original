@@ -28,6 +28,8 @@ Our first tasks include:
 - public presentations
 - prototyping a complete, prefabricated darkroom
 
+I have done everything I can do alone.
+
 Development ended this autumn when I saw:
 
 1. the last pieces of the method
@@ -72,11 +74,11 @@ One might think I would have at least not gotten worse. But two other factors ca
 
     A 4-day retreat is enough to glimpse the potential of darkness, to get relief and begin healing, and to develop the method. So I kept doing it. But it has cost me greatly. I am debilitated. Some days, it frightens me. I hold on and await my chance to recover. 
 
-    I should be in a hospital being nursed back to health. But the hospital I need does not exist. It must be organized, funded, designed, and built. The staff must be trained. I must direct a lot of this. Meanwhile, I cling to life. Once I have retreated, I will be stable and able to handle things normally. 
+    I should be in a hospital being nursed back to health. But the hospital I need does not exist. It must be organized, funded, designed, and built. The staff must be trained. Somehow, I must direct a lot of this. Meanwhile, I cling to life. Once I have retreated, I will be stable and able to handle things normally. 
 
 ##### capitalization
 
-The project needs all the normal elements to succeed: a team, money, organization, a facility, etc. I just carry the seed.
+The project needs all the normal elements to succeed: a team, money, organization, a facility, etc. I have done everything I can do alone. Now I just carry the seed.
 
 Nature provides us a way to reverse the cause of our suffering: unhealed major trauma. This is our oldest, biggest problem. It causes all the others: slavery, poverty, war, disease, meaninglessness. Most people are so numb and resigned to it, they don't even consider it a problem. It's just how life is. 
 
