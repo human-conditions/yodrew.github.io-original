@@ -54,7 +54,7 @@ After my computer was stolen, I read George's book (darkroomretreat.com/f/journe
 
 I experimented in reaching out to others regarding capitalization. This proved costly and mostly chimeric. However, a man is donating 2 hours of consulting per month.
 
-##### Failure
+##### failure
 
 During these months of reflection, I found answers to two dreadful questions:
 
@@ -74,7 +74,7 @@ One might think I would have at least not gotten worse. But two other factors ca
 
     I should be in a hospital under 24-hour care. But the hospital I need does not exist. It must be organized, funded, designed, and built. The staff must be trained. I must do a lot of this, and I will have to be nursed back to health. In the meantime, I hang on. Once I have retreated, I will be stable and able to handle things normally. 
 
-##### Capitalization
+##### capitalization
 
 The project needs all the normal elements to succeed: a team, money, organization, a facility, etc. I just carry the seed.
 
