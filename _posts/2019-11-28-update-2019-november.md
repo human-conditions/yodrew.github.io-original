@@ -8,8 +8,8 @@ layout: post
 I figured out three important things this month:
 
 1. Eleven years of prototyping hygienic darkroom retreating is complete
-2. Now it needs capitalization
-3. My failure to do the 20-day retreat I have sought all this time was a tactical necessity
+2. My failure to do the 20-day retreat I have sought all this time was a tactical necessity
+3. Now it needs capitalization.
 
 #### explanations
 
@@ -70,24 +70,24 @@ One might think I would have at least not gotten worse. But two other factors ca
 - A retreat long enough to heal requires a team. But I could not work with others at first. The same sensitivity that enabled me to discover darkness makes me vulnerable to others' influence. I could not protect the vision I had from them. I had to work mostly alone till it was stable in my mind. My condition worsened due to exhaustion. Now that the method is complete, it cannot be compromised. This is all that matters. Everything I lost can be recovered in darkness.
 - I hurt myself with too many 4-day retreats. I did not know their danger. Doing a couple 4-day retreats is fine. But I did 15! They strip a person of artificial survival skills. Normal capacity replaces these in darkness, but this takes at least an 8-day retreat. See darkroomretreat.com/hygiene#false-capacity and darkroomretreat.com/format#warning for more.
 
-    A 4-day retreat was enough to glimpse the potential of darkness, to get relief and begin healing, and to develop the method. So I kept going. But the cost has been very great. Some days, I cling to life. This is tragic and frightening. I await a chance to recover. I am debilitated.
+    A 4-day retreat is enough to glimpse the potential of darkness, to get relief and begin healing, and to develop the method. So I kept doing it. But it has cost me greatly. I am debilitated. Some days, it frightens me. I hold on and await my chance to recover. 
 
-    I should be in a hospital under 24-hour care. But the hospital I need does not exist. It must be organized, funded, designed, and built. The staff must be trained. I must do a lot of this, and I will have to be nursed back to health. In the meantime, I hang on. Once I have retreated, I will be stable and able to handle things normally. 
+    I should be in a hospital being nursed back to health. But the hospital I need does not exist. It must be organized, funded, designed, and built. The staff must be trained. I must direct a lot of this. Meanwhile, I cling to life. Once I have retreated, I will be stable and able to handle things normally. 
 
 ##### capitalization
 
 The project needs all the normal elements to succeed: a team, money, organization, a facility, etc. I just carry the seed.
 
-Nature provides a way to end our suffering once and for all. To reverse its cause: unhealed major trauma. This is our oldest, biggest problem. It causes all the others. Slavery, poverty, war, disease, sorrow, alienation. Most people are so numb and resigned to it, they don't even consider it a problem. It's just how life is. 
+Nature provides us a way to reverse the cause of our suffering: unhealed major trauma. This is our oldest, biggest problem. It causes all the others: slavery, poverty, war, disease, meaninglessness. Most people are so numb and resigned to it, they don't even consider it a problem. It's just how life is. 
 
 In fact, it is an aberration. So this idea is the most important in history, with commensurate benefits. In substandard form, it has saved my life twice. Perfected, it can restore humanity to health, happiness, and harmony. We will perfect it.
 
 My elders were entrepreneurs. I studied business and organizations. I think darkness and hygiene need a horizontal, self-managing organization a la _Reinventing Organization_ by Laloux. However things are organized, everything directly to do with the method itself has to be done my way. This will affect how the organization operates. I will not compromise the model. It challenges people. I will show the door to those who fight what they are supposed to be helping with.
 
-Participants must study my book, retreat my way, see what I have seen, and make it their own as I have. The truth I have found is objective. Everyone can know it for himself. But only if he reads the manual and follows the instructions. The book has to be revisedt, but it's good enough to begin with now. I can explain the differences in 15 minutes.
+Participants must study my book, retreat my way, see what I have seen, and make it their own as I have. The truth I have found is objective. Everyone can know it for himself. But only if he reads the manual and follows the instructions.
 
 When I am better and we are all more experienced, the situation can relax and roles can overlap. Expect some rigidity until then. We have to keep things straight till they can keep themselves straight. As I believe they will. This is a living thing. It is natural. Like walking and talking, it must be learned. Then it can fairly go on by itself.
 
 #### conclusion
 
-I have gotten a job as a handyman. It is honest work. Every day I do it, billions suffer and tens of thousands die needlessly. Eventually, someone will solve the problem. Thirty-two years ago, at age 16, I resolved to do it. I am doing my part. Who is in?
+I have gotten a job as a handyman. It is honest work. Every day I do it, billions suffer and tens of thousands die needlessly. Eventually, nature will solve the problem through someone. Thirty-two years ago, at age 16, I resolved to do it. I am doing my part.
