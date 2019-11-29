@@ -28,8 +28,6 @@ Our first tasks include:
 - public presentations
 - prototyping a complete, prefabricated darkroom
 
-I have done everything I can do alone.
-
 Development ended this autumn when I saw:
 
 1. the last pieces of the method
@@ -54,7 +52,7 @@ These six months have been strange. I had worked over a decade like a juggernaut
 
 After my computer was stolen, I read George's book (darkroomretreat.com/f/journey.pdf). This was critical. I did one more retreat based on its encouragement. The retreat mostly failed, but I found the last pieces there.
 
-I experimented in reaching out to others regarding capitalization. This proved costly and chimeric. I'm going to put my attention instead on survival.
+I experimented in reaching out to others regarding capitalization. This proved costly and chimeric. I have done everything I can do alone. I'm going to put my attention on survival now.
 
 ##### failure
 
