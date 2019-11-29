@@ -54,7 +54,7 @@ These six months have been strange. I had worked over a decade like a juggernaut
 
 After my computer was stolen, I read George's book (darkroomretreat.com/f/journey.pdf). This was critical. I did one more retreat based on its encouragement. The retreat mostly failed, but I found the last pieces there.
 
-I experimented in reaching out to others regarding capitalization. This proved costly and mostly chimeric. However, a man is donating 2 hours of consulting per month.
+I experimented in reaching out to others regarding capitalization. This proved costly and chimeric. I'm going to put my attention instead on survival.
 
 ##### failure
 
@@ -92,4 +92,4 @@ When I am better and we are all more experienced, the situation can relax and ro
 
 #### conclusion
 
-I have gotten a job as a handyman. It is honest work. Every day I do it, billions suffer and tens of thousands die needlessly. Eventually, nature will solve the problem through someone. Thirty-two years ago, at age 16, I resolved to do it. I am doing my part.
+That's what I worked out this month.
