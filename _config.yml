@@ -13,7 +13,7 @@ collections:
     output: true
 description: profound rest for the self-healing psyche
 baseurl: ''
-url: http://darkroomretreat.com
+url: https://darkroomretreat.com
 markdown: kramdown
 plugins:
 - jekyll-feed
