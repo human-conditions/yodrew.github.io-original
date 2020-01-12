@@ -8,11 +8,11 @@ navnext: sociality-undenied
 
 #### rethinking Objectivism's first axiom
 
-_for my friend, Sterling,
+_for my friend, Sterling,  
 and for Michael Stuart Kelly and the generous crew at [www.objectivistliving.com][1]_
 
 > "Do you want to assess the rationality of a person, a theory or a philosophical system? Do not inquire about his or its stand on the validity of reason. Look for the stand on axiomatic concepts. It will tell the whole story."  
---Ayn Rand, _Introduction to Objectivist Epistemology _
+--Ayn Rand, _Introduction to Objectivist Epistemology_
 
 Words have always meant a great deal to me. And so when I, as a student of the work of Ayn Rand, took _existence_ into the deepest reaches of my mind as the sole content of _reality_, two things happened. First, it quickly began to restore the natural but damaged connection between myself and the obvious facts around me. But, second, in a strange and menacing way, it began to short-circuit my person until I could barely move or breathe.
 
@@ -28,13 +28,13 @@ Lexicographers generally do not define axiomatic concepts ostensively with tauto
 
 To exist is to stand out. Existence is that which stands out.
 
-In contrast, there is nothing in being that says anything about standing out—or up, or in, or anything else. It just is. So existence is not the same as being after all. Further, it is not _ as much_ as being. Existence is merely what stands out.
+In contrast, there is nothing in being that says anything about standing out—or up, or in, or anything else. It just is. So existence is not the same as being after all. Further, it is not _as much_ as being. Existence is merely what stands out.
 
 Reality, which had, for me, shrunk to the size of a room, then a postage stamp, then a pinhead, then to a vacuum, suddenly expanded. I could breathe again.
 
 I wonder how much of the work of intellectuals consists of reclaiming words and reasserting their essential meanings. Anyway, a few implications of the Latin enable further elaboration of the point. First, having discovered that existence is what stands out, the question arises: Stands out… from what?
 
-Well, from whatever stands back, apparently. A thing cannot stand out from nothing. It can only stand out from something else. So even without knowing what is back there, we know _ that_ something is back there. It does not exist, yet it is.
+Well, from whatever stands back, apparently. A thing cannot stand out from nothing. It can only stand out from something else. So even without knowing what is back there, we know _that_ something is back there. It does not exist, yet it is.
 
 Again we find that existence is not the same as being. Existence is not all that is, so it cannot make up all of reality. Existence fails as a word meant to refer to everything and therefore, as an axiomatic concept.
 
@@ -52,7 +52,7 @@ For all these reasons and more, I propose a correction to Objectivism at its roo
 
 Two corollary changes follow from this replacement that must be mentioned here, if not developed fully. One, Objectivism's first axiom becomes _being is_. Two, this axiom enables a formal definition of reality which establishes in one stroke the objectivity of reality, the primacy of being, and the indissoluable relationship between being and consciousness: reality is _being as object_. Being is the object of its subject, consciousness.
 
-In addition to being, we have in the Anglo-Saxon two unequivocal words to use in normal discourse about it: _everything_ and its absence, _nothing_. (I see no reason to conceive of "non-being", and no way to do so without "reifying the zero".) Then we have plenty of phrases for being (eg, _what is_) and ways to describe it—as many as there are poets, probably. What happens to existence and its silent partner, _non-existence_? I think scientists, both material and spiritual alike, would appreciate this distinction. It could serve criticism, of course, as it has here. But I think it is not for Philosophy, which precedes these issues.
+In addition to being, we have in the Anglo-Saxon two unequivocal words to use in normal discourse about it: _everything_ and its absence, _nothing_. (I see no reason to conceive of "non-being", and no way to do so without "reifying the zero".) Then we have plenty of phrases for being (eg, _what is_) and ways to describe it—as many as there are poets, probably. What happens to existence and its silent partner, _non-existence_? I think scientists, both material and spiritual alike, would appreciate this distinction. It could serve criticism, of course, as it has here. But I think it is not for philosophy, which precedes these issues.
 
 Some may say, "What's the big deal? It is just how we use language." I would reply, Yes, and look at the schizophrenic culture we live in as a result. Moreover, look at what rigorously equating existence and being has done to Objectivism and Objectivists: chronically split it again and again. As John Galt told Dagny, "…you're free to change your course. But as long as you follow it, you're not free to escape its logic." Look, as well, at the harmony a change such as I propose would restore to thought and culture alike. A great relaxation in communication becomes possible when people cease to exclude from their idea of reality some things in favor of others, probably without even knowing they have been doing so.
 
