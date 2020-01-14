@@ -33,7 +33,7 @@ Development ended this autumn when I saw:
 1. the last pieces of the method
     - air filtration
     - bed design
-    - the infinite nature of the self (thanks to George Kavassilas). It shows that we have the access we need now to the deep self we will completely recover in darkness
+    - the infinite nature of the self (thanks to George Kavassilas, author of [_Our Universal Journey_](https://www.weareinfinite.love/our-universal-journey)) and several videos online. George shows how we have been in denial of our deep selves. He shows how we have some access to it. We need the relief and comfort it brings now. We need it to completely recover ourselves in darkness.
 2. the method as a whole 
     - importance of and high standards necessary for all pieces. I tried for years to get by on quick, cheap solutions. That was fine for experiments. But for full application, everything needs serious attention.
     - how they all work together. The main elements are:
@@ -50,7 +50,7 @@ Development ended this autumn when I saw:
 
 These six months have been strange. I had worked over a decade like a juggernaut. My momentum blinded me to the fact that I was reaching the end. Somehow, I had to slow down and reorient. I subconsciously arranged the theft of my computer, the destruction of my smartphone, and recently, getting defrauded of a significant amount of money. It was shocking and discouraging. But it got me to stop. 
 
-After my computer was stolen, I read George's book (darkroomretreat.com/f/journey.pdf). This was critical. I did one more retreat based on its encouragement. The retreat mostly failed, but I found the last pieces there.
+After my computer was stolen, I read George's book. This was critical. I did one more retreat based on its encouragement. The retreat failed due to poor support. The confidence I gained from George's ideas helped me weather it better than usual. And I found the last pieces of my model there.
 
 I experimented in reaching out to others regarding capitalization. This proved costly and chimeric. I'm going to put my attention on survival now.
 
