@@ -14,7 +14,7 @@ _continue reading online_{: style="font-size: .5em;padding-top:-10px 0;"} [&gt;]
     - pdf, epub, mobi
     - automatic notification of new versions, which are free forever
     - no spam and your contact info remains hidden, even from me
-- or [here](/ebook)
+- or send me an [email](/about) and at least $5 (see methods below) and I'll send it to you.
 
 #### help out
 
