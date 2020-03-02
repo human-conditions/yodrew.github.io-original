@@ -10,13 +10,13 @@ This book is an integrated whole. It presents the idea immediately in brief, the
 
 This book has links. On the web, they are colored. In the ebook and print, they look like this:
 
-- ____external links____ to other webpages
-- ____*internal links*____ to other parts of this book. Chapter and section indicated for readers of print version.
-- ____*books*____, downloadable 
+- <u>external links</u> to other webpages
+- <u><em>internal links</em></u> to other parts of this book. Chapter and section indicated for readers of print version.
+- <u><em>books</em></u>, downloadable 
 
 ##### get latest version
 
 - web: [darkroomretreat.com](http://darkroomretreat.com) 
 - ebook (pdf, epub, mobi): [leanpub.com/darkroomretreat](http://leanpub.com/darkroomretreat)
-- plans: [darkroom-retreat.zip](/darkroom-retreat.zip/ )
+- plans: [darkroom-retreat.zip](/darkroom-retreat.zip/)
 
