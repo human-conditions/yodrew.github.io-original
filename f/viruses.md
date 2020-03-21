@@ -4,24 +4,24 @@ layout: page
 permalink: /f/viruses/
 ---
 
-David Klein, Ph.D. (http://www.vibranthealthandwealthacademy.com)  
-and Robert Sniadach, D.C. (http://www.transformationinstitute.org)
+David Klein, Ph.D. [Vibrant Health and Wealth Academy](http://www.vibranthealthandwealthacademy.com)  
+and Robert Sniadach, D.C. [Transformation Institute](http://www.transformationinstitute.org)
 
 ![Wuhan Air Quality](/f/wuhan.jpg)
 
 _Deadly air pollution in Wuhan, China, the epicenter of the "coronavirus outbreak."_
 
-Viruses are prevalent in astronomical numbers throughout Nature. They are everywhere. They are non-living, submicroscopic, organized complexes of molecules that typically contain a protein coat that surrounds a core of RNA or DNA fragments. These genetic fragments from animals and plants arise naturally when cells die and are recycled. About a million cells in your body die every second. Along with all other cellular components, the DNA and RNA parts of dead cells are chopped up by lysosome enzymes into tiny pieces for recycling.
+**Viruses** are prevalent in astronomical numbers throughout Nature. They are everywhere. They are non-living, submicroscopic, organized complexes of molecules that typically contain a protein coat that surrounds a core of RNA or DNA fragments. These genetic fragments from animals and plants arise naturally when cells die and are recycled. About a million cells in your body die every second. Along with all other cellular components, the DNA and RNA parts of dead cells are chopped up by lysosome enzymes into tiny pieces for recycling.
 
 The fragments float freely in the blood and lymph fluid where they can naturally bind with random protein molecules that form coatings; however, the fragments do not seek out protein to coat themselves, as they have no purposeful life force. Because some viruses are encased in proteins that the body thinks it can use, the body's cells are sometimes fooled into absorbing the viruses via protein receptors located on their cell membranes. This entry is commonly called "infection."
 
 When a virus enters a host cell it might be able to use the cell's replicating machinery — a parasitic process whereby many copies of the foreign genetic fragment are made and expelled from the cell. In some cases, replication is limited and harmless; in other cases, replication is life-sapping, destructive to the cells, and potentially fatal. A secondary incidental purpose of viruses is their capability of being incorporated into living host cells and inserted into their DNA/ RNA, altering the genetics and evolutionary trajectory of host organisms.
 
-## viral entrance pathways
+### viral entrance pathways
 
 Some viruses enter our sinuses and entire respiratory system via the air we breathe, whereby they can then enter the body's cells. Viruses can also occur on and in the foods we eat — those that have not been destroyed by cooking and digestive juices can be absorbed into the bloodstream and similarly find their way into the body's cells.
 
-## viral actions are nebulous
+### viral actions are nebulous
 
 Viruses are so incredibly tiny that it is very difficult to discern what happens with them in the body. Viruses are usually far smaller than a bacterium. To truly know what happens with viral infection, we must identify, differentiate, and watch a viral particle attaching to the living cell membrane. Then watch what happens to it inside the cell, then zoom in more to watch the genetic activities taking place, then watch the reconstruction of new viral particles, then watch it breaking out of the cell, and observe the cellular damage and the extent of the destructive effects on a person's health.
 
@@ -32,7 +32,7 @@ The assessment of "viral epidemics" often involves conclusions that are based on
 1. If a person who has eaten a diet of mostly fatty, processed fast foods becomes ill and dies, and an autopsy reveals a "viral infection," the virus is blamed. 
 2. If a person who has breathed extremely polluted air and develops an acute respiratory condition and dies, and an autopsy reveals a "viral infection," the virus is blamed.
 
-## mass deception
+### mass deception
 
 Since so much is unknown about the mechanics of disease causation, toxicosis and virology, these subjects have engendered a lot of myths, fears and panics. Time and time again we have seen World Governments / Big Brother, Big Medicine and Big Pharma employing the "infectious disease" scaremongering narrative to further their agendas of controlling populations and drug profits.
 
@@ -54,7 +54,7 @@ On the alleged worst day for COVID-19 a month ago (February 10, 2020) in the Chi
 
 As long as people keep believing in Big Brother's pandemic story, Big Pharma can cash in on their dubious vaccines and treatments. It's profoundly absurd and sad that most coronavirus "epidemic" players (most doctors, nurses, emergency personnel, laboratory technicians and government "authorities") don't know that they are carrying out a cover-up story that turned into a giant global hoax.
 
-## in summary
+### in summary
 
 Viruses are non-living, submicroscopic organized complexes of molecules, commonly referred to as "infectious agents." There are countless viruses in the natural world, and most are benign. Some viruses that enter the body can have two effects: 1. replication that can be benign or harmful, and 2. insertion into our chromosomes, resulting in changes to our genetic traits and functions that may be considered "evolutionary."
 
