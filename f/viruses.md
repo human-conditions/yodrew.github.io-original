@@ -1,9 +1,13 @@
-# Viruses
+---
+title: viruses
+layout: page
+permalink: /f/viruses/
+---
 
 David Klein, Ph.D. (http://www.vibranthealthandwealthacademy.com)  
 and Robert Sniadach, D.C. (http://www.transformationinstitute.org)
 
-![Wuhan Air Quality](/wuhan.jpg)
+![Wuhan Air Quality](/f/wuhan.jpg)
 
 _Deadly air pollution in Wuhan, China, the epicenter of the "coronavirus outbreak."_
 
