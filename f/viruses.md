@@ -11,7 +11,9 @@ and Robert Sniadach, D.C. [Transformation Institute](http://www.transformationin
 
 _Deadly air pollution in Wuhan, China, the epicenter of the "coronavirus outbreak."_
 
-**Viruses** are prevalent in astronomical numbers throughout Nature. They are everywhere. They are non-living, submicroscopic, organized complexes of molecules that typically contain a protein coat that surrounds a core of RNA or DNA fragments. These genetic fragments from animals and plants arise naturally when cells die and are recycled. About a million cells in your body die every second. Along with all other cellular components, the DNA and RNA parts of dead cells are chopped up by lysosome enzymes into tiny pieces for recycling.
+### introduction
+
+Viruses are prevalent in astronomical numbers throughout Nature. They are everywhere. They are non-living, submicroscopic, organized complexes of molecules that typically contain a protein coat that surrounds a core of RNA or DNA fragments. These genetic fragments from animals and plants arise naturally when cells die and are recycled. About a million cells in your body die every second. Along with all other cellular components, the DNA and RNA parts of dead cells are chopped up by lysosome enzymes into tiny pieces for recycling.
 
 The fragments float freely in the blood and lymph fluid where they can naturally bind with random protein molecules that form coatings; however, the fragments do not seek out protein to coat themselves, as they have no purposeful life force. Because some viruses are encased in proteins that the body thinks it can use, the body's cells are sometimes fooled into absorbing the viruses via protein receptors located on their cell membranes. This entry is commonly called "infection."
 
