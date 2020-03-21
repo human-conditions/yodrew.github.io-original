@@ -4,8 +4,8 @@ layout: page
 permalink: /f/viruses/
 ---
 
-David Klein, Ph.D. [Vibrant Health and Wealth Academy](http://www.vibranthealthandwealthacademy.com)  
-and Robert Sniadach, D.C. [Transformation Institute](http://www.transformationinstitute.org)
+by [David Klein, Ph.D.](http://www.vibranthealthandwealthacademy.com)  
+and [Robert Sniadach, D.C.](http://www.transformationinstitute.org)
 
 ![Wuhan Air Quality](/f/wuhan.jpg)  
 _Deadly air pollution in Wuhan, China, "epicenter" of the "coronavirus outbreak."_
