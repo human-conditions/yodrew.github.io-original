@@ -33,8 +33,8 @@ The resulting model of the concept represents its substance and process: theory,
 
 If further conversation about this interests you, let us meet. We would need an interpreter. I live in Litosice, near Prelouc. I can come to Prague anytime.
 
-Best regards,
-Andrew Durham
+Best regards,  
+Andrew Durham  
 +420 704 029 809 (phone, Whatsapp, Telegram)
 
 ~~
