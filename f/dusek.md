@@ -35,7 +35,6 @@ If further conversation about this interests you, let us meet. We would need an 
 
 Best regards,  
 Andrew Durham  
-+420 704 029 809 (phone, Whatsapp, Telegram)
 
 ~~
 
@@ -71,4 +70,4 @@ Pokud vás toto dále zajímá, setkejme se. Potřebovali bychom tlumočníka. B
 
 S pozdravem,  
 Andrew Durham  
-+420 704 029 809 (telefon, Whatsapp, Telegram)
+  
