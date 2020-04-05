@@ -3,7 +3,7 @@ title: microwave
 layout: page
 ---
 
-Excerpted from (PDF](https://www.stetzerelectric.com/wp-content/uploads/Naval-Medical-Research-Institute-1972-Full-Bibliography.pdf)
+Excerpted from [PDF](https://www.stetzerelectric.com/wp-content/uploads/Naval-Medical-Research-Institute-1972-Full-Bibliography.pdf)
 
 #### Biological Phenomena ('Effects') and Clinical Manifestations Attributed to Microwave and Radio-Frequency Radiation
 
