@@ -11,15 +11,15 @@ Abstract: More than 2000 references on the biological responses to radio frequen
 
 Tags: Biological Effects, Non-Ionizing Radiation, Radar Hazards, Radio Frequency Radiation, Microwave Radiation, Health Hazards, Bibliography, Electromagnetic Radiation Injury
 
-Naval Medical Research Institute
-Research Report
-MF12.524.015-0004B
-Report No. 2 Revised
+Naval Medical Research Institute  
+Research Report  
+MF12.524.015-0004B  
+Report No. 2 Revised  
 Zorach R. Glaser, Ph.D. LT, MSC, USNR
 
 ##### Foreword
 
-It is the hope of the author that this bibliography will provide guidance to the diffuse and conflicting literature on the biological responses to electromagnetic radiation at radio- and microwave-frequencies, with particular reference to the effects of concern to man. Such guidance is needed in the formulation and appraisal of criteria and limits of human exposure to "non-ionizing" radiation, and in the planning and conduct of future research.
+It is the hope of the author that this bibliography will provide guidance to the diffuse and conflicting literature on the biological responses to electromagnetic radiation at radio- and microwave-frequencies, with particular reference to the effects of concern to man. Such guidance is needed in the formulation and appraisal of criteria and limits of human exposure to "non-ionizing" radiation, and in the planning and conduct of future research...
 
 ##### Symptoms
 
