@@ -3,6 +3,8 @@ title: microwave
 layout: page
 ---
 
+Excerpted from (PDF](https://www.stetzerelectric.com/wp-content/uploads/Naval-Medical-Research-Institute-1972-Full-Bibliography.pdf)
+
 #### Biological Phenomena ('Effects') and Clinical Manifestations Attributed to Microwave and Radio-Frequency Radiation
 
 Abstract: More than 2000 references on the biological responses to radio frequency and microwave radiation, published up to June 1971, are included in the bibliography. Particular attention has been paid to the effects on man of non-ionizing radiation at these frequencies. The citations are arranged alphabetically by author, and contain as much information as possible so as to assure effective retrieval of the original documents. An outline of the effects which have been attributed to radio frequency and microwave radiation is also part of the report.
