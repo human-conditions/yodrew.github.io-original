@@ -21,7 +21,7 @@ It is the hope of the author that this bibliography will provide guidance to the
 
 ##### Symptoms
 
-A. Heating of Organs* (Applications: Diathermy, Electrosurgery, Electrocoagulation, Electrodessication, Electrotomy)
+1. Heating of Organs* (Applications: Diathermy, Electrosurgery, Electrocoagulation, Electrodessication, Electrotomy)
     1. Whole Body (temperature regulation defect), Hyperpyrexia
     2. Skin
     3. Bone and Bone Marrow
@@ -31,9 +31,9 @@ A. Heating of Organs* (Applications: Diathermy, Electrosurgery, Electrocoagulati
     5. Genitalia (tubular degeneration of testicles)
     6. Brain
     7. Sinuses
-    8. Metal Inplants (burns near hip pins, erc.)
+    8. Metal Inplants (burns near hip pins, etc.)
     The effects are generally reversible except for 4a.
-B. Changes in Physiologic Function
+2. Changes in Physiologic Function
     1. Striated Muscle Contraction
     2. Alteration of Diameter of Blood Vessels (increased vascular elasticity), Dilation
     3. Changes in the Oxidative Processes in Tissues and Organs
@@ -63,7 +63,7 @@ B. Changes in Physiologic Function
     27. Death
     28. Dehydration
     29. Altered Rate of Calcification of Certain Tissue
-C. Central Nervous System Effects
+3. Central Nervous System Effects
     1. Headaches
     2. Inomnia
     3. Restlessness (Awake and During Sleep)
@@ -73,14 +73,14 @@ C. Central Nervous System Effects
     7. Conditioned Reflex Disorders
     8. Vagomimetic Action of the Heart; Sympaticomimetic Action
     9. Seizures, Convulsions
-D. Autonomic Nervous System Effects
+4. Autonomic Nervous System Effects
     1. Neuro-vegetative Disorders (e.g., alteration of heart rhythm)
     2. Fatigue
     3. Structural Alterations in the Synapses of the Vagus Nerve
     4. Stimulation of Parasympathetic Nervous System (Bradycardia), and Inhbition of the Sympathetic Nervous System
-E. Peripheral Nervous System Effects
+5. Peripheral Nervous System Effects
     Effects on Locomotor Nerves
-F. Psychological Disorders ("Human Behavioral Studies") - the so-called "Psychophysiologic (and Psychosomatic) Responses"
+6. Psychological Disorders ("Human Behavioral Studies") - the so-called "Psychophysiologic (and Psychosomatic) Responses"
     1. Neurasthenia- (general "bad" feeling)
     2. Depression
     3. Impotence
@@ -98,9 +98,9 @@ F. Psychological Disorders ("Human Behavioral Studies") - the so-called "Psychop
     15. Increased Fatigability
     16. Chest Pain
     17. Tremor of the Hands
-G. Behavioral Changes (Aninal Studies)
+7. Behavioral Changes (Aninal Studies)
     Reflexive, Operant, Avoidance, and Discrimination Behaviors
-H. Blood Disorders
+8. Blood Disorders
     (V = in vivo)
     (v = in vitro)
     Changes in:
@@ -118,10 +118,10 @@ H. Blood Disorders
     12. Hemopoiesis (rate of formation of blood corpuscles)
     13. Leukopenia (increase in number of white cells), and Leukocytosis
     14. Reticulocytosis
-I. Vascular Disorders
+9. Vascular Disorders
     1. Thrombosis
     2. Hypertension
-J. Enzyme and Other Biochemical Changes
+10. Enzyme and Other Biochemical Changes
     Changes in activity of:
     1. Cholinesterase (V,v)
     2. Phosphatase (v)
@@ -136,17 +136,17 @@ J. Enzyme and Other Biochemical Changes
     11. Changes in Pyruvic Acid, Lactic Acid, and Creatinine Excretions
     12. Change in Concentration of Glycogen in Liver (Hlyperglycemia)
     13. Alteration in Concentration of 17- Ketosterolds in Urine
-K. Metabolic Disorders
+11. Metabolic Disorders
     1. Glycosuria (sugar in urine; related with blood sugar?)
     2. Increase in Urinary Phenol (derivatives? DOPA?)
     3. Alteration of rate of Metabolic Enzymatic Processes
     4. Altered Carbohydrate Metabolism
-L. Gastro-Intestinal Disorders
+12. Gastro-Intestinal Disorders
     1. Anorexia (loss of appetite)
     2. Epigastric Pain
     3. Constipation
     4. Altered Secretion of Stomach "Digestive Juices"
-M. Endocrine Gland Changes
+13. Endocrine Gland Changes
     1. Altered Pituitary Function
     2. Hyperthyroidism
     3. Thyroid Enlargement
@@ -155,18 +155,18 @@ M. Endocrine Gland Changes
     6. Decreased Corticosteroids in Blood
     7. Decreased Glucocorticoidal Activity
     8. Hypogonadism (usually decreased testosterone production)
-N. Histological Changes
+14. Histological Changes
     1. Changes in Tubular Epithelium of Testicles
     2. Gross Changes
-O. Genetic and Chromoscrtal Changes
+15. Genetic and Chromoscrtal Changes
     1. Chromosome Aberrations (e.g., linear shortening, pseudochiasm, diploid structures, amitotic division, bridging, "sticky" chromosomes, irregularities in chromosomal envelope)
     2. Mutations
     3. Mongolism
     4. Somatic Alterations (changes in cell not involving nucleus or chromosomes, cellular transformation)
     5. Neoplastic Diseases (e.g., tumors)
-P. Pearl Chain Effect (Intracellular orientation of subcellular particles, and orientation of cellular and other (non-biological) particles)
+16. Pearl Chain Effect (Intracellular orientation of subcellular particles, and orientation of cellular and other (non-biological) particles)
     Also, orientation of animals, birds, and fish in electromagnetic fields
-Q. Miscellaneous Effects
+17. Miscellaneous Effects
     1. Sparking between dental fillings
     2. Peculiar metallic taste in mouth
     3. Changes in Optical Activity of Colloidal Solutions
