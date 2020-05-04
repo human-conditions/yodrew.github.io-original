@@ -38,7 +38,7 @@ The unusual TERMS below recognize the assistance people have given me till now. 
 #### menu
 
 | Delivered: | Item (price notes)                     | $Cash | $Credit | 
-| --- | --- | ---:| ---:|
+| ---:| --- | ---:| ---:|
 | 2020 now | consultation, 1 hour                     |   20  |   10    |
 |          | gift certificate (any amount above 5), value pegged to menu offerings, buying power increases 8%/yr | 5+ | 5+ |
 |      Sep | book, paper                              |   25  |   17    |
@@ -132,5 +132,5 @@ A proper working tool is essential to profitability. E-paper is radically humane
             
 That's it. Thanks for your consideration and support. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1ODM4ODMyMjksMzQxNDMzNzc4XX0=
+eyJoaXN0b3J5IjpbOTI5NDgwMjUzLDM0MTQzMzc3OF19
 -->
