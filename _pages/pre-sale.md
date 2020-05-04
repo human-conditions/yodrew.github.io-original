@@ -1,9 +1,11 @@
 
 ---
 title: Darkness Pre-Sale
+layout: page
+permalink: /pre-sale
 ---
 
-#### INTRO
+#### intro
 
 I am starting a business to advance hygienic darkroom retreating. To fund it, I am pre-selling everything I describe in my book: 
 
@@ -22,7 +24,7 @@ My readers and I have gained these benefits to noticeable degrees in our prelimi
 
 The unusual TERMS below recognize the assistance people have given me till now. Goods and services, their shipping dates through 2023, and prices are listed in the MENU. The ultimate GOAL of the campaign is $10,800. The minimum is $1900. The budget is described as well. The PLAN explains how I'll use the money.
 
-#### TERMS
+#### terms-
 
 - $USD prices, postpaid 
 - $Cash is base price. $Credit is price after maximum credit is applied. (Difference is the maximum credit that can be applied to each unit.)
@@ -34,7 +36,7 @@ The unusual TERMS below recognize the assistance people have given me till now. 
     - I gladly honor claims from anyone who helped me in any way since my R&D began 32 years ago
     - see a list of credits at [future webpage]. Look for yours by your initials, year, and country code where you were at the time. If you don't see it, let me know.
 
-#### MENU
+#### menu
 
 | Delivered: | Item (price notes)                     | $Cash | $Credit | 
 | --- | --- | ---:| ---:|
@@ -131,5 +133,6 @@ A proper working tool is essential to profitability. E-paper is radically humane
             
 That's it. Thanks for your consideration and support. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTIxMzQ4Njc1NiwtMTI1MDY4NjY1M119
+eyJoaXN0b3J5IjpbLTk4NDkyMjEyNywxMjEzNDg2NzU2LC0xMj
+UwNjg2NjUzXX0=
 -->
