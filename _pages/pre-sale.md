@@ -1,4 +1,3 @@
-
 ---
 title: Darkness Pre-Sale
 layout: page
