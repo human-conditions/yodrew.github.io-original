@@ -167,23 +167,22 @@ table {
     border: solid 1px #555555;
     border-collapse: collapse;
     border-spacing: 0;
-    overflow: auto;
     }
 
 thead th {
-    border: solid 1px #AAAAAA;
+    border: solid 1px #555555;
     padding: 10px;
     text-align: left;
     }
 
 tbody td {
-    border: solid 1px #777777;
-    padding: 4px;
+    border: solid 1px #555555;
+    padding: 4px 10px;
     }
 
 td {
 //    white-space: nowrap;
-	padding: 4px 8px;
+	padding: 4px 10px;
     }
 
 .gmnoprint img {
