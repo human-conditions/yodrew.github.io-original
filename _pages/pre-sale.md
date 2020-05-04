@@ -24,7 +24,7 @@ My readers and I have gained these benefits to noticeable degrees in our prelimi
 
 The unusual TERMS below recognize the assistance people have given me till now. Goods and services, their shipping dates through 2023, and prices are listed in the MENU. The ultimate GOAL of the campaign is $10,800. The minimum is $1900. The budget is described as well. The PLAN explains how I'll use the money.
 
-#### terms-
+#### terms
 
 - $USD prices, postpaid 
 - $Cash is base price. $Credit is price after maximum credit is applied. (Difference is the maximum credit that can be applied to each unit.)
@@ -78,7 +78,7 @@ The unusual TERMS below recognize the assistance people have given me till now. 
 | TBA      | microfactory: tooling to produce components at home |  TBD  |         |   
 |          | *not yet prototyped or illustrated in my book. Write for info. |   |   |         
 
-#### GOAL
+#### goal
 
 - Amounts to raise are ~90% higher than costs to cover: 
 	- printing, manufacturing, shipping
@@ -100,7 +100,7 @@ The unusual TERMS below recognize the assistance people have given me till now. 
 
 With $1900, I can begin. Unraised money will come by grace as usual, from work that comes, and angel investment found through the startup process. A pitch deck is a very powerful thing.
 
-#### PLAN
+#### plan
 
 A proper working tool is essential to profitability. E-paper is radically humane technology. It is neutral, even calming. Laptop displays⁠—backlit, color, fast, strobing⁠—are irritating, distracting, and enervating. They destroy my concentration. With an e-paper computer, I can:
 
@@ -133,6 +133,6 @@ A proper working tool is essential to profitability. E-paper is radically humane
             
 That's it. Thanks for your consideration and support. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk4NDkyMjEyNywxMjEzNDg2NzU2LC0xMj
-UwNjg2NjUzXX0=
+eyJoaXN0b3J5IjpbMzQxNDMzNzc4LDEyMTM0ODY3NTYsLTEyNT
+A2ODY2NTNdfQ==
 -->
