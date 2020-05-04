@@ -163,7 +163,8 @@ dd + dt {
     }
 
 table {
-    border: solid 1px #AAAAAA;
+	width: 600px
+    border: solid 1px #777777;
     border-collapse: collapse;
     border-spacing: 0;
     }
@@ -181,6 +182,7 @@ tbody td {
 
 td {
     white-space: nowrap;
+	padding: 4px 8px;
     }
 
 .gmnoprint img {
