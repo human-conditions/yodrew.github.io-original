@@ -1,7 +1,7 @@
 ---
 title: Darkness Pre-Sale
 layout: page
-permalink: /pre-sale
+permalink: /pre-sale/
 ---
 
 #### intro
@@ -132,5 +132,5 @@ A proper working tool is essential to profitability. E-paper is radically humane
             
 That's it. Thanks for your consideration and support. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzQxNDMzNzc4XX0=
+eyJoaXN0b3J5IjpbLTE1ODM4ODMyMjksMzQxNDMzNzc4XX0=
 -->
