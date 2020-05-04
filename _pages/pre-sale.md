@@ -42,7 +42,7 @@ The unusual TERMS below recognize the assistance people have given me till now. 
 | 2020 now | consultation, 1 hour                     |   20  |   10    |
 |          | gift certificate (any amount above 5), value pegged to menu offerings, buying power increases 8%/yr | 5+ | 5+ |
 |      Sep | book, paper                              |   25  |   17    |
-|          | - additional copy                        |   15  |   11    |
+|          | — additional copy                        |   15  |   11    |
 |          | e-book                                   |   15  |    8    |
 |      Oct | lecture, 2 hours (+ expenses)            |  120  |   70    |
 |          | helix vent                               |   40  |   25    |
@@ -54,15 +54,15 @@ The unusual TERMS below recognize the assistance people have given me till now. 
 | 2021 Feb | sleeping mask                            |   35  |   25    |
 |          | air filter                               |   85  |   75    |
 |          | silencer                                 |   90  |   70    |
-|          | - add helix vent-z                       |   25  |   15    |
-|          | - add fan mount                          |   40  |   30    |
-|          | - add air filter                         |   80  |   70    |
+|          | ⁠— add helix vent-z                       |   25  |   15    |
+|          | ⁠— add fan mount                          |   40  |   30    |
+|          | ⁠— add air filter                         |   80  |   70    |
 |          | Blinds, custom, per m²:                  |       |         |
-|          | - plastic                                |   40  |   40    |
-|          | - velcro                                 |  115  |   85    |
-|          | - panel                                  |  120  |   90    |
-|          | - roller                                 |  165  |  115    |
-|          | - - add helix vent to any blind          |   45  |   35    |
+|          | ⁠— plastic                                |   40  |   40    |
+|          | ⁠— velcro                                 |  115  |   85    |
+|          | ⁠— panel                                  |  120  |   90    |
+|          | ⁠— roller                                 |  165  |  115    |
+|          | ⁠— ⁠— add helix vent to any blind          |   45  |   35    |
 |          | threshold vent                           |   35  |   25    |
 |          | compost toilet                           |   90  |   70    |
 |          | shower                                   |  230  |  170    |
@@ -132,5 +132,6 @@ A proper working tool is essential to profitability. E-paper is radically humane
             
 That's it. Thanks for your consideration and support. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTI5NDgwMjUzLDM0MTQzMzc3OF19
+eyJoaXN0b3J5IjpbLTEzMDE4MTMzNDUsOTI5NDgwMjUzLDM0MT
+QzMzc3OF19
 -->
