@@ -75,7 +75,7 @@ The unusual TERMS below recognize the assistance people have given me till now. 
 |      Nov | retreat, per day, 1, 4, 8, 20-60 days    |   60  |   40    |
 | 2022 Oct | *darkroom: hygienic house, prefab, for living and retreating (5% deposit) |  30k  |  25k    |
 | 2023 Jul | *neighborhood (12-50 people, ~30k each, 5% deposit) | 360k+ | 300k+   |      
-| TBA      | microfactory: tooling to produce components at home |  TBD  |         |   
+| TBA      | microfactory tooling kits to produce components at home |  TBD  |         |   
 
  *well-conceived designs not yet prototyped or illustrated in my book
 
@@ -135,7 +135,7 @@ A proper working tool is essential to profitability. E-paper is radically humane
             
 That's it. Thanks for your consideration and support. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4ODU3ODI0MTcsLTE0Nzk4NDg4NDcsLT
-E4MzE5Mzg3NzEsLTEzMDE4MTMzNDUsOTI5NDgwMjUzLDM0MTQz
-Mzc3OF19
+eyJoaXN0b3J5IjpbMTgwMDcxMTkwNCwtMTg4NTc4MjQxNywtMT
+Q3OTg0ODg0NywtMTgzMTkzODc3MSwtMTMwMTgxMzM0NSw5Mjk0
+ODAyNTMsMzQxNDMzNzc4XX0=
 -->
