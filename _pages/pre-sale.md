@@ -72,7 +72,7 @@ The unusual TERMS below recognize the assistance people have given me till now. 
 |          | *hip or shoulder pad                     |   20  |   15    |
 |      Jul | seminar, 6 hours (+ expenses)            |  400  |  250    |
 |      Nov | retreat, per day, 1, 4, 8, 20-60 days    |   60  |   40    |
-| 2022 Oct | *darkroom: hygienic house, prefab, for living and retreating (5% deposit) |  30k  |  25k    |         
+| 2022 Oct | *darkroom: hygienic house, prefab, for living and retreating (5% deposit) |  30k  |  25k    |
 | 2023 Jul | *neighborhood (12-50 people, ~30k each, 5% deposit) | 360k+ | 300k+   |      
 | TBA      | microfactory: tooling to produce components at home |  TBD  |         |   
 |          | *not yet prototyped or illustrated in my book. Write for info. |   |   |         
@@ -132,6 +132,6 @@ A proper working tool is essential to profitability. E-paper is radically humane
             
 That's it. Thanks for your consideration and support. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMDE4MTMzNDUsOTI5NDgwMjUzLDM0MT
-QzMzc3OF19
+eyJoaXN0b3J5IjpbLTE4MzE5Mzg3NzEsLTEzMDE4MTMzNDUsOT
+I5NDgwMjUzLDM0MTQzMzc3OF19
 -->
