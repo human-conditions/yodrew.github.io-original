@@ -102,15 +102,18 @@ The unusual TERMS below recognize the assistance people have given me till now. 
 |  9 | copy editing, proofreading, book design |  9000 |
 | 10 | debt 2                                  | 10800 | 
 
-With $1900, I can begin. Money short of the ultimate goal will come from new work assignments and the startup process. A pitch deck is an extremely powerful thing.
-
-#### plan
-
 Proper tools are essential to any worker. E-paper is radically humane technology. It is neutral, even calming. Laptop displays⁠—backlit, color, fast, strobing⁠— irritate, distract, and enervate me, destroying my concentration. With an e-paper computer, I can:
 
+- hold my entire book in my mind at once while editing
 - read a handful of crucial books and articles I collected since my last e-paper device died
 - develop the business that creates the goods and services I will offer
-- hold my entire book in my mind at once while editing
+
+
+With $1900, I can get the computer and begin. Money short of the ultimate goal will come from new work assignments and the startup process. A pitch deck is an extremely powerful thing.
+
+
+
+#### plan
 
 - business
     - study the startup process 
@@ -137,7 +140,7 @@ Proper tools are essential to any worker. E-paper is radically humane technology
             
 That's it. Thanks for your consideration and support. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODU1MjU3MzYzLDk5NzIzNzk5NSwtMTg4NT
+eyJoaXN0b3J5IjpbMjAzMDcyOTg2LDk5NzIzNzk5NSwtMTg4NT
 c4MjQxNywtMTQ3OTg0ODg0NywtMTgzMTkzODc3MSwtMTMwMTgx
 MzM0NSw5Mjk0ODAyNTMsMzQxNDMzNzc4XX0=
 -->
