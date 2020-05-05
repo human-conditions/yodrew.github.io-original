@@ -1,3 +1,4 @@
+
 ---
 title: Darkness Pre-Sale
 layout: page
@@ -31,7 +32,7 @@ The unusual TERMS below recognize the assistance people have given me till now. 
     - donations and contributions to my 2016 crowdfund are credited 100%
     - leanpub purchases are credited 70%
     - credit is tranferable
-    - include a mention or record of your prior contribution (eg, a leanpub order #) with your current one. If you lost it, I might have it somewhere or remember
+    - include a mention or record of your prior contribution (eg, a leanpub order #). If you lost it, I might have it.
     - I gladly honor claims from anyone who helped me in any way since my R&D began 32 years ago
     - see a list of credits at [future webpage]. Look for yours by your initials, year, and country code where you were at the time. If you don't see it, let me know.
 
@@ -79,25 +80,26 @@ The unusual TERMS below recognize the assistance people have given me till now. 
 
 #### goal
 
-- Amounts to raise are ~90% higher than costs to cover: 
-	- printing, manufacturing, shipping
-	- credit redemptions
 - $10,800 ultimate goal, $1900 minimum
+- Amounts are cumulative and are enough to cover
+    - items
+	- manufacturing, printing, shipping
+	- credit redemptions
 
-| Item                                    | Cost | Raise |  Goal |
-| ---- | ---:| --:| ---:|
-| e-paper computer, [Onyx Boox Max 3](https://ereader.store/en/onyx-boox/onyx-boox-max-3-white-57.html) and [Sofle keyboard](https://josef-adamcik.cz/electronics/let-me-introduce-you-sofle-keyboard-split-keyboard-based-on-lily58.html) | 1000 |  1900 |  1900 |
-| [special legal counsel](https://youarelaw.org) to form business  | 1000 |  1900 |  3800 |
-| living expenses, month 1                |  300 |   600 |  4400 |
-| debt 1                                  |  300 |   500 |  4900 |
-| assembly drawings for book, phase 1     |  500 |  1000 |  5900 |
-| living expenses, month 2                |  200 |   400 |  6300 |
-| assembly drawings for book, phase 2     |  500 |   900 |  7200 |
-| living expenses, months 3-4             |  300 |   500 |  7700 |
-| copy editing, proofreading, book design |  700 |  1300 |  9000 |
-| debt 2                                  |  900 |  1800 | 10800 |
+| Goal | Item                             | Amount |
+| --:| ---- | ---:|
+|  1 | e-paper computer and ergonomic keyboard: [Onyx Boox Max 3](https://ereader.store/en/onyx-boox/onyx-boox-max-3-white-57.html) & [Sofle](https://josef-adamcik.cz/electronics/let-me-introduce-you-sofle-keyboard-split-keyboard-based-on-lily58.html) |  1900 |
+|  2 | legal counsel to form business          |  3800 |
+|  3 | living expenses, month 1                |  4400 |
+|  4 | debt 1                                  |  4900 |
+|  5 | assembly drawings for book, phase 1     |  5900 |
+|  6 | living expenses, month 2                |  6300 |
+|  7 | assembly drawings for book, phase 2     |  7200 |
+|  8 | living expenses, months 3-4             |  7700 |
+|  9 | copy editing, proofreading, book design |  9000 |
+| 10 | debt 2                                  | 10800 | 
 
-With $1900, I can begin. Unraised money will come by grace as usual, from work that comes, and angel investment found through the startup process. A pitch deck is a very powerful thing.
+With $1900, I can begin. Money short of the ultimate goal will come from new work assignments and the startup process. A pitch deck is an extremely powerful thing.
 
 #### plan
 
@@ -132,6 +134,6 @@ A proper working tool is essential to profitability. E-paper is radically humane
             
 That's it. Thanks for your consideration and support. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4MzE5Mzg3NzEsLTEzMDE4MTMzNDUsOT
-I5NDgwMjUzLDM0MTQzMzc3OF19
+eyJoaXN0b3J5IjpbLTE0Nzk4NDg4NDcsLTE4MzE5Mzg3NzEsLT
+EzMDE4MTMzNDUsOTI5NDgwMjUzLDM0MTQzMzc3OF19
 -->
