@@ -82,8 +82,10 @@ The unusual TERMS below recognize the assistance people have given me till now. 
 #### goal
 
 - $10,800 ultimate goal, $1900 minimum
-- Amounts are cumulative and are enough to cover
-    - items
+- Amounts are
+    - cumulative
+    - enough to cover
+        -  items
 	- manufacturing, printing, shipping
 	- credit redemptions
 
@@ -135,7 +137,7 @@ A proper working tool is essential to profitability. E-paper is radically humane
             
 That's it. Thanks for your consideration and support. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTgwMDcxMTkwNCwtMTg4NTc4MjQxNywtMT
-Q3OTg0ODg0NywtMTgzMTkzODc3MSwtMTMwMTgxMzM0NSw5Mjk0
-ODAyNTMsMzQxNDMzNzc4XX0=
+eyJoaXN0b3J5IjpbOTk3MjM3OTk1LC0xODg1NzgyNDE3LC0xND
+c5ODQ4ODQ3LC0xODMxOTM4NzcxLC0xMzAxODEzMzQ1LDkyOTQ4
+MDI1MywzNDE0MzM3NzhdfQ==
 -->
