@@ -169,6 +169,25 @@ table {
     margin-left: 15px;
 	}
 
+
+/* table { border-collapse: collapse; }
+
+td + td, th + th { 
+	border-left: 1px solid #555555 
+	}
+
+tr + tr { 
+border-top: 1px solid #555555}
+
+td, th {
+padding: 10px; 
+	}
+
+tr + tr > td, tr + tr > th {
+border-top: 1px solid #555555
+	}
+*/
+
 thead th {
     border: solid 1px #555555;
     padding: .55em .9em;
