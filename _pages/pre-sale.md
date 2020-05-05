@@ -112,7 +112,10 @@ Proper tools are essential to any worker. E-paper is radically humane technology
 - read several crucial books and articles I found since my last e-paper device died
 - develop the business that creates the goods and services I wish to offer
 
-S- business
+
+
+
+- business
     - study the startup process 
     - develop pitch deck and other business documents to attract funding
     - assemble team and organize work
@@ -137,7 +140,7 @@ S- business
             
 That's it. Thanks for your consideration and support. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc4NjUxOTQxNyw5OTcyMzc5OTUsLTE4OD
+eyJoaXN0b3J5IjpbLTQ1ODExNTE1Niw5OTcyMzc5OTUsLTE4OD
 U3ODI0MTcsLTE0Nzk4NDg4NDcsLTE4MzE5Mzg3NzEsLTEzMDE4
 MTMzNDUsOTI5NDgwMjUzLDM0MTQzMzc3OF19
 -->
