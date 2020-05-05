@@ -102,7 +102,7 @@ The unusual TERMS below recognize the assistance people have given me till now. 
 |  9 | copy editing, proofreading, book design |  9000 |
 | 10 | debt 2                                  | 10800 | 
 
-With $1900, I can begin. Money short of the ultimate goal will come from new work assignments and the startup process. 
+With $1900, I can begin. Money short of the ultimate goal will come through the startup process and the new work it generates.
 
 #### plan
 
@@ -137,7 +137,7 @@ Proper tools are essential to any worker. E-paper is radically humane technology
             
 That's it. Thanks for your consideration and support. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc4NzM2MTM1NSwtMjA0NTc1MjM2MSw5OT
+eyJoaXN0b3J5IjpbMTUwMjAyNjExMCwtMjA0NTc1MjM2MSw5OT
 cyMzc5OTUsLTE4ODU3ODI0MTcsLTE0Nzk4NDg4NDcsLTE4MzE5
 Mzg3NzEsLTEzMDE4MTMzNDUsOTI5NDgwMjUzLDM0MTQzMzc3OF
 19
