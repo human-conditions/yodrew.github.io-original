@@ -163,31 +163,10 @@ dd + dt {
     }
 
 table {
-    border-collapse: collapse;
+  border-collapse: collapse;
+  border-style: hidden;
     max-width: 90%;
-//    solid 1px #555555;
-//    border-spacing: 0;
     margin-left: 15px;
-	}
-
-table td, table th {
-    border: 1px solid #555555;
-	}
-
-table tr:first-child th {
-    border-top: 0;
-	}
-
-table tr:last-child td {
-    border-bottom: 0;
-	}
-
-table tr td:first-child, table tr th:first-child {
-    border-left: 0;
-	}
-
-table tr td:last-child, table tr th:last-child {
-    border-right: 0;
 	}
 
 thead th {
