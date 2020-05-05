@@ -77,7 +77,7 @@ The unusual TERMS below recognize the assistance people have given me till now. 
 | 2023 Jul | *neighborhood (12-50 people, ~30k each, 5% deposit) | 360k+ | 300k+   |      
 | TBA      | microfactory: tooling to produce components at home |  TBD  |         |   
 
- *not yet prototyped or illustrated in my book.
+ *well-conceived designs not yet prototyped or illustrated in my book
 
 #### goal
 
@@ -135,7 +135,7 @@ A proper working tool is essential to profitability. E-paper is radically humane
             
 That's it. Thanks for your consideration and support. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM3MDA2MjY4MSwtMTQ3OTg0ODg0NywtMT
-gzMTkzODc3MSwtMTMwMTgxMzM0NSw5Mjk0ODAyNTMsMzQxNDMz
-Nzc4XX0=
+eyJoaXN0b3J5IjpbLTE4ODU3ODI0MTcsLTE0Nzk4NDg4NDcsLT
+E4MzE5Mzg3NzEsLTEzMDE4MTMzNDUsOTI5NDgwMjUzLDM0MTQz
+Mzc3OF19
 -->
