@@ -108,12 +108,9 @@ With $1900, I can begin. Money short of the ultimate goal will come from new wor
 
 Proper tools are essential to any worker. E-paper is radically humane technology. It is neutral, even calming. Laptop displays⁠—backlit, color, fast, strobing⁠— irritate, distract, and enervate me, destroying my concentration. With an e-paper computer, I can:
 
-- hold my entire book in my mind at once while editing
 - read a handful of crucial books and articles I collected since my last e-paper device died
-- develop the business that creates the goods and services I wish to offer
-
-
-
+- develop the business that creates the goods and services I will offer
+- hold my entire book in my mind at once while editing
 
 - business
     - study the startup process 
@@ -140,7 +137,7 @@ Proper tools are essential to any worker. E-paper is radically humane technology
             
 That's it. Thanks for your consideration and support. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYxNDM3NjUxNyw5OTcyMzc5OTUsLTE4OD
-U3ODI0MTcsLTE0Nzk4NDg4NDcsLTE4MzE5Mzg3NzEsLTEzMDE4
-MTMzNDUsOTI5NDgwMjUzLDM0MTQzMzc3OF19
+eyJoaXN0b3J5IjpbODU1MjU3MzYzLDk5NzIzNzk5NSwtMTg4NT
+c4MjQxNywtMTQ3OTg0ODg0NywtMTgzMTkzODc3MSwtMTMwMTgx
+MzM0NSw5Mjk0ODAyNTMsMzQxNDMzNzc4XX0=
 -->
