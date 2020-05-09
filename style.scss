@@ -165,8 +165,8 @@ dd + dt {
 table {
   border-collapse: collapse;
   border-style: hidden;
-    max-width: 90%;
-    margin-left: 15px;
+    max-width: 100%;
+//    margin-left: 15px;
 	}
 
 
@@ -197,7 +197,7 @@ thead th {
 
 tbody td {
     border: solid 1px #555555;
-    padding: .35em .9em;
+    padding: .5em .6em .2em .9em;
     }
 
 td {
@@ -521,5 +521,3 @@ span#phrase { display:inline-block; }
 
 // @import "highlights" ;
 // @import "svg-icons" ;
-
-
