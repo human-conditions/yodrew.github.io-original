@@ -74,7 +74,7 @@ Below, the presale's unusual TERMS reward past supporters. The MENU lists goods 
 |       Aug | seminar, 6 hours (+ expenses)                                              |    400 |    250 |
 |       Dec | retreat, per day, 1, 4, 8, 20-60 days                                      |     60 |     40 |
 |  2022 Nov | *darkroom: hygienic house, prefab, for living and retreating (5% deposit)  |  30000 |  25000 |
-|  2023 Aug | *neighborhood (12-50 people, ~30k each, 5% deposit)                        | 360000 | 300000 |
+|  2023 Aug | *neighborhood (12-50 people, ~30k each, 5% deposit)                        | 360000+ | 300000+ |
 |       TBA | *microfactory tooling kits to produce components at home                   |    TBD |        |
 
 *these designs are conceived but not yet prototyped or illustrated in my book
