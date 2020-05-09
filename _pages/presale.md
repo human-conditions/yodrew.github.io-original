@@ -34,7 +34,7 @@ Below, the presale's unusual TERMS reward past supporters. The MENU lists goods 
     - contributions to my 2016 crowdfund
     - leanpub purchases (credited 70%)
     - mention your prior contribution with a record (eg, a leanpub order #). If you lost it, I might have it. I gladly honor claims from anyone who helped me in any way since my research and development began 32 years ago.
-    - credit is tranferable
+    - credit is transferable
 
 #### menu
 
@@ -81,16 +81,14 @@ Below, the presale's unusual TERMS reward past supporters. The MENU lists goods 
 
 #### goal
 
-- goals staged from $2,000 minimum to $9,700
-- amounts cover cost of items, expenses, credit redemptions, and manufacturing
-
-| Goal  | Item                                    | Amount | Total |
-| -----:| --------------------------------------- | ------:| -----:|
-|  1    | computer for writing                    |   2000 |  2000 |
-|  2    | legal counsel for forming business      |   1900 |  3900 |
-|  3    | assembly drawings for book              |   2000 |  5900 |
-|  4    | copy editing, proofreading, book design |   1500 |  7400 |
-|  5    | debts                                   |   2300 |  9700 |
+| Stage | Goal | Item                                        |
+| -----:| ---- | --------------------------------------------|
+| all   | —    | manufacturing, expenses, credit redemptions |
+| 1     | 2000 | humane computer                             |
+| 2     | 3900 | legal counsel for forming business          |
+| 3     | 5900 | assembly drawings for book                  |
+| 4     | 7400 | copy, editing, proofreading book design     |
+| 5     | 9700 | debts                                       |
 
 #### plan
 
