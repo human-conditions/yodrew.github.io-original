@@ -82,7 +82,7 @@ Below, the presale's unusual TERMS reward past supporters. The MENU lists goods 
 #### goal
 
 - goals staged from $1700 minimum to $9700
-- amounts cover cost of items + credit redemptions + manufacturing for pre-sales + expenses
+- amounts cover cost of items, expenses, credit redemptions, and manufacturing
 
 | Goal  | Item                                    | Amount | Total |
 | -----:| --------------------------------------- | ------:| -----:|
