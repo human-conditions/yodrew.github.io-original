@@ -90,9 +90,8 @@ Below, the presale's unusual TERMS reward past supporters. The MENU lists goods 
 |  2    | legal counsel for forming business      |   1700 |  3400 |
 |  3    | assembly drawings for book              |   1700 |  5100 |
 |  4    | copy editing, proofreading, book design |   1200 |  6300 |
-|  6    | debt 1                                  |    500 |  6800 |
-|  5    | living expenses, 4 months               |   1400 |  8200 |
-|  6    | debt 2                                  |   1500 |  9700 |
+|  5    | living expenses, 4 months               |   1400 |  7700 |
+|  6    | debts                                   |   2000 |  9700 |
 
 #### plan
 
