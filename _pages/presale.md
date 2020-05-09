@@ -4,7 +4,7 @@ layout: page
 permalink: /presale/
 ---
 
-I believe joy is natural. Through investigation, I discovered the essential condition nature gives us to reverse the cause of our suffering and restore joy: darkness. Using hygiene, the science of health, I developed a model for using it to produce reliable miracles.
+I believe joy is natural. Through investigation, I discovered the essential condition nature gives us to reverse the cause of our suffering and restore joy: darkness. Using hygiene, the science of health, I developed a model for using darkness to produce reliable miracles.
 
 The hygienic use of darkness results in:
 
@@ -17,7 +17,7 @@ My readers and I have glimpsed these benefits in our preliminary retreats. To re
 
 #### startup
 
-Thus, I am starting a business. To fund it, I am pre-selling everything I plan to offer:
+I am starting a business. To fund it, I am pre-selling everything I plan to offer:
 
 - information: my book in paperback, lectures, training
 - services: consultations, retreats, gift certificates
