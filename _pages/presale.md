@@ -23,7 +23,7 @@ I am starting a business. To fund it, I am pre-selling everything I plan to offe
 - services: consultations, retreats, gift certificates
 - goods: darkroom components, darkrooms, neighborhoods, microfactories
 
-Below, the presale's unusual TERMS reward past supporters. The MENU lists goods and services, their shipping dates, and prices. The GOAL of the campaign is $9,700. The minimum is $1,700. The PLAN shows what I'll do to startup.
+Below, the presale's unusual TERMS reward past supporters. The MENU lists goods and services, their shipping dates, and prices. The GOAL of the campaign is $9,700. The minimum is $2,000. The PLAN shows what I'll do to startup.
 
 #### terms
 
@@ -81,7 +81,7 @@ Below, the presale's unusual TERMS reward past supporters. The MENU lists goods 
 
 #### goal
 
-- goals staged from $1700 minimum to $9700
+- goals staged from $2,000 minimum to $9,700
 - amounts cover cost of items, expenses, credit redemptions, and manufacturing
 
 | Goal  | Item                                    | Amount | Total |
