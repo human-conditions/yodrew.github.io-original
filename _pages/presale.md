@@ -82,8 +82,7 @@ Below, the presale's unusual TERMS reward past supporters. The MENU lists goods 
 #### goal
 
 - goals staged from $1700 minimum to $9700
-- items
-- costs cover credit redemptions, manufacturing, and shipping
+- amounts cover cost of items + credit redemptions + manufacturing for pre-sales
 
 | Goal  | Item                                    | Amount | Total |
 | -----:| --------------------------------------- | ------:| -----:|
@@ -92,7 +91,7 @@ Below, the presale's unusual TERMS reward past supporters. The MENU lists goods 
 |  3    | assembly drawings for book              |   1700 |  5100 |
 |  4    | copy editing, proofreading, book design |   1200 |  6300 |
 |  6    | debt 1                                  |    500 |  6800 |
-|  5    | living expenses                         |   1400 |  8200 |
+|  5    | living expenses, 4 months               |   1400 |  8200 |
 |  6    | debt 2                                  |   1500 |  9700 |
 
 #### plan
