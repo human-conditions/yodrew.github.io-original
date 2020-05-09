@@ -82,16 +82,15 @@ Below, the presale's unusual TERMS reward past supporters. The MENU lists goods 
 #### goal
 
 - goals staged from $1700 minimum to $9700
-- amounts cover cost of items + credit redemptions + manufacturing for pre-sales
+- amounts cover cost of items + credit redemptions + manufacturing for pre-sales + expenses
 
 | Goal  | Item                                    | Amount | Total |
 | -----:| --------------------------------------- | ------:| -----:|
-|  1    | computer for writing                    |   1700 |  1700 |
-|  2    | legal counsel for forming business      |   1700 |  3400 |
-|  3    | assembly drawings for book              |   1700 |  5100 |
-|  4    | copy editing, proofreading, book design |   1200 |  6300 |
-|  5    | living expenses, 4 months               |   1400 |  7700 |
-|  6    | debts                                   |   2000 |  9700 |
+|  1    | computer for writing                    |   2000 |  2000 |
+|  2    | legal counsel for forming business      |   1900 |  3900 |
+|  3    | assembly drawings for book              |   2000 |  5900 |
+|  4    | copy editing, proofreading, book design |   1500 |  7400 |
+|  5    | debts                                   |   2300 |  9700 |
 
 #### plan
 
