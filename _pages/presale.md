@@ -4,9 +4,9 @@ layout: page
 permalink: /presale/
 ---
 
-I believe joy is natural. Through investigation, I discovered the essential condition nature gives us to reverse the cause of our suffering and restore joy: darkness. Using hygiene, the science of health, I developed a model for using darkness to produce reliable miracles.
+I believe joy is natural. Through investigation, I discovered that darkness is the essential condition nature gives us to reverse the cause of our suffering and to restore joy. Using hygiene, the science of health, I developed a model⁠ for using darkness to produce reliable miracles.
 
-The hygienic use of darkness results in:
+_Hygienic darkroom retreating_ results in:
 
 - relief, rest, and recovery from distress, exhaustion, and illness
 - natural healing from major trauma, the cause of human suffering and problems
