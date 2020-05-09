@@ -81,35 +81,36 @@ Below, the presale's unusual TERMS reward past supporters. The MENU lists goods 
 
 #### goal
 
-| Stage | Goal | Item                                        |
-| -----:| ---- | --------------------------------------------|
-| all   | —    | manufacturing, expenses, credit redemptions |
-| 1     | 2000 | humane computer                             |
-| 2     | 3900 | legal counsel for forming business          |
-| 3     | 5900 | assembly drawings for book                  |
-| 4     | 7400 | copy, editing, proofreading book design     |
-| 5     | 9700 | debts                                       |
+Goals are staged by priority. 
+
+| Stage | $Goal | Item                                        |
+| -----:| ----- | --------------------------------------------|
+| all   | —     | manufacturing, expenses, credit redemptions |
+| 1     | 2000  | humane computer                             |
+| 2     | 3900  | legal counsel for forming business          |
+| 3     | 5900  | assembly drawings for book                  |
+| 4     | 7400  | copy, editing, proofreading book design     |
+| 5     | 9700  | debts                                       |
 
 #### plan
 
 1. promote presale and reach first goal
-2. order computer
+2. get computer (read e-paper tablet description in menu to understand why this is so important)
 3. update and expand promotion of crowdfund
-4. edit book with some work on business and components
-    - edit book
-        - integrate final pieces of model
-        - refine organization of book content
-        - simplify sentence style and structure for clarity, easier reading and translation (grueling work)
-        - get book copyedited, proofread, and designed
-        - assembly drawings may come in the next edition or as a separate book
-        - print and ship on schedule
-    - develop business
-        - study the startup process 
-        - create pitch deck and other business documents to organize work, attract funding and team
-    - components: 
-        - develop production processes and tooling
-        - refine recent prototypes
-5. after book ships
+4. edit book
+    - integrate final pieces of model
+    - refine organization of book content
+    - simplify sentence style and structure for clarity, easier reading and translation (grueling work)
+    - get book copyedited, proofread, and designed
+    - assembly drawings may come in the next edition or as a separate book
+    - print and ship on schedule
+5. develop business
+    - study the startup process 
+    - create pitch deck and other business documents to organize work, attract funding and team
+6. components: 
+    - develop production processes and tooling
+    - refine recent prototypes
+7. after book ships
     - produce and ship components on schedule
     - lecture: 
          - refine existing talk according to completed model
@@ -123,7 +124,7 @@ I could print the current version of the book right now and ship it. I have done
 
 I have made everything else in the list except where noted. I have shipped things internationally from both America and Europe. 
 
-I grew up around small businesses of my parents and their friends, worked closely with entrepreneurs and read business books my whole life, and have done business consulting. I know double entry accounting, spreadsheets, basic law, history, and philosophy.
+I grew up around the small businesses of father, extended family, and friends. I worked closely with entrepreneurs, read business books my whole life, and have done business consulting. I know double-entry accounting, spreadsheets, simple programming, basic law, the military attitude, history, and philosophy.
 
 The biggest risk is if the world ends. I don't think it will. Things are getting hairy. I'll find a way to fill your order.
 
