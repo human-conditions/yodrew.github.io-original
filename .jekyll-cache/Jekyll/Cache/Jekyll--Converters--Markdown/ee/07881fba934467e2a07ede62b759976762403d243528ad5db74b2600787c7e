@@ -1,0 +1,432 @@
+I"n[<blockquote>
+  <p>“The time for half-measures and talk is over.”<br />
+ – Maximus in <em>Gladiator</em></p>
+</blockquote>
+
+<p> </p>
+
+<p>Just the ideas in this book can bring relief and hope. But 99% of their value lies in their application. This requires a darkroom. Since darkrooms are uncommon, these last four chapters explain how to build darkrooms, usually inside existing buildings.</p>
+
+<p>This chapter provides basic information that applies to all components of a darkroom. The next three chapters provide blueprints and instructions for components related to three elements: air, darkness, water. They are vents, silencers, seals, blinds, and kitchen and bathroom fixtures. Designs are low-cost, low-tech, and work off-grid.</p>
+
+<p>A darkroom is a real thing you see and touch, make, use, and offer others. It is not a metaphor. It takes a knowledge, imagination, design, measurement, plans, materials, craftsmanship, construction, testing, and improvement.</p>
+
+<p>These are normal human activities everyone can do to some degree and get help with the rest. If you can walk down stairs without falling, hit a plate when you aim food at it, hold a pencil, cognize sentences, tell light from dark, and feel a breeze, you are mechanically sufficient to begin. As Jack Nuckols, an engineer and my grand-elder, once told me when my time came, “Become a craftsman.” Perhaps your time has come.</p>
+
+<p>I suggest that, your first time through these chapters, you read everything in this one. But just read the prose parts of the next three. Save the lists of instructions for the next time and again when it comes time to build. They make dense reading. Eventually, they’ll be replaced with graphical assembly instructions like IKEA’s. For now, slog through with me.</p>
+
+<p>All components rely on the basic instructions in the following sections: <strong>metric</strong>, <strong>tools</strong>, <strong>plans</strong>, and <strong>fabrication</strong>. Each component has special instructions and design constraints in its own section in later chapters:</p>
+
+<blockquote>
+  <blockquote>
+    <p><a href="/air">9  <em>air</em></a><br />
+<a href="/darkness">10  <em>darkness</em></a><br />
+<a href="/water">11  <em>water</em></a></p>
+  </blockquote>
+</blockquote>
+
+<p>After improvising darkness to sleep in <a href="/format#tonight"><em>tonight</em></a>, the<br />
+<a href="/darkness#instant"><em>instant sleeping mask</em></a> probably comes next. Thus initiated, you can begin your training as a darkroom-building ninja. You will become invisible to everyone for awhile. And you won’t be able to see anything, either. Haha.</p>
+
+<p>If you need more specific advice for darkening your space, I provide <a href="/about/services"><em>design consultation</em></a>. Yes, guiding people by word and picture on a chat application toward a completed darkroom and successful retreat actually works, and I have done it. Likewise, feel free to use these <a href="/introduction#open-source"><em>open-source</em></a> designs and my consultation to darken other people’s spaces as a service for money. See <a href="/about/license"><em>license</em></a> for my liberal terms.</p>
+
+<h4 id="metric">metric</h4>
+
+<p>I give all measurements in metric, mostly millimeters. Are you used to inches, pounds, and gallons? Get a handle on the brain-descrambling metric system in a split-minute:</p>
+
+<ol>
+  <li>understand that, with metric, you will simply be counting to 10 and multiplying by 10 like normal. You will not be wrangling fractions and multiple conversion factors as in the imperial system.
+    <ul>
+      <li>basic metric conversions:
+        <ul>
+          <li>length: 1m=100cm=1000mm (meter, centimeter, millimeter)</li>
+          <li>volume: 1L=10dL=1000mL (liter, deciliter, milliliter)</li>
+          <li>mass: 1kg=10hg=1000g (kilogram, hectagram, gram. Mass is like weight. But it uses a balance, not a spring scale, so it does not depend on Earth’s gravity. Build a darkroom in space!)</li>
+        </ul>
+      </li>
+      <li>cool intra-conversions:
+        <ul>
+          <li>1L=10cm x 10cm x 10cm (1000cm<sup>3</sup>)</li>
+          <li>1L water=1kg</li>
+          <li>thus, 1mL water=1cm<sup>3</sup>=1g</li>
+          <li>brilliant! simple! humane!</li>
+        </ul>
+      </li>
+    </ul>
+  </li>
+  <li>use these imperial near-equivalents to practice the metric system, visualize my descriptions, and make estimations. Not for precise conversions or large quantities. (*My favorites):
+    <ul>
+      <li>length
+        <ul>
+          <li>*25mm = 1” (inch)</li>
+          <li>*100mm = 4”</li>
+          <li>30cm = 1’ (foot)</li>
+          <li>1m = 1 yard &amp; 4”</li>
+          <li>3m = 10’</li>
+        </ul>
+      </li>
+      <li>area
+        <ul>
+          <li>1m<sup>2</sup> = 11’<sup>2</sup></li>
+          <li>4’ x 8’ sheet = 120cm x 240cm (~3m<sup>2</sup>)</li>
+          <li>the genius √2-based A1-A8 paper size system</li>
+        </ul>
+      </li>
+      <li>volume
+        <ul>
+          <li>*4L = 1 gallon</li>
+          <li>1.7cmh = 1cfm (cubic meter/hour; cubic feet/minute of air)</li>
+        </ul>
+      </li>
+      <li>mass
+        <ul>
+          <li>28g = 1 oz</li>
+          <li>*1kg = 2 lb</li>
+        </ul>
+      </li>
+    </ul>
+  </li>
+</ol>
+
+<h4 id="tools">tools</h4>
+
+<p>Making components requires some or all of these tools:</p>
+
+<ol>
+  <li>table or desk</li>
+  <li>measure
+    <ol>
+      <li>Note: before purchase, test tools for accuracy, which can vary between identical tools, even of good brands. Instructions below.</li>
+      <li>metric ruler, 30cm, clear plastic. If reproducing plans by hand rather than printing them, then get an <a href="https://www.incra.com">Incra ruler</a>. For its effortless marking precision, I recommend it for making anything at all ever. It’s the greatest hand tool I have ever used.</li>
+      <li>meter stick, steel with engraved marks
+        <ol>
+          <li>put marked edges of two sticks together so 40cm mark of one meets 60cm mark of other</li>
+          <li>push ends of both against a wall and check how well marks line up</li>
+          <li>repeat with other sticks till you find a match</li>
+          <li>buy one of them</li>
+        </ol>
+      </li>
+      <li>metric measuring tape, 5m
+        <ol>
+          <li>use a tape whose case length is easily and accurately added to the figure on the tape itself. Some measuring tapes are designed to give highly accurate internal measurements, eg, between sills</li>
+          <li>hook tape on end of meter stick and compare marks for accuracy of external measurement</li>
+          <li>push end of meter stick against a wall, put tape on top of meter stick, and compare marks for accuracy of internal measurement</li>
+        </ol>
+      </li>
+    </ol>
+  </li>
+  <li>mark
+    <ol>
+      <li>0.5mm mechanical pencil</li>
+      <li>ballpoint pen, black or blue ink</li>
+      <li>black marker</li>
+      <li>straight pin with colored plastic head or masking tape handle</li>
+      <li>magnifying glass (even a tiny plastic one works, like the one in a Swiss Army knife)</li>
+    </ol>
+  </li>
+  <li>crease, score, cut
+    <ol>
+      <li>straight edge 200mm longer than your longest piece will be. 1-2mm-thick steel is best. An aluminum door or window frame member also works well. A board less than 12mm thick with a perfectly straight edge (check it!) is fine.</li>
+      <li>table knife: use back of tip for creasing</li>
+      <li>razor knife with new blade: use for scoring and cutting. To score is to cut halfway through thickness of material with razor knife so it remains one piece and folds very easily</li>
+      <li>scissors for both paper and fabric</li>
+    </ol>
+  </li>
+  <li>join
+    <ol>
+      <li>masking tape</li>
+      <li>wood glue, unthickened, any grade</li>
+      <li>glue syringe, 20-50mL for precise, efficient gluing
+        <ul>
+          <li>available at:
+            <ul>
+              <li>as kitchenware along with 2-3mm stainless needles</li>
+              <li>pharmacies. Also get a 2mm x 40–50mm needle. Perhaps cut off the tip. If unavailable, use a cartridge from ballpoint pen, the fat (4-5mm) tapering type. Clean it out and trim it down to point in taper that fits over nipple of syringe</li>
+              <li>woodworking shops, with needles</li>
+            </ul>
+          </li>
+          <li>remove needle and plunger. Cover nipple with finger and fill from back, leaving 10mm unfilled. Replace plunger barely. Point nipple upward and uncover it. Wait for air bubble to rise to top. Then push plunger in till air is cleared from syringe. Replace needle and use.</li>
+        </ul>
+      </li>
+    </ol>
+  </li>
+  <li>for <a href="/darkness/#roller-blind">roller blind</a>:
+    <ol>
+      <li>drill</li>
+      <li>screwdriver</li>
+      <li>gluing clamp (for roller blind)
+        <ul>
+          <li>2 straight, flat 35 x 90 boards, non-rounded edges</li>
+          <li>1.5x as long as long edge of paper sheets</li>
+          <li>every 300mm, 8mm holes, an 8x80mm bolt, 2 washers, and a wingnut holding boards together</li>
+        </ul>
+      </li>
+      <li>hack saw (for roller blind), even just a hack saw blade is enough. Cover teeth at one end with tape as a handle so you can cut on the pull stroke</li>
+    </ol>
+  </li>
+</ol>
+
+<h4 id="plans">plans</h4>
+
+<p>I have drawn the plans on a computer for precision, clarity, and ease of modification. However, at first, they can be baffling to look at.</p>
+
+<ol>
+  <li>use the <strong>key</strong> to understand the symbols and marks</li>
+  <li>compare drawings to photos.</li>
+  <li>read the instructions through a couple times in the days before making begins.</li>
+  <li>then <em>follow the instructions</em>, one step at a time, and you ought to end up with the intended component.</li>
+  <li>dimensions are either H x W x L (height, width, length) or X x Y x Z (left-right, up-down, in-out or width, height, depth) with newer components: helix vents, silencer, fan mount, sleeping mask
+Understanding often comes through doing. If this does not work, write me and I’ll try to sort out the confusion and maybe improve the instructions and drawings for others, too.</li>
+</ol>
+
+<p>A drawing has one or two <em>views</em>, depending on the best way to communicate its information:</p>
+
+<ul>
+  <li><em>plan:</em> from above, two dimensional (2D). Default view if unlabeled.</li>
+  <li><em>elevation:</em> from the side (2D)</li>
+  <li><em>section:</em> a cutaway or slice of the object showing all parts when assembled (2D)</li>
+  <li><em>perspective:</em> from a non-right-angled point of view to capture more sides (3D)</li>
+  <li><em>exploded:</em> all parts separated but in correct order and linear relation (3D)</li>
+</ul>
+
+<p>For example, the <a href="/darkness/#helix-vent">helix vent</a> has plan views of its flat parts and one section view showing how parts are assembled. The <a href="/water/#upgrade-toilet">toilet frame</a> has both plan and elevation views, while the <a href="/water/#shower">shower</a> has an exploded view.</p>
+
+<p>All plans can be reused except <a href="/darkness#sleeping-mask"><em>sleeping mask</em></a> plan, which is destroyed as you make it. So make as many prints of it as masks you intend to make.</p>
+
+<p>Images in this book are only for reference and hand-reproduction. They are reduced to fit book pages. Thus they are neither full-scale nor in proportion to each other. If reading on a screen while online, you can zoom in. Click each image to open the corresponding full-size plan as an individual PDF.</p>
+
+<ol>
+  <li>download all plans at once with the darkroom retreat <a href="/darkroom-retreat.zip">zip file</a>. Extract (decompress) the file. Contents:
+    <ul>
+      <li>plans: a complete set of PDF plans</li>
+      <li>all photos below plus extras from website</li>
+      <li>SVG source files of plans for modifying them, originally drawn in <a href="http://inkscape.org">Inkscape</a>. Use v0.92.3.</li>
+      <li>I would love it if someone made
+        <ul>
+          <li>3D versions of these drawings with Sketchup</li>
+          <li>assembly instructions for the components like IKEA</li>
+        </ul>
+      </li>
+    </ul>
+  </li>
+  <li>print
+    <ol>
+      <li>large format
+        <ol>
+          <li>large format printing is cheap, extremely accurate, and much faster and easier than desktop printing. Most print shops, including Staples and Office Depot, now offer large format printing.</li>
+          <li>email your files to print shop or take them on a USB flash drive</li>
+          <li>paper
+            <ol>
+              <li>specify cheapest option</li>
+              <li>if print shop has 300gsm acid-free black paper on a roll for large format printing, print the helix vent’s channels and walls directly onto it. Yes, black ink on black paper is visible enough to work with.</li>
+            </ol>
+          </li>
+          <li>
+            <p>have files printed in actual size, with no scaling. Before paying, check measurements with ruler or measuring tape. Distortion should not exceed 1mm over a 250mm span.</p>
+
+            <p>After resigning myself to 2mm distortion per 250mm (0.8%) with desktop printers, I was shocked to find almost no distortion with large format printing, maybe 0.5mm/500mm (0.1%). But then it made sense because architects, engineers, and builders depend on this service for their blueprints.</p>
+          </li>
+        </ol>
+      </li>
+      <li>desktop
+        <ol>
+          <li>only do this if you are absolutely broke or can’t find a large format printing service on your desert island. Desktop printing of plans takes a lot of time and yields imperfect results.</li>
+          <li>print
+            <ol>
+              <li>open file with Adobe Reader (not Adobe Professional)</li>
+              <li>in print dialogue, select: “Poster”; Tile Scale: 100%; Overlap: 1.0in; Cut marks: yes; Labels: yes</li>
+              <li>use A4, letter, or legal size, possibly A3</li>
+              <li>Distortion over 250mm span should not exceed 1mm.</li>
+              <li>after printing one file, check measurements against ruler to 1mm tolerance.</li>
+            </ol>
+          </li>
+          <li>join sheets
+            <ol>
+              <li>cut a small wedge out of overlapping cut mark to align it with matching cut mark on sheet below</li>
+              <li>align cut marks at perimeter of plan first, then the one(s) in the middle.</li>
+              <li>use masking tape to join sheets</li>
+            </ol>
+          </li>
+        </ol>
+      </li>
+      <li>by hand
+        <ol>
+          <li>ruler and magnifying glass
+            <ol>
+              <li>get large white paper to make a reusable pattern with. Don’t measure directly on materials.</li>
+              <li>to keep drawing orthogonal, use some combination of graph paper, drafting table, and extra careful measurement and marking. An <a href="https://incra.com">Incra ruler</a> will help a lot with this.</li>
+              <li>use magnifying glass to see small words and numbers in the book</li>
+              <li>plans are as symmetrical and uniform as possible. If two similar-looking areas of a plan look the same size, they are. So from measurements given in plans, infer the rest. There is some redundancy so you don’t have to figure out everything and can double-check essential measurements with arithmetic.</li>
+              <li>use grey-numbered cumulative measurements in plan to quickly mark lines</li>
+            </ol>
+          </li>
+          <li>trace
+            <ol>
+              <li>trace directly from a flat screen monitor</li>
+              <li>zoom image till stated measurements match a ruler both horizontally and vertically</li>
+              <li>tape paper to the screen</li>
+              <li>mark ends, corners, and intersections of lines precisely and lines just well enough to know what you are looking at later</li>
+              <li>you will have to overlap multiple sheets of paper for most plans, as with a desktop printer. On each new piece of paper, repeat the last set of marks from the previous so you know where to overlap and tape the sheets together.</li>
+            </ol>
+          </li>
+        </ol>
+      </li>
+    </ol>
+  </li>
+  <li>key</li>
+</ol>
+
+<p>Here is a key to the computer-drafted plans. Find further explanation of symbols, especially dash-dotted lines, in <strong>fabricate</strong> section below.</p>
+
+<p> </p>
+
+<p><a href="/img/plan/key.pdf"><img src="/img/plan/image/key.png" alt="plan key" /></a></p>
+
+<p> </p>
+
+<h4 id="fabricate">fabricate</h4>
+
+<p>These instructions apply to all components, or as indicated. Read special instructions for each component in its respective section afterward.</p>
+
+<ol>
+  <li>prepare plans
+    <ol>
+      <li>for fabric parts (<a href="/darkness/#sleeping-mask">sleeping mask</a>, <a href="/darkness/#roller-blind">roller blind seals</a>)
+        <ol>
+          <li>using ruler and razor knife, cut out parts at outlines (except roller blind seals: cut around group of 8 seals)</li>
+          <li>cut out tape holes on dash-dotted lines</li>
+          <li>skip to step “3. make parts” (about two pages below)</li>
+        </ol>
+      </li>
+      <li>customize <a href="/darkness/#roller-blind">roller blind plans</a>
+        <ol>
+          <li>cut out parts, leaving as much paper around them as possible</li>
+          <li>measure variables (<em>h</em>, <em>w</em>, <em>t</em>) and derive measurements for parts. Write measurements on parts next to variables.</li>
+          <li>cut lines running through stretch arrows</li>
+        </ol>
+      </li>
+      <li>customize <a href="/air/#threshold-vent">threshold vent</a>
+        <ol>
+          <li>using straight edge and razor knife, cut vertical lines running through shrink arrows in grey areas</li>
+          <li>shrink left and right sections (push them inward, overlapping center section) until cut edges match center section’s top and bottom mm marks equal to <em>h</em></li>
+          <li>draw vertical lines through mm marks in corners of plan equal to <em>h</em></li>
+          <li>cut horizontal line running through center shrink arrow</li>
+          <li>shrink top and bottom sections until cut edges match center section’s left and right mm marks equal to <em>t</em></li>
+          <li>adjust point C (at both left and right):
+            <ul>
+              <li>downwardly so its distance from point D equals <em>t</em>/2</li>
+              <li>horizontally so it lies on new vertical line</li>
+            </ul>
+          </li>
+          <li>cut vertical line running through center stretch arrow</li>
+        </ol>
+      </li>
+    </ol>
+  </li>
+  <li>transfer plans to material
+    <ol>
+      <li>tape plans to materials
+        <ol>
+          <li><a href="/air/#helix-vent">helix vent shell</a>: align plan roughly diagonally to corrugations (or edges or folds) of cardboard</li>
+          <li>where necessary, cut out small wedges from outlines of plans to align them with edges of materials. With some roller blind frame parts, dash-dotted extensions of outlines aid in this step.</li>
+          <li>parts with stretch arrows
+            <ol>
+              <li>tape one half to edge of material</li>
+              <li>using derived measurements and tape measure, mark material where opposite edge of part should be and tape it there</li>
+            </ol>
+          </li>
+          <li>lay out other plans on materials and tape opposite corners</li>
+        </ol>
+      </li>
+      <li>put three layers of cardboard on work surface</li>
+      <li>transfer plan with straight pin
+        <ul>
+          <li>use magnifying glass for ease of marking and geeky precision thrills</li>
+          <li>poke straight pin through
+            <ul>
+              <li>all black lines close to ends (not grey glue sausages)</li>
+              <li>centers of holes</li>
+            </ul>
+          </li>
+        </ul>
+      </li>
+      <li>remove plan from material</li>
+      <li>label drawing, words oriented the same as in plan
+        <ul>
+          <li>dashed lines: circles</li>
+          <li>dotted lines: double circle</li>
+          <li>solid lines: squares</li>
+          <li>dash-dotted lines: triangle</li>
+          <li>holes: star</li>
+        </ul>
+      </li>
+      <li>mark the marked holes again
+        <ul>
+          <li>draw short lines from circles, triangles, and squares in the same direction as lines in plan</li>
+          <li>circles/double circles: add asterisk where indicated</li>
+          <li>copy joint labels (A, B, C, etc)</li>
+        </ul>
+      </li>
+    </ol>
+  </li>
+  <li>make parts:
+    <ol>
+      <li>keep scrap cardboard on work surface</li>
+      <li>fabric parts (sleeping mask, roller blind seals)
+        <ol>
+          <li>tape plans to fleece over tape holes</li>
+          <li>roller blind locking seals: cut 8mm slits through plan with razor knife</li>
+          <li>cut parts exactly around plan outline with scissors</li>
+          <li>leave plans taped to sleeping mask side seals</li>
+          <li>remove plans from other parts</li>
+          <li>repeat steps 1-4 to make
+            <ul>
+              <li>2 sleeping mask center seals</li>
+              <li>4 sleeping mask covers. For the 4th cover, use optional cotton fabric, add 20mm on side for seam allowance, and leave plan taped to fabric.</li>
+              <li>4 roller blind locking seals</li>
+            </ul>
+          </li>
+          <li>skip remaining steps 2-4 and resume special instructions</li>
+        </ol>
+      </li>
+      <li>cardboard shell of helix vent
+        <ol>
+          <li>trim excess cardboard around pattern but don’t cut its edges (between squared holes) yet</li>
+          <li>lightly crease between circled holes with back of table knife tip, avoiding breaking the surface of cardboard</li>
+          <li>press the straight edge into creases to deepen them</li>
+          <li>turn cardboard over and repeat steps 2 &amp; 3 with double-circled holes</li>
+          <li>cut between squared holes</li>
+          <li>fold cardboard at creases, bending it well past 90°</li>
+        </ol>
+      </li>
+      <li>paper parts
+        <ol>
+          <li>between holes with asterisks
+            <ul>
+              <li>circled pairs, score back, fold forward</li>
+              <li>double-circled pairs, score front, fold backward</li>
+            </ul>
+          </li>
+          <li>between circled and double-circled holes
+            <ul>
+              <li>crease front side with back of table knife tip</li>
+              <li>fold at creases forward</li>
+              <li>then, fold double-circled creases backward</li>
+            </ul>
+          </li>
+          <li>between squared holes: cut with razor knife</li>
+          <li>between starred holes
+            <ul>
+              <li>expand to diameter indicated in plan</li>
+              <li>use a pointed dowel of appropriate diameter</li>
+              <li>spin it with your fingers or a power drill as you gently push it into hole</li>
+            </ul>
+          </li>
+        </ol>
+      </li>
+    </ol>
+  </li>
+</ol>
+
+<p>Voila. Now that we’ve covered the basics that apply to all darkroom components, let’s look at those in the air, silence, and warmth department.</p>
+:ET

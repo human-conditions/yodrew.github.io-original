@@ -1,0 +1,68 @@
+I"�<p>I came up with a twist on <a href="http://marginalrevolution.com/marginalrevolution/2005/05/assurance_contr.html">Dominant Assurance Contracts</a>. Which is economist <a href="http://mason.gmu.edu/~atabarro/">Alex Tabarrok</a>‘s game theoretical extension of the all-or-nothing Assurance Contract popularized by <a href="http://www.kickstarter.com">Kickstarter</a>. In an assurance contract, if pledges toward a financial goal are insufficient by the contract’s deadline, then pledges remain uncollected. With dominant assurance, everyone who offered to contribute gets a <strong>bonus</strong>. “Thus contribution becomes the <em>dominant</em> strategy,” says Dr Tabarrok.</p>
+
+<p>My idea takes off from there.</p>
+
+<p>~/~</p>
+
+<p>Dear Mr Tabarrok,</p>
+
+<p>Thanks for your idea of the Dominant Assurance Contract. I thought of a way to extend it to further open up opportunities in investment and value creation, possibly making crowdfunding more interesting than gambling. Maybe your students have already come up with all this and more, but what the heck.</p>
+
+<p>I call it the Open Dominant Assurance Contract. Basically, it allows supporters of a proposal to:</p>
+
+<ul>
+  <li>help fund the bonus pot</li>
+  <li>adjust their positions throughout the game.</li>
+</ul>
+
+<p>Here are the rules:</p>
+
+<ol>
+  <li>The proposer:
+    <ul>
+      <li>sets the monetary goal and deadline</li>
+      <li>seeds the bonus pot, which counts toward the goal. (hmm: increasible? for how long?)</li>
+      <li>sets the maximum bonus rate between 0@@ and infinity in case of failure</li>
+      <li>sets the maximum profit rate in case of success</li>
+      <li>and can increase both these rates until the campaign’s deadline</li>
+    </ul>
+  </li>
+  <li>A supporter sets her bonus rate from –100@@ to infinity. She can increase her contribution and decrease her rate until the proposal’s deadline.</li>
+  <li>In case of failure, the pot is divided amongst supporters in proportion to their contributions and according to their final bonus rates.</li>
+  <li>In case of success, a supporter with an average bonus rates of less than 0@@ is treated as an investor who can eventually profit from the proposal in proportion to her average rate (–bonus rate x maximum profit rate).</li>
+  <li>Supporters can make multiple contributions with different bonus rates.</li>
+</ol>
+
+<p>Thus someone with an idea but little seed money could still create a Dominant Assurance Contract. Whole-hearted supporters (those with 0@@ rates). The higher the maximum bonus rate, the wilder the game gets. It could be a spectacle of brinkmanship between the whole-hearts and half-hearts more compelling than a good craps game. Half-hearts would help attract attention to the proposal initially. Whole-hearts would help continue to attract half-hearts as the deadline approached. Just as in <a href="http://webisteme.com">webisteme</a>‘s <a href="http://punkmoney.org">#PunkMoney</a>, participants could tweet changes in their positions, and a program could track variables, calculate totals, display graphs, and keep accounts in real time.</p>
+
+<p>Examples</p>
+
+<ul>
+  <li>Due to Rule 3, a sole supporter of $1 with an infinite bonus rate toward a failed proposal with an infinite maximum bonus rate would win the entire pot.
+    <ul>
+      <li>A second such supporter of $99 would take away 99@@ of the pot.</li>
+      <li>If the proposer set the maximum bonus rate to 10@@, then the first would only get back $1.10 and the second $108.90, regardless of pot size.</li>
+    </ul>
+  </li>
+  <li>Due to Rule 4, in a successful proposal with a 20@@ profit rate, a supporter whose bonus rate was –40@@ for 10 days and –80@@ for 10 days would have an average rate of –60@@, earning her 12@@ on her contribution (to be paid when the project actually profits).</li>
+  <li>Due to Rule 5, a supporter can try playing the game all three ways: whole-hearted,  half-hearted, and neutral (0@@, the same as in an Assurance Contract)</li>
+</ul>
+
+<p>What do you think?</p>
+
+<p>The game theory in your paper was stimulating but over my head. So I thought, How about letting the participants decide the variables? Coming up with it was fun and exciting.</p>
+
+<p>Which is ironic because I came across your uber-cool dealio while looking for ways to finance my recovery from exhaustion-depression. (Take something worse than chronic fatigue syndrome but better than death and combine it with clinical depression. A real kick in the pants!) I have less-than-zero confidence in medicine or its common alternatives. So I spent 21 years looking for a way to deal with it before hitting upon darkness retreating. It’s relatively cheap ($2500), but money-making is not my strong suit. So thanks for the ideas and,</p>
+
+<p>Cheers,
+Andrew Durham</p>
+
+<p>~/~</p>
+
+<p>EDIT: I removed this sentence from the third to last paragraph: “And I could not decide what to call this variant of DAC: Self-Funding, Autonomous, Automatic, Inclusive, Cooperative, or Viral DAC? DA Orgy?” I decided on “Cooperative”. If you think of a better name, please let me know.</p>
+
+<p>EDIT: I renamed the contract again to Open DAC and heavily edited the letter, including removing one extra-complicated rule about reimbursing the proposer.</p>
+
+<p>EDIT: added bit about [#PunkMoney][5]</p>
+
+:ET

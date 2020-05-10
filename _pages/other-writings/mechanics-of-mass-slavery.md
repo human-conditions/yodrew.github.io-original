@@ -40,7 +40,7 @@ We begin with _The Edukators_, an excellent German film from 2009.
 
 In this little myth, which today, billions live out (or want to), Hardenberg gives a neat summary of the mechanics of mass slavery in global industrial fascism, especially in its developed economies.
 
-Though every item he mentions serves a necessary function of life, its form is corrupt, inapt, artificial. All of these forms arise from the mass psychosis of civilization in its modern mode. Life presents no objective demand for these psychotic forms. All of them (see first column) can be retired and replaced by sane, natural systems (in the second column) that are cheaper, easier, more effective, and more enjoyable by 2-3 orders of magnitude:
+Though every item he mentions serves a necessary function of life, its form is corrupt, inapt, artificial. All of these forms arise from the mass psychosis of civilization in its modern mode. Life presents no objective demand for these psychotic forms. All of them  (column 1) can be retired and replaced by sane, natural systems (column 2) that are cheaper, easier, more effective, and more enjoyable by 2-3 orders of magnitude:
 
 | psychotic | sane |
 | --- | --- |
@@ -56,7 +56,7 @@ Though every item he mentions serves a necessary function of life, its form is c
 | selling out | selfhood |
 | partisanship | common sense |
 
-Throughout my writings, I have tried in various ways to expose the articifial forms and present the natural ones, eg, [Tribal Housing](/other-writings/tribal-housing). Since the house is the most expensive and isolating item above, it anchors our slavery within this system. The house necessitates the other elements. If you have a house, you must get a job to pay for it. To get to work and psychically buffer oneself against its impositions, one likely requires a car.
+Throughout my writings, I have tried in various ways to expose the artificial forms and present the natural ones, eg, [Tribal Housing](/other-writings/tribal-housing). Since the house is the most expensive and isolating item above, it anchors our slavery within this system. The house necessitates the other elements. If you have a house, you must get a job to pay for it. To get to work and psychically buffer oneself against its impositions, one likely requires a car.
 
 The trap is set. The house becomes nothing more than a personalized prison cell entailing 30 years of indentured servitude. Observe that "mortgage" means _death pledge_. Servitude, in the form of a job, leads to time-scarity and parental neglect. The car is the gateway drug of consumer financing and global devastation (as well as a portable Russian Roulette game for the whole family).
 

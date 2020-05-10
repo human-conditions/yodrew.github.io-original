@@ -1,0 +1,78 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"
+"http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<!-- TemplateBeginEditable name="doctitle" -->
+<title>Untitled Document</title>
+<!-- TemplateEndEditable -->
+<!-- TemplateBeginEditable name="head" -->
+<!-- TemplateEndEditable -->
+</head>
+
+<body>
+<!--<div id="Layer2" style="position:absolute; width:411px; height:200px; z-index:2; left: 208px; top: 11px;" -->
+  <div align="center"><!-- TemplateBeginEditable name="Header" -->
+    <table width="721" height="373" border="0" align="center" cellpadding="0">
+      <tr align="center">
+        <td width="128" rowspan="2" valign="bottom"><img src="../linkarcleft.jpg" width="120" height="295" border="0" usemap="#MapMap2">
+          <map name="MapMap2">
+            <area shape="circle" coords="142,39,19" href="../geodesic_tent.html" alt="Geodesic Tent">
+            <area shape="circle" coords="142,39,19" href="../geodesic_tent.html" alt="Geodesic Tent">
+            <area shape="circle" coords="142,39,19" href="../geodesic_tent.html" alt="Geodesic Tent">
+            <area shape="circle" coords="142,39,19" href="../geodesic_tent.html" alt="Geodesic Tent">
+            <area shape="circle" coords="142,39,19" href="../geodesic_tent.html" alt="Geodesic Tent">
+            <area shape="circle" coords="82,176,30" href="../rd18.html" alt="Research Dome">
+            <area shape="circle" coords="82,100,28" href="../foil_dome.html" alt="Foil Dome">
+            <area shape="circle" coords="83,26,26" href="../geodesic_tent.html">
+            <area shape="circle" coords="152,34,18" href="../bigtop.htm" alt="Big Top">
+            <area shape="circle" coords="77,254,35" href="../cottage_1.htm" alt="Sphere Cottage">
+        </map></td>
+        <td width="435" height="94" valign="top"><img src="../linkarcmiddle.jpg" width="439" height="109" border="0" usemap="#Map2"></td>
+        <td width="120" rowspan="2" valign="bottom"><div align="left"><img src="../linkarcright.jpg" width="120" height="295" border="0" usemap="#Map3">
+            <map name="Map3">
+              <area shape="circle" coords="305,35,13" href="../ply_42_1.html" alt="42-foot Plydome">
+              <area shape="circle" coords="37,27,26" href="../ply_42_1.html" alt="42-foot Plydome">
+              <area shape="circle" coords="41,93,30" href="../ply_24.html" alt="24-foot Plydome">
+              <area shape="circle" coords="43,175,26" href="../triacon.htm" alt="Triacon">
+              <area shape="circle" coords="39,261,26" href="../small_domes.html" alt="Small Domes">
+              </map>
+        </div></td>
+      </tr>
+      <tr align="center">
+        <td height="233">&nbsp;</td>
+      </tr>
+</table>
+<!-- TemplateEndEditable -->
+    <!-- TemplateBeginEditable name="Body" -->
+<table width="800" border="0" align="center" cellpadding="5">
+  <tr align="center">
+    <td><div align="center"></div></td>
+  </tr>
+  <tr align="center">
+    <td><img src="../linkfooter.jpg" width="767" height="72" border="0" usemap="#MapMap">
+        <map name="MapMap">
+          <area shape="circle" coords="50,144,31" href="../cottage_1.htm" alt="Sphere Cottage">
+          <area shape="circle" coords="41,35,26" href="../cottage_1.htm">
+          <area shape="circle" coords="111,38,29" href="../rd18.html" alt="Research Dome">
+          <area shape="circle" coords="174,38,29" href="../foil_dome.html" alt="Foil Dome">
+          <area shape="circle" coords="243,38,29" href="../geodesic%20tent.htm" alt="Geodesic Tent">
+          <area shape="circle" coords="321,39,29" href="../bigtop.htm">
+          <area shape="circle" coords="388,39,30" href="../index.htm" alt="Home">
+          <area shape="circle" coords="455,40,30" href="../chrysalis_1.htm" alt="Chrysalis Cottage">
+          <area shape="circle" coords="524,39,27" href="../ply_42_1.html" alt="42-foot Plydome">
+          <area shape="circle" coords="590,39,29" href="../ply_24.html" alt="24-foot Plydome">
+          <area shape="circle" coords="656,37,29" href="../triacon.htm" alt="Triacon">
+          <area shape="circle" coords="722,37,28" href="../small_domes.html" alt="Small Domes">
+      </map></td>
+  </tr>
+</table>
+<!-- TemplateEndEditable -->
+<p>&nbsp;</p>
+<map name="Map2">
+  <area shape="rect" coords="131,13,322,83" href="../index.htm" alt="Home">
+  <area shape="rect" coords="4,20,119,87" href="../bigtop.htm" alt="Big Top">
+  <area shape="rect" coords="332,17,436,86" href="../chrysalis_1.htm" alt="Chrysalis Cottage">
+</map>
+</body>
+</html>

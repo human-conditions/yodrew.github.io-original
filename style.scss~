@@ -1,0 +1,526 @@
+---
+---
+
+// IMPORTS (more at bottom)
+@import "reset" ;
+@import "variables" ;
+
+/**************/
+/* BASE RULES */
+/**************/
+
+html {
+    font-size: 100%;
+    }
+
+body {
+    margin: 10px auto 0;
+    max-width: 790px;
+    padding: 10px;
+    background-color: black;
+    font-size: 18px;
+    line-height: 1.4;
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+    color: grey;
+    display: block;
+    }
+
+h1, h2, h3, h4, h5, h6 {
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+    color: #bbb;
+    font-weight: bold;
+    line-height: 1.4;
+    margin: 20px 0 15px;
+    padding: 0;
+    }
+
+h1 {
+    font-size: 36px;
+    line-height: 1em; }
+    h1 a {
+    color: inherit;
+    }
+
+h2 {
+    font-size: 32px;
+    }
+
+h3 {
+    font-size: 28px;
+    }
+
+h4 {
+    font-size: 24px;
+    color: #888;
+    }
+
+h5 {
+    font-size: 21px;
+    color: #888;
+    }
+    
+h6 {
+    font-size: 18px;
+    color: #888;
+    }
+
+p {
+    margin: 15px 0;
+    }
+
+a {
+//    color: #4183C4;
+//    color: #59844c;
+    color: #83a976;
+    text-decoration: none;
+    cursor: pointer; }
+    a:hover, a:active {
+//    color: #4183C4;
+    color: #83a976;
+//    color: #59844c;
+    }
+
+ul, ol {
+    margin: 15px 0;
+    padding-left: 30px;
+    }
+
+ul {
+    list-style-type: disc;
+    }
+
+ol {
+    list-style-type: decimal;
+    }
+
+ol ul, ul ol, ul ul, ol ol {
+    margin: 0;
+    }
+
+ul ul, ol ul {
+    list-style-type: circle;
+    }
+
+em, i {
+    font-style: italic;
+    }
+
+strong, b {
+    font-weight: bold;
+    }
+
+sup {
+    vertical-align: super;
+    font-size: smaller;
+    }
+
+img {
+    max-width: 600px;
+    max-height: 600px;
+    background-color: white;
+    padding: 20px;
+    }
+
+dl:after {
+    content: "";
+    display: table;
+    clear: both;
+    }
+
+dd {
+    padding: .5em 0;
+    }
+
+dl {
+    width: 100%;
+    }
+
+dt, dd {
+    display: inline-block;
+    width: 20%;
+    }
+
+dt {
+    text-align: right;
+    font-weight: bold;
+    clear: left;
+    float: left;
+    }
+
+dd {
+    width: 80%;
+    padding-left: 1em;
+    clear: right;
+    }
+
+dt:first-child {
+    padding-top: .5em;
+    }
+
+dd + dt {
+    clear: both;
+    padding-top: .5em;
+    }
+
+table {
+  border-collapse: collapse;
+  border-style: hidden;
+    max-width: 100%;
+//    margin-left: 15px;
+	}
+
+
+/* table { border-collapse: collapse; }
+
+td + td, th + th { 
+	border-left: 1px solid #555555 
+	}
+
+tr + tr { 
+border-top: 1px solid #555555}
+
+td, th {
+padding: 10px; 
+	}
+
+tr + tr > td, tr + tr > th {
+border-top: 1px solid #555555
+	}
+*/
+
+thead th {
+    border: solid 1px #555555;
+    padding: .55em .9em;
+    text-align: left;
+    font-weight: bold;
+    }
+
+tbody td {
+    border: solid 1px #555555;
+    padding: .5em .7em .2em 1.1em;
+    }
+
+td {
+//    white-space: nowrap;
+//	padding: 4px 10px;
+    }
+
+.gmnoprint img {
+    max-width: none;
+    }
+
+.date {
+    font-style: italic;
+    color: #555;
+    }
+
+::-moz-selection {
+    color: #080808;
+    background: #bbb;
+    }
+
+::selection {
+    color: #080808;
+    background: #bbb;
+    }
+
+.clearfix:before,
+.clearfix:after {
+    content: " ";
+    display: table;
+    }
+
+.clearfix:after {
+    clear: both;
+    }
+
+/*********************/
+/* LAYOUT / SECTIONS */
+/*********************/
+.none {
+    display: none; }
+    .none ul li {
+    list-style-type: none;
+    margin-left: -30px;
+    }
+
+.arrow {
+    padding-top: 20px;
+    font-size: 3em;
+    font-weight: 600;
+    text-decoration: none;
+    text-align: center;
+    }
+
+.arrowblog {
+    padding-top: 20px;
+    font-size: 1.1em;
+    font-weight: 600;
+    text-decoration: none;
+    text-align: center;
+    }
+
+.posts > .post {
+    padding-bottom: 2em;
+    border-bottom: 1px solid #555;
+    }
+
+.posts > .post:last-child {
+    padding-bottom: 1em;
+    border-bottom: none;
+    }
+
+.post blockquote {
+    margin: 1.8em 0.8em;
+    border-left: 2px solid #888;
+    padding: 0.1em 1em;
+    color: #888;
+    font-size: 22px;
+    font-style: italic; }
+.post .comments {
+    margin-top: 10px; }
+.post .read-more {
+    text-transform: uppercase;
+    font-size: 15px;
+    }
+
+.submenu
+  {
+  float: right;
+  margin: 0 10px;
+  list-style-type: none;
+  a
+    {
+    color: $blue2;
+    }
+  }
+
+footer {
+    text-align: center;
+    }
+
+
+////////////////////
+// HEADER //
+///////////////////
+
+.flex-container {
+    display: flex;
+    flex-wrap: nowrap;
+    }
+
+.flex-container > div {
+    }
+
+nav {
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-size: 18px;
+    position: relative;
+    }
+
+.man {
+    margin: 0;
+    padding:0;
+    }
+
+.man ul {
+    list-style: none;
+    position: relative;
+     margin: 0;
+    padding: 0;
+    }
+
+.man ul li {
+	position:relative;
+    font-weight: 700;
+    font-size: 38px;
+    line-height: 40px;
+    padding: 0 60px 0 0;
+    margin:0;
+    }
+
+
+.man ul ul li:hover {
+    background: #333;
+    border-radius: 7px ;
+    }
+
+.man ul ul {
+    display: none;
+    position: absolute;
+    top: 100%;
+    background-color: #181818;
+    border-radius: 7px ;
+    border: 1px solid #aaa;
+    padding: 0;
+    z-index:2;
+    }
+
+.man ul ul a {
+    display:block;
+    font-weight: normal;
+    font-size: 20px;
+    line-height: 25px;
+    padding: 1px 5px;
+    text-align: left;
+    border-radius: 7px ;
+    }
+
+.man ul ul li {
+    font-weight: normal;
+    font-size: 20px;
+    color:#bebebe;
+    line-height: 25px;
+    padding: 1px 10px 1px 5px;
+    text-align: right;
+    border-radius: 7px ;
+    }
+
+.man ul ul ul {
+    top: 0;
+    left: 100%;
+    width: 240px;
+    border-radius: 7px ;
+    }
+
+.man ul ul ul li {
+    text-align: left;
+    font-style: italic;
+    padding: 1px 5px;
+    border-radius: 7px ;
+    }
+
+.man ul ul ul a {
+    font-weight: normal;
+    font-style: normal;
+    width: 240px;
+    padding: 1px 5px;
+    border-radius: 7px ;
+    }
+
+.man ul li:hover > ul {
+    display: block;
+    border-radius: 7px;
+    }
+
+#title {
+    margin: 0;
+    color: #bbb;
+    cursor: pointer;
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-weight: bold;
+    font-size: 36px;
+    text-align: center;
+    line-height: 36px;
+    }
+
+#sub {
+    display: block;
+    margin: 0;
+    padding: 3px 0 0 0;
+    color: #888;
+    font-weight: normal;
+    font-size: 18px;
+    font-style: italic;
+    line-height: 22px;
+    position: relative;
+    text-align: center;
+    z-index:1;
+    }
+
+#author {
+    display: block;
+    text-align: center;
+    margin: 10px 0 0 0;
+    color: #888;
+    font-weight: normal;
+    font-size: 18px;
+    font-style: normal;
+    line-height: 1;
+    z-index:1;    
+    }
+    
+#img  {
+    width:120px;
+     padding:0;
+    margin: 0 0 0 50px; /* -135px 40px 20px 10px; */
+    filter:brightness(90%);
+    }
+
+span#phrase { display:inline-block; }
+
+ @media only screen and (max-width: 600px) {
+
+.man ul li {
+	position:relative;
+    font-weight: 700;
+    font-size: 32px;
+    line-height: 32px;
+    padding: 0 15px 0 0;
+    }
+
+#title {
+    margin: 0;
+    color: #bbb;
+    cursor: pointer;
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-weight: bold;
+    font-size: 28px;
+    line-height: 30px;
+    }
+
+#sub {
+    display: block;
+    margin: 0;
+    padding: 0;
+    color: #888;
+    font-weight: normal;
+    font-size: 16px;
+    font-style: italic;
+    line-height: 18px;
+    position: relative;
+    z-index:1;
+    }
+
+#author {
+    display: block;
+    text-align: center;
+    margin: 0;
+    color: #888;
+    font-weight: normal;
+    font-size: 16px;
+    font-style: normal;
+    line-height: 18px;
+    position: relative;
+    z-index:1;    
+    }
+
+#img  {
+    width:100px;
+    padding:0;
+    margin: 0 5px 10px 5px;
+    filter:brightness(90%);
+    }
+    }
+    
+ @media only screen and (max-width: 359px) {
+
+.man ul ul a {
+    font-size: 18px;
+    line-height: 22px;
+    }
+
+.man ul ul li {
+    font-size: 18px;
+    line-height: 22px;
+    }
+#img  {
+    width:95px;
+    }
+}
+
+// @import "highlights" ;
+// @import "svg-icons" ;
+
+
+

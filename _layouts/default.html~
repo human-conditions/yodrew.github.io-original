@@ -1,0 +1,98 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>{% if page.title %}{{ page.title }} – {% endif %}{{ site.title }} – {{ site.description }}</title>
+
+    {% include meta.html %}
+
+    <!--[if lt IE 9]>
+      <script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+    <![endif]-->
+
+    <link rel="stylesheet" type="text/css" href="/style.css" />
+    <link rel="alternate" type="application/rss+xml" title="{{ site.name }} - {{ site.description }}" href="/feed.xml" />
+
+    <!-- Created with Jekyll Now - http://github.com/barryclark/jekyll-now -->
+    </head>
+
+<body>
+
+<div class="flex-container">
+    <div>    
+        <nav class="man">
+            <ul>
+                <li>&#9776;
+                    <ul>
+                        <li>intro
+                            <ul>
+                                <li><a href="/dedication">dedication</a></li>
+                                <li><a href="/notes/">notes</a></li>
+                                <li><a href="/foreword">foreword</a></li>
+                                <li><a href="/preface">preface</a></li>
+                                <li><a href="/introduction">introduction</a></li>
+                                <li>&nbsp;don't skip these^</li>
+                            </ul>
+                        </li>
+                        <li>chapters
+                            <ul>
+                                <li><a href="/hygiene">1  hygiene</a></li>
+                                <li><a href="/darkroom-retreat">2  darkroom retreat</a></li>
+                                <li><a href="/psychology">3  psychology</a></li>
+                                <li><a href="/format">4  format</a></li>
+                                <li><a href="/protocol">5  protocol</a></li>
+                                <li><a href="/prepare">6  prepare</a></li>
+                                <li><a href="/design">7  design</a></li>
+                                <li><a href="/make">8  make</a></li>
+                                <li><a href="/air">9  air</a></li>
+                                <li><a href="/darkness">10  darkness</a></li>
+                                <li><a href="/water">11  water</a></li>
+                            </ul>
+                        </li>
+                        <li>outro
+                            <ul>
+                                <li><a href="/faq">faq</a></li>
+                                <li><a href="/appendix-laws-of-life">appendix: laws of life</a></li>
+                                <li><a href="/about/bibliography-influences">bibliography &amp; influences</a></li>
+                                <li><a href="/about/acknowledgments">acknowledgments</a></li>
+                                <li><a href="/about/disclaimer">disclaimer</a></li>
+                                <li><a href="/about/services">services</a></li>
+                                <li><a href="/about/license">license</a></li>
+                                <li><a href="/about/participate">participate</a></li>
+                                <li><a href="/about">bio &amp; contact</a></li>
+                            </ul>
+                        </li>
+                        <li><a href="/about">about</a></li>
+                        <li><a href="/blog">blog</a></li>
+                        <li><a href="/reports">reports</a></li>
+                        <li><a href="/darkness-conjecture">conjecture</a></li>
+                        <li><a href="/other-writings">other</a></li>
+                    </ul>
+                </li>
+            </ul>
+        </nav>
+    </div>
+    <div>
+        <h1 id="title"><a href="/">hygienic <span id="phrase">darkroom retreat</span></a></h1>
+                   <p id="sub">profound&nbsp;rest for&nbsp;the self&#8209;healing&nbsp;psyche</p>
+                  <p id="author">by&nbsp;andrew&nbsp;durham</p>
+    </div>
+    <div>
+        <a href="https://leanpub.com/darkroomretreat"><img src="/img/book-cover.png" id="img" title="click to buy" label="book cover image"> </a>
+    </div>
+</div>
+<div class="container">
+    {{ content }}
+</div>
+
+<div class="container">
+    <footer class="footer">
+        {% include svg-icons.html %}
+    </footer>
+</div>
+
+    {% include analytics.html %}
+
+</body>
+</html>
+
+

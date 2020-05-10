@@ -163,24 +163,46 @@ dd + dt {
     }
 
 table {
-    border: solid 1px #AAAAAA;
-    border-collapse: collapse;
-    border-spacing: 0;
-    }
+  border-collapse: collapse;
+  border-style: hidden;
+    max-width: 100%;
+//    margin-left: 15px;
+	}
+
+
+/* table { border-collapse: collapse; }
+
+td + td, th + th { 
+	border-left: 1px solid #555555 
+	}
+
+tr + tr { 
+border-top: 1px solid #555555}
+
+td, th {
+padding: 10px; 
+	}
+
+tr + tr > td, tr + tr > th {
+border-top: 1px solid #555555
+	}
+*/
 
 thead th {
-    border: solid 1px #AAAAAA;
-    padding: 10px;
+    border: solid 1px #555555;
+    padding: .55em .9em;
     text-align: left;
+    font-weight: bold;
     }
 
 tbody td {
-    border: solid 1px #AAAAAA;
-    padding: 4px;
+    border: solid 1px #555555;
+    padding: .5em .6em .2em .9em;
     }
 
 td {
-    white-space: nowrap;
+//    white-space: nowrap;
+//	padding: 4px 10px;
     }
 
 .gmnoprint img {
@@ -499,5 +521,6 @@ span#phrase { display:inline-block; }
 
 // @import "highlights" ;
 // @import "svg-icons" ;
+
 
 

@@ -12,18 +12,10 @@ This book has links. On the web, they are colored. In the ebook and print, they 
 
 - <u>external links</u> to other webpages
 - <u><em>internal links</em></u> to other parts of this book. Chapter and section indicated for readers of print version.
-- <u><em>books</em></u>, downloadable 
+- <u><em>books</em></u>, downloadable
 
 ##### get latest version
 
-- web
-    - one page per chapter, dark background:  
-    [darkroomretreat.com](http://darkroomretreat.com) 
-    - single page, light background:  
-    [leanpub.com/darkroomretreat/read](http://leanpub.com/darkroomretreat/read)
-- ebook (pdf, epub, mobi)
-    - get notified of new versions:  
-    [leanpub.com/darkroomretreat](http://leanpub.com/darkroomretreat)
-    - direct: [darkroomretreat.com/ebook](/ebook)
-- plans: [darkroom-retreat.zip](/darkroom-retreat.zip/ )
-
+- web: [darkroomretreat.com](http://darkroomretreat.com) 
+- ebook (pdf, epub, mobi): [leanpub.com/darkroomretreat](http://leanpub.com/darkroomretreat)
+- plans: [darkroom-retreat.zip](/darkroom-retreat.zip/)

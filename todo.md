@@ -1,8 +1,34 @@
+How do people believe the fantasies that they do? Because they have fantasies about their beliefs themselves! They believe their own beliefs to be other than what they are. First they misrepresent reality, then they misrepresent their misrepresentations to themselves to appear representational.
+
+How do people do _this_?
 
 
-# FORMAT
+How does someone believe in fantasies? By fantasizing about the beliefs themselves. He believes his own beliefs to be other than what they are. First he misrepresents reality, then he misrepresents his misrepresentations to himself to appear valid. It's perfect symmetry and usually undetected for a lifetime except symbolically.
 
-## A
+How does he do _this_? What makes it possible? The mind is a logic machine. The body and heart are part of a larger system with it. They all work together. Wherever there is contradiction, there is tension, confusion, distress, pain. Suffering intensifies until resolution... or death.
+
+Only a malfunctioning system can persist in error.
+
+
+
+shorten answers in faq
+
+
+# BOOK
+
+The hygienic word for cleansing is elimination. It is a phase of healing. So "healing and cleansing" would be redundant. 
+
+Unless cleansing means something else. I think it has an element of volition in it. So then the adversarial approach has snuck into one's thinking again. One begins imposing something on oneself by will, as if the unconscious doesn't have it handled.
+
+Slippery slopes everywhere.
+
+brilliant.
+
+could that be included in book?
+
+## FORMAT
+
+### A
 
 - drawings
 HWL to xyz
@@ -11,15 +37,19 @@ HWL to xyz
     - space after images
     - photos turned 90 degrees
 
-## B
+### B
 
-fix mosseri
+fix fasting
 
 templates will need a special knife holder that guides the knife in the grooves so the knife and creaser can never be confused and the template does not get cut up. It will slide in a groove wider than the creaser. It can be easily made.
 
-# TEXT
+## TEXT
 
-## A
+### A
+
+separate getting food from talking to them. no waiting. notes good. comms somehow to always have access voicemail.
+
+things will change slowly afterward. Instant changes are possible but don't expect them. Push on whatever gives.
 
 ---our media blitz, cities, and economy---And in our souls, we struggle and suffer. We need peace and joy.
 
@@ -30,7 +60,7 @@ healing at the speed of life
 
 modularize subjects. reduce repetition. Put all in order and let reader's mind perform integration. Or modularize the integrations.
 
-## B
+### B
 
 cataclysm > trauma > suffering, psychosis
 

@@ -1,0 +1,238 @@
+I"�<p><img src="/f/j/sklenarka/plan.png" alt="plan" /></p>
+
+<h4 id="goal">goal</h4>
+
+<ul>
+  <li>world-class darkroom in terms of function</li>
+  <li>within limitations of budget, time, and existing wagon structure</li>
+</ul>
+
+<h4 id="current">current</h4>
+
+<ol>
+  <li>major
+    <ol>
+      <li>unlevel</li>
+      <li>ventilation: noisy, insufficient, inefficient, vent locations cause cold drafts</li>
+      <li>entry:
+        <ul>
+          <li>opens onto toilet, causing issues with privacy, coordination, and lightproofing</li>
+          <li>top of door (and windows) unprotected from rain</li>
+        </ul>
+      </li>
+      <li>toilet:
+        <ol>
+          <li>pipe upside down</li>
+          <li>unventilated</li>
+          <li>not private</li>
+          <li>low?</li>
+          <li>collection bucket too small</li>
+          <li>middle bar unnecessary?</li>
+        </ol>
+      </li>
+      <li>wiring: surrounding occupant</li>
+      <li>windows: permanently covered, unshuttered, cold, unsoundproofed</li>
+      <li>hum: low frequency noise</li>
+      <li>stairs: steep, unrailed</li>
+      <li>deck: small</li>
+    </ol>
+  </li>
+  <li>minor
+    <ol>
+      <li>no dining chair</li>
+      <li>heater: visible light</li>
+      <li>water tastes bad</li>
+      <li>no mirror</li>
+      <li>countertop:
+        <ul>
+          <li>warping: needs reinforcement front to back in 3 places, slowly at left. Screwed in from bottom with thick, unpointed wood screws</li>
+          <li>incorrect height: raise for counter, lower for table. Or just raise chair and put foot stool</li>
+        </ul>
+      </li>
+      <li>shelves: too deep, hole at back, far from bed</li>
+      <li>bed:
+        <ol>
+          <li>narrow</li>
+          <li>built-in</li>
+        </ol>
+      </li>
+      <li>shower
+        <ol>
+          <li>low bracket</li>
+          <li>no curtain at end</li>
+        </ol>
+      </li>
+      <li>no reclining seat</li>
+    </ol>
+  </li>
+  <li>probably impractical to solve but acceptable: low ceiling</li>
+</ol>
+
+<h4 id="actions">actions</h4>
+
+<h5 id="provisional-phase">provisional phase</h5>
+
+<ol>
+  <li>bring dining chair with pad XXX</li>
+  <li>improvise silencer XXX</li>
+  <li>replace noisy duct fan with less noisy case fan XXX</li>
+  <li>level with taller log sections</li>
+</ol>
+
+<h5 id="phase-1">phase 1</h5>
+
+<ol>
+  <li>major
+    <ol>
+      <li>level wagon and dampen hum
+        <ul>
+          <li>inflate tires</li>
+          <li>raise with big jack</li>
+          <li>remove log sections</li>
+          <li>put metal grates or concrete pads under tires</li>
+          <li>set back down onto tires</li>
+          <li>cover tires and pads to keep out of sun and snow</li>
+          <li>check wagon level and tire pressure twice yearly</li>
+        </ul>
+      </li>
+      <li>ventilation
+        <ul>
+          <li>triangle duct
+            <ul>
+              <li>moves stale air from bed to toilet</li>
+              <li>at top of east wall, 25cm-wide board 45° to ceiling</li>
+              <li>7m (length of wagon), down to bed and toilet</li>
+              <li>10mm thick tongue and groove</li>
+              <li>plastic or paint to seal it</li>
+              <li>fibrous lining for silencing</li>
+              <li>airtight toilet seat must be shut for ventilation to work</li>
+            </ul>
+          </li>
+          <li>remove shelf across from tub</li>
+          <li>move wiring</li>
+          <li>cut triangle hole in inner wall to bathroom for duct</li>
+          <li>toilet
+            <ul>
+              <li>airtight seat</li>
+              <li>large brown bin for poop with platform</li>
+              <li>bin lid:
+                <ul>
+                  <li>12VDC blower fan to drive whole ventilation system</li>
+                  <li>fan mount</li>
+                  <li>silencer?</li>
+                  <li>helix vent?</li>
+                </ul>
+              </li>
+            </ul>
+          </li>
+          <li>removable seal for floor vent (under bed)</li>
+        </ul>
+      </li>
+    </ol>
+  </li>
+  <li>minor
+    <ol>
+      <li>water: filter and maybe magnet for iron</li>
+      <li>heater light: cover or destroy</li>
+      <li>pad or pillow as back rest for bed</li>
+      <li>shower
+        <ul>
+          <li>curtain for end of tub</li>
+          <li>extra coat of paint on wall, sealing all cracks or tight curtain?</li>
+          <li>bracket for shower head up and in from sink?</li>
+        </ul>
+      </li>
+    </ol>
+  </li>
+</ol>
+
+<h5 id="phase-2">phase 2</h5>
+
+<ol>
+  <li>major
+    <ol>
+      <li>entry
+        <ul>
+          <li>new wall blocking off toilet, from outer door latch straight to inner wall</li>
+          <li>main room: new door, hinged</li>
+          <li>toilet: new door, hinged, sealing</li>
+        </ul>
+      </li>
+      <li>toilet
+        <ul>
+          <li>reverse pipes</li>
+          <li>change ventilation</li>
+          <li>rotate seat 90°</li>
+        </ul>
+      </li>
+      <li>wiring
+        <ul>
+          <li>send it to west wall at entry door or inner wall</li>
+          <li>stop at heater and water heater</li>
+          <li>thus removed from bed area</li>
+        </ul>
+      </li>
+      <li>windows
+        <ul>
+          <li>uncover</li>
+          <li>build shutters</li>
+          <li>build awnings
+            <ul>
+              <li>shutters</li>
+              <li>door</li>
+            </ul>
+          </li>
+        </ul>
+      </li>
+      <li>hum:
+        <ul>
+          <li>isolate wagon from ground: put it back on its wheels</li>
+          <li>consult with sound engineers ;p</li>
+          <li>thicken/dampen walls with roofing, drywall.</li>
+          <li>massive shutters</li>
+        </ul>
+      </li>
+      <li>ants
+        <ul>
+          <li>traps at foundation blocks</li>
+          <li>stairs and deck cantilevered to not touch ground or ant traps for posts</li>
+        </ul>
+      </li>
+      <li>deepen stairs</li>
+      <li>enlarge deck</li>
+    </ol>
+  </li>
+  <li>minor
+    <ol>
+      <li>mirror: above sink</li>
+      <li>counter
+        <ul>
+          <li>reinforce</li>
+          <li>lower it or raise chair?</li>
+        </ul>
+      </li>
+      <li>shelves
+        <ul>
+          <li>shallow</li>
+          <li>free-standing yet anchored to wall with an L-bracket and one screw</li>
+          <li>by toilet? 67/97w x 30d x 180h</li>
+          <li>by foot of bed: 60w x 30d x 150h</li>
+          <li>by head of bed: 50w x 20d x 50h</li>
+        </ul>
+      </li>
+      <li>bed
+        <ul>
+          <li>widen to 120cm</li>
+          <li>make free-standing?</li>
+          <li>add back rest
+            <ul>
+              <li>slatted frame at angle to north wall resting on back edge of bed</li>
+              <li>angled cushion for reclining seat</li>
+            </ul>
+          </li>
+        </ul>
+      </li>
+    </ol>
+  </li>
+</ol>
+:ET

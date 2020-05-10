@@ -11,6 +11,9 @@ collections:
   uploads:
     title: Uploads
     output: true
+  products:
+    title: Products
+    output: true
 description: profound rest for the self-healing psyche
 baseurl: ''
 url: https://darkroomretreat.com

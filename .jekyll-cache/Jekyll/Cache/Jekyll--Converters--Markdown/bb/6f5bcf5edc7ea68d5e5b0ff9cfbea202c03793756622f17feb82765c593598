@@ -1,0 +1,46 @@
+I"�<p>Hey, I just came across this excellent web-based credit clearing system:
+<a href="http://www.ces.org.za/">Community Exchange System</a> [EDIT: I no longer dig this system. It’s popular but messy.] CES* is international, free, simple, compatible with paper systems, thorough, and cool.  It’s just about what the godfather of new money, Thomas Greco, calls for in <a href="http://beyondmoney.net/excerpts/chapter-17-complete-web-based-trading-platform/"><em>The End of Money and the Future of Civilization</em>, chapter 17</a>.</p>
+
+<p>Other worthy systems I’ve come across in the last couple days:</p>
+
+<ul>
+  <li><a href="http://payswarm.com/">payswarm.com</a> web technology-based, multiple-scenario payment system. Big vision.</li>
+  <li><a href="http://opentransact.org"> opentransact.org</a> similar goals as payswarm, different architecture</li>
+  <li><a href="http://picomoney.com/">picomoney.com</a> clever, based on opentransact</li>
+  <li><a href="http://cyclos.org/">cyclos.org</a> open source software to run your own bank, complete with free hosting; soul boggling!</li>
+  <li><a href="http://villages.cc">villages.cc</a>**is the best implementation of</li>
+  <li><a href="http://ripplepay.com/">ripplepay.com</a>, a compelling solution to LETS accountability concerns.</li>
+  <li><a href="http://e-flux.com/timebank">e-flux.com/timebank</a> hip and simple</li>
+  <li>friendly <a href="http://favors.org/">favors.org</a> 2nd largest after CES, social, clever, but aging and a bit complicated</li>
+  <li><a href="http://johnturmel.com/uniset.htm">johnturmel.com/uniset.htm</a> very simple, start alone now. Improved by showing account as a ledger using a <a href="http://bit.ly/uletsad">web-based spreadsheet</a></li>
+  <li><a href="http://www.personocratia.com/en/documents/game-full-document.pdf">JEU/GAME</a> paper system (compatible with CES), very elegant, semi-private, decentralized accounting, best for when the lights go out.</li>
+</ul>
+
+<p>CES is (NOT*) the most accessible, practical, and mature, though some of these systems, especially payswarm, have much greater potential. Open source money has finally gotten legs, wings… and teeth.</p>
+
+<p>*EDIT: I gave up on CES because of issues with its design and management. So I am exploring two other systems now: <a href="http://communityforge.net">Community Forge</a>, based on Drupal Community Accounting/mutual credit module, and [Villages][7]. It’s Ripple base is better, but CF is much more developed. The insides of it look great so far.  Open source, delegated authority and responsibility. Kind of a weak social network, but it is there.</p>
+
+<p>Greco says a proper system needs:</p>
+
+<ol>
+  <li>a marketplace</li>
+  <li>a social network</li>
+  <li>a means of payment</li>
+  <li>a measure of value or pricing unit</li>
+</ol>
+
+<p>Both have all four criteria. So it’s a toss up for me. I hope Villages works out.</p>
+
+<ul>
+  <li><a href="http://complementaire-economie.startpagina.nl/">complementaire-economie.startpagina.nl</a> huge list of currencies, systems, and software, some defunct</li>
+  <li><a href="https://github.com/FellowTraveler/Open-Transactions/wiki"> Open Transactions</a> open source digital cash, transmittable through tons of media, needing no third-party record keeper.</li>
+</ul>
+
+<p>Two cool sites about money ideas:</p>
+
+<ul>
+  <li><a href="http://metacurrency.org">MetaCurrency</a></li>
+  <li><a href="http://webisteme.com">Webisteme</a> inventor of <a href="http://www.punkmoney.org">#PunkMoney</a>, a twitter-based currency. fricking brilliant.</li>
+</ul>
+
+:ET
