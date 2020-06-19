@@ -4,12 +4,12 @@ layout: page
 permalink: /presale/
 ---
 
-I believe joy is natural. Through investigation, I discovered the essential condition nature gives us to reverse the cause of our suffering and restore joy: darkness. With hygiene, the science of health, I developed a model⁠ for using darkness to produce reliable miracles. It is called _hygienic darkroom retreating_. It results in:
+I believe joy is natural. Long investigation led me to discover the essential condition nature gives us to reverse the cause of our suffering and restore joy: darkness. With hygiene, the science of health, I developed a model⁠ for using darkness to produce reliable miracles. It is called _hygienic darkroom retreating_. It results in:
 
 - relief, rest, and recovery from distress, exhaustion, and illness
 - natural healing from major trauma, the cause of human suffering and problems
 - recovery of the lost self
-- restoration of personal power, the condition of political freedom
+- restoration of personal power
 
 My readers and I have glimpsed these benefits in our preliminary retreats. To realize them fully requires a self-supporting, organized team. Therefore...
 
@@ -21,7 +21,7 @@ I am starting a business. To fund it, I am pre-selling everything I plan to offe
 - services: consultations, retreats, gift certificates
 - goods: darkroom components, darkrooms, neighborhoods, microfactories
 
-Below, the presale's unusual TERMS reward past supporters. The MENU lists goods and services, their shipping dates, and prices. The GOAL of the campaign is $9,700. The minimum is $2,000. The PLAN shows what I'll do to startup.
+Below, the presale's unusual **terms** reward past supporters. The **menu** lists goods and services, their shipping dates, and prices. The **goal** of the campaign is $9,700. The minimum is $2,000. The **plan** shows what I'll do to startup.
 
 #### terms
 
@@ -33,10 +33,11 @@ Below, the presale's unusual TERMS reward past supporters. The MENU lists goods 
     - donations
     - contributions to my 2016 crowdfund
     - leanpub purchases (credited 70%)
-    - mention your prior contribution with a record (eg, a leanpub order #). If you lost it, I might have it. I gladly honor claims from anyone who helped me in any way since my research and development began 32 years ago.
+    - mention your prior contribution with a record (eg, a leanpub order #). If you lost it, I might have it. 
     - credit is transferable
+    - claims gladly honored from anyone who helped me in any way since my research and development began 32 years ago
 - delivery dates are conservatively estimated. Some items may be ready sooner.
-
+ 
 #### menu
 
 | Delivery | Item (price notes)                                                         |   $     |    $*   |
@@ -80,9 +81,9 @@ Below, the presale's unusual TERMS reward past supporters. The MENU lists goods 
 
 *these designs are conceived but not yet prototyped or illustrated in my book
 
-#### goal
+#### goal: $8400
 
-$8400, staged up from $2200 minimum. Stages reflect priorities. Costs include manufacturing, credit redemptions, expenses, and debts.
+Goal is staged up from a $2200 minimum. Stages reflect priorities. Costs include manufacturing, credit redemptions, expenses, and debts.
 
 | Stage | Item                                    | Price | Costs | Goals |
 | -----:| ----------------------------------------| -----:| ----: | -----:|     
@@ -101,7 +102,7 @@ $8400, staged up from $2200 minimum. Stages reflect priorities. Costs include ma
 2. edit book
     - integrate final pieces of model
     - refine organization of book content
-    - simplify sentence style and structure for clarity, easier reading and translation (grueling work)
+    - simplify sentence style and structure for clarity, easier reading and translation
     - get book copyedited, proofread, and designed
     - assembly drawings may come in the next edition or as a separate book
     - print and ship on schedule
@@ -122,10 +123,16 @@ $8400, staged up from $2200 minimum. Stages reflect priorities. Costs include ma
             
 #### risks and qualifications
 
-I could print the current version of the book right now and ship it. I have done so many times. It has 98% of the content I want it to have when it ships in four months. I have tested the method of revision I plan to use for difficulty and speed. 
+I could print the current version of the book right now and ship it. I have done so many times. It has 98% of the content I want it to have when it ships in four months. I have tested the revisions I plans
 
 I have produced or at least prototyped everything else in the list except where noted. I have shipped things internationally from both America and Europe. 
 
-I grew up around the small businesses of my father, extended family, friends, and townspeople. I worked closely with entrepreneurs, read business books my whole life, and have done business consulting. I know double-entry accounting, spreadsheets, simple programming, basic law, history, philosophy, and the fighting spirit sometimes necessary for success.
+I grew up around the small businesses of my father, extended family, friends, and townspeople. I worked closely with entrepreneurs, read business books my whole life, and have done business consulting. I know double-entry accounting, spreadsheets, simple programming, basic law, the military attitude, history, and philosophy.
 
-Thank you for your consideration and support.
+The biggest risk is if the world ends. I don't think it will. Things are getting hairy. I'm a survivor. I'll find a way to fill your order using my unique set of skills.
+
+The worst case scenario is if hygienic darkroom retreating doesn't happen because people don't try. It is my function in life, so I am going to keep at it.
+
+#### conclusion
+
+Thanks for your consideration and support. 
