@@ -9,7 +9,7 @@ I believe joy is natural. Through investigation, I discovered the essential cond
 - relief, rest, and recovery from distress, exhaustion, and illness
 - natural healing from major trauma, the cause of human suffering and problems
 - recovery of the lost self
-- restoration of personal power
+- restoration of personal power, the condition of political freedom
 
 My readers and I have glimpsed these benefits in our preliminary retreats. To realize them fully requires a self-supporting, organized team. Therefore...
 
@@ -26,17 +26,20 @@ Below, the presale's unusual TERMS reward past supporters. The MENU lists goods 
 #### terms
 
 - prices $USD, shipping added at checkout 
-- $regular price, $*price with credit.
-- you have credit if you ever gave me money before:
+- prices:
+    - $ : regular
+    - $* : with credit.
+- you have credit if you ever gave me material support before:
     - donations
     - contributions to my 2016 crowdfund
     - leanpub purchases (credited 70%)
     - mention your prior contribution with a record (eg, a leanpub order #). If you lost it, I might have it. I gladly honor claims from anyone who helped me in any way since my research and development began 32 years ago.
     - credit is transferable
+- delivery dates are conservatively estimated. Some items may be ready sooner.
 
 #### menu
 
-| Delivered | Item (price notes)                                                         |   $     |    $*   |
+| Delivery | Item (price notes)                                                         |   $     |    $*   |
 | ---------:| -------------------------------------------------------------------------- | -------:| -------:|
 |  2020 Jun | consultation, 1 hour                                                       |      20 |      10 |
 |           | gift certificate, $5 minimum, value pegged to current offerings, increasing 10% per year | 5+ | 5+ |
@@ -119,17 +122,10 @@ $8400, staged up from $2200 minimum. Stages reflect priorities. Costs include ma
             
 #### risks and qualifications
 
-I could print the current version of the book right now and ship it. I have done so many times. It has 98% of the content I want it to have when it ships in four months. I have tested the revisions I plans
+I could print the current version of the book right now and ship it. I have done so many times. It has 98% of the content I want it to have when it ships in four months. I have tested the method of revision I plan to use for difficulty and speed. 
 
 I have produced or at least prototyped everything else in the list except where noted. I have shipped things internationally from both America and Europe. 
 
-I grew up around the small businesses of my father, extended family, friends, and townspeople. I worked closely with entrepreneurs, read business books my whole life, and have done business consulting. I know double-entry accounting, spreadsheets, simple programming, basic law, the military attitude, history, and philosophy.
+I grew up around the small businesses of my father, extended family, friends, and townspeople. I worked closely with entrepreneurs, read business books my whole life, and have done business consulting. I know double-entry accounting, spreadsheets, simple programming, basic law, history, philosophy, and the fighting spirit sometimes necessary for success.
 
-The biggest risk is if the world ends. I don't think it will. Things are getting hairy. I'm a survivor. I'll find a way to fill your order using my unique set of skills.
-
-The worst case scenario is if hygienic darkroom retreating doesn't happen because people don't try. It is my function in life, so I am going to keep at it.
-
-#### conclusion
-
-Thanks for your consideration and support. 
-
+Thank you for your consideration and support.

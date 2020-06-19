@@ -30,7 +30,7 @@
                                 <li><a href="/foreword">foreword</a></li>
                                 <li><a href="/preface">preface</a></li>
                                 <li><a href="/introduction">introduction</a></li>
-                                <li>&nbsp;don't skip these^</li>
+                                <li>&nbsp;^don't skip these</li>
                             </ul>
                         </li>
                         <li>chapters
@@ -75,6 +75,7 @@
         <h1 id="title"><a href="/">hygienic <span id="phrase">darkroom retreat</span></a></h1>
                    <p id="sub">profound&nbsp;rest for&nbsp;the self&#8209;healing&nbsp;psyche</p>
                   <p id="author">by&nbsp;andrew&nbsp;durham</p>
+        <iframe id="search" src="https://duckduckgo.com/search.html?width=225&site=darkroomretreat.com&prefill=search darkroomretreat.com&focus=yes" style="overflow:hidden;margin:0;padding:0;width:283px;height:40px;" frameborder="0"></iframe>
     </div>
     <div>
         <a href="https://leanpub.com/darkroomretreat"><img src="/img/book-cover.png" id="img" title="click to buy" label="book cover image"> </a>

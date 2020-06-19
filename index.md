@@ -2,6 +2,8 @@
 layout: index
 ---
 
+back cover text:
+
 {% include blurb.md %}
 
 _continue reading online_{: style="font-size: .5em;padding-top:-10px 0;"} [&gt;](/dedication)
@@ -10,9 +12,9 @@ _continue reading online_{: style="font-size: .5em;padding-top:-10px 0;"} [&gt;]
 #### ebook
 
 - get it at [leanpub](https://leanpub.com/darkroomretreat)
-    - free/pay what you like
+    - pay what you like
     - pdf, epub, mobi
-    - automatic notification of new versions, which are free forever
+    - check option for automatic notification of new versions, free forever
     - no spam and your contact info remains hidden, even from me
 - or send me an [email](/about) and at least $5 (see methods below) and I'll send it to you.
 
@@ -20,7 +22,7 @@ _continue reading online_{: style="font-size: .5em;padding-top:-10px 0;"} [&gt;]
 
 See [participate](/about/participate/) for many ways to support hygienic darkroom retreating.
 
-Donations: I appreciate them very much. I live simply, so even small amounts help while I refine my book.
+Donations: I appreciate them very much. I live simply. Even small amounts help while I bring out the 3rd edition. Methods:
 
 - PayPal: write me for address
 - Cryptocurrency (notify me of payment by email):

@@ -27,7 +27,7 @@ Hygiene's helplessness disappears with four changes:
 - recognizing darkness as the essential means nature provides us to heal from trauma
 - including a psychology based on these facts
 
-With these, hygienism becomes a complete system of health. It is capable of addressing every illness people face, physical and psychic. No one need suffer further the absurdities of medicine and other quasi-scientific systems. , rooted as they are in the mystical doctrine of original sin and practice of exorcism. 
+With these, hygienism becomes a complete system of health. It is capable of addressing every illness people face, physical and psychic. No one need suffer further the absurdities of medicine and other quasi-scientific systems, rooted as they are in the mystical doctrine of original sin and practice of exorcism. 
 
 The acid test of any science is its ability to predict events and thus cause or prevent them if desired. By healing from trauma, we not only end dysfunction and suffering. We prevent unconscious repetition of trauma through common disasters like car crashes, familial breakdown, and psychosomatic illness.
 
@@ -284,11 +284,11 @@ In light of the essence of hygiene, _conditional self-preservation_; the restful
 1. As organisms, we start out healthy, happy, and harmonious
 2. Early major psychic trauma from civilization's routine brutality leaves us damaged, malfunctioning, and suffering.
 3. The psyche, as an organic system, is self-healing, provided the proper conditions.
-4. The primary condition of healing is _rest_ due to the homeostasis, stillness, and accumulation of vital energy it makes possible.
-5. Profound psychic rest occurs physiologically in an extended period in absolutely dark environment.
-6. Therefore, by retreating in darkness, we gain relief, rest, and restoration to health, happiness, and harmony.
+4. The primary condition of healing is _rest_. This is due to the homeostasis, stillness, and accumulation of vital energy rest makes possible.
+5. Profound psychic rest occurs physiologically in an extended period in an absolutely dark environment.
+6. Therefore, by retreating in darkness, we gain relief, rest, and recovery of health, happiness, and harmony.
 
-Hygiene upholds basic findings of psychology from several traditions. Hygiene merely declines psychology's conscious over-involvement in the unconscious. The unconscious is competent to fix itself if minimally supported by the conscious. The conscious is otherwise helpless. We are correct in believing we have a problem and need to do something about it. We have been disastrously incorrect about which part of the self has to do it.[^7]
+Hygiene upholds basic findings of psychology from several traditions. Hygiene merely declines psychology's conscious over-involvement in the unconscious. The unconscious is competent to fix itself if minimally supported by the conscious. In fact, it is not a choice. The conscious is helpless to fix it. We are correct in believing we have a problem and need to do something about it. We have been disastrously incorrect about which part of the self has to do it.[^7]
 
 ##### fasting
 

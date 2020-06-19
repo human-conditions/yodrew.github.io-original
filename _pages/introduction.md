@@ -12,20 +12,22 @@ In civilization, we are:
 - exhausted. We need rest.
 - hurt and sick. We need recovery.
 
-How? By _hygienic darkroom retreating_: profound rest in total darkness for the self-healing organism. It is a rational method of switching off the world, with its noise and demands. One takes refuge in the deep self, supporting it in healing itself by itself. This book is a complete manual for understanding and doing it. 
+How? By _hygienic darkroom retreating_: profound rest for the self-healing organism. It is a rational method of switching off the world, with its noise and demands. One takes refuge in the deep self, supporting it in healing itself by itself. This book is a complete manual for understanding and doing it. 
 
 #### basics
 
 ##### how it works
 
 1. The psyche, as an organic system, is self-healing.
-2. The primary condition of healing is rest. 
-3. Profound psychic rest occurs in extended total darkness _as a physiological response_
+2. The primary condition of healing is profound rest. 
+3. The most profound psychic rest occurs in extended total darkness _as a physiological response_
 
-Because the process of healing is automatic, it is foolproof. The psyche needs darkness for rest like lungs need air for breathing and eyes need light for seeing. It knows no substitute. Healing happens involuntarily---by itself---when conditions of rest are sufficiently provided. This is fully developed in [*hygiene > secret*](/hygiene#secret) and contextualized in  
+Because the process of healing is automatic, it is foolproof. The psyche needs darkness for rest like lungs need air for breathing and eyes need light for seeing. It knows no substitute. Healing happens involuntarily---by itself---when we voluntarily provide ourselves sufficient conditions of rest. This is fully developed in [*hygiene > secret*](/hygiene#secret). It is contextualized in  
 [*psychology > hygienic psychology*](/psychology#hygienic-psychology).
 
-This book tells how to provide them, from abstract theory to concrete practice. Most importantly, it introduces the _hygienic attitude_. Merely knowing it opens the door to super-intensified healing, ie, miracles. When you are ready, you can walk through it. The book includes designs for darkroom components precise to the millimeter so even amateurs can get them right. It inspires you to heal and support others in healing by revealing what healing requires.
+Through abstract theory and concrete practice, this book tells how to provide all the conditions of rest in perfect proportion. Most importantly, it introduces the passive, hygienic _attitude_ toward healing. Merely knowing it opens the door to super-intensified healing, ie, miracles. When you are ready, you can walk through it. 
+
+The book reveals what healing requires detail. It inspires you to heal and to support others in doing so. It includes designs for darkroom components. Their precision enables even amateur craftsmen to get them right.
 
 ##### terminology
 
@@ -35,7 +37,7 @@ hygiene
 3&#46; hygienism; Natural Hygiene
 
 Natural Hygiene
-: the 185 year-old school of health that champions and exemplifies hygiene
+: the two-century-old school of health that exemplifies and champions hygiene
 
 normal
 : what is biologically appropriate (not merely usual or average)
@@ -48,14 +50,15 @@ psyche
         - feeling: perception / emotional / intuitive / heart / mammalian
         - thinking: conception / mental / intellectual / brain / rational
     - parts (used as both adjectives and nouns)
-		- unconscious: coordinates processes fundamental to existence like metabolism, cell division, and blood oxygen levels. It cannot become conscious or directly controlled except, to an insignificant degree, through intense yogic practices, techniques like hypnosis or biofeedback, or psychoactive substances. Synonyms: autonomic, involuntary
-		- subconscious: acquired automatized knowledge, which can be made conscious, like walking, emotional associations, cognizing words, and dreaming
-		- conscious: ordinary waking awareness, as when reading this book or running an errand. Primarily used to direct attention. Synonyms: will or volition
+        - unconscious: coordinates processes fundamental to existence like metabolism, cell division, and blood oxygen levels. It cannot become conscious or directly controlled except, to an insignificant degree, through intense yogic practices, techniques like hypnosis or biofeedback, or psychoactive substances. Synonyms: autonomic, involuntary
+        - subconscious: acquired automatized knowledge, which can be made conscious, like walking, emotional associations, cognizing words, and dreaming
+        - conscious: ordinary waking awareness, as when reading this book or running an errand. Primarily used to direct attention. Synonyms: will or volition
     - scales
-		- cells
-		- organs
-		- systems
-		- the organism as a whole
+        - cells
+        - tissue
+        - organs
+        - systems
+        - the organism as a whole
 
 psychic
 :	of or relating to the psyche in general (not occult powers).  
@@ -63,7 +66,9 @@ psychic
 
 lifeway
 :	a way of life; everything that happens with people in a given group in the course of living.  
-&nbsp; &nbsp; I once used the word, culture, for this. Then [John&nbsp;Zerzan](http://johnzerzan.net) explained to me that culture is recent: an aspect of civilization. I wanted a single word which would include all approaches to human existence. Lifeway is a compressed term common in anthropology.
+&nbsp; &nbsp; I once used the word, culture, for this. Then [John&nbsp;Zerzan](http://johnzerzan.net) explained to me that culture is recent: an aspect of civilization. I wanted a single word which would include all approaches to human existence. Lifeway is a compressed term for "way of life" common in anthropology.
+
+###### usage
 
 Here is a note on my use of words.
 
@@ -78,9 +83,9 @@ I consider this half the job of intellectuals and our audiences alike. The Oxfor
 To retreat, one needs three things: knowledge, materials, and support.
 
 - knowledge:
-    - of theory and practice of hygienic darkroom retreating
+    - of hygienic theory
+    - of practice of hygienic darkroom retreating
     - of hygienic attitude
-    - of oneself
 - materials 
         - darkroom
         - personal belongings
@@ -88,9 +93,9 @@ To retreat, one needs three things: knowledge, materials, and support.
         - time
 - support
     - hygiene is the basis on which sick people can help each other without making things worse
-    - our problem is collective and is solved with increasing degrees of cooperation as we become more capable of it
+    - our problem is social. It is solved with increasing degrees of cooperation as we become more capable of doing so
 
-Meet these requirements by reading this book, preparing for a retreat, and retreating. Your first retreats are just warm-ups. You will get better at it.
+Meet these requirements by reading this book, preparing for a retreat, and retreating. Your first retreats are gratifying warm-ups. You will get relief, sleep, and healing like you never thought possible. And you will get better at it. This prepares you for the ultra-effective medium and long retreats.
 
 ##### darkroom
 
@@ -104,7 +109,7 @@ Deluxe darkness adds extra features, comforts, and space. A dedicated darkroom i
 
 ##### nature
 
-Darkness is instinctive. We sleep in it at night and nap in shadows. We use our hands to cover our eyes when overwhelmed. We take longer refuge in caves and shelters when injured. We and many other animals always have. 
+Darkness is instinctive. We sleep in it at night and nap in shadows. We use our hands to cover our eyes when overwhelmed. When injured or sick, we take longer refuge in caves and shelters. We and many other animals always have. 
 
 Absolute darkness is natural. Our natural habitat is tropical forest. At night its floor is pitch black.
 
@@ -112,21 +117,25 @@ Absolute darkness is natural. Our natural habitat is tropical forest. At night i
 
 Spiritual traditions have used darkness for millennia. They tend to view it as the ultimate environment for self-discipline and gaining unusual knowledge. Egyptians and Maya have used it in pyramids; Christians in catacombs; Sufis and Taoists in caves; Tibetan Buddhists in cells of monasteries.
 
-Indigenous traditions do likewise: Amazonian shamanism uses darkness in ayahuasca ceremony. Welsh shamans and Navajo, Maya, and Kogi Indians alike build special dark structures, holding darkness in high regard as essential to self-discovery. 
+Indigenous traditions do likewise: Amazonian shamanism uses darkness in ayahuasca ceremony. Welsh shamans and Navajo, Maya, and Kogi Indians build special dark structures. They hold darkness in high regard as essential to self-discovery. They also use caves for healing. 
 
-Western science has studied sensory destimulation since the 1950s for astronautics, health, and mind-control. Ayurveda, India's ancient healing tradition, uses extended periods of darkness for rejuvenation. By [reports](/reports/365-day-retreat-of-150-year-old-yogi), it is nothing less than the fountain of youth.
+Western science has studied sensory destimulation since the 1950s for astronautics, health, and mind-control. Ayurveda, India's ancient healing tradition, uses extended periods of darkness for rejuvenation. By [reports](/reports/365-day-retreat-of-150-year-old-yogi), a darkroom retreat is nothing less than the fountain of youth.
 
-Unfortunately, the partially or completely active nature of these approaches to darkroom retreating compromises them. This means they depend on an active will, the faculty most in need of rest. Hygiene is passive, allowing the distressed will to finally rest and recover. Hygiene primarily depends on the autonomic self---omniscient, omnipotent, and infallible---to accomplish the work of healing. This removes structural conflict in the method, promising [limitless](/blog/2011/05/limitless) results. Hygiene completely secularizes the use of darkness for the specific purpose of healing. There is nothing mystical, disciplined, or complicated about this approach. It is rational, safe, and natural: a reliable miracle.
+Unfortunately, the partially or completely active nature of these approaches to darkroom retreating compromises them. This means they depend on an active will, the faculty most in need of rest. Hygiene is passive, allowing the distressed will to finally rest and recover. Hygiene primarily depends on the autonomic self---omniscient, omnipotent, and infallible---to accomplish the work of healing. This removes structural conflict in the method, promising [limitless](/blog/2011/05/limitless) results. 
+
+Hygiene completely secularizes the use of darkness for the specific purpose of healing. There is nothing mystical, disciplined, or complicated about this approach. It is rational, safe, and natural: a reliable miracle.
 
 ##### hygiene
 
-Hygiene is not just cleanliness, as medicine has led us to believe. Hygiene is broad and deep, dealing with all conditions of health. We know the word today because of _Natural Hygiene_, a radical school of natural health originating in America in 1832. It led the global natural health movement of the 19th century. Hygiene respects the self-preserving nature of life. It observes that organisms both maintain and recover health under normal conditions of life. So it studies organic self-preservation and how to provide its conditions.
+Medicine led us to believe hygiene is just cleanliness (see [hygiene > history](/hygiene#history). In fact, hygiene deals with all aspects of health. Any good dictionary proves this. Hygiene is broad and deep. 
 
-Normal conditions of life include fresh air, sunlight, natural food, and cleanliness by regular bathing. Hygiene taught the modern world their enormous benefits, significantly raising health standards worldwide. Its motto: "Health through healthful living". It has only lacked a psychology and an appreciation for trauma as the cause of all illness; this book begins to correct that.
+We know the word today because of _Natural Hygiene_. This is a radical school of natural health originating in America in 1832. It led the global natural health movement of the 19th century. Hygiene respects the self-preserving nature of life. It observes that organisms both maintain and recover health under normal conditions of life. So it studies organic self-preservation and how to provide its conditions.
 
-Hygiene identifies disease **_as_** the process of healing. Disease is the normal organic activity of self-repair, elimination, and re-energizing, but distressed by abnormal conditions. Thus, disease is not an invading entity to be fought. It is a beneficial process to support with healthy conditions and practices and to view as a set of clues to precisely guide this caregiving.
+Normal conditions of life include fresh air, sunlight, natural food, work, friendship, and cleanliness by regular bathing. Hygiene taught the modern world the enormous benefits of these simple, free, natural, pleasant influences. This significantly raised health standards worldwide. Its motto is "Health through healthful living". It has only lacked a psychology and an appreciation for trauma as the cause of all illness; this book corrects that.
 
-The fundamentals of hygiene help us reconnect with our own common sense about healing. They guide us past incorrect assumptions we likely have about it. Once you have these absolute basics down, you can learn the concrete details of a darkroom retreat and approach it with confidence. Moreover, hygiene provides guidance in all aspects of healthful living.
+Hygiene identifies disease **_as_** the process of healing. Disease is the normal organic activity of repair, elimination, and re-energizing, but distressed by abnormal conditions. Thus, disease is not an invading entity to be fought. It is a beneficial process to support by restoring healthy conditions and practices. It is a set of clues to precisely guide this caregiving.
+%%%%
+The fundamentals of hygiene help us reconnect with our own common sense about healing. They guide us past incorrect assumptions we likely have about it. First, learn these absolute basics. Then you can learn the concrete details of a darkroom retreat and approach it with confidence. Moreover, hygiene provides guidance in all aspects of healthful living.
 
 ##### people
 
