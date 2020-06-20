@@ -79,18 +79,19 @@ Below, the presale's unusual **terms** reward past supporters. The **menu** list
 |  2023 Aug | *neighborhood (12-50 people, ~30k each, 5% deposit)                        | 360000+ | 300000+ |
 |       TBA | *microfactory tooling kits to produce components at home                   |     TBD |         |
 
-*these designs are conceived but not yet prototyped or illustrated in my book
+*these designs are conceived but not yet prototyped 
+or illustrated in my book
 
-#### goal: $8400
+#### goal: $11,400
 
-Goal is staged up from a $2200 minimum. Stages reflect priorities. Costs include manufacturing, credit redemptions, expenses, and debts.
+Goal is staged from a minimum of $3000. A third of the income from each stage will pay for items. Two-thirds will pay costs: manufacturing, credit redemptions, debts, and expenses.
 
-| Stage | Item                                    | Price | Costs | Goals |
+| Stage | Item                                    | Amount | Goal |
 | -----:| ----------------------------------------| -----:| ----: | -----:|     
-|     1 | hygienic computer                       |  1000 |  1200 |  2200 |     
-|     2 | legal counsel for forming business      |  1000 |  1200 |  4400 |     
-|     3 | assembly drawings for book              |  1000 |  1200 |  6600 |     
-|     4 | copy editing, proofreading, book design |   800 |  1000 |  8400 |     
+|     1 | hygienic computer                       |   3000 |   3000 |     
+|     2 | legal counsel for forming business      |   3000 |   6000 |     
+|     3 | assembly drawings for book              |   3000 |   9000 |     
+|     4 | copy editing, proofreading, book design |   2400 |  11400 |     
 
 #### plan
 
