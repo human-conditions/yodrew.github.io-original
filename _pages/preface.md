@@ -15,9 +15,9 @@ This sense of psychic health stayed with me for months. But how, after a lifetim
 From hygiene, I vaguely remembered two principles:
 
 - the self-healing nature of life
+- rest as the primary condition of healing
 
-The onset of middle age daily exposed the organic nature of my psyche. One morning in a dream- rest as the primary condition of healing
-, these clues fused in a conception of _the restful use of darkness in support of the self-healing psyche_. 
+The onset of middle age daily exposed the organic nature of my psyche. One morning in a dream, these clues fused in a conception of _the restful use of darkness in support of the self-healing psyche_. 
 
 I began testing this idea in more darkroom retreats. As predicted, lethal psychic issues that had tortured me for a lifetime began resolving themselves spontaneously. In 11 years and 27 retreats, I have seen no sign of an end to this process---short of full recovery of psychophysical integrity.
 
