@@ -1,7 +1,7 @@
 ---
 title: presale
 layout: page
-permalink: presale
+permalink: /presale/
 ---
 
 <h4 id="intro">intro</h4>
