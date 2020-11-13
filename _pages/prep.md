@@ -1,16 +1,15 @@
-
 ---
 title: prep
-layout: page
 permalink: "/prep/"
+layout: page
 ---
 
 <!--
 
 ---
 title: presale
+permalink: "/presale/"
 layout: page
-permalink: presale
 ---
 
 cd storage/shared/Documents
