@@ -2,7 +2,7 @@
 ---
 title: prep
 layout: page
-permalink: /prep/
+permalink: "/prep/"
 ---
 
 <!--
