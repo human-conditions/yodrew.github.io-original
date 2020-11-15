@@ -339,17 +339,10 @@ nav {
     margin:0;
     }
 
-
-.man ul ul li:hover {
-    background: #333;
-    border-radius: 7px ;
-    }
-
 .man ul ul {
     display: none;
     position: absolute;
     top: 100%;
-    width: 160px;
     background-color: #181818;
     border-radius: 7px ;
     border: 1px solid #aaa;
@@ -374,6 +367,11 @@ nav {
     line-height: 25px;
     padding: 1px 10px 1px 5px;
     text-align: right;
+    border-radius: 7px ;
+    }
+
+.man ul ul li:hover {
+    background: #333;
     border-radius: 7px ;
     }
 
