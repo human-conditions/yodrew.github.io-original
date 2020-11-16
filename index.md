@@ -2,8 +2,6 @@
 layout: index
 ---
 
-back cover text:
-
 {% include blurb.md %}
 
 _continue reading online_{: style="font-size: .5em;padding-top:-10px 0;"} [&gt;](/dedication)
