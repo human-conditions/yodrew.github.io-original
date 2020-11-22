@@ -5,7 +5,6 @@ permalink: "/blog/2020/11/10/scene-intro/"
 layout: post
 published: true
 ---
-2020-11-10-scene-intro
 
 [Scene: Booth with sign that reads: "Volunteers wanted. Must be clever, practical, and a little hopeful. Major personal benefits."]
 
