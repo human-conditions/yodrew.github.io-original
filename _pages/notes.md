@@ -18,4 +18,4 @@ This book has links. On the web, they are colored. In the ebook and print, they 
 
 - web: [darkroomretreat.com](/) 
 - ebook (pdf, epub, mobi): [leanpub.com/darkroomretreat](http://leanpub.com/darkroomretreat)
-- plans: [darkroom-retreat.zip](http://darkroomretreat.com/darkroom-retreat.zip/)
+- plans: [darkroom-retreat.zip](/darkroom-retreat.zip/)
