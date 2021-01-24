@@ -19,7 +19,3 @@ This book has links. On the web, they are colored. In the ebook and print, they 
 - web: [darkroomretreat.com](http://darkroomretreat.com) 
 - ebook (pdf, epub, mobi): [leanpub.com/darkroomretreat](http://leanpub.com/darkroomretreat)
 - plans: [darkroom-retreat.zip](/darkroom-retreat.zip/)
-<<<<<<< HEAD
-=======
-
->>>>>>> 5a4f3ffd5bf81a4c46a9c80e622d2cc6270c8f9a
