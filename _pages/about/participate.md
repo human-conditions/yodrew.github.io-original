@@ -39,6 +39,6 @@ Likewise, I would like to work with you in any way to develop hygienic darkroom 
 
 - have read my book 
 - demonstrate understanding of its basic ideas
-- have done a retreat according to my protocol and are convinced of the value of my approach
+- have retreated according to my protocol and are convinced of the value of my approach
 
 Cheers.
