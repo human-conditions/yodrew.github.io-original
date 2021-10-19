@@ -28,11 +28,11 @@ If, for whatever reason, you wish to darken a room elsewhere, then sleep there t
 
 #### types
 
-There are private and public darkrooms. 
+There are basic and dedicated darkrooms. 
 
-A private darkroom is built to basic specifications in your bedroom. It is for nightly use and short retreats up to 4 days. Basic specifications are: security, reasonable quietness, perfect darkness, ample ventilation, and comfort, plus any others in the list below that you can manage. See _basic_ comments for clarification. For budget building tips, see [*format*](/format) and the _make_ chapters, [*make*](/make), [*air*](/air), [*darkness*](/darkness), and [*water*](/water), or write me after reading them.
+A basic darkroom is built to basic specifications below, probably in your bedroom. It is for nightly use and short retreats up to 4 days. Basic specifications are: security, reasonable quietness, perfect darkness, ample ventilation, and comfort, plus any others in the list below that you can manage. See _basic_ comments for clarification. For budget building tips, see [*format*](/format) and the _make_ chapters, [*make*](/make), [*air*](/air), [*darkness*](/darkness), and [*water*](/water), or write me after reading them.
 
-A public dedicated darkroom is built to full specifications below in a small house in a quiet location. It is for all kinds of people for retreats of any length, short (up to 8 days), medium (up to two months), and long (up to a year). It requires all the specifications below. If it is your first darkroom, start with a fully functional house. This means it has automated heating, running hot water, mechanical ventilation, and electricity. Later, when you know more, you can build something new.
+A dedicated darkroom is built to full specifications below in a small house in a quiet location. It is for all kinds of people for retreats of any length, short (up to 8 days), medium (3-8 weeks), and long (3-12 months). It requires all the specifications below. If it is your first darkroom, start with a fully functional house. This means it has automated heating, running hot water, mechanical ventilation, and electricity. Later, when you know more, you can build something new.
 
 #### standards
 
@@ -183,7 +183,7 @@ How tiresome to find we live in voluntary prisons. What is to be done?
 
 The problem solves itself. We simply turn our prisons into escape pods. After all, we do need to stop moving around. We are sick. We are slaves. We need to rest, to recover ourselves, to reset our relationship to the world. Conscious of the immobilizing influence of these boxes, these cells, we can turn it to our advantage. We use it to stop. But not halfway, like beasts pacing restlessly in a cage. We stop fully, more and faster than anyone expected, without the slightest concession to the demand to constantly be busy. We can even say this is what our buildings were always for.
 
-So rectilinear buildings are not just acceptable, but perfectly suitable for short retreats. We begin to remedy them by an art of placement: feng shui, vastuveda, wabi sabi, or [ordo](/other-writings/ordo). This may render them suitable for medium-length retreats. If not, and certainly for long retreats and public darkrooms, we replace, vacate, and dismantle them. We burn or bury their materials or purify them through re-use in round buildings. 
+So rectilinear buildings are not just acceptable, but perfectly suitable for short retreats. We begin to remedy them by an art of placement: feng shui, vastuveda, wabi sabi, or [ordo](/other-writings/ordo). This may render them suitable for medium-length retreats. If not, and certainly for long retreats, we replace, vacate, and dismantle them. We burn or bury their materials or purify them through re-use in round buildings. 
 
 A good building for the long-term is curved, round, or has five or more sides of equal length joined at equal angles. Rectangular walls are fine. So are right angles where floors meet walls. But not where walls meet ceilings or each other, as in orthogonal floor plans.
 
