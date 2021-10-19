@@ -19,7 +19,7 @@ _continue reading online_{: style="font-size: .5em;padding-top:-10px 0;"} [&gt;]
 <!-- Begin Mailchimp Signup Form -->
 <link href="//cdn-images.mailchimp.com/embedcode/classic-10_7.css" rel="stylesheet" type="text/css">
 <style type="text/css">
-	#mc_embed_signup{background:#fff; clear:left; font:14px Helvetica,Arial,sans-serif; }
+	#mc_embed_signup{background:#111; clear:left; font:14px Helvetica,Arial,sans-serif; font-color:white; }
 	/* Add your own Mailchimp form style overrides in your site stylesheet or in this style block.
 	   We recommend moving this block and the preceding CSS link to the HEAD of your HTML file. */
 </style>
@@ -51,7 +51,7 @@ Donations: I appreciate them very much. I live simply. Even small amounts help. 
 
 - PayPal
 <form action="https://www.paypal.com/donate" method="post" target="_top">
-<input type="hidden" name="hosted_button_id" value="68W2TM2G8CS78" />
+<input type="hidden" name="hosted_button_id" value="H4VB6CXKN6Y66" />
 <input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_donate_LG.gif" border="0" name="submit" title="PayPal - The safer, easier way to pay online!" alt="Donate with PayPal button" />
 <img alt="" border="0" src="https://www.paypal.com/en_US/i/scr/pixel.gif" width="1" height="1" />
 </form>
@@ -64,11 +64,3 @@ Donations: I appreciate them very much. I live simply. Even small amounts help. 
 - Snailmail, bank transfer, or deposit: email me about how to use these methods. Include your location.
 
 <p style="text-align: center;margin:80px 0 0 30px"><a href="https://leanpub.com/darkroomretreat"><img src="/img/book-cover.png" label="cover image" width="50%" title="buy now" class="cover" style="padding:0"></a>
-
-<!--    <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
-       <input name="cmd" value="_s-xclick" type="hidden">
-       <input name="hosted_button_id" value="N42QEX8Y2YZTC" type="hidden">
-       <input src="https://www.paypalobjects.com/en_US/i/btn/btn_donate_SM.gif" name="submit" alt="Click here to donate with PayPal" border="0" type="image">
-       <img alt="" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" border="0" height="1" width="1" style="padding:0">
-    </form>
--->
