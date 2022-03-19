@@ -22,6 +22,8 @@ A hygienic house, suitable for living and retreating
 
 #### budget
 
+Notes below.
+
 |ITEM|TYPE|ELEMENT|COMPONENT|PART|MATERIAL|SIZE mm|AMT mm|AMT ft|UNIT ft|QUANTITY|COST/UNIT|TOTAL|GUESS|NOTES|
 | ---:| --- | --- | --- | --- | --- | ---:| ---:| ---:| ---:| ---:| ---:| ---:| ---:| --- |
 |1|opening|roof|skylight|exterior conic|lexan|2|920x920|3 x 3|1^2|9^2|8.2|74|| * |
@@ -112,7 +114,6 @@ A hygienic house, suitable for living and retreating
 |114|foundation| * |tripod anchor|pod|rebar/cold|12x1200|6 * 3 * 1200 =21600 |71|20'|3.55|21.75|77.21||weld collars or crossbars near tops to fix wire to. Sharpen bottom ends. Harden?|
 |201|furniture|bathroom|shower|curtain|||||||||5| * |
 |202|furniture|bathroom|shower|pan|galvanized steel|29GA|1220 x 1320||3200|0.4125|46.8|19.31||"90 x 100, 15 wall, 1 fold, Franklin / Pacific:""26 GA galv steel|92.3|4x10
-24 GA galv steel|115.81"""|
 |203|furniture|bathroom|shower|plumbing|||||||||20| * |
 |204|furniture|bathroom|toilet|bucket|||||||||5| * |
 |205|furniture|bathroom|toilet|Wood / Mgo|||||||||15| * |
@@ -171,3 +172,22 @@ A hygienic house, suitable for living and retreating
 ||||||||||||SUM items 200-399|49.31|1625|1674.31|
 ||||||||||||TOTALS top down|2625.24|1963|4588.24|
 |||||
+
+This is phase 1 of the budget. I found prices on nearly all main materials. Prices for many minor materials are still guesses. The table shows which is which. 
+
+I made the guesses a week ago. Some of them were way off. But the total came in close to what I guessed it would be ($60 under). So I expect the final budget to be close to the current amount, too.
+
+All the prices are for new materials except door and window  hardware. Hinges and latches are cheap and plentiful at Habitat for Humanity ReStore. There is also opportunity in the design for economizing with used and found materials.
+
+I will improve the budget spreadsheet, Some materials repeat on different lines. They need to be totaled somehow. I will also make the spreadsheet downloadable so you can sort it however you like.
+
+The drawing is nice, of course. But there will be lots of invention as I build. Some of the budget is impossible to figure out until then, too.
+
+I would like to prototype the house this summer and make more by winter. Then folks can retreat in them instead of renting (in Oregon). All you have to do is find a place they can go up for a few months. Inside barns, garages, sheds, warehouses, workshops, etc would be convenient until we can get the legal aspect of this settled. At least in a thick stand of trees.
+
+One bottleneck is the 10 week wait for the magnesium oxide board. The sooner that order is placed, the sooner the building can take shape. However, some things can be fabricated beforehand, as well.
+
+If you want to talk to me about any of this, [write or call](/about) for phone appointment.
+
+Cheers,  
+Andrew
