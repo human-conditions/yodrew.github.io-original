@@ -11,7 +11,7 @@ A hygienic house, suitable for living and retreating
 ![plan: conic](/img/plan/image/conic.png)  
 
 - left-click image to download  
-- [zoom in on mobile](/img/plan/image/conic.png)
+- [image for mobile](/img/plan/image/conic.png)
 - download [source file](/img/plan/source/conic.svg) for editing. I use Inkscape.
 
 <!---
