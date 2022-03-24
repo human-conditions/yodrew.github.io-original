@@ -12,6 +12,12 @@ A hygienic house, suitable for living and retreating
 - view [larger image](/img/plan/image/conic.png)
 - download [source file](/img/plan/source/conic.svg) for editing. I use Inkscape.
 
+SVG:
+
+![source file](/img/plan/source/conic.svg)
+
+PNG:
+
 ![plan: conic](/img/plan/image/conic.png)
 
 #### budget
