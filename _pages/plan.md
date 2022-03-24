@@ -170,9 +170,9 @@ Read table below. Download [spreadsheet file](/img/plan/source/conicbudget.xlsx)
 ||||||||||||||||||
 ||TOTALS $USD||||||||||||||||
 ||||||||||||||||||
-||MAIN|Known|Guessed|TOTALS|||ENVELOPE||||||||||
+||MAIN|Known|Guessed|TOTALS|||SHELL||||||||||
 ||Labor|2210|0|2210|||MgO|1583|||||||||
-||Envelope|3071|205|3276|||finish|307|||||||||
+||Shell|3071|205|3276|||finish|307|||||||||
 ||Utility, Furniture|117|1444|1561|||fasteners|112|||||||||
 ||TOTALS|5398|1649|7047|||insulation|235|||||||||
 ||||||||windows|410|||||||||
