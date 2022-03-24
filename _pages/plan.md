@@ -8,15 +8,11 @@ navnext: make
 
 A hygienic house, suitable for living and retreating
 
-![plan: conic](/img/plan/image/conic.png)  
-
 - view [image for mobile](/img/plan/image/conic.png)
 - left-click image to download  
 - download [source file](/img/plan/source/conic.svg) for editing. I use Inkscape.
 
-<!---
-[![plan: toilet frame](/img/plan/image/toilet-frame.png)](/img/plan/toilet-frame.pdf)
---->
+![plan: conic](/img/plan/image/conic.png)
 
 #### budget
 
