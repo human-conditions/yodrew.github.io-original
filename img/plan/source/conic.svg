@@ -17,8 +17,8 @@
    inkscape:version="0.92.5 (2060ec1f9f, 2020-04-08)"
    sodipodi:docname="conic.svg"
    inkscape:export-filename="/home/hill/Boox/Documents/darkness/yodrew.github.io/img/plan/image/conic.png"
-   inkscape:export-xdpi="72"
-   inkscape:export-ydpi="72"
+   inkscape:export-xdpi="83.994705"
+   inkscape:export-ydpi="83.994705"
    style="enable-background:new">
   <defs
      id="defs2">
@@ -963,11 +963,11 @@
      borderopacity="1.0"
      inkscape:pageopacity="1"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.067766737"
-     inkscape:cx="2798.6167"
-     inkscape:cy="4380.9049"
+     inkscape:zoom="0.056946837"
+     inkscape:cx="5679.0014"
+     inkscape:cy="4596.3776"
      inkscape:document-units="mm"
-     inkscape:current-layer="g10645"
+     inkscape:current-layer="layer29"
      showgrid="false"
      inkscape:window-width="1366"
      inkscape:window-height="711"
@@ -976,7 +976,7 @@
      inkscape:window-maximized="1"
      units="mm"
      inkscape:showpageshadow="false"
-     inkscape:pagecheckerboard="false"
+     inkscape:pagecheckerboard="true"
      showborder="false"
      fit-margin-top="0"
      fit-margin-left="0"
@@ -994,16 +994,16 @@
      inkscape:snap-object-midpoints="true"
      inkscape:snap-smooth-nodes="false"
      inkscape:snap-intersection-paths="true"
-     inkscape:bbox-paths="false"
-     inkscape:bbox-nodes="false"
-     inkscape:snap-bbox-edge-midpoints="true"
-     inkscape:snap-bbox-midpoints="true"
+     inkscape:bbox-paths="true"
+     inkscape:bbox-nodes="true"
+     inkscape:snap-bbox-edge-midpoints="false"
+     inkscape:snap-bbox-midpoints="false"
      inkscape:snap-midpoints="false"
      inkscape:snap-center="true"
      inkscape:snap-text-baseline="false"
      inkscape:snap-to-guides="true"
      inkscape:snap-grids="true"
-     inkscape:snap-nodes="true"
+     inkscape:snap-nodes="false"
      inkscape:snap-page="false"
      inkscape:lockguides="false">
     <inkscape:grid
@@ -1143,7 +1143,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -1151,17 +1151,37 @@
      inkscape:groupmode="layer"
      id="layer20"
      inkscape:label="background"
-     style="display:none;opacity:0.756"
-     sodipodi:insensitive="true">
-    <rect
-       style="opacity:1;vector-effect:none;fill:#ef954d;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.19999999;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:14.28482914;stroke-opacity:1"
-       id="rect2971"
-       width="10400"
-       height="7600"
-       x="-4600"
-       y="-2552.0002"
-       rx="2.109425e-15"
-       ry="2.1094248e-15" />
+     style="display:inline;opacity:0.756">
+    <g
+       inkscape:groupmode="layer"
+       id="layer30"
+       inkscape:label="peach"
+       style="display:inline">
+      <rect
+         style="display:inline;opacity:1;vector-effect:none;fill:#ef954d;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.19999999;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:14.28482914;stroke-opacity:1;enable-background:new"
+         id="rect2971"
+         width="10400"
+         height="7600"
+         x="-4600"
+         y="-2552.0002"
+         rx="2.109425e-15"
+         ry="2.1094248e-15" />
+    </g>
+    <g
+       inkscape:groupmode="layer"
+       id="layer29"
+       inkscape:label="white"
+       style="display:inline">
+      <rect
+         ry="2.1094248e-15"
+         rx="2.109425e-15"
+         y="-9.9999495"
+         x="-10"
+         height="2268"
+         width="1130"
+         id="rect1971"
+         style="display:inline;opacity:1;vector-effect:none;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.19999999;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:14.28482914;stroke-opacity:1;enable-background:new" />
+    </g>
   </g>
   <g
      inkscape:groupmode="layer"
@@ -6060,13 +6080,13 @@
          inkscape:label="outdoor"
          style="display:inline;opacity:1">
         <path
-           d="M 686.19738,596.56108 A 190,190 0 0 1 480.48893,746.01702 190,190 0 0 1 310.34933,557.05786 190,190 0 0 1 480.48893,368.0987 190,190 0 0 1 686.19738,517.55464"
+           d="M 686.19802,597.56108 A 190,190 0 0 1 480.48957,747.01702 190,190 0 0 1 310.34998,558.05786 190,190 0 0 1 480.48957,369.0987 190,190 0 0 1 686.19802,518.55464"
            sodipodi:end="6.0737458"
            sodipodi:start="0.20943951"
            sodipodi:ry="190"
            sodipodi:rx="190"
-           sodipodi:cy="557.05786"
-           sodipodi:cx="500.34933"
+           sodipodi:cy="558.05786"
+           sodipodi:cx="500.34998"
            sodipodi:type="arc"
            style="display:inline;opacity:0.35;vector-effect:none;fill:none;fill-opacity:1;stroke:#38b900;stroke-width:320;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:3.77953005;stroke-opacity:1;enable-background:new"
            id="path9749"
@@ -7562,60 +7582,60 @@
          id="tspan6617" /></text>
     <text
        xml:space="preserve"
-       style="font-size:9.87777805px;line-height:1.25;letter-spacing:0px;word-spacing:0px;display:inline;opacity:1;vector-effect:none;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;filter:url(#filter2534);enable-background:new"
-       x="449.09918"
-       y="630.17877"
+       style="font-size:9.87777805px;line-height:100%;letter-spacing:0px;word-spacing:0px;display:inline;opacity:1;vector-effect:none;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;filter:url(#filter2534);enable-background:new"
+       x="445.09918"
+       y="633.17877"
        id="text376"
        inkscape:export-xdpi="71.973366"
        inkscape:export-ydpi="71.973366"><tspan
          sodipodi:role="line"
          id="tspan374"
-         x="449.09918"
-         y="630.17877"
-         style="font-weight:bold;stroke-width:0.2">roof/ceiling panel</tspan><tspan
+         x="445.09918"
+         y="633.17877"
+         style="font-weight:bold;line-height:89.99999762%;stroke-width:0.2">roof/ceiling panel</tspan><tspan
          sodipodi:role="line"
-         x="449.09918"
-         y="642.526"
-         style="stroke-width:0.2"
+         x="445.09918"
+         y="643.05658"
+         style="line-height:89.99999762%;stroke-width:0.2"
          id="tspan1229">board: 1220 x 1220</tspan><tspan
          sodipodi:role="line"
-         x="449.09918"
-         y="654.87323"
+         x="445.09918"
+         y="652.93433"
          style="stroke-width:0.2"
          id="tspan17817">  2 corners beveled</tspan><tspan
          sodipodi:role="line"
-         x="449.09918"
-         y="667.22046"
-         style="stroke-width:0.2"
+         x="445.09918"
+         y="662.81213"
+         style="line-height:89.99999762%;stroke-width:0.2"
          id="tspan17785">holes:  5</tspan><tspan
          sodipodi:role="line"
-         x="449.09918"
-         y="679.56769"
-         style="stroke-width:0.2"
+         x="445.09918"
+         y="672.68988"
+         style="line-height:89.99999762%;stroke-width:0.2"
          id="tspan8332">mm</tspan><tspan
          sodipodi:role="line"
-         x="449.09918"
-         y="691.91486"
-         style="stroke-width:0.2"
+         x="445.09918"
+         y="682.56769"
+         style="line-height:89.99999762%;stroke-width:0.2"
          id="tspan17815">  6 per edge</tspan><tspan
          sodipodi:role="line"
-         x="449.09918"
-         y="704.26208"
-         style="stroke-width:0.2"
+         x="445.09918"
+         y="692.44543"
+         style="line-height:89.99999762%;stroke-width:0.2"
          id="tspan17803">  230 apart</tspan><tspan
          sodipodi:role="line"
-         x="449.09918"
-         y="716.60931"
-         style="stroke-width:0.2"
+         x="445.09918"
+         y="702.32324"
+         style="line-height:89.99999762%;stroke-width:0.2"
          id="tspan17809">  35 from edges, OC</tspan><tspan
          sodipodi:role="line"
-         x="449.09918"
-         y="728.95654"
-         style="stroke-width:0.2"
+         x="445.09918"
+         y="712.20099"
+         style="line-height:89.99999762%;stroke-width:0.2"
          id="tspan17821">screws, washers, nuts</tspan><tspan
          sodipodi:role="line"
-         x="449.09918"
-         y="741.30377"
+         x="445.09918"
+         y="722.0788"
          id="tspan1231" /></text>
     <text
        xml:space="preserve"
@@ -7745,7 +7765,7 @@
          y="886.02972"
          x="499.34317"
          sodipodi:role="line"
-         id="tspan20782">outdoor roof</tspan></text>
+         id="tspan20782">optional eave</tspan></text>
     <text
        inkscape:export-ydpi="71.973366"
        inkscape:export-xdpi="71.973366"
@@ -7951,7 +7971,8 @@
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.28888893px;font-family:sans-serif;-inkscape-font-specification:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;opacity:1;vector-effect:none;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        xml:space="preserve"
        inkscape:export-xdpi="71.973366"
-       inkscape:export-ydpi="71.973366"><tspan
+       inkscape:export-ydpi="71.973366"
+       inkscape:export-filename="/home/hill/Boox/Documents/darkness/yodrew.github.io/img/plan/image/text1985.png"><tspan
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.28888893px;font-family:sans-serif;-inkscape-font-specification:sans-serif;stroke-width:0.2"
          y="1912.0684"
          x="9.6260347"
@@ -7986,7 +8007,7 @@
          y="1996.735"
          x="9.6260347"
          sodipodi:role="line"
-         id="tspan2995">v2022.03.19  03:14 UTC</tspan></text>
+         id="tspan2995">v2022.03.24  08:04 UTC</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333311px;line-height:89.99999762%;font-family:sans-serif;-inkscape-font-specification:sans-serif;letter-spacing:0px;word-spacing:0px;opacity:1;vector-effect:none;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
@@ -8065,50 +8086,65 @@
     <text
        id="text1915"
        y="1331.0991"
-       x="79.806587"
+       x="80.655685"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.58333302px;line-height:89.99999762%;font-family:sans-serif;-inkscape-font-specification:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;opacity:1;vector-effect:none;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;filter:url(#filter2534);enable-background:new"
        xml:space="preserve"><tspan
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:sans-serif;stroke-width:0.2"
          y="1331.0991"
-         x="79.806587"
+         x="80.655685"
          id="tspan1911"
          sodipodi:role="line">door</tspan><tspan
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:sans-serif;stroke-width:0.2"
          y="1340.6241"
-         x="79.806587"
+         x="80.655685"
          sodipodi:role="line"
          id="tspan1932">610 x 1940</tspan><tspan
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:sans-serif;stroke-width:0.2"
          y="1350.1492"
-         x="79.806587"
+         x="80.655685"
          sodipodi:role="line"
          id="tspan1961" /><tspan
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:sans-serif;stroke-width:0.2"
          y="1359.6741"
-         x="79.806587"
+         x="80.655685"
+         sodipodi:role="line"
+         id="tspan1959" /><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:sans-serif;stroke-width:0.2"
+         y="1369.1991"
+         x="80.655685"
+         sodipodi:role="line"
+         id="tspan1962" /><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:sans-serif;stroke-width:0.2"
+         y="1378.7241"
+         x="80.655685"
          sodipodi:role="line"
          id="tspan1963">window</tspan><tspan
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:sans-serif;stroke-width:0.2"
-         y="1369.1991"
-         x="79.806587"
+         y="1388.2491"
+         x="80.655685"
          sodipodi:role="line"
          id="tspan1978">460 x 1620</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.58333302px;line-height:89.99999762%;font-family:sans-serif;-inkscape-font-specification:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;opacity:1;vector-effect:none;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;filter:url(#filter2534);enable-background:new"
-       x="9.8065872"
-       y="1331.0991"
+       x="10.516156"
+       y="1343.0991"
        id="text3652"><tspan
          sodipodi:role="line"
-         x="9.8065872"
-         y="1331.0991"
+         x="10.516156"
+         y="1343.0991"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:sans-serif;stroke-width:0.2"
-         id="tspan3662">double door</tspan><tspan
-         id="tspan3649"
+         id="tspan2006">double</tspan><tspan
          sodipodi:role="line"
-         x="9.8065872"
-         y="1340.6241"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:sans-serif;stroke-width:0.2">610 x 1940</tspan></text>
+         x="10.516156"
+         y="1352.6241"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:sans-serif;stroke-width:0.2"
+         id="tspan2010">door</tspan><tspan
+         sodipodi:role="line"
+         x="10.516156"
+         y="1362.1492"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:sans-serif;stroke-width:0.2"
+         id="tspan1983">610 x 1940</tspan></text>
   </g>
   <g
      inkscape:groupmode="layer"
