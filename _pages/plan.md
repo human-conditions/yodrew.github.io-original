@@ -16,7 +16,8 @@ A hygienic house, suitable for living and retreating
 
 #### budget
 
-Read table below. Download [spreadsheet file](/img/plan/source/conicbudget.xlsx)
+- read table below
+- download [spreadsheet file](/_includes/conicbudget.xlsx)
 
 |ITEM|TYPE|ELEMENT|COMPONENT|PART|MATERIAL|SIZE mm|AMT mm|AMT ft|UNIT ft|QUANTITY|COST/UNIT|TOTAL|GUESS|NOTES|||
 |---:| --- | --- | --- | --- | --- | ---:| ---:| ---:| ---:| ---:| ---:|---:| ---:| --- |||
