@@ -15,7 +15,7 @@
    version="1.1"
    id="svg8"
    inkscape:version="0.92.5 (2060ec1f9f, 2020-04-08)"
-   sodipodi:docname="conici.svg"
+   sodipodi:docname="conic.svg"
    inkscape:export-filename="/home/hill/Boox/Documents/darkness/yodrew.github.io/img/plan/image/conic.png"
    inkscape:export-xdpi="83.994705"
    inkscape:export-ydpi="83.994705"
@@ -965,7 +965,7 @@
      inkscape:pageshadow="2"
      inkscape:zoom="0.11419773"
      inkscape:cx="2224.7522"
-     inkscape:cy="4350.411"
+     inkscape:cy="5057.3308"
      inkscape:document-units="mm"
      inkscape:current-layer="layer8"
      showgrid="false"
@@ -1143,7 +1143,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
