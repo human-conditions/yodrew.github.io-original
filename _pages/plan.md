@@ -9,9 +9,9 @@ navnext: make
 A hygienic house, suitable for living and retreating
 
 - left-click images to 
-	- open in new tab to zoom in more
+	- open in new tab and zoom in more
 	- download
-- download [source file](/img/plan/source/conic.svg) for editing. I use Inkscape.
+- download [SVG source file](/img/plan/source/conic.svg) for editing. I use Inkscape.
 
 ![plan: conic roof](/img/plan/image/conicroof.png)
 
@@ -21,9 +21,8 @@ A hygienic house, suitable for living and retreating
 
 #### budget
 
-Read here or  
-[download spreadsheet file](/img/plan/source/conicbudget.xlsx)  
-See notes below table.
+- see notes below table
+- download [XLSX spreadsheet](/img/plan/source/conicbudget.xlsx)  
 
 |ITEM|TYPE|ELEMENT|COMPONENT|PART|MATERIAL|SIZE mm|AMT mm|AMT ft|UNIT ft|QUANTITY|COST/UNIT|TOTAL|GUESS|NOTES|||
 |---:| --- | --- | --- | --- | --- | ---:| ---:| ---:| ---:| ---:| ---:|---:| ---:| --- |||
