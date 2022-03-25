@@ -8,17 +8,10 @@ navnext: make
 
 A hygienic house, suitable for living and retreating
 
-- left-click image to download  
-- view [larger image](/img/plan/image/conic.png)
-- download [source file](/img/plan/source/conic.svg) for editing. I use Inkscape.
+- zoom in and out for details and text
+- left-click image to download. It is also the [SVG source file](/img/plan/source/conic.svg) for editing. I used Inkscape.
 
-SVG:
-
-![source file](/img/plan/source/conic.svg)
-
-PNG:
-
-![plan: conic](/img/plan/image/conic.png)
+![plan: conic](/img/plan/source/conic.svg)
 
 #### budget
 
