@@ -19,7 +19,7 @@ A hygienic house, suitable for living and retreating
 
 ![plan: conic elevation](/img/plan/image/conicelevation.png)
 
-The following photo shows a small short comic Hut I built in 2008. Gives a general idea of the shape and construction method. The roof pitch is steeper than the drawing
+The following photo shows a small short conic hut I built in 2008. It gives a general idea of the shape and construction method. The roof pitch is steeper than in the drawing.
 
 ![photo: conic hut](/img/photo/conichut.jpg)
 
