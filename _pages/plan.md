@@ -8,23 +8,28 @@ navnext: make
 
 A hygienic house, suitable for living and retreating
 
-- See [larger version](/img/plan/source/conic.svg) for all details and text
-- left-click image to download. It is the SVG source file for editing. I used Inkscape.
+- left-click images to 
+	- open in new tab for better zooming
+	- download
+- download [source file](/img/plan/source/conic.svg) for editing. I used Inkscape.
 
-![plan: conic](/img/plan/source/conic.svg)
+![plan: conic](/img/plan/image/conicroof.png)
+
+![plan: conic](/img/plan/image/conicplan.png)
+
+![plan: conic](/img/plan/image/conicelevation.png)
 
 #### budget
 
-- read table below
-- download [spreadsheet file](/_includes/conicbudget.xlsx)
+Read below or download [spreadsheet file](/img/plan/source/conicbudget.xlsx)
 
 |ITEM|TYPE|ELEMENT|COMPONENT|PART|MATERIAL|SIZE mm|AMT mm|AMT ft|UNIT ft|QUANTITY|COST/UNIT|TOTAL|GUESS|NOTES|||
 |---:| --- | --- | --- | --- | --- | ---:| ---:| ---:| ---:| ---:| ---:|---:| ---:| --- |||
-|1|support|information|G Swanson|consultation|knowledge| - |3 hrs| - |1 hour|3|200|600.00|||||
-|2|support|information|baubiologie|E-book|Breathing Walls| - | - | - |1 file|1|30|30.00|||||
-|3|support|information|C Henderson|consultation|license| - |?| - |1 license|1|100|100.00|||||
-|4|support|labor|A Durham| - |Room & board| - | - | - |1 day|10|60|600.00|||||
-|5|support|retreat|food| - | - | - | - | - |1 day|88|10|880.00|||||
+|1|condition|information|George Swanson|consultation|knowledge| - |3 hrs| - |1 hour|3|200|600.00|||||
+|2|condition|information|Breathing Walls|Building Biology|E-book| - | - | - |1 file|1|30|30.00|||||
+|3|condition|information|Chuck Henderson|consultation|license| - |?| - |1 license|1|100|100.00|||||
+|4|condition|labor|Andrew Durham|Designer, builder|Room & board| - | - | - |1 day|10|60|600.00|||||
+|6|condition|tools| - | - | - | - | - | - | - |5|20|100.00|||||
 |10|opening|roof|skylight|exterior conic|lexan|2|920x920|3 x 3|1^2|9|8.2|73.80|| - |||
 |11|opening|roof|skylight|skylight tube|?| - |1445 x 500h|"57"" x 20"" "|||||40.00|460 dia, MgO/paper/lexan|||
 |21|envelope|roof|roofing|peak vent|corrugated plastic|20|2680|"106"""|1|9|||45.00|(92&52) * 4 - 20|||
@@ -40,7 +45,7 @@ A hygienic house, suitable for living and retreating
 |33|envelope|roof|eave|board|MgO|10|14 @ 1220^2|14 @ 4^2|4 x 8|7|30|||OPTIONAL|210.00||
 |34|envelope|roof|eave|bolt|zinc|5x40| - | - |0.0145# @2.89|160|0.0419|||OPTIONAL|6.70||
 |35|envelope|roof|eave|washer|zinc|5x30| - | - |0.0155# @2.90|320|0.0448|||OPTIONAL|14.34||
-|36|envelope|roof|eave|nut|zinc|5| - | - |0.0025# @2.89|160|0.0072|||OPTIONAL|1.15|288.442 |
+|36|envelope|roof|eave|nut|zinc|5| - | - |0.0025# @2.89|160|0.0072|||OPTIONAL|1.15|288.442|
 |40|envelope|roof|fill|air seal|cardboard|4|1432 x 15| - | - |20|0|||456 dia|0.00||
 |41|envelope|roof|fill|air barrier|X Paper|paper|17.75m^2|191^2|roll 300^2|0.64|19|12.16|| - |||
 |42|envelope|roof|fill|insulation|cellulose| - |3.64m^3|128.55^3|15.625^3|8.23|9.4|77.36||cellulose, straw, wood shavings, wood or cloth fiber|||
@@ -74,7 +79,7 @@ A hygienic house, suitable for living and retreating
 |85|envelope|wall|interior|clips|steel|3x25x40x40|106*80=8480|"1/8""x1""x28"|20|1.4|10.81|15.13||ceiling & floor|||
 |86|envelope|wall|interior|nut|zinc|5| - | - |0.0025# @2.89|183|0.004335|0.79||17*11-4|||
 |87|envelope|wall|interior|compression ring|twine|PP3|124m|406|20000|0.0203|25|0.51|||||
-|90|opening|door|exterior|body|MgO|10|2 * 61 x 194||4 x 8|1|30|30.00|| - |||
+|90|opening|door|exterior|body|MgO|10|2 * 61 x 194| |4 x 8|1|30|30.00|| - |||
 |91|opening|door|exterior|handles, latch, bolt|metal|lever type| - | - | - |1|1|1.00|| - |||
 |92|opening|door|exterior|hinges|metal|100 x 40 | - | - | - |4|0.25|1.00|| - |||
 |93|opening|door|exterior|shutter hardware|metal| - ||1||1|5|5.00|| - |||
@@ -82,7 +87,7 @@ A hygienic house, suitable for living and retreating
 |95|opening|door|exterior|opening|MgO|10|2*610 x 1960|3 x 8|4 x 8|1|30|30.00||2*30 x 194+61|||
 |100|opening|double door|interior|hardware|metal|||||1|5|5.00|||||
 |101|opening|double door|interior|slot hardware|metal|||||1|5|5.00|||||
-|103|opening|double door|interior|body|MgO|10|2*610 x 1960|4 x 8|4 x 8|1|30|30.00||MgO total +6, 19mm & 7, 3mm ?|||
+|103|opening|double door|interior|body|MgO|10|2*610 x 1960|4 x 8|4 x 8|1|30|30.00||MgO total:  +6, 19mm & 7, 3mm ?|||
 |110|opening|window|exterior|frame|MgO/wood?|10/?|||||||20.00|full-length in wall, facing south |||
 |111|opening|window|exterior|opening|MgO|10|2 * 30x162/122|3 x 8|4 x 8|1|30|30.00|||||
 |112|opening|window|exterior|insulated glass unit|3/16 glass|52 x 81 x 25| - |20 x 32 x 1| - |4|70|280.00||4-5 glass, 20 unit|||
@@ -90,7 +95,7 @@ A hygienic house, suitable for living and retreating
 |121|envelope|floor|panel|finish|silicate primer| - |15.2m^2|164^2|2 gal/300^2|0.55|25|13.75|| - |||
 |122|envelope|floor|panel|board|MgO|19|11 @ 1220^2|11 @ 4^2|4 x 8|6|45|270.00||r220|||
 |123|envelope|floor|frame|screw|zinc|4x75| - | - |0.009804# @$5|104|0.0489|5.09|| - |||
-|124|envelope|floor|frame|joist|wood|"2"" x 4"""|23120|76|1|76|1|76.00||2 @8', 6 @10'. Maybe 2x6 / 2x2 with MgO vertical beam.|||
+|124|envelope|floor|frame|joist|wood|"2"" x 4"""|23120|76|1|76|1|76.00||2 @8', 6 @10'. Maybe 2x6 / 2x2 with MgO vertical beam. |||
 |125|envelope|floor|frame|tongue|MgO|10|1.39m^2|4 x 4|4 x 8|0.5|30|15.00|| - |||
 |126|envelope|floor|frame|screw|zinc|4x30| - | - |0.003448# @$5|104|0.0172|1.79|| - |||
 |127|envelope|floor|fill|insulation|cellulose| - |1.63m^3|57.56^3|15.625|3.68|9.4|34.59||cellulose, straw, wood shavings, wood, cloth fiber; floor bottom layer: water tolerant|||
@@ -167,10 +172,10 @@ A hygienic house, suitable for living and retreating
 ||TOTALS $USD||||||||||||||||
 ||||||||||||||||||
 ||MAIN|Known|Guessed|TOTALS|||SHELL||||||||||
-||Labor|2210|0|2210|||MgO|1583|||||||||
+||Conditions|1430|0|1430|||MgO|1583|||||||||
 ||Shell|3071|205|3276|||finish|307|||||||||
 ||Utility, Furniture|117|1444|1561|||fasteners|112|||||||||
-||TOTALS|5398|1649|7047|||insulation|235|||||||||
+||TOTALS|4618|1649|6267|||insulation|235|||||||||
 ||||||||windows|410|||||||||
 ||||||||TOTAL|2646||||||||
 
