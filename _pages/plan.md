@@ -14,7 +14,7 @@ navnext: make
 
 ![conic](/img/plan/image/conic.png) 
 
-- <a href="https://darkroomretreat.com/img/plan/image/conic.png" download>download to zoom in</a>
+- [zoom in](/img/plan/image/conic.png) or <a href="https://darkroomretreat.com/img/plan/image/conic.png" download>download</a>
 - download <a href="https://darkroomretreat.com/img/plan/source/conic.svg" download>svg source file</a> for editing with [Inkscape](https://inkscape.org).
 
 ![photo: conic hut](/img/photo/conic-hut.jpg)
