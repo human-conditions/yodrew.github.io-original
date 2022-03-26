@@ -14,8 +14,8 @@ navnext: make
 
 ![conic](/img/plan/image/conic.png) 
 
-[zoom in](/img/plan/image/conic.png) or <a href="https://darkroomretreat.com/img/plan/image/conic.png" download>download</a>  
-download <a href="https://darkroomretreat.com/img/plan/source/conic.svg" download>svg source file</a> for editing with [Inkscape](https://inkscape.org).
+- [zoom in](/img/plan/image/conic.png) or <a href="https://darkroomretreat.com/img/plan/image/conic.png" download>download</a>  
+- download <a href="https://darkroomretreat.com/img/plan/source/conic.svg" download>svg source file</a> for editing with [Inkscape](https://inkscape.org).
 
 The following photo shows a small conic hut (3000 wide x 2400 high) that I built in 2008. It gives a general idea of the shape and construction method. The roof pitch is steeper than in the drawing.
 
