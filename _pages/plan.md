@@ -24,7 +24,7 @@ The following photo shows a small conic hut (3000 wide x 2400 high) that I built
 #### budget
 
 - see notes below table
-- download [XLSX spreadsheet](/img/plan/source/conicbudget.xlsx)  
+- download [spreadsheet](/img/plan/source/conicbudget.xlsx)  
 
 |ITEM|TYPE|ELEMENT|COMPONENT|PART|MATERIAL|SIZE mm|AMT mm|AMT ft|UNIT ft|QUANTITY|COST/UNIT|COST|ESTIMATE|NOTES||
 | ---:| --- | --- | --- | --- | --- | ---:| ---:| ---:| ---:| ---:| ---:|---:| ---:| --- |
