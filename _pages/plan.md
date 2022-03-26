@@ -14,12 +14,12 @@ navnext: make
 
 ![conic](/img/plan/image/conic.png) 
 
-- [zoom in](/img/plan/image/conic.png) or <a href="https://darkroomretreat.com/img/plan/image/conic.png" download>download</a>  
+- <a href="https://darkroomretreat.com/img/plan/image/conic.png" download>download to zoom in</a>
 - download <a href="https://darkroomretreat.com/img/plan/source/conic.svg" download>svg source file</a> for editing with [Inkscape](https://inkscape.org).
 
-The following photo shows a small conic hut (3000 wide x 2400 high) that I built in 2008. It gives a general idea of the shape and construction method. The roof pitch is steeper than in the drawing.
-
 ![photo: conic hut](/img/photo/conic-hut.jpg)
+
+I built this small short conic hut (~3m diameter x 2.5m high) in 2008. It shows the shape and construction method. Its roof's pitch is steeper than in the drawing.
 
 #### budget
 
@@ -183,17 +183,17 @@ The following photo shows a small conic hut (3000 wide x 2400 high) that I built
 
 ##### Notes
 
-This is phase 2 of the budget. I found prices on nearly all main materials. Prices for many minor materials are still guesses. The table shows which is which. I have added totals at the bottom for the main categories and materials.
+This is phase 2 of the budget. I found prices on nearly all main materials. Prices for many minor materials are estimates. The table shows which is which. I have added totals at the bottom for the main categories and materials.
 
-I made the guesses halfway through getting prices. Some of them proved way off. But the total came in close to what I guessed it would be ($60 under). So I expect the final budget to be close to the current amount, too.
+I made the estimates halfway through getting prices. Some were way off. But the total was close. So I expect the final budget to be close to the current, partly estimated amount, too.
 
-All the prices are for new materials except door and window  hardware. Hinges and latches are cheap and plentiful at Habitat for Humanity ReStore. There is also opportunity in the design for economizing with used and found materials.
+All the prices are for new materials except door and window hardware. Hinges and latches are cheap and plentiful at Habitat for Humanity ReStores. There is also opportunity in the design for economizing with used and found materials.
 
-The drawing is nice, of course. But there will be lots of invention as I build. Some of the budget is impossible to figure out until then, too.
+The drawing is nice, of course. But prototyping is a process of constant invention. Some of the budget is impossible to figure out until afterward.
 
-I would like to prototype the house this summer and make more by winter. Then folks can retreat in them instead of renting (eg, in Oregon).  It just needs a place they can go up for a few months. Inside barns, garages, sheds, warehouses, workshops, etc would be convenient until we can get the legal aspect of this settled. At least in a thick stand of trees.
+I would like to prototype the house this summer and make more by winter. Then folks can retreat in them instead of renting (eg, in Oregon). They just need a place they can go up for a few months. Inside barns, garages, sheds, warehouses or workshops would be good until we can get the legal aspect of this settled. At least in a thick stand of trees.
 
-One bottleneck is the 10 week wait for the magnesium oxide board. The sooner that order is placed, the sooner the building can take shape. However, some things can be fabricated beforehand, as well.
+One bottleneck is the 10-week wait for the magnesium oxide board. The sooner that order is placed, the sooner the building can take shape. Some things can be fabricated beforehand.
 
 If you want to talk to me about any of this, [write or call](/about) for phone appointment.
 
