@@ -8,7 +8,7 @@ navnext: myths
 
 #### a design for a full life on $250 a month
 
-\[**NOTE:** While the mechanics of Tribal Housing as described below are still mostly valid, my thinking about the social context of TH has changed significantly. While I have slightly edited the article to reflect this change, please read [Sociality Undenied](/other-writings/sociality-undenied/) for a full presentation of my new view of social organization (subsequently obsoleted by the ideas in [psychosis](/darkness-conjecture/psychosis/) and [hygiene](/hygiene/)/capacity\]
+\[See **NOTE** at end\]
 
 #### Introduction
 
@@ -99,6 +99,8 @@ There is no, one, right way to create Tribal Housing. We can take minutes or mon
 _The Continuum Concept_, Jean Liedloff (tribal relationship); _The Path of Least Resistance for Managers_, Robert Fritz (organizational structure and creativity); _Gardening Without Digging_, A. Guest; _The Geography of Nowhere_, James Howard Kunstler (New Urbanism); _Hundertwasser: The Painter King with the 5 Skins_, Pierre Restany; _Just Eat An Apple!_, Frederic Patenaude (raw diet magazine); _Magical Child Matures_, Joseph Chilton Pearce; _Mucusless Diet Healing System_, Arnold Ehret; _The Moon Is a Harsh Mistress_, Robert Heinlein; _Nature's First Law_, Arlin, Dini, Wolfe; _ORDO: An American Art of Placement_ (article), Andrew Durham; _Origins of Agriculture_ (article), Greg Wadley and Angus Martin; _The Songlines_, Bruce Chatwin, (aboriginal recalcitrance and worldview); _Summerhill: A Radical Approach to Childrearing_, A.S. Neill; _Teenage Liberation Handbook_, Grace Llewellyn; _Where White Men Fear to Tread_, Russell Means. By Victor Papanek: _Design for a Real World_; _Nomadic Furniture_. By Daniel Quinn: _Ishmael_ (another story to be in); _The Story of B_ (inclusive human history); _My Ishmael_ (concretes and criticism); _Beyond Civilization_ (tribalism, business). By Ayn Rand: _Atlas Shrugged_ (realist metaphysics, industrial culture); _Introduction to Objectivist Epistemology_ (logic). And by Frank Lloyd Wright: many books, especially _The Natural House_. My experiences as a guest and with camping, communities, co-ops and raw eating; and my exposure to eco-villages, co-housing, microhousing, feng shui and humanure have also informed the design. Thanks to my ancestors, family, elders and friends, including: Dick and Anna Lou Callen; John and Lou Ann, Paul and Francois Durham; Jack and Rae Nuckols, Jack and LaVerne Asher, John Boyer, and my former teacher; Laservida (Micha); my hosts while writing: Christopher, Nicole, Frederic and Danny; Sterling, for enduring; Joanie Williamson for leading that week at church camp; and the countless interested and supportive people I have met on my way, especially my hosts. Special thanks to Brian Sullivan for perfecting Tribal Housing's name, sticking to your guns, and above all, for taking up the torch. This article is for Bleu and Meir, who by the depth of their yearning and recognition, inspired it.
         
 _revised 2003 Dec 8_
+
+\[**NOTE:** While the mechanics of Tribal Housing are still mostly valid, my thinking about its social context has changed significantly. I slightly edited the article to reflect this change. But please read [Sociality Undenied](/other-writings/sociality-undenied/) for a full presentation of my later view of social organization. Even this was subsequently obsoleted by the ideas in [psychosis](/darkness-conjecture/psychosis/) and [hygiene](/hygiene/)/capacity\]
 
 
 
