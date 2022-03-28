@@ -10,25 +10,25 @@ This is an overview and discussion of a sane personal economy.
 
 #### budget
 
-125 shelter
-125 food ($4/day)
- 30 other: clothing, transportation, communication, art
- 80 self-insurance
- 40 savings/investment
-___
-400/month
-4800/yr
-70% expenses
-20% emergency
+125 shelter  
+125 food ($4/day)  
+ 30 other: clothing, transportation, communication, art  
+ 80 self-insurance  
+ 40 savings/investment  
+___  
+400/month  
+4800/yr  
+70% expenses  
+20% emergency  
 10% savings
 
 #### income
 
-$100/wk
-5-10 hrs/wk @ $10-20/hr
-48 wks/yr work
-4 wks vacation
-$436 each month you work
+$100/wk  
+5-10 hrs/wk @ $10-20/hr  
+48 wks/yr work  
+4 wks vacation  
+$436 each month you work  
 
 For a fuller description of this economy, see darkroomretreat.com/other-writings/tribal-housing. The context is group residence. But the essential ideas work with non-group residences, too. The Tiny House movement has shown this.
 
