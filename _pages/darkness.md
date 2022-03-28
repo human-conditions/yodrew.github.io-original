@@ -355,9 +355,9 @@ Thus, these (untested) improvements should make it work.
 
 ![photo: roller blind, closed](/img/photo/roller-blind-closed.jpg)
 
-![photo: roller blind, panel and joint](/img/photo/roller-blind-panel&joint.jpg)
+![photo: roller blind, panel and joint](/img/photo/roller-blind-panel-joint.jpg)
 
-![photo: roller blind, frame and parts](/img/photo/roller-blind-frame&parts.jpg)
+![photo: roller blind, frame and parts](/img/photo/roller-blind-frame-parts.jpg)
 
 ![photo: roller blind, rail section](/img/photo/roller-blind-rail-section.jpg)
 
