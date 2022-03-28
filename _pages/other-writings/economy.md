@@ -1,6 +1,6 @@
 ---
 title: economy
-permalink: "/economy/"
+permalink: "/other-writings/economy/"
 layout: page
 navprev: ordo
 navnext: tribal-housing
