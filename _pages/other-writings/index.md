@@ -23,6 +23,7 @@ For 21 years, I have combed the edges of philosophy, health, and design for clue
     - [Just Living](./just-living) a meditation on design
     - [Mechanics of Mass Slavery](./mechanics-of-mass-slavery/) a drive-by analysis
     - [ORDO](./ordo/) an American art of placement
+    - [Economy](./economy/) sane personal economy based on Tribal Housing (adjusted for 2022 inflation)
     - [Tribal Housing](./tribal-housing/) a design for a full life on $250 a month
     - [Gallery](http://andrewdurham.shutterfly.com) photos of my projects (at shutterfly.com)
 - Misc
