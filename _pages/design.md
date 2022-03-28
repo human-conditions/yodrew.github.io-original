@@ -193,5 +193,6 @@ Happily, a handful of elegant, cheap, quick, [round shelter designs](/other-writ
 
 Now, let's learn to actually make escape vehicles out of prison cells. The next chapter gives detailed instructions and computer-drawn plans for your very own darkroom.
 
+NEW PAGE: [plan](/plan) for a hygienic house. A design and budget.
 
 
