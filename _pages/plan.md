@@ -8,18 +8,20 @@ navnext: make
 
 #### hygienic house
 
-...for healthy living and retreating. A design and budget. Updated 2022 03 26 08:35 UTC
+...for healthy living and retreating  
+Design and budget  
+Updated 2022 03 26 08:35 UTC
 
 #### design
 
 ![conic](/img/plan/image/conic.png) 
 
-- [zoom in](/img/plan/image/conic.png) or <a href="https://darkroomretreat.com/img/plan/image/conic.png" download>download</a>
+- <a href="https://darkroomretreat.com/img/plan/image/conic.png" download>download to zoom in</a>
 - download <a href="https://darkroomretreat.com/img/plan/source/conic.svg" download>svg source file</a> for editing with [Inkscape](https://inkscape.org).
 
 ![photo: conic hut](/img/photo/conic-hut.jpg)
 
-I built this small short conic hut (~3m diameter x 2.5m high) in 2008. It shows the shape and construction method. Its roof's pitch is steeper than in the drawing.
+I built this small short conic hut (~3m diameter x 2.5m high) in 2008. It shows the shape and construction method. But the roof pitch is steeper than inthe drawing.
 
 #### budget
 
