@@ -6,7 +6,7 @@ navprev: nothing-to-fear
 navnext: just-living
 ---
 
-\[EDIT: This is a chaotic piece written in the chaotic year preceding the emergence of the conjecture. I was desperately grasping at spiritual straws at the time, even more so than in [sociality-undenied](/other-writings/sociality-undenied), which also addresses self-observation, but from a social perspective. Of course it is hopeless for self-observation to deal with such gigantic problems as I thought it could. This is well-known in the spiritual world self-observation comes from, and I was on the verge of learning it the hard way. Anyway, here you go.\]
+\[See NOTE below\]
 
 #### in brief
 
@@ -40,5 +40,4 @@ _Introduction to Human Technology_ by William Arthur Evans, impressed me with th
 
 _revised 18 Mar 2008_
 
-
-
+\[NOTE: This is a chaotic piece written in the chaotic year preceding the emergence of the [conjecture](/darkness-conjecture/conjecture). I was desperately grasping at straws at the time, even more so than in a previous essay, [sociality-undenied](/other-writings/sociality-undenied). That also addressed self-observation, but from a social perspective. But it is hopeless for self-observation to deal with such gigantic problems as I thought it could. This is understood in the spiritual world from which self-observation comes. I was on the verge of learning it the hard way.\]
