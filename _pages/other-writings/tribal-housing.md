@@ -2,7 +2,7 @@
 title: Tribal Housing
 permalink: "/other-writings/tribal-housing/"
 layout: page
-navprev: ordo
+navprev: economy
 navnext: myths
 ---
 
