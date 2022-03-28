@@ -3,7 +3,7 @@ title: ORDO
 permalink: "/other-writings/ordo/"
 layout: page
 navprev: mechanics-of-mass-slavery
-navnext: tribal-housing
+navnext: economy
 ---
 
 #### an American art of placement
