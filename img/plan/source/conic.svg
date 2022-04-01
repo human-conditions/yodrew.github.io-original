@@ -9,9 +9,9 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="2010mm"
-   height="1366.0001mm"
-   viewBox="0 0 2010.0004 1366.0001"
+   width="1900mm"
+   height="1366mm"
+   viewBox="0 0 1900.0004 1366"
    version="1.1"
    id="svg8"
    inkscape:version="0.92.5 (2060ec1f9f, 2020-04-08)"
@@ -41,9 +41,9 @@
     <inkscape:perspective
        sodipodi:type="inkscape:persp3d"
        inkscape:vp_x="0 : 1114.005 : 1"
-       inkscape:vp_y="0 : 999.99995 : 0"
+       inkscape:vp_y="0 : 999.99997 : 0"
        inkscape:vp_z="3021.003 : 1114.005 : 1"
-       inkscape:persp3d-origin="1510.5015 : 742.66993 : 1"
+       inkscape:persp3d-origin="1510.5015 : 742.66995 : 1"
        id="perspective29096" />
     <marker
        inkscape:stockid="Arrow1Lstart"
@@ -965,7 +965,7 @@
      inkscape:pageshadow="2"
      inkscape:zoom="0.047854487"
      inkscape:cx="6764.439"
-     inkscape:cy="2792.7462"
+     inkscape:cy="2792.746"
      inkscape:document-units="mm"
      inkscape:current-layer="layer8"
      showgrid="false"
@@ -1016,37 +1016,37 @@
        units="mm"
        spacingy="10"
        spacingx="10"
-       originy="-6.8981251e-05"
-       originx="950.00125"
+       originy="-0.0001351922"
+       originx="950.00177"
        id="grid29"
        type="xygrid" />
     <sodipodi:guide
        inkscape:locked="false"
        id="guide3537"
        orientation="1,0"
-       position="1500.0003,460.50014" />
+       position="1500.0003,460.50009" />
     <sodipodi:guide
        inkscape:locked="false"
        id="guide3539"
        orientation="0,1"
-       position="1667.0146,140.00019" />
+       position="1667.0146,140.00013" />
     <sodipodi:guide
        inkscape:locked="false"
        id="guide3541"
        orientation="0,1"
-       position="500.00013,940.00001" />
+       position="500.00014,939.99996" />
     <sodipodi:guide
        inkscape:locked="false"
        id="guide3543"
        orientation="1,0"
-       position="500.0001,461.50014" />
+       position="500.00011,461.50009" />
     <sodipodi:guide
        inkscape:color="rgb(0,0,255)"
        inkscape:label=""
        inkscape:locked="false"
        id="guide2381"
        orientation="1,0"
-       position="1880.0002,121.49978" />
+       position="1880.0002,121.49972" />
   </sodipodi:namedview>
   <metadata
      id="metadata5">
@@ -1065,7 +1065,7 @@
      id="layer20"
      inkscape:label="background"
      style="display:inline;opacity:0.756"
-     transform="translate(950,-890)"
+     transform="translate(950,-890.00006)"
      sodipodi:insensitive="true">
     <g
        inkscape:groupmode="layer"
@@ -1100,7 +1100,7 @@
      id="layer11"
      inkscape:label="foundation"
      style="display:inline"
-     transform="translate(949.9999,-1031.3591)">
+     transform="translate(949.9999,-1031.3592)">
     <g
        style="display:inline"
        inkscape:label="tripod 60°"
@@ -1380,7 +1380,7 @@
       </g>
       <path
          style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:medium;line-height:normal;font-family:sans-serif;font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:normal;word-spacing:normal;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;vector-effect:none;fill:#41473e;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.60000002;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
-         d="m 323.00056,2243.6596 v 29.6995 h -2 v -1 l 0.99954,10e-5 v -1 l -1.99954,0 v 3 h 3.99952 v -30.6996 z"
+         d="m 323.00056,2243.6596 v 29.6995 h -2 v -1 l 0.99954,10e-5 v -1 h -1.99954 v 3 h 3.99952 v -30.6996 z"
          id="path3680"
          inkscape:connector-curvature="0"
          sodipodi:nodetypes="ccccccccccc" />
@@ -1801,22 +1801,6 @@
          sodipodi:nodetypes="cccccc" />
     </g>
     <path
-       style="display:inline;opacity:0.081;fill:none;fill-opacity:1;stroke:#000000;stroke-width:2;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:3.77952766;stroke-opacity:1;paint-order:markers fill stroke;enable-background:new"
-       d="m 981.0001,1763.3591 v 9 h 9"
-       id="path5619"
-       inkscape:connector-curvature="0"
-       inkscape:export-filename="/home/hill/Boox/Documents/darkness/yodrew.github.io/img/plan/image/conic-roof.png"
-       inkscape:export-xdpi="84.012878"
-       inkscape:export-ydpi="84.012878" />
-    <path
-       inkscape:connector-curvature="0"
-       id="path5623"
-       d="m 1051.0001,1041.3591 v -9 h 9"
-       style="display:inline;opacity:0.081;fill:none;fill-opacity:1;stroke:#000000;stroke-width:2;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:3.77952766;stroke-opacity:1;paint-order:markers fill stroke;enable-background:new"
-       inkscape:export-filename="/home/hill/Boox/Documents/darkness/yodrew.github.io/img/plan/image/conic-roof.png"
-       inkscape:export-xdpi="84.012878"
-       inkscape:export-ydpi="84.012878" />
-    <path
        inkscape:export-ydpi="83.982491"
        inkscape:export-xdpi="83.982491"
        inkscape:export-filename="/home/hill/Boox/Documents/darkness/yodrew.github.io/img/plan/image/conic-elevation.png"
@@ -1884,7 +1868,7 @@
      id="layer13"
      inkscape:label="floor"
      style="display:inline"
-     transform="translate(-890.0001,-2858.5572)">
+     transform="translate(-890.0001,-2858.5573)">
     <g
        inkscape:groupmode="layer"
        id="layer28"
@@ -4739,7 +4723,7 @@
      inkscape:label="wall"
      id="g10645"
      inkscape:groupmode="layer"
-     transform="translate(949.9999,-1031.3591)">
+     transform="translate(949.9999,-1031.3592)">
     <text
        id="text9613"
        y="2232.9023"
@@ -5261,7 +5245,7 @@
      id="g3998"
      inkscape:label="furniture"
      style="display:inline;opacity:0.38299997;filter:url(#filter2534)"
-     transform="translate(949.9999,-1031.3591)">
+     transform="translate(949.9999,-1031.3592)">
     <rect
        inkscape:transform-center-y="-3.6899975"
        inkscape:transform-center-x="-161.818"
@@ -5381,7 +5365,7 @@
        inkscape:export-ydpi="71.973366" />
   </g>
   <g
-     transform="translate(2123.4999,-516.7584)"
+     transform="translate(2123.4999,-516.75846)"
      style="display:inline"
      inkscape:label="roof grid"
      id="g12469"
@@ -6251,7 +6235,7 @@
      id="layer15"
      inkscape:label="roof"
      style="display:inline"
-     transform="translate(949.9999,-1268.8505)">
+     transform="translate(949.9999,-1268.8506)">
     <g
        style="display:inline"
        inkscape:label="insulation"
@@ -6668,7 +6652,7 @@
      id="layer7"
      inkscape:label="render"
      style="display:inline"
-     transform="translate(949.9999,-1031.3591)">
+     transform="translate(949.9999,-1031.3592)">
     <path
        inkscape:export-ydpi="71.973366"
        inkscape:export-xdpi="71.973366"
@@ -9344,7 +9328,7 @@
      id="layer8"
      inkscape:label="text"
      style="display:inline"
-     transform="translate(949.9999,-1031.3591)">
+     transform="translate(949.9999,-1031.3592)">
     <g
        inkscape:groupmode="layer"
        id="layer18"
@@ -11221,15 +11205,15 @@
          id="tspan3310">anchor</tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333311px;line-height:89.99999762%;font-family:sans-serif;-inkscape-font-specification:sans-serif;letter-spacing:0px;word-spacing:0px;opacity:1;vector-effect:none;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333311px;line-height:89.99999762%;font-family:sans-serif;-inkscape-font-specification:sans-serif;letter-spacing:0px;word-spacing:0px;opacity:1;vector-effect:none;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        x="240.26767"
        y="990.74579"
        id="text4225"><tspan
          sodipodi:role="line"
          id="tspan4223"
          x="240.26767"
-         y="993.60138"
-         style="stroke-width:0.2;-inkscape-font-specification:sans-serif;font-family:sans-serif;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;" /></text>
+         y="993.75049"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:sans-serif;stroke-width:0.2" /></text>
     <text
        transform="rotate(-45)"
        inkscape:export-ydpi="71.973366"
@@ -11361,7 +11345,7 @@
      id="layer27"
      inkscape:label="misc"
      style="display:none"
-     transform="translate(949.9999,-1268.8505)">
+     transform="translate(949.9999,-1268.8506)">
     <g
        transform="translate(0,237.49141)"
        style="display:inline"
