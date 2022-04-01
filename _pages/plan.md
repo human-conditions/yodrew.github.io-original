@@ -19,6 +19,8 @@ Updated 2022 04 01 22:00 UTC
 - <a href="https://darkroomretreat.com/img/plan/image/conic.png" download>download to zoom in</a>
 - download <a href="https://darkroomretreat.com/img/plan/source/conic.svg" download>svg source file</a> for editing with [Inkscape](https://inkscape.org).
 
+- - -
+
 ![photo: conic hut](/img/photo/conic-hut.jpg)
 
 I built this small short conic hut (~3m diameter x 2.5m high) in 2008. It shows the shape and construction method. But the roof pitch is steeper than inthe drawing.
