@@ -958,16 +958,16 @@
   </defs>
   <sodipodi:namedview
      id="base"
-     pagecolor="#fff028"
+     pagecolor="#ffffff"
      bordercolor="#666666"
      borderopacity="1.0"
      inkscape:pageopacity="1"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.047854487"
-     inkscape:cx="6764.439"
-     inkscape:cy="2792.746"
+     inkscape:zoom="0.09596448"
+     inkscape:cx="5457.6018"
+     inkscape:cy="2520.4049"
      inkscape:document-units="mm"
-     inkscape:current-layer="layer8"
+     inkscape:current-layer="layer7"
      showgrid="false"
      inkscape:window-width="1366"
      inkscape:window-height="711"
@@ -1005,7 +1005,8 @@
      inkscape:snap-grids="false"
      inkscape:snap-nodes="true"
      inkscape:snap-page="false"
-     inkscape:lockguides="false">
+     inkscape:lockguides="false"
+     scale-x="1e-05">
     <inkscape:grid
        visible="true"
        empopacity="0.25098039"
