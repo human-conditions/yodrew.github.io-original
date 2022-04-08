@@ -183,7 +183,7 @@ I built this small short conic hut (~3m diameter x 2.5m high) in 2008. It shows 
 ||||||||||||||||
 |||||MAIN  SHELL ||||||RUNNING|||||
 |||||MATERIALS||COST|ESTIMATE|COST + EST.|* +20% *|TOTAL|||||
-|||||MgO board||1792.50|15|1807.50|2169.00|2169.00|||||
+|||||MgO board||1792.50|15.00|1807.50|2169.00|2169.00|||||
 |||||finish||363.00|20.00|383.00|459.60|2628.60|||||
 |||||fasteners||134.04|28.00|162.04|194.45|2823.05|||||
 |||||insulation||234.81|0.00|234.81|281.77|3104.82|||||
