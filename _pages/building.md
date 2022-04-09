@@ -1,6 +1,6 @@
 ---
-title: buildings
-permalink: "/buildings/"
+title: building
+permalink: "/building/"
 layout: page
 ---
 
