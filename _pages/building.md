@@ -4,7 +4,13 @@ permalink: "/building/"
 layout: page
 ---
 
-These are buildings and important components I've built, interiors I've remodeled, augmented, or significantly rearranged, and experiments and learning I've done since childhood training in the tradition of Frank Lloyd Wright with my parents.
+These are architectural things I've made:
+
+- buildings and important components
+- interiors I've remodeled, augmented, or significantly rearranged
+- experiments and surveys
+
+These came after my childhood training in design and making things with my parents and elders.
 
 |YEAR|TYPE|PHOTO?|BUILDING|MATERIALS|CITY|LOCATION|PEOPLE|
 | --- | --- | --- | --- | --- | --- | --- | --- |
