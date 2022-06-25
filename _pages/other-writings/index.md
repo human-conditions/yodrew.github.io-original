@@ -13,6 +13,7 @@ _This is a collection of my earlier writings. They began appearing in 2001 on my
 For 21 years, I have combed the edges of philosophy, health, and design for clues to a sane way to live. Here I describe some of my findings. 
 
 - Philosophy
+    - NEW: [individualism](./individualism) notes toward an individualist distributed hyperstate
     - [Existence Isn't Everything](./existence-isnt-everything/) rethinking Objectivism's first axiom
     - [Sociality Undenied](./sociality-undenied/) the operative principle of band society
     - [From Where?](./from-where/) understanding Daniel Quinn
