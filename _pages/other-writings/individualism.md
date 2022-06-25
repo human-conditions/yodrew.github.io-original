@@ -6,9 +6,9 @@ previous: /other-writings
 next: /other-writings/existence-isnt-everything
 ---
 
-### notes toward an individualist form of government
+#### notes toward an individualist form of government
 
-These ideas are only semi-organized. either they should be expanded upon or simplified and streamlined. But they are enough to begin thinking with along new lines.
+Semi-organized yet enough to begin thinking with along new lines.
 
 #### Individualist Distributed Hyperstate
 
