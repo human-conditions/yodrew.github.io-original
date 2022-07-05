@@ -1,21 +1,19 @@
-##### relief, rest, recovery
+##### rest, relief, recovery
 
-When doors shut and lights go out, the miracles begin:
+A hygienic darkroom retreat consists of _resting_ in a totally dark room for an extended period. One is alone inside, with supporters outside. There is food. The room is quiet, safe, comfortable, and well-ventilated.
 
-- instant relief from distress and overstimulation
-- profound rest from exhaustion
-- complete recovery from illness and injury
+Why do this? For:
 
-A _hygienic darkroom retreat_ is extended rest in total darkness. Healing super-intensifies. Energy and function are restored. Clarity, strength, and joy reappear. The lost self returns.
+- relief from distress and overstimulation
+- rest from exhaustion and depression
+- recovery from trauma and disease
 
-The primary condition of healing is profound rest. The essential condition of profound rest is darkness. All its conditions exist in a hygienic darkroom retreat. They are perfected and temporarily extended, as in fasting. The organism heals itself autonomically of the worst wounds life deals us. The experience and result are reliable miracles.
+This is a complete manual, with theory, protocol, and design. It explains why retreating works and how to do it. It includes drawings and instructions for beginning at home.
 
 ##### toward a hygienic psychology
 
-Indigenous and spiritual traditions have used physical darkness for millennia for healing and spiritual development. This is the first approach to darkness---and psychology---based on hygiene. 
+Neither spiritual, therapeutic, nor psychedelic, this is the first approach to darkness based on hygiene. Hygiene is the science of health, a branch of biology. It respects life's self-preserving nature. It identifies life's normal conditions: air, warmth, work, relationship, cleanliness, etc.
 
-Not just cleanliness, hygiene is the _science of health_, a branch of biology. Hygiene is based on the self-preserving nature of life and its normal conditions. These include fresh air, ample sleep, pure food, regular bathing and exercise, etc. Darkness enables the application of hygiene to the organic system of the psyche. Hygiene optimizes the use of darkness and makes it available to everyone.
+Hygiene started in 1832 and rapidly spread worldwide. The 19th century's famous improvements in public health resulted. Now its rudiments are common sense. Billions who never see doctors benefit from hygiene daily. But few know it formally---or its greatest benefits.
 
-Hygiene began to show nature's way to health to industrial civilization in 1832. Worldwide massive improvements in public health followed. Its benefits continue daily for billions who know it only as cleanliness and never see doctors. Little acknowledged, hygiene is history’s most influential approach to health. Equipped with a psychology, it can now return to pre-eminence.
-
-This complete manual explains why a retreat works, how to do it, and how to make a darkroom at home. It integrates theory and practice, from high abstractions to concrete details of construction, in a logical whole. It shows that miracles of self-healing are easy. Just provide their conditions.
+In darkness, hygiene finds its missing link: a psychology. Now it can extend its superlative care to the organic system of the psyche. This proves to be the key to health. The result: reliable miracles.
