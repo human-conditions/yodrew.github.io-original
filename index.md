@@ -4,13 +4,13 @@ layout: index
 
 {% include blurb.md %}
 
-_continue reading online_{: style="font-size: .5em;padding-top:-10px 0;"} [&gt;](/dedication)
+_continue reading online for free_{: style="font-size: .5em;padding-top:-10px 0;"} [&gt;](/dedication)
 {:.arrow}
 
 #### ebook
 
 - get it at [leanpub](https://leanpub.com/darkroomretreat)
-    - pay what you like
+    - adjustable price
     - pdf, epub, mobi
     - check option for automatic notification of new versions, free forever
     - no spam and your contact info remains hidden, even from me
