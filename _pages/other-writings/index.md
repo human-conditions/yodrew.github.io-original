@@ -48,5 +48,5 @@ For 21 years, I have combed the edges of philosophy, health, and design for clue
 - [On a Green Mountain with Masanobu Fukuoka](./fukuoka/) the genius of natural farming
 - [Fasting: A Prodigious Discovery](./fasting-discovery/) by Albert Mosseri, French hygienic master, _excerpted from:_
 - [Fasting: Nature's Best Remedy](./fasting/) by Albert Mosseri
-- [QWERTY to Dvorak](/d/) typing translator
-
+<!-- - [QWERTY to Dvorak](/d/) typing translator
+-->
