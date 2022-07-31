@@ -304,7 +304,7 @@ Professional hygienic fasting supervisors attempt to substitute themselves for t
 
 As in fasting, one hardly knows in darkness what the organism is doing at its deepest levels. Occasionally there is a chance to consciously participate in the process. Or to find out _why_ things have gone wrong if it is important to change ideas and behavior related to it. At most one feels discomfort or a strange subterranean rumbling.
 
-But one always knows the result: restoration of function---recovery of the lost self---usually accompanied by feelings of contentedness, presence, and euphoria. Darkroom retreating reveals the marvelous self-healing power of the organism under proper conditions. But for those who have suffered and failed for years with other approaches, the process is nothing less than miraculous. As with the rest of hygiene, time in darkness shows that if one wants oa miracle, one need only provide its conditions.
+But one always knows the result: restoration of function---recovery of the lost self---usually accompanied by feelings of contentedness, presence, and euphoria. Darkroom retreating reveals the marvelous self-healing power of the organism under proper conditions. But for those who have suffered and failed for years with other approaches, the process is nothing less than miraculous. As with the rest of hygiene, time in darkness shows that if one wants a miracle, one need only provide its conditions.
 
 And then? Healed from trauma, one will no longer be compelled to repeat it. One will absorb and redeem its history and consequences. As with the rest of hygiene, hygienic psychology's bad news is much worse, and its good news is far better than anyone dreamed. 
 
