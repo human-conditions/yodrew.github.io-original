@@ -27,7 +27,7 @@ Because the process of healing is automatic, it is foolproof. The psyche needs d
 
 Through abstract theory and concrete practice, this book tells how to provide all the conditions of rest in perfect proportion. Most importantly, it introduces the passive, hygienic _attitude_ toward healing. Merely knowing it opens the door to super-intensified healing, ie, miracles. When you are ready, you can walk through it. 
 
-The book reveals what healing requires detail. It inspires you to heal and to support others in doing so. It includes designs for darkroom components. Their precision enables even amateur craftsmen to get them right.
+The book reveals what healing requires in detail. It inspires you to heal and to support others in doing so. It includes designs for darkroom components. Their precision enables even amateur craftsmen to get them right.
 
 ##### terminology
 
