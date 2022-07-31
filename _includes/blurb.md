@@ -1,6 +1,6 @@
 ##### rest, relief, recovery
 
-A hygienic darkroom retreat consists of _resting_ in a totally dark room for an extended period. One is alone inside, with supporters outside. There is food. The room is safe, quiet, comfortable, and well-ventilated.
+A hygienic darkroom retreat consists of extended rest in a totally dark room. One is alone, with supporters nearby. There is food. The room is quiet, comfortable, and well-ventilated.
 
 Why do this? For:
 
