@@ -10,24 +10,22 @@ I do nearly everything related to hygienic darkroom retreating: study, experimen
 
 #### writing
 
-- Get my ebook from [leanpub](http://leanpub.com/darkroomretreat)
+- Read my book free here or for $6+ from [leanpub](http://leanpub.com/darkroomretreat)
 - Quote and excerpt anything in my book and website. Credit me and tell me where it will show up and I will also acknowledge and link to you on my website.
-- Invite me to write for your publication on any subject related to hygienic darkroom retreating and hygienic psychology.  
-- Publish me, make money. See [*license*](/about/license/)
-
-(Free or as you please)
+- Invite me to write for your publication on any subject related to hygienic darkroom retreating and hygienic psychology.
+- Publish my book, make money. See [*license*](/about/license/)
 
 #### speaking
 
 Invite me to edify your audience.
 
-(My minimalist expenses + something that fits your budget.)
+(Expenses + something that fits your budget. Causes I believe in are payment in themselves)
 
 #### consulting
 
 Get my advice on darkroom retreating, building darkrooms, and issues arising thereof.
 
-(&euro;15/hr. First couple emails are free if you have read my book.)
+($25/hr. First email is free if you have read my book.)
 
 I will respond in detail, by email or skype, to all your questions and concerns about:
 
@@ -35,19 +33,21 @@ I will respond in detail, by email or skype, to all your questions and concerns 
 - how to organize a retreat with a supporter
 - how to deal with specific issues you have personal and about retreating itself
 
-My responses will be based on my experience. Over the past ten years, I have:
+My responses will be based on my experience. Over the past 13 years, I have:
 
-- done 25 retreats from 2-6 days long
-- facilitated 25 retreats for others
-- designed and built or upgraded 21 working darkrooms, operating three of them, consulting remotely on three more, all in three climates on four continents 
-- written 150,000 words about darkroom retreating for web, email, and print
+- done 27 retreats from 2-7 days long
+- facilitated 30 retreats for others
+- designed and built or upgraded 28 working darkrooms, operating three of them, consulting remotely on three more, all in five climates on four continents 
+- written 200,000 words about darkroom retreating for web, email, and print
 - given 14 public talks
 
-#### design-build
+#### design
 
-Have me design and build your darkroom in an existing building or from scratch.
+Have me design your darkroom from scratch or in an existing building
 
-(&euro;15/hr + materials, travel, and shelter)
+($25/hr + materials, travel, and shelter)
+
+See my [hygienic house](/plan) for my latest thinking.
 
 
 
