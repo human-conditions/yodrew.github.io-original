@@ -87,7 +87,7 @@ I welcome everyone's improvements to these specifications judged by the objectiv
         - easily darkened windows
         - lightlock
             - lightproof double doors
-            - enough space between them for a person and food delveries
+            - enough space between them for a person and food deliveries
             - for communication, a lightproof vent in inner door, small and closable
         - lightproof bag for cellphone. It can have a red window made of the translucent plastic used in stage lighting ("gels")
         - candles and lighter for before the retreat and transition days
