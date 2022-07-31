@@ -111,15 +111,15 @@ Here are ways to conserve energy for healing:
 
 ##### support
 
-My ideas of support have evolved since my first retreat. Once a day, Finn brought me food and talked to me a few minutes. I, then my clients generally liked having such active support for our first retreats. We found it reassuring to say a few words to someone each day. 
+My ideas of support have evolved since my first retreat. Once a day, Finn brought me food and talked to me a few minutes. I liked having such active support for my first retreats. So have my clients. We found it reassuring to say a few words to someone each day. 
 
-For my first clients, I did more of each, sometimes too much. I thought of myself as a facilitator. Then a client wanted to retreat in silence. He communicated with notes and clapping in response to my questions. One clap meant no; two, yes; three, repeat the question. His retreat was up to him and he knew it. He just wanted practical support and the passive psychic support of my simply being around.
+I talked too much to my first clients. I thought of myself as a facilitator. Then a client wanted to retreat in silence. He communicated with notes and clapping in response to my questions. One clap meant no; two, yes; three, repeat the question. His retreat was up to him and he knew it. He just wanted practical support and the passive psychic support of my simply being around.
 
-I liked this a lot. It eased my worries and helped me trust in life more. Rather than a facilitator, I started thinking of myself as a supporter. I later tried retreating without support and much preferred the solitude and lack of interruption.
+I liked this a lot. It eased my worries and helped me trust in life more. Rather than a facilitator, I started thinking of myself as a supporter. I later retreated without support and much preferred the solitude and lack of interruption.
 
-However, that was only a 4-day retreat, and I was in a small, remote village of friends. For 8-day retreats, I have found that having someone nearby, on call, is critical. A retreatant is in a kind of womb. Supporters are like parents. They go about their regular lives, but remain available and create constant psychic shielding for the retreatant. Weird forces exist in the world. We need to rest from them, too. A little team of supporters makes this possible.
+However, that only worked for 4-day retreats. For 8-day retreats, I have found that having someone nearby, on call, is critical. A retreater is in a kind of womb. Supporters are like parents. They are available but not solicitous. They go about their regular lives, creating constant psychic shielding for the retreatant. Weird forces exist in the world. We need to rest from them, too. A little team of supporters, 2 onsite, 1 on call, makes this possible.
 
-A retreatant can get a supporter's attention from inside the darkroom with notes, an operable flag, knocking, or a bell at the end of a cord. A fully charged cellphone or walkie-talkie works in case of emergency.
+A retreatant can get a supporter's attention from inside the darkroom with notes, an operable flag, knocking, intercom, or a bell at the end of a cord. A cellphone in a bag could work in case of emergency. Maybe a walkie talkie.
 
 Here are the attributes of good support:
 
@@ -239,7 +239,7 @@ As an organism, one has a basic power: to live. It enables one to survive, to ta
 
 Power manifests in every movement, thought, and feeling. Fitness, magnetism, relaxedness, and humor all signify the power to live. Money represents it externally.  A powerful person controls his own life in ordinary ways and adapts easily to circumstance. Peace, freedom, prosperity, and joy characterize powerful people and societies alike. 
 
-Everyone alive has power to some degree. Those without it are dead. While it has has immediate social effects, it is primarily personal. It is not power over others. Real power grows from within, not out of the barrel of a gun.
+Everyone alive has power to some degree. Those without it are dead. While it has immediate social effects, it is primarily personal. It is not power over others. Real power grows from within, not out of the barrel of a gun.
 
 Like any capacity, trauma significantly damages personal power. The routine brutality of civilization pushes people to the brink of powerlessness. Power becomes the motive of nearly all activity. Power turns to aggression. A drama unfolds. Some people become control freaks, power-lusters, and abusers. Others become perennial victims or rescuers. Roles suddenly reverse. Fear, violence, and evil touch everyone. War, repression, poverty, slavery, epidemics, and corruption all signify a collective lack of power. 
 
@@ -288,7 +288,7 @@ Those with phobias related to darkness (eg, superstition, claustrophobia, fear o
 - microretreat: retreat for five seconds. Then take a break in red light till you feel ready for the next microretreat. Gradually increase the length of the micro-retreats and decrease the breaks. Do this for at least 15 minutes. The next night, go at least 30 minutes, etc. Within a week or two, you should feel comfortable enough to retreat. 
 - reason: go over the facts of your situation in your mind. What evidence do you have for what you fear? You can learn to recognize and dismiss arbitrary (baseless) ideas.*
 - companion: retreat with another person inside or near the darkroom till you feel ok alone
-- red light: bring a red LED light with you. Pure red light gives no signal to the circadian system bring rest to an end and prepare you for action. If other techniques don't help you ease your anxiety or panic, turn on the red light for a minute. This is a last resort. Don't do this regularly.
+- red light: bring a red LED light with you. Pure red light gives no signal to the circadian system to finish resting and prepare for action. If other techniques don't help you ease your anxiety or panic, turn on the red light for a minute. This is a last resort. Don't do this regularly.
 
 I had a client from a superstitious culture who was raised to fear the dark. But the idea of resting in darkness appealed to her common sense. She stayed in darkness for a whole night for the first time in her life at my darkroom. Afterward, she said that when her fear of monsters or ghosts came, she simply reasoned her way through it.
 
@@ -308,7 +308,7 @@ Merely this change in perspective from our current presumptions can aid the situ
 
 I have not worked with severe psychotics. Conventional psychologists would identify them simply as psychotic. But I think that we can handle even these cases by ourselves. By this, I mean without the use of professionals or experts, just with the care of friends and family. 
 
-Of course, if an expert can behave normally, that's great. He would simply providing wisdom and care unobtrusively like anyone else would, without any sense of superiority. Some experts actually know useful things. There's no reason for their knowledge to go to waste unless it would do more harm than good.
+Of course, if an expert can behave normally, that's great. He would simply provide wisdom and care unobtrusively like anyone else would, without any sense of superiority. Some experts actually know useful things. There's no reason for their knowledge to go to waste unless it would do more harm than good.
 
 I think severely psychotic people will be most helped at first by the presence and love of others who have recovered their own sanity in darkness. Severely psychotic people are especially sensitive to our society's constant barrage of stupidity and hatred, especially from those who are supposed to care about them. If that reverses, most cases of severe psychosis will disappear in weeks. Let us first put our attention on ourselves. It's sort of like using an oxygen mask in an airplane: use it yourself first, then on those in your care. To continue the metaphor, please consider the plane we're on to be already depressurized, undergoing severe turbulence, and with its masks dangling down. Maybe 
 
