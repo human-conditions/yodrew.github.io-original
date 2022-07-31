@@ -102,7 +102,7 @@ Afterward, slowly re-adjust to light. You did not just watch a matinee in a dark
 
 > __CAUTION__
 
->  I got caught in a whirlpool made of a several 4-day retreats. It has been difficult to break out of. I lost too much [*false capacity*](/hygiene#false-capacity) before restored normal capacity could compensate. Avoid this mistake. If you do one, just do **one or two** 4-day retreats, and absolutely no more than three. Then steam ahead with arrangements for an 8-day retreat.s_
+>  I got caught in a whirlpool made of several 4-day retreats. It has been difficult to break out of. I lost too much [*false capacity*](/hygiene#false-capacity) before restored normal capacity could compensate. Avoid this mistake. If you do one, just do **one or two** 4-day retreats, and absolutely no more than three. Then steam ahead with arrangements for an 8-day retreat.s_
 
 ###### transition
 
