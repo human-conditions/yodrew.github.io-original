@@ -80,6 +80,6 @@ A few other books really affected me when I was first reading things on my own, 
 #### childhood
 
 <a href="http://www.amazon.com/gp/product/0394404289?ie=UTF8&amp;tag=thedarknessco-20&amp;linkCode=as2&amp;camp=1789&amp;creative=9325&amp;creativeASIN=0394404289">The Prophet</a><img style="border: none !important; margin: 0px !important;" src="http://www.assoc-amazon.com/e/ir?t=thedarknessco-20&amp;l=as2&amp;o=1&amp;a=0394404289" border="0" alt="" width="1" height="1" /> -Khalil Gibran. My first book of wisdom, from my mother.  
-_The Dark is Rising_ - Susan Cooper. Haunting, quiet imagery. A boy hero seeks out talismans he'll need to face down a world-menacing force. 
+_The Dark is Rising_ - Susan Cooper. Haunting, quiet imagery. A boy hero seeks out talismans he'll need to face down a world-menacing force.  
 _Farmer Boy_ - Laura Ingalls Wilder. Pure American decency and virtue, read to us by my father.  
 _James and the Giant Peach, Danny the Champion of the World, The Wonderful Story of Henry Sugar and Six Others_ - Roald Dahl. Dahl unchains children in his stories and in the visions of his readers. _James_ was read to us at Horizons School. My parents bought me the rest. Of course, everyone saw _Charlie and the Chocolate Factory_ with Gene Wilder from 1971. The book is good. But avoid the creepy new version.
