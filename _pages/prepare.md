@@ -140,7 +140,7 @@ bitter, sweet, sour, salty, savory, spicy, crunchy, fatty
 - sour: orange, grapefruit, pineapple, berries
 - salty: celery, tomatoes
 - savory: tomatoes, olives (rinse off oil)
-- spicy: just a hint, barely enough to notice. Spicy greens are best, like rocket, arugala, mustard, cilantro
+- spicy: just a hint, barely enough to notice. Spicy greens are best, like rocket, arugula, mustard, cilantro
 - crunchy: celery, apple
 - fatty
     - with sufficient chewing, oiliness of lettuce is usually enough
