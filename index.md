@@ -18,6 +18,7 @@ _continue reading online for free_{: style="font-size: .5em;padding-top:-10px 0;
     - no spam and your contact info remains hidden, even from me
 - or send me an [email](/about) and at least $5 (see methods below) and I'll send it to you.
 
+#### newsletter
 <!-- Begin Mailchimp Signup Form -->
 <link href="//cdn-images.mailchimp.com/embedcode/classic-10_7.css" rel="stylesheet" type="text/css">
 <style type="text/css">
@@ -28,7 +29,7 @@ _continue reading online for free_{: style="font-size: .5em;padding-top:-10px 0;
 <div id="mc_embed_signup">
 <form action="https://andrewdurham.us7.list-manage.com/subscribe/post?u=d6d59515adc7449be31fb5e5a&amp;id=7c408bdfaa" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
     <div id="mc_embed_signup_scroll">
-	<h2>newsletter</h2>
+<!--	<h2>newsletter</h2> -->
 <div class="mc-field-group">
 	<label for="mce-EMAIL">Email Address </label>
 	<input type="email" value="" name="EMAIL" class="required email" id="mce-EMAIL">
