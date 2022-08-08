@@ -17,7 +17,7 @@ For 21 years, I have combed the edges of philosophy, health, and design for clue
 - [Existence Isn't Everything](./existence-isnt-everything/) rethinking Objectivism's first axiom
 - [Sociality Undenied](./sociality-undenied/) the operative principle of band society
 - [From Where?](./from-where/) understanding Daniel Quinn
-- <span id=new>NEW:</span> [individualism](./individualism) notes toward an individualist distributed hyperstate
+- <span id=new>NEW:</span> [Individualism](./individualism) notes toward an individualist distributed hyperstate
 
 
 #### Health
