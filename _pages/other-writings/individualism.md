@@ -2,15 +2,23 @@
 title: individualism
 layout: page
 permalink: /other-writings/individualism
-previous: /other-writings
-next: /other-writings/existence-isnt-everything
+previous: /other-writings/from-where
+next: /other-writings/sanity-and-health
 ---
 
 #### notes toward an individualist form of government
 
-Semi-organized yet enough to begin thinking with along new lines.
+These are semi-organized. They are enough to begin thinking along new lines.
 
-#### Individualist Distributed Hyperstate
+##### immutable 
+
+Whatever form legislation, defense, and adjudication take in a society make up its state. Every society morally sanctions certain uses of force through these institutions. Man is a volitional being, thus fallible. Principles must guide his actions, personally and socially, especially in his of force.
+
+A state is an immutable institution of any society. It is not whether a society will have one, but what kind it has. It is axiomatic. State power would be needed to abolish states, as in the anarchist fantasy. It is impossible.
+
+A state could be the centralized, monopolizing, established beast we are used to. Or it could be distributed, internally competitive, and open-source. A new Individualist Party advocates a distributed state to best support individuals in the exercise of our natural rights to life, liberty, and property.
+
+#### individualist distributed hyperstate
 
 This is a state that is:
 
@@ -18,20 +26,22 @@ This is a state that is:
 - embodied by individuals throughout the population
 - of maximum size in terms of number of participants, amount of laws (through contracts), degree of control exercised (by individuals of their own affairs), and amount of power held by them in total.
 
-Individualism sets the operational context of the society. it opposes altruism, the pathological over-consideration of others. The rights of man to life, liberty, and property and the corollary maxims of law become common sense again. Little children understand, apply, and uphold them. No one will be confused by collectivist appeals to the common good or offers of representation or stewardship. Everyone call be mentally and legally aligned with his self-preserving nature as an organism.
+Individualism sets the operational context of the society. It opposes altruism, the pathological denial of self pretending to be a focus on others, as if there is a conflict. 
+
+The rights of man to life, liberty, and property and the corollary maxims of law become common sense again. Little children understand, apply, and uphold them. No one will be confused by collectivist appeals to the common good or offers of representation or stewardship. Everyone can be mentally, emotionally, physically, and legally aligned with his self-preserving nature as an organism.
 
 Distribution is the basis of resilience. It eliminates central points of failure through attack, corruption, or manipulation. Everyone is a policeman. Every property's line is a border. Everyone knows how things work. Everyone is officially responsible. No one imagines otherwise.
 
 Maximization prevents the power vacuums that evil exploits. It generates a positive outward pressure, like American dishing system in a building. 
 
-~~
+#### precepts 
 
-#### individualist precepts 
+Rather than a constitution or proclamation, our party issues a non-binding _preception_ of rights, crimes, and state functions. These provide a basis for binding law. A 10 year-old can understand it. Everyone becomes his own legislator through contracts. Lawyers help. Defense and adjudication companies help people protect themselves and their property and to settle disputes. Good actors---always a majority---band together to crush rogues.
 
-Individualism: the social philosophy that recognizes the individual as a society's cognitive and moral agent and political unit. The individual alone possesses reason, the faculty of choice. He is indivisible and uncollectable into another agent or unit. He is an end in himself. Securing his freedom is the purpose of politics.  
+Individualism is the moral-political philosophy that recognizes the individual as the cognitive and moral agent and political unit in a society. The individual alone possesses reason, the faculty of choice. He is indivisible and uncollectable into another agent or unit. He is an end in himself. Securing his freedom is the purpose of politics.  
 (Contrast with collectivism.)
 
-Possessing choice, man can do evil to others. The need for enforceable rules of action is inherent in human society. Rules are defined by politics, a branch of philosophy. Politics is applied through a state. A state is whatever form laws, defenses, and adjudication take in a society.
+Possessing choice, man is fallible. He can do evil to others. The need for enforceable rules of action is inherent in human society. Rules are defined by politics, a branch of philosophy. Politics is applied through a state. A state is whatever form laws, enforcement, and adjudication take in a society.
 
 As an organism, the task of a human being is to live. The action of living is defined by conditional self-preservation. Each individual human being preserves himself by will: a constant process of choice to meet the conditions of life.
 
@@ -81,7 +91,7 @@ What can individualists do against, for example, a polluter? Complain privately 
 
 Anyone who is not an individualist is a criminal or sympathizer. As Gandhi said, "Non-cooperation with evil is as much of a duty as cooperation with good."
 
-~~
+#### function
 
 Here is how a distributed state works.
 
@@ -96,9 +106,9 @@ Here is how a distributed state works.
 
 _The Market for Liberty_ by the Tannehills explains this detail. They show the intriguing role of insurance companies in funding and organizing most state functions, including armies and weapons of mass destruction. The cost of governance can go down to normal rates of profitability of business.
 
-The Tannehills only err in saying business's provision of governance services implies the absence of a government or state. No, it just means the state is distributed among the entire population. _The Moon is a Harsh Mistress_ by Robert Heinlein and _Atlas Shrugged_ by Ayn Rand show this in action.
+The Tannehills only err in saying business's provision of governance services implies the absence of a government or state. No, it just means the state is distributed among the entire population. _The Moon is a Harsh Mistress_ by Robert Heinlein and _Atlas Shrugged_ by Ayn Rand (especially part 3, chapters 1-2) show this in action.
 
-Ayn Rand erred with everyone else in assuming a _centralized_ state. She was wrong to say a state requires a monopoly on force. But she was fundamentally right in asserting the political nature of man and thus his need for a state. Man possesses the faculty of choice. He can err dangerously or do evil. it needs guiding principles. Occasionally, he must be stopped by force.
+Ayn Rand erred with everyone else in assuming a _centralized_ state. She was wrong to say central bodies require a monopoly on force. But she was fundamentally right in asserting the political nature of man, thus his need for a state and for principled control of the use of force. Man possesses the faculty of choice. He can err dangerously or do evil. it needs guiding principles. Occasionally, he must be stopped by force.
 
 To deny what a thing is is to deny _that_ it is. Its destruction follows logically. To deny man's political nature is to deny his life. To deny the state logically requires force. It disarms everyone and leads to totalitarian dictatorship. Note that an individual is still in control. But not at himself. Of everyone.
 
@@ -108,7 +118,7 @@ In truth, people deny the state out of self-hatred: denial of the state comes fr
 
 The problem is not the state, the social embodiment of man's political nature. The problem is the centralized state arising from personal dysfunction. The solution is the distributed state arising from personal restoration and logic.
 
-~~
+##### biology
 
 *Natural power is the power to live. It is a biological phenomenon. It a function of health. It comes from within. It is recovered by self-healing in profound rest. Profound rest occurs as a physiological response in extended, perfected silence, solitude, fasting, and/or darkness. See darkroomretreat.com.
 
@@ -173,16 +183,6 @@ Freedom means a society characterized by safety from the initiation of force by 
     - pure: communism
     - near: fascism, monarchy, Islam, Catholocism
     - mixed: socialism, democracy, republic, Satanism, tribalism
-
-##### immutable 
-
-Whatever form legislation, defense, and adjudication take in a society make up its state. Every society morally sanctions certain uses of force through these institutions.  
-
-A state is an immutable institution of any society. It is not whether a society will have one, but what kind it has. It is axiomatic. State power is needed to suppress states.
-
-It could be the centralized, monopolized, established beast we are used to. Or it could be distributed, competitive, and open-source. The Individualist Party advocates a distributed state to best support individuals in the exercise of our natural rights to life, liberty, and property.
-
-Rather than a constitution or proclamation, our party issues a non-binding _preception_ of rights, crimes, and state functions. These provide a basis for binding law. A 10 year-old can understand it. Everyone becomes his own legislator through contracts. Lawyers help. Defense and adjudication companies help people protect themselves and their property and to settle disputes. Good actors---always a majority---band together to crush rogues.
 
 ##### against anarchy
 
