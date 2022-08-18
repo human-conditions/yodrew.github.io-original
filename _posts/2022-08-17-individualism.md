@@ -16,4 +16,4 @@ Individualism's function is liberation. Distribution can remain as its natural, 
 
 ~~
 
-For more details about this, see my [notes toward an individualist ditributed hyperstate](/other-writings/individualism)
+For more details about this, see my new [notes toward an individualist form of government](/other-writings/individualism), the _individualist distributed hyperstate_.
