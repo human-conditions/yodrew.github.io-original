@@ -6,17 +6,17 @@ layout: post
 published: true
 ---
 
-An individualist politics is not enough to secure freedom. An individualist form of government is necessary to apply the politics. And an individualist party is necessary to institute such a government.
+An individualist politics is not enough to secure freedom. An individualist form of government is necessary to apply the politics. An individualist party is necessary to institute such a government.
 
-Individualism has relied on centralized states and traditional parties. But they are inherently collectivist. Centralized states involve delegation of power, representation, voting, secret societies, and arcane rules and laws. Traditional parties are intellectually impure and bent toward centralized states. Together, they chew up individualist philosophy and spit it out as collectivist tyranny. 
+Individualism has relied on the centralized state and traditional parties. But they are inherently collectivist. The centralized state involve delegation of power, representation, voting, secret societies, and arcane rules and laws. Traditional parties are intellectually impure. Their centralization and hierarchy mirror the states they are oriented toward. Together, state and parties chew up the individualist vision and spit it out as collectivist tyranny. 
 
-_Form, not content, determines results_. "The medium is the message" (McCluhan). The means are the end. "We shape our buildings, and afterwards our buildings shape us" (Churchill).
+_Form, not content, determines results_. "The medium is the message" (McCluhan). "We shape our buildings, and afterwards our buildings shape us" (Churchill). The means are the end.
 
-Ironically, the solution is the distributed organization of collectivist activism. Distribution suits rebelliousness and individual initiative. It reflects the legal equality that underdogs yearn for.
+Ironically, the solution is the distributed organization of collectivist party activism. Distribution suits rebelliousness and individual initiative. It reflects the legal equality that underdogs yearn for.
 
-But collectivism's function is despotism. This has to be hidden. Once power is attained, distribution is discarded for centralization. Hierarchy is fortified and crushes all rebellion.
+But collectivism's function is despotism. This is evil. It has to be hidden. Once power is attained, distribution is discarded for centralization. Hierarchy is fortified. All rebellion is crushed.
 
-Individualism's function is liberation. This is righteous. It never has to changed its character. The distributed organization of an individualist party could persist naturally in an individualist form of government.
+Individualism's function is liberation. This is righteous. This is its appeal. It must not change its character. Its party's distributedness remains in the natural, permanent form of individualist government.
 
 ~~
 
