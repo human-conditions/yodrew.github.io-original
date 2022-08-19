@@ -14,9 +14,9 @@ _Form, not content, determines results_. "The medium is the message" (McCluhan).
 
 Ironically, the solution is the distributed organization of collectivist party activism. Distribution suits rebelliousness and individual initiative. It reflects the legal equality that underdogs yearn for.
 
-But collectivism's function is despotism. This is evil. It has to be hidden. Once power is attained, distribution is discarded for centralization. Hierarchy is fortified. All rebellion is crushed.
+But collectivism's function is despotism. This has to be hidden. Once power is attained, distribution is discarded for centralization. Hierarchy is fortified. All rebellion is crushed.
 
-Individualism's function is liberation. This is righteous. This is its appeal. It must not change its character. Its party's distributedness remains in the natural, permanent form of individualist government.
+Individualism's function is liberation. This is its appeal. So it only has one face. Its party's distribution manifests as the natural, permanent form of individualist government.
 
 ~~
 
