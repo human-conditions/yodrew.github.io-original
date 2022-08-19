@@ -168,10 +168,9 @@ This is the philosophical law of causality applied to health: a thing acts in ac
 
 Everything has a structure, whether it is an idea, a building, a body, a galaxy. In organisms, structure is the psychophysical framework of life, holding it up, keeping it together. Like life, capacity is a union of being and consciousness. It is the vital pattern of an organism. It exists at every scale like a fractal or hologram. It is lifeforce in a particular form. Yet it cannot be reduced to consciousness, the nervous system, the skeleton or myofascia, or DNA. Any of these might serve to represent its status. 
 
-Capacity is synonymous with constitution, endowment, type, inheritance, stock, and potential. Like these, capacity is conventionally assumed to be static; in fact, it is dynamic, changing constantly. Capacity is experienced as a sense of ease in doing something. It shows up in colloquialisms: 
+Capacity is synonymous with constitution, endowment, type, inheritance, stock, and potential. Like these, capacity is conventionally assumed to be static. In fact, it is dynamic, changing constantly. Capacity is experienced as a sense of ease in doing something.
 
-"Do you have it in you? Do you have what it takes? The wherewithal? The right stuff? The touch? The X factor?"  
-Or, "He's a natural. He was born to do it. It's in the blood." 
+Capacity shows up in colloquialisms: "Do you have... it in you? What it takes? The wherewithal? The right stuff? The touch? The X factor?" Or, "He's a natural. He was born to do it. It's in the blood." 
 
 Two influences affect capacity significantly: profound rest (positively) and major trauma (negatively). Profound rest is both physical and psychical. Fasting provides primarily physical rest; darkroom retreating, primarily psychic rest. These can be used together or separately depending on capacity. 
 
