@@ -60,8 +60,8 @@ Life, liberty, and property are rights because they are right. They enable us to
 
 #### so much for voting and representation (democracy and representation)
 
-Voting is a nauseating exercise. people like it as much as paying taxes. They only vote because they are desperate.
-They don't know what else to do. They don't know what else they can do. The whole business is disgusting. They don't want to be involved. They are relieved to turn it over to the cockroaches who seem to enjoy it, then be done with it for another 2 or 4 years.
+Voting is a nauseating exercise. People like it as much as paying taxes. They only vote because they are desperate.
+They don't know what else they can do. The whole business of elections and referendums is disgusting. They don't want to be involved. They are relieved to turn it over to the cockroaches who seem to enjoy it, then be done with it for another year or two.
 
 An individualist party would finally turn abstention into a meaningful vote. It would delegitimize the establishment, imploding it. Collective _inaction_ is the instinct of everyone with a shred of decency. A distributed state weaponizes  decency against the source of corruption: mass delegation of power to a central body. Members of such bodies abuse power, just as the masses deserve. They've give up the most precious thing they had: say-so over their own lives. So the centralized politicians start running them for their own purposes. Why would they do otherwise?
 
