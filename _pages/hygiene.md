@@ -61,7 +61,7 @@ The benefits of profound rest accumulate day by day. If interrupted, some healin
 
 #### history
 
-Hygiene originated in America when it was still the only marginally free country in the world. It was a generation after the Revolution, in the Age of Enlightenment. Hygiene became a mass movement in 1832 with the lectures of Sylvester Graham, physiologist and namesake of Graham (whole) flour. Two doctors, Isaac Jennings and Russell Trall, abandoned drugging, further developed hygienic theory and practice, and spread hygiene widely with publications, teaching, and organization. 
+Hygiene originated in America when it was still the world's freest country. It came a generation after the revolution, in the Enlightenment. Hygiene became a mass movement in 1832 with the lectures of Sylvester Graham, physiologist & namesake of Graham (whole) flour. Two doctors, Isaac Jennings and Russell Trall, abandoned drugging, further developed hygienic theory and practice, and spread hygiene widely with publications, teaching, and organization. 
 
 Mary Gove helped bring hygiene to women of the 19th century, whose increasing independence it matched. Florence Nightingale transmitted its rudiments internationally through nursing (before medicine co-opted it). John Tilden buoyed and innovated in hygiene after the untimely death of Dr Trall. Herbert Shelton revived and systematized it for the 20th century. He formalized it as "Natural Hygiene" to strike the imagination and distinguish it from narrow medical usage. 
 
