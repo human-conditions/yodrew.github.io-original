@@ -95,7 +95,7 @@ At last we are prepared to understand the secret of why hygienic darkroom retrea
         Melatonin is but one of many hormones, nervous signals, and processes that facilitate the deep rest and sleep necessary to recover from and assimilate the benefits of waking life.
     2. Destimulation 
         - Sensory processing: we conserve the significant effort and energy of sensory processing. Sight requires twice as much processing as all other senses combined. Darkness eliminates vision and minimizes other sensation. 
-        - Calm: without the abstract food of visual data, the abstract mind slows down
+        - Calm: without the abstract stimulation of visual data, the abstract mind slows down
             - fewer thoughts occur
             - thinking becomes harder
             - thinking becomes _less interesting_ (!)
