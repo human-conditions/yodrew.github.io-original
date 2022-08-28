@@ -14,9 +14,9 @@ A - We will become the kind of people who can solve it.
 B - What kind is that?  
 A - Super powerful people. Super power generates enormous personal presence and influence. It is irresistable. It inspires hope, imagination, and initiative in witnesses.
 
-Under its influence, others remember themselves. Their current lives can suddenly seem strange to them. They immediately change course toward sanity and freedom. They ask how we did it.
+Under its influence, others remember themselves. Their current lives can suddenly seem strange to them. They immediately change course toward sanity and freedom. They ask how to do it.
 
-Politicians and the ultra-rich share this response. Their native personal power is only a little more than usual. The rest is artificial, from spiritual practice. They leverage this into external power: government, finance, technology, etc. It is a house of cards. 
+Politicians and the ultra-rich share this response. Their native personal power is only a little more than usual. The rest is artificial, from strange practices. They leverage this into external power: government, finance, technology, etc. It is a house of cards. 
 
 The living power of a restored individual dwarfs theirs. They are desperate for real power, for an alternative to their manipulative strategy.  
 B - How do we get such power?  
@@ -28,22 +28,24 @@ A - As organisms, we are self-healing, given the proper conditions. The primary 
 B - What is profound rest?  
 A - It lasts longer than daily rest, with perfected conditions.  
 B - How do we do it?  
-A - The most profound rest occurs in total darkness. Combining it with other conditions of rest a _hygienic darkroom retreat_. We will study my book about it, build perfect darkrooms, and learn to support each other's retreats.  
+A - The most profound rest occurs in total darkness. Combining it with other conditions of rest makes a _hygienic darkroom retreat_. We will study my book about it, build an excellent darkroom, and learn to support each other's retreats.  
 B - Are you saying all we have to do is rest in darkness and thousands of years of suffering will evaporate?  
-A - Yes. Just as power is natural, so is trauma. It results from the collisions of a material universe. So nature, in its perfection, provides the conditions for healing from it, primarily darkness. It is that simple. 
+A - Yes. Just as power is natural, so is trauma. Trauma comes from the collisions of a material universe. So nature, in its perfection, provides the conditions for healing from it, primarily darkness. It is that simple. 
 
 Freedom is also natural. We are already as free as we are capable of being. We will simply recover our original capacity for it.
 
-Nothing spreads faster among people than the influence of super powerful people. Five or ten of us, each 10 times more powerful than Gandhi or Martin Luther King, Jr, can quickly reverse the crisis. First results will appear in three months and newsworthy ones in a year. We'll finish in 3-5 years. In a decade, this time will seem like a distant dream.  
-B - I have never heard of this. It sounds fantastical. Yet it makes sense. I will have more questions, but I must think about it. I will talk to you again soon.
+Nothing spreads faster among people than the influence of super powerful people. Five or ten of us, each 10 times more powerful than Gandhi or Martin Luther King, Jr, can quickly reverse the crisis. First results will appear in three months and newsworthy ones in a year. We'll finish in 3-5 years. In a decade, this crisis will seem like a distant dream.  
+B - I have never heard of this. It sounds mythical. Yet it makes sense. I will have more questions, but I must read and think about it. I will talk to you again soon.
 
 [to be continued]
 
 #### proposal
 
-Let's enact the above scene, end the crisis, and restore humanity to sanity. It will take a team of 12 and $30k (4 and $6k to start). It will becomes self-supporting within a year.
+Let's enact the above scene, end the crisis, and restore humanity to sanity. It will take a team of ~20, but just 4 to start.
 
 ##### plan
+
+The following is just an example. It's already happening differently. Two potential sites are found. Costs will be extremely low, in the hundreds of dollars per person. This enables self-funding.
 
 - organization
     - you arrange funding, locations, suppliers, security, logistics, legal
