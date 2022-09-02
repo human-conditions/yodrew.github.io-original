@@ -26,9 +26,9 @@ This is a state that is:
 - embodied by individuals throughout the population
 - of maximum size in terms of number of participants, amount of laws (through contracts), degree of control exercised (by individuals of their own affairs), and amount of power held by them in total.
 
-Individualism sets the operational context of the society. It opposes altruism. This is a pretense of focusing on the good of others which is actually a pathological denial of self.
+Individualism sets the operational context of the society. It opposes altruism. This is a pretense of focusing on the good of others. It is actually a pathological denial and sacrifice of self.
 
-The rights of man to life, liberty, and property and the corollary maxims of law become common sense again. Little children understand, apply, and uphold them. No one will be confused by collectivist appeals to the common good or offers of representation or stewardship. Everyone can be mentally, emotionally, physically, and legally aligned with his self-preserving nature as an organism.
+The rights of man to life, liberty, and property and the corollary maxims of law will become common sense again. Little children understand, apply, and uphold them. No one will be confused by collectivist appeals to the common good or offers of representation or stewardship. Everyone can be mentally, emotionally, physically, and legally aligned with his self-preserving nature as an organism.
 
 Distribution is the basis of resilience. It eliminates central points of failure through attack, corruption, or manipulation. Everyone is a policeman. Every property's line is a border. Everyone knows how things work. Everyone is officially responsible. No one imagines otherwise.
 
