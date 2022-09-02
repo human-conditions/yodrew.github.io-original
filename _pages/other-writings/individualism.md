@@ -12,7 +12,7 @@ These are semi-organized. They are enough to begin thinking along new lines.
 
 ##### immutable 
 
-Whatever form legislation, defense, and adjudication take in a society make up its state. Every society morally sanctions certain uses of force through these institutions. Man is a volitional being, thus fallible. Principles must guide his actions, personally and socially, especially in his of force.
+Whatever forms legislation, defense, and adjudication take in a society, they make up its state. Every society morally sanctions certain uses of force through these institutions. Man is a volitional being, thus fallible. Principles must guide his actions, personally and socially, especially in his of force.
 
 A state is an immutable institution of any society. It is not whether a society will have one, but what kind it has. It is axiomatic. State power would be needed to abolish states, as in the anarchist fantasy. It is impossible.
 
@@ -26,7 +26,7 @@ This is a state that is:
 - embodied by individuals throughout the population
 - of maximum size in terms of number of participants, amount of laws (through contracts), degree of control exercised (by individuals of their own affairs), and amount of power held by them in total.
 
-Individualism sets the operational context of the society. It opposes altruism, the pathological denial of self pretending to be a focus on others, as if there is a conflict. 
+Individualism sets the operational context of the society. It opposes altruism. This is a pretense of focusing on the good of others which is actually a pathological denial of self.
 
 The rights of man to life, liberty, and property and the corollary maxims of law become common sense again. Little children understand, apply, and uphold them. No one will be confused by collectivist appeals to the common good or offers of representation or stewardship. Everyone can be mentally, emotionally, physically, and legally aligned with his self-preserving nature as an organism.
 
