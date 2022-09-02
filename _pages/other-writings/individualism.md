@@ -32,7 +32,7 @@ The rights of man to life, liberty, and property and the corollary maxims of law
 
 Distribution is the basis of resilience. It eliminates central points of failure through attack, corruption, or manipulation. Everyone is a policeman. Every property's line is a border. Everyone knows how things work. Everyone is officially responsible. No one imagines otherwise.
 
-Maximization prevents the power vacuums that evil exploits. It generates a positive outward pressure, like an air conditioning system in a building. 
+Maximization prevents the power vacuums that evil exploits. It generates positive outward pressure that prevents contaminants from entering.
 
 #### precepts 
 
