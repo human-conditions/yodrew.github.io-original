@@ -93,9 +93,9 @@ Anyone who is not an individualist is a criminal or sympathizer. As Gandhi said,
 
 #### function
 
-Here is how a distributed state works.
+Here are the history and workings of a distributed state.
 
-1. An ancient cataclysm destroyed nearly everything, including natural human society. Most survivors were rendered helpless. individual strikes became the exception. The hero and psychopath emerged to protect and control people. Civilization arose apparently to control the controllers, but really to distribute the shock of cataclysm. Civilization thus maximizes the number and quality of  people who are trying figure out what the hell happened and what to do about it.
+1. An ancient cataclysm destroyed nearly everything, including natural human society. Most survivors were rendered helpless. The hero and psychopath emerged to protect and control people. Civilization arose apparently to control the controllers, but really to distribute the shock of cataclysm. Civilization thus maximizes the number and quality of  people who are trying figure out what the hell happened and what to do about it.
 2. Meanwhile, millennia of delegating our authority to centralized governments have totally debased us. We surrendered what responsibility we had left and became soft. Our representatives have held a legal monopoly on rightful use of force within our territories. 
 3. We should all be managing the use of force ourselves. State functions should be distributed. A critical mass of individuals (5-10) will recover the natural power* necessary to influence society toward it.
 4. An individualist party defines universal yet non-binding precepts of law and government. Definitions are short and simple enough for children to understand and use. Precepts are based on natural rights of individuals to life, liberty, property: the body, motility, and possessions and how they are violated. Everyone knows them. No one likes being assaulted, captured, or robbed.
