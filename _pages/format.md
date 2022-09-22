@@ -88,9 +88,9 @@ A mini-retreat helps maintain restedness between 4- and 8-day retreats. Some ben
 
 ###### 4-day retreat
 
-Once your darkening and ventilating measures are working smoothly for nightly use and mini-retreats, you can easily add the remaining elements of a darkroom for a regular retreat. (If you retreat for the first time at a center, you can begin with an 8-day retreat.) 
+Once your darkening and ventilating measures are working smoothly for nightly use and mini-retreats, you can easily add the remaining elements of a darkroom for a 4-day retreat.
 
-Everyone interested in a 4-day retreat can try one. Though not guaranteed, it is possible to catch up on all the sleep one ever lost in four days. The amount of deep sleep that can be had in such a short amount of time is impossible to conceive beforehand and hard to believe even after experiencing it. You can get relief from your distress and overstimulation. You can recover homeostasis and equilibrium. You can regain hope and register a memory of feeling very good. While most effects fade after a few weeks, you will begin to recover little pieces of your lost self. Lastly, you start learning how to be in darkness. Your supporter starts to learn how to be around a retreat. You will get a clearer idea about how and when to do future retreats, and for how long.
+Everyone interested in a 4-day retreat can do one. Though not guaranteed, it is possible to catch up on all the sleep one ever lost in four days. The amount of deep sleep that can be had in such a short amount of time is impossible to conceive beforehand and hard to believe even after experiencing it. You can get relief from your distress and overstimulation. You can recover homeostasis and equilibrium. You can regain hope and register a memory of feeling very good. While most effects fade after a few weeks, you will begin to recover little pieces of your lost self. Lastly, you start learning how to be in darkness. Your supporter starts to learn how to be around a retreat. You will get a clearer idea about how and when to do future retreats, and for how long.
 
 Timing of regular retreats is a bit more flexible than mini-retreats. Plan to turn off lights between 18:00 and 20:00. If something comes up and you are a little late, it's ok. But if you start after 22:00 due to scheduling, insomnia, anxiety, or addiction, add an extra day and night of darkness to your retreat. This, by the way, is how to begin seriously interrupting these illnesses. The effect of such a short retreat will likely be temporarily. But at least you'll glimpse the light at the end of the tunnel.
 
@@ -196,15 +196,14 @@ In three visits over two years, one would be:
 
 For a few years, I focused on designing and building public darkrooms. Then came a few more years of making and helping individuals make private darkrooms at home. As a consultant, I am also available to help:
 
-- operators of public dedicated darkrooms for short and medium retreats
-- those with existing centers wishing to include hygienic darkroom retreating in their programs
+- operators of retreat centers and public darkrooms who would like to learn the hygienic approach
 - developers of hygienic retreat centers as I just described
 
-Those who support hygienic darkroom retreating are eligible for my future network, through which I can refer clients to you. Write me for more info.
+If you support hygienic darkroom retreating, I will refer clients to you. Write me.
 
 ~/~
 
-It may take a few generations of healthy living to fully restore our health and realize our potential as human beings. But we can make huge strides in our lifetimes, getting most of the way back.
+It may take a few generations of healthy living to fully restore our health and realize our potential as human beings. But I think we can make huge strides in our lifetimes, getting most of the way back.
 
 We have examined different formats of the restful use of darkness for different circumstances and purposes. Let's look ahead to more of what happens in a retreat and exactly how to conduct it.
 
