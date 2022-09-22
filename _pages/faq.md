@@ -10,7 +10,7 @@ navnext: appendix-laws-of-life
 
 - _Where can I go to retreat?_
  
-If you can, I recommend making darkness happen first in your own home for sleeping, then for a 4-day retreat, maybe 8. Once you've learned the ropes, make another darkroom in the countryside or go to a public darkroom for a medium retreat (3-8 weeks). There are 50 of them worldwide and counting. Most are spiritual and therapeutic centers. I think most will support hygienic retreats if you ask and know what you are doing.
+While there are dozens of darkroom retreat centers worldwide, none can support hygienic darkroom retreats. So, if you can, I recommend making darkness happen first in your own home for sleeping, then for a 4-day retreat. Once you've learned the ropes, share the idea with others. Make another darkroom in its own building and support each other's 8-day and longer retreats.
 
 - _Do you eat in a retreat?_
 
