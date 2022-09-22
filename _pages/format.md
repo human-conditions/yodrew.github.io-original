@@ -120,7 +120,15 @@ If your location has no running water, it's no problem. For this short of a peri
 
 ###### 8-day retreat
 
-The organism's response to darkness is cumulative; the healing process deepens every day. An 8-day retreat is more than twice as beneficial as a 4-day retreat. And one can begin retreating with an 8-day retreat once conditions are met. 
+The organism's response to darkness is cumulative; the healing process deepens every day. An 8-day retreat is more than twice as beneficial as a 4-day retreat. 
+
+One can begin retreating with an 8-day retreat once conditions are met. It is best for everyone who can. It seems to be necessary for 5-10% of the population, those who:
+
+- are really insomnious
+- are really well rested on a regular basis
+- are extremely defended psychologically
+
+So if you try a 4-day retreat and it didn't help, keep trying until you have done a proper 8-day retreat.
 
 An 8-day retreat has all the elements of a 4-day retreat, plus:
 
