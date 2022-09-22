@@ -22,14 +22,14 @@ I describe the overall process of retreating in [*format*](/format), especially 
 
 - food
     - the day your retreat begins, eat the same way you will in darkness: just fruit and greens or as simply as you can
-    - finish eating for the day by 18:00
+    - finish eating for the day by 20:00
 - retreating
     - in your bedroom:
         - neutralize it: cover or store everything unnecessary to the retreat
         - clean it thoroughly
         - pad sharp corners and protrusions
     - at a center
-        - arrive at 18:00
+        - arrive at 16:00
         - your supporter will:
             - show you to your room, pointing out where food will be delivered and any special features
             - find out particular things you need
