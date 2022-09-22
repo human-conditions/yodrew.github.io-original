@@ -120,18 +120,18 @@ If your location has no running water, it's no problem. For this short of a peri
 
 ###### 8-day retreat
 
-If you have built your own darkroom, only do an 8-day retreat once you and your support team have each done a 4-day retreat. If retreating at an established darkroom, you can begin with an 8-day retreat. The organism's response to darkness is cumulative; the healing process deepens every day. Eight days is more than twice as beneficial as four.
-
-Many of my early clients felt like they were just beginning to get somewhere when their 4-day retreat ended. Some were either so wound up or so rested to begin with that 48 hours was not enough for them to get anywhere, whether with their exhaustion or their inner struggle. So I upgraded my darkroom to handle 8-day retreats for first-timers. 
-
-Sure enough, they did fine and expressed greater satisfaction with their retreats than 4-day retreatants. Scheduling a first retreat of 8 days ensures a breakthrough of some kind is made. I can imagine in some very crystallized cases, longer still will be necessary. Strong defenses and controls must dissolve enough to begin making progress back to health. But 8-day retreats have great potential to support recovery of the lost self.
+The organism's response to darkness is cumulative; the healing process deepens every day. An 8-day retreat is more than twice as beneficial as a 4-day retreat. And one can begin retreating with an 8-day retreat once conditions are met. 
 
 An 8-day retreat has all the elements of a 4-day retreat, plus:
 
-- a support team of at least three people. Two people should be nearby all the time with one available to respond. This creates psychic shielding for the retreatant.
+- a support team of at least three people. Two people should be nearby all the time with one available to respond. This creates emotional assurance and psychic shielding for the retreatant.
 - after physical restedness is reached in the first cycle, a major psychic issue can arise and be resolved in the second cycle
 - a second day of transition is added at the end
 - a fully functional bathing facility is added for emotional as well as physical reasons. For remote locations, see plans for a [*portable indoor shower*](/water#deluxe).
+
+Many of my early clients felt like they were just beginning to get somewhere when their 4-day retreat ended. Some were either so wound up or so rested to begin with that 48 hours was not enough for them to get anywhere, whether with their exhaustion or their inner struggle. So I upgraded my darkroom to handle longer for first-timers. 
+
+Sure enough, they did fine and expressed greater satisfaction with their retreats than 4-day retreatants. Scheduling a first retreat of 8 days ensures that progress of some kind is made. An 8-day retreat has great potential to support recovery of the lost self.
 
 ##### medium
 
