@@ -223,9 +223,9 @@ However, darkness is no escape. Sometimes illness needs to be addressed in other
 
 Above all, this book presents an idea for consideration. For now, doing a retreat is not at issue. To do something like this, you must know how and you must want to. To want to, you must believe in it. To believe, you must know enough about it to find it true. So first, learn the idea. Natural motivation comes from rational belief. Invest your time in knowledge by reading every word of this book, cover to cover. As Finn says, "Nothing costs more than what you don't pay for."
 
-Once you are motivated, use the book as a manual for making basic darkness for yourself at your own place. Download the companion darkroom retreat [zip file](/darkroom-retreat.zip) to get all the plans for components<!-- as well as some reference reading -->. Or find a retreat center. See [*prepare*](/prepare) for resources.
+Once you are motivated, use the book as a manual for making basic darkness for yourself at your own place. Download the companion darkroom retreat [zip file](/darkroom-retreat.zip) to get all the plans for components<!-- as well as some reference reading -->.
 
-Help from others may or may not come. You are the one you have been waiting for. The need for self-reliance applies to darkness more than anything else I've ever gotten involved with. It has been hard for me to recover enough of a self to rely on, to ferret out remnants of it I didn't know I had. But bit by bit, "a little here, a little there", the task is being accomplished.
+Help from others may or may not come. You are the one you have been waiting for. The need for self-reliance applies to darkness more than anything else I've ever been involved with. It has been hard for me to recover enough of a self to rely on, to ferret out remnants of it I didn't know I had. But bit by bit, "a little here, a little there", the task is being accomplished.
  
 The full application of the idea of hygienic darkroom retreating consists of doing retreats of increasing length alternated with periods of making the radical changes in lifeway one becomes capable of in darkness. This includes studying and applying the rest of hygiene. Continue until your psychic integrity and physical health are completely restored. _Live_.
 
