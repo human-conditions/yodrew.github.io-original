@@ -15,7 +15,7 @@ Just the ideas in this book can bring relief and hope. But 99% of their value li
 
 This chapter provides basic information that applies to all components of a darkroom. The next three chapters provide blueprints and instructions for components related to three elements: air, darkness, water. They are vents, silencers, seals, blinds, and kitchen and bathroom fixtures. Designs are low-cost, low-tech, and work off-grid.
 
-A darkroom is a real thing you see and touch, make, use, and offer others. It is not a metaphor. It takes a knowledge, imagination, design, measurement, plans, materials, craftsmanship, construction, testing, and improvement. 
+A darkroom is a real thing you see and touch, make, use, and offer others. It is not a metaphor. It takes knowledge, imagination, design, measurement, plans, materials, craftsmanship, construction, testing, and improvement. 
 
 These are normal human activities everyone can do to some degree and get help with the rest. If you can walk down stairs without falling, hit a plate when you aim food at it, hold a pencil, cognize sentences, tell light from dark, and feel a breeze, you are mechanically sufficient to begin. As Jack Nuckols, an engineer and my grand-elder, once told me when my time came, "Become a craftsman." Perhaps your time has come.
 
