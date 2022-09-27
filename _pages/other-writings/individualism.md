@@ -32,7 +32,7 @@ The rights of man to life, liberty, and property and the corollary maxims of law
 
 Distribution is the basis of resilience. It eliminates central points of failure through attack, corruption, or manipulation. Everyone is a policeman. Every property's line is a border. Everyone knows how things work. Everyone is officially responsible. No one imagines otherwise.
 
-Maximization prevents the power vacuums that evil exploits. It generates positive outward pressure that prevents contaminants from entering.
+Maximization prevents the power vacuums that evil exploits. Like a beating heart, it generates positive outward pressure that prevents contaminants from entering.
 
 #### precepts 
 
@@ -108,7 +108,7 @@ _The Market for Liberty_ by the Tannehills explains this detail. They show the i
 
 The Tannehills only err in saying business's provision of governance services implies the absence of a government or state. No, it just means the state is distributed among the entire population. _The Moon is a Harsh Mistress_ by Robert Heinlein and _Atlas Shrugged_ by Ayn Rand (especially part 3, chapters 1-2) show this in action.
 
-Ayn Rand erred with everyone else in assuming a _centralized_ state. She was wrong to say central bodies require a monopoly on force. But she was fundamentally right in asserting the political nature of man, thus his need for a state and for principled control of the use of force. Man possesses the faculty of choice. He can err dangerously or do evil. it needs guiding principles. Occasionally, he must be stopped by force.
+Ayn Rand erred with everyone else in assuming a state means a _centralized_ state. Its monopoly on the rightful use of force follows, and she affirmed it. But distribution renders it moot. But she was fundamentally right in asserting the political nature of man, thus his need for a state and for principled control of the use of force. Man possesses the faculty of choice. He can err dangerously or do evil. it needs guiding principles. Occasionally, he must be stopped by force.
 
 To deny what a thing is is to deny _that_ it is. Its destruction follows logically. To deny man's political nature is to deny his life. To deny the state logically requires force. It disarms everyone and leads to totalitarian dictatorship. Note that an individual is still in control. But not at himself. Of everyone.
 
