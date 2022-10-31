@@ -38,13 +38,13 @@ alternate date:\_\_\_\_\_\_\_\_\_\_\_\_ +/-\_\_\_ days
 12. How does the menu sound to you?
 13. Would you like to maintain silence during your retreat?
 14. Quiz:
-	a. What is the hygienic purpose of retreating?
-	b. What heals you in darkness?
- 	c. What does this imply about what to do with your will and attention?
-	d. Where is a good place to put your attention most of the time?
-	e. How much does the air you breathe weigh compared to the food you eat, and what does that imply about the importance of continuous fresh air?
-	f. How much does a silent location matter for a successful retreat?
-	g. If a retreat becomes overwhelming, what are 4 things you can do to lower its intensity in order to keep retreating?
+    1. What is the hygienic purpose of retreating?
+    2. What heals you in darkness?
+    3. What does this imply about what to do with your will and attention?
+    4. Where is a good place to put your attention most of the time?
+    5. How much does the air you breathe weigh compared to the food you eat, and what does that imply about the importance of continuous fresh air?
+    6. How much does a silent location matter for a successful retreat?
+    7. If a retreat becomes overwhelming, what are 4 things you can do to lower its intensity in order to keep retreating?
 15. What fears or concerns do you have that might interfere with your retreat, eg, fear of the dark, claustrophobia, superstition, etc? How will you handle them? What support might you need?
 16. Assuming I am correct that everyone is psychotic to some degree, how do you feel darkness might significantly affect you, for better or worse?
 17. Is there anything else you would like to add?
