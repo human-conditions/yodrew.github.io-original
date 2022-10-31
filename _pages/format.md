@@ -59,7 +59,7 @@ Many aspects of modern life seem increasingly out of control. Blackout blinds of
 
 Short retreats span from 14 hours to 8 days. You can at least begin at home.
 
-###### mini-retreat
+###### mini
 
 _Note: I do not recommend mini-retreats for everyone, just if you feel strongly called to it and find yourself able to do it without cutting corners and endangering yourself. I cannot do them properly, so I don't try anymore. I just include it because I saw it was possible and I can imagine there are people whose capacity and circumstances make it appropriate._
 
@@ -86,7 +86,7 @@ A mini-retreat helps maintain restedness between 4- and 8-day retreats. Some ben
 
 > Biological rhythms are very powerful and apparently cannot be messed with in this way. So, better safe than sorry, at least until you have retreated enough to feel confident about experimenting with mini-retreats. 
 
-###### 4-day retreat
+###### 4-day
 
 Once your darkening and ventilating measures are working smoothly for nightly use and mini-retreats, you can easily add the remaining elements of a darkroom for a 4-day retreat.
 
@@ -118,7 +118,7 @@ Ease back into your regular life. I mean avoid non-routine activities the first 
 
 If your location has no running water, it's no problem. For this short of a period, it is unnecessary. See [*water*](/water) for a short list of requirements.
 
-###### 8-day retreat
+###### 8-day
 
 The organism's response to darkness is cumulative; the healing process deepens every day. An 8-day retreat is more than twice as beneficial as a 4-day retreat. 
 
@@ -214,6 +214,3 @@ If you support hygienic darkroom retreating, I will refer clients to you. Write 
 It may take a few generations of healthy living to fully restore our health and realize our potential as human beings. But I think we can make huge strides in our lifetimes, getting most of the way back.
 
 We have examined different formats of the restful use of darkness for different circumstances and purposes. Let's look ahead to more of what happens in a retreat and exactly how to conduct it.
-
-
-
