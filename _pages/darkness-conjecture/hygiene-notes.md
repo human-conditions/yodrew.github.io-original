@@ -6,7 +6,7 @@ navprev: rapture
 navnext: dreamtime
 ---
 
-_Note: this is a early version of the [hygiene](/hygiene/), [darkroom retreat](/darkroom-retreat), and [psychology](/psychology/) chapters from the book. So some of the text is the same. But there are more and different things here about Natural Hygiene and other approaches._
+_Note: this is an early version of the [hygiene](/hygiene/), [darkroom retreat](/darkroom-retreat), and [psychology](/psychology/) chapters from the book. So some of the text is the same. But there are more and different things here about Natural Hygiene and other approaches._
 
 Natural Hygiene's principles enable us to understand how a darkroom retreat works, what part we play in it, and how it relates to our health in general. Natural Hygiene also provides an approach to darkness distinct from the spiritual and conventional scientific approaches often associated with it. 
 
