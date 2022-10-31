@@ -135,7 +135,7 @@ These imbalance, overload, or destroy digestive chemistry, bacteria, and enzymes
 
 If you would study this idea before trying it, see:
 
-- [____*darkroom-retreat > food*____](#food-darkroom-retreat) and [____*protocol > food*____](#food-protocol)
+- [____*darkroom-retreat > food*____](/darkroom-retreat/#food-darkroom-retreat) and [____*protocol > food*____](/protocol/#food-protocol)
 - Dr Douglas Graham's masterful  [____*80/10/10 Diet*____](http://foodnsport.com)
 - [____Loren Lockman's videos____](https://www.youtube.com/user/LorenLockman)
 - [____*Science and Fine Art of Food and Nutrition (Orthotrophy)*____](/f/fnhs.pdf) by Herbert Shelton. This book devastates convention. You'll never look at prepared food the same way again.
