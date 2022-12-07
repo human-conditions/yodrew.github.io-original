@@ -16,4 +16,4 @@ Neither spiritual, therapeutic, nor psychedelic, this is the first approach to d
 
 Hygiene started in 1832 and spread worldwide. The 19th century's famous improvements in public health resulted. Its rudiments became common sense. Billions who never see doctors benefit from hygiene daily. But few know it formally---or its greatest benefits.
 
-In darkness, hygiene finds its missing link: a psychology. Now hygiene can extend its superlative care to the organic system of the psyche. This proves to be the key to health. The result: reliable miracles.
+In darkness, hygiene finds its missing link: a psychology. Now hygiene can extend its superlative care of the physique to the organic system of the psyche. This proves to be the key to health. The result: reliable miracles.
