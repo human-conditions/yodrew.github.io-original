@@ -48,4 +48,4 @@ I found the way back and developed it into a practical method. I need help to be
 2 houses
 $2k for expenses
 
-In three years, it will be done. I have described the [process](/protocol/#power]. The overall method is simple, quick, cheap, pleasant, and rational. Read my book and try it. See the plausibility of it for yourself.
+In three years, it will be done. I have described the [process](/protocol/#power]. Also in two other recent blog posts and an essay linked in them. The overall method is simple, quick, cheap, pleasant, and rational. Read my book and try it. See the plausibility of it for yourself.
