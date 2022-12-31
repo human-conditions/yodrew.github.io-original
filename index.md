@@ -56,7 +56,7 @@ Donations: I appreciate them very much. I live simply. Even small amounts help. 
 <form action="https://www.paypal.com/donate" method="post" target="_top">
 <input type="hidden" name="hosted_button_id" value="TF5HRJLU52YJE" />
 <input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_donate_SM.gif" border="0" name="submit" title="PayPal - The safer, easier way to pay online!" alt="Donate with PayPal button" />
-<img alt="" border="0" src="https://www.paypal.com/en_US/i/scr/pixel.gif" width="1" height="1" />
+
 </form>
 - Venmo [@andrewdurham](https://venmo.com/u/andrewdurham)
 - Cryptocurrency (notify me of payment by email so I can thank you):
