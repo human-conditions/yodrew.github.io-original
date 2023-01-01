@@ -1,5 +1,5 @@
 ---
-title: scene-basic
+title: "scene: basic"
 date: 2020-11-10 12:00:00 Z
 permalink: "/blog/2020/11/10/scene-basic/"
 layout: post
