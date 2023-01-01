@@ -1,10 +1,11 @@
 ---
-title: politics, centralized and distributed
+title: politics: centralized and distributed
 date: 2022-12-22 00:00:00 Z
 permalink: "/blog/2022/12/22/politics-centralized-and-distributed/"
 layout: post
 published: true
 ---
+
 Politics is the set of principles that guides the official use of force in a society. There are two kinds: individualist and collectivist.
 
 Individualist politics respects individual life and choice. It uses the force of a state to uphold the rights of each man to his life, liberty, property. That is, his body, movements, and possessions. 
