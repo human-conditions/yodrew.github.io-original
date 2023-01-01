@@ -8,6 +8,8 @@ published: true
 
 Politics is the set of principles that guides the official use of force in a society. There are two kinds: individualist and collectivist.
 
+#### individualism
+
 Individualist politics respects individual life and choice. It uses the force of a state to uphold the rights of each man to his life, liberty, property. That is, his body, movements, and possessions. 
 
 Individualism entails self-valuing social dynamics. Everyone is a statesman and seeks the values life requires—its normal conditions—protecting himself along the way, sometimes with help.
