@@ -26,7 +26,7 @@ Human beings are diurnal creatures, naturally awake in daytime and asleep at nig
 
 Modern distress (sensory overload, overwork, loneliness, malnourishment, etc) requires hundreds of millions of people to consume psychoactive drugs just to function. Most dislike this dependency, which causes further distress. Caught in a vicious circle, they wonder helplessly if things will ever change. 
 
-While many factors contribute to distress, hygienic darkroom retreating uniquely provides an _opening_: a simple way to begin reversing all of them at once. First, it harmlessly brings them to a halt. Second, it provides the being a chance to recover from them naturally, that is, by itself. Autonomically. No drugs, no therapy, no experts. _Self-healing unleashed_.
+Many factors contribute to distress. Hygienic darkroom retreating provides a simple way to reverse all of them at once. First, it harmlessly brings them to a halt. Second, it provides the being a chance to recover from them naturally, that is, by itself. Autonomically. No drugs, no therapy, no experts. _Self-healing unleashed_.
 
 Thus, contrary to fairy tales, religion, and light bulb advertisements, darkness is a good thing. Darkness, like light, is a natural condition of life. We need nature's full provision of it---10 hours a day---in order to rest properly.
 
