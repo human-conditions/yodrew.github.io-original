@@ -36,18 +36,19 @@ In crisis, we need an extended period of darkness to rest and recover. Darkroom 
 - time to fully recover from injury, exhaustion, and toxemia
 - overdue recognition of exactly which part of whom is performing the recovery
 
-Instinct in extreme circumstances gives us a graphic clue to the basic need for darkness: when psychically overwhelmed, a person crouches down and covers her eyes, taking cover in solitude if possible. Depressed, hysterical, or shocked from violence, her whole being cries out, "Gimme shelter!". 
+We have a basic need for darkness. Instinct in extreme circumstances gives us a graphic clue. When psychically overwhelmed, a child crouches down and covers his eyes, taking cover in solitude if possible. Depressed or shocked from disaster, his whole being cries out, "Gimme shelter!". 
 
-A darkroom is that shelter. Long sought yet right before our eyes, we couldn't see darkness. It was obscured by itself, by our Apollonian obsession with light, thought and action, and by medieval fear. Now we can finally sink into darkness, unconsciousness, and rest, and recover our lost selves.
+A darkroom is that shelter. Darkness was long sought. It was right before our eyes. But we couldn't see it. It was obscured by our Apollonian obsession with light, thought, and action. And by medieval fear. Now we can finally sink into darkness and rest. We can recover our lost selves.
 
 ##### hygiene revisited
 
-Having found shelter---a context---for darkness itself in hygiene, we can better understand why darkroom retreating works. 
+In hygiene, we find a shelter for darkness itself. A context. Now we can better understand why darkroom retreating works. 
 
-First, let's retrace our steps a moment and analyze Webster's sly definition of hygiene: _conditions and practices conducive to the preservation of health._
+First, let us retrace our steps a moment. We will and analyze one of Webster's definitions of hygiene:  
+_conditions and practices conducive to the preservation of health._
 
-- hygiene derives from Hygieia, the Greek goddess of health. 
-- "conditions and practices" refer to the normal conditions of life, the environmental and instinctive factors nature has always provided that make life, including healing, possible
+- hygiene derives from Hygieia, the Greek goddess of health. Hygiene is purely and positively about health.
+- "conditions and practices" refer to the normal conditions and activities of life. These are the environmental and instinctive factors nature has always provided. They make life, including healing, possible
 - Conducive means:
     - making it easy, possible, or likely for something to happen or exist
     - tending to promote or assist
@@ -55,7 +56,7 @@ First, let's retrace our steps a moment and analyze Webster's sly definition of 
 - Preservation refers to an organism's preservation of itself
 - Health refers to that of an organism
 
-Thus, normal conditions support the organism in preserving its own health. Hygiene means self-preservation through providing oneself the normal conditions of life. This whole meaning hides within the dictionary's definition. Natural Hygiene, as the standard bearer of the whole tradition of hygiene, makes it explicit.
+The organism preserves its own health with normal conditions of life. Hygiene is the science of conditional self-preservation. It makes this happen consciously, willfully.  This whole meaning hides within the dictionary's definition. Natural Hygiene, as the standard bearer of hygienic science, makes it explicit.
 
 Now we can elaborate on self-preservation. It:
 
