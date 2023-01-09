@@ -58,7 +58,7 @@ Welcome. This website contains my book, <em>hygienic darkroom retreat</em>, rela
         <div class="optionalParent">
             <div class="clear foot">
                 <input type="submit" value="Subscribe" name="subscribe" id="mc-embedded-subscribe" class="button">
-                <p class="brandingLogo"><a href="http://eepurl.com/ihVLjH" title="Mailchimp - email marketing made easy and fun"><img style="background:#222" src="https://eep.io/mc-cdn-images/template_images/branding_logo_text_light_dtp.svg"></a></p>
+                <p class="brandingLogo"><a href="http://eepurl.com/ihVLjH" title="Mailchimp - email marketing made easy and fun"><img style=" padding:0" src="https://eep.io/mc-cdn-images/template_images/branding_logo_text_light_dtp.svg"></a></p>
             </div>
         </div>
     </div>
