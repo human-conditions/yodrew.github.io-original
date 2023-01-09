@@ -26,7 +26,7 @@ Welcome. This website contains my book, <em>hygienic darkroom retreat</em>, rela
 <!-- Begin Mailchimp Signup Form -->
 <link href="//cdn-images.mailchimp.com/embedcode/classic-071822.css" rel="stylesheet" type="text/css">
 <style type="text/css">
-	#mc_embed_signup{background:#fff; clear:left; font:14px Helvetica,Arial,sans-serif;  width:360px;}
+	#mc_embed_signup{background:#333; clear:left; font:14px Helvetica,Arial,sans-serif;  width:400px;}
 	/* Add your own Mailchimp form style overrides in your site stylesheet or in this style block.
 	   We recommend moving this block and the preceding CSS link to the HEAD of your HTML file. */
 </style>
