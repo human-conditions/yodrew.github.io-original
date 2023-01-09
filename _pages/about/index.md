@@ -26,7 +26,7 @@ Welcome. This website contains my book, <em>hygienic darkroom retreat</em>, rela
 <!-- Begin Mailchimp Signup Form -->
 <link href="//cdn-images.mailchimp.com/embedcode/classic-071822.css" rel="stylesheet" type="text/css">
 <style type="text/css">
-	#mc_embed_signup{background:#333; clear:left; font:14px Helvetica,Arial,sans-serif;  width:400px;}
+	#mc_embed_signup{background:#222; clear:left; font:14px Helvetica,Arial,sans-serif;  width:400px;}
 	/* Add your own Mailchimp form style overrides in your site stylesheet or in this style block.
 	   We recommend moving this block and the preceding CSS link to the HEAD of your HTML file. */
 </style>
@@ -58,7 +58,7 @@ Welcome. This website contains my book, <em>hygienic darkroom retreat</em>, rela
         <div class="optionalParent">
             <div class="clear foot">
                 <input type="submit" value="Subscribe" name="subscribe" id="mc-embedded-subscribe" class="button">
-                <p class="brandingLogo"><a href="http://eepurl.com/ihVLjH" title="Mailchimp - email marketing made easy and fun"><img src="https://eep.io/mc-cdn-images/template_images/branding_logo_text_dark_dtp.svg"></a></p>
+                <p class="brandingLogo"><a href="http://eepurl.com/ihVLjH" title="Mailchimp - email marketing made easy and fun"><img style="background:#222" src="https://eep.io/mc-cdn-images/template_images/branding_logo_text_dark_dtp.svg"></a></p>
             </div>
         </div>
     </div>
