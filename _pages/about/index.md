@@ -39,18 +39,15 @@ Welcome. This website contains my book, <em>hygienic darkroom retreat</em>, rela
 	<label for="mce-EMAIL">Email Address  <span class="asterisk">*</span>
 </label>
 	<input type="email" value="" name="EMAIL" class="required email" id="mce-EMAIL" required>
-	<span id="mce-EMAIL-HELPERTEXT" class="helper_text"></span>
 </div>
 <div class="mc-field-group">
 	<label for="mce-FNAME">First Name  <span class="asterisk">*</span>
 </label>
 	<input type="text" value="" name="FNAME" class="required" id="mce-FNAME" required>
-	<span id="mce-FNAME-HELPERTEXT" class="helper_text"></span>
 </div>
 <div class="mc-field-group">
 	<label for="mce-LNAME">Last Name </label>
 	<input type="text" value="" name="LNAME" class="" id="mce-LNAME">
-	<span id="mce-LNAME-HELPERTEXT" class="helper_text"></span>
 </div>
 <div hidden="true"><input type="hidden" name="tags" value="8166518"></div>
 	<div id="mce-responses" class="clear foot">
