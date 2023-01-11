@@ -6,7 +6,7 @@ navprev: hygiene
 navnext: psychology
 ---
 
-Theory applies to practice. This chapter applies the theory of chapter one applies to the specific practice of darkroom retreating.. We will examine the **elements** of hygienic darkroom retreating. **Distinctions** between hygiene and other approaches further aid understanding. Some **mechanics** follow.
+Theory applies to practice. This chapter applies the theory of chapter one to the specific practice of darkroom retreating. We will examine the **elements** of hygienic darkroom retreating. **Distinctions** between hygiene and other approaches further aid understanding. Some **mechanics** follow.
 
 #### elements
 
