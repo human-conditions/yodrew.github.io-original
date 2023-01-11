@@ -1,6 +1,6 @@
 ---
-title: 2 - darkroom retreat
-permalink: "/darkroom-retreat/"
+title: 2 - darkroom retreat2
+permalink: "/darkroom-retreat2/"
 layout: page
 navprev: hygiene
 navnext: psychology
