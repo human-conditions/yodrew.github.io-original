@@ -1,12 +1,12 @@
 ---
-title: 2 - darkroom retreat2
-permalink: "/darkroom-retreat2/"
+title: 2 - darkroom retreat
+permalink: "/darkroom-retreat/"
 layout: page
 navprev: hygiene
 navnext: psychology
 ---
 
-Theory applies to more specific ideas and finally action. Now we will examine the **elements** of hygienic darkroom retreating. **Distinctions** between hygiene and other approaches further aid understanding. Some **mechanics** follow.
+High-level theory applies to low-level theory, then to practice. So the general hygiene of chapter one applies to the specific hygiene of darkroom retreating in this chapter, including some practical considerations. We will examine the **elements** of hygienic darkroom retreating. **Distinctions** between hygiene and other approaches further aid understanding. Some **mechanics** follow.
 
 #### elements
 
@@ -220,7 +220,7 @@ Since one can do nothing directly in a retreat to cause healing, preparing for i
 - arrange support. This is important for mechanical and psychical reasons. See [*protocol > support*](/protocol#support)
 - obtain food
 
-Deeper preparation than that is made the same way you prepare for weeks in traction in a hospital bed following a disastrous car crash. Ie, it is too late. You are already prepared.
+Deeper preparation than that is made in the same way as for weeks in traction in a hospital bed after a car crash. Ie, it is too late. You are already prepared.
 
 &nbsp;
 
