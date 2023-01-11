@@ -172,7 +172,7 @@ There are three things the hygienic use of darkness is not.
 
     Discipline begins with accepting an artificial internal conflict as natural. I mean the idea of original sin. Then one struggles "against nature" (as Gurdjieff put it), fighting habits with practices to achieve an ideal. It is the adversarial approach to life  Jean Liedloff warned us about. Jesus did, too, when he told Peter, "Get thee behind me, Satan." Satan is the Adversary and the liar.
 
-Hygiene begins with an assumption of natural harmony, of non-contradiction. It gives a logical, non-adversarial explanation of illness. This naturally motivates one to easily fulfill the purpose of illness, which is to restore health.
+    Hygiene begins with an assumption of natural harmony, of non-contradiction. It gives a logical, non-adversarial explanation of illness. This naturally motivates one to easily fulfill the purpose of illness, which is to restore health.
 
     Lastly, discipline sets up artificial dangers and obstacles. It maintains willed control of the process. Which restrains the omnipotent unconscious from handling everything that is significant. Then it spreads fear of retreating without spiritual preparation. It is a racket based on a self-fulfilling delusion.
 2. It is not therapy. Therapy is done _to_ a passive organism from the outside. The therapist, therapy, and therapeutic substances or machines are the principal actors in a therapeutic session, not the organism itself. While depending on the organism to react to treatment, therapy views the organism as incapable of initiating a movement toward health. It fails to see such movement in disease itself.
