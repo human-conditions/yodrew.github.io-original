@@ -10,11 +10,13 @@ Now we will apply the theory of hygiene to the practice of darkroom retreating. 
 
 #### elements
 
-Here I make natural observations of the psyche and darkness; show how hygiene applies to them; and reveal the secret of exactly why hygienic darkroom retreating works.
+My observations about the psyche and darkness follow. I show how hygiene applies to them. I explain the secret of why it works.
 
 ##### psyche
 
-Shelton reviews hygienic ideas about the psyche: "Graham pointed out that the 'vital instincts' behaved as though directed by intelligence. Tilden held that physiology is 'organized psychology.'"[^1] And here is Shelton's own unsentimental view: "The conscious functions of the body serve primarily to protect and provide the needs of the subconscious functions."[^2] This means consciousness is not an end in itself. It serves a biological function. Hygiene views consciousness as primarily autonomic (unconscious), secondarily volitional (conscious).
+Shelton reviewed hygienic ideas about the psyche. "Graham pointed out that the 'vital instincts' behaved as though directed by intelligence. Tilden held that physiology is 'organized psychology.'"[^1] 
+
+Shelton's own unsentimental view is: "The conscious functions of the body serve primarily to protect and provide the needs of the subconscious functions."[^2] This means consciousness is not an end in itself. It serves a biological function. Hygiene views consciousness as primarily autonomic (unconscious), secondarily volitional (conscious).
 
 Furthermore, the psyche is the _primary_ system in the human organism. "Consciousness---for those living organisms which possess it---is the basic means of survival," said philosopher, Ayn Rand, in her _meta-ethics_[^3]. Whatever affects the psyche hugely affects the rest of the organism, whether for good or ill.
 
@@ -187,8 +189,6 @@ These three approaches all share the vain attempt to end suffering by making the
 
 In contrast, hygienic use of darkness is passive as regards the will. The conscious self only plays a supportive role. The unconscious autonomic self is the principal actor. It is recognized and supported. Zero conflict. Maximum efficiency. Perfect result.
 
-One way or another, successful retreating requires cooperation with a supreme intelligence and power that will direct the process. In spiritual traditions, this means one's mature spiritual practice combined with the in-person guidance of a realized master under the blessed influence of an authentic lineage in service to god. (And good luck arranging all that.) Fortunately, the essence of all that is actually the simple recognition of the autonomic self. This is the hygienic approach. It involves no gold-leafed statues or exotic rituals, but it has the virtue of being cheap, quick, and easy to remember when the lights go out and you can't read anymore.
-
 #### mechanics
 
 ##### food
@@ -201,9 +201,13 @@ Attention to diet and nutrition have always been a big part of Natural Hygiene. 
 
 This is why I serve and recommend only fresh fruit and greens to retreatants. This is the frugivorous diet, common to all anthropoid primates like us. Being perfectly appropriate for human anatomy and physiology, these foods only nourish us. They don't medicate us. They neither stimulate or intoxify the system, nor overtax digestion, nor suppress feeling or memory.
 
-For more about frugivorous diet, I recommend [The 80/10/10 Diet](http://foodnsport.com) by Dr Douglas Graham. He is a professional hygienist, 30-year frugivore, former Olympic athlete and trainer to professional athletes. Also, watch some videos of [Loren Lockman](https://www.youtube.com/user/LorenLockman), another master hygienist and 30-year frugivore, apparently sent from the future to show us how to eat and relate to food. 
+For more about frugivorous diet, I recommend [The 80/10/10 Diet](http://foodnsport.com) by Dr Douglas Graham. He is a professional hygienist, frugivore since 1978, former Olympic athlete and trainer to professional athletes. 
 
-If the prospect of eating just fruits and vegetables utterly stops you from retreating, then plan to eat as simply and naturally as you know how. Feel free to write me with your limitations; I am happy to help you avoid toxins often regarded as healthy. Reversing illness and suffering is a process with its own logic. Darkness is a starting point. Then it's one step at a time.
+Also, watch videos by [Loren Lockman](https://www.youtube.com/user/LorenLockman). He is another master hygienist and frugivore since 1991. Apparently he came from the future to show us how to eat. 
+
+The recommandations
+
+If the prospect of eating just fruits and vegetables discourages you from retreating, then do one of two things. Either take some time to learn about it. Or plan to eat as simply and naturally as you know how. Use as many Feel free to write me with your limitations; I am happy to help you avoid toxins often regarded as healthy. Reversing illness and suffering is a process with its own logic. Darkness is a starting point. Then it's one step at a time.
 
 Please note that just because the frugivorous diet consists of all raw food does not make it the "raw food diet". Frugivorism has a rich set of criteria about food: timing, quantity, proportion, combination, season, source, one's _feeling_, etc. It is a biological description, not an ideology like fruitarianism or veganism. Raw foodism is an ideology. It only has one criterion: no high-heating of food. Otherwise, anything goes! It lacks depth and seriousness. It is reductive fanaticism, not a whole relationship with food. I strongly recommend against raw foodism and the quasi-cults that grow up around it.
 
@@ -215,16 +219,16 @@ Since one can do nothing directly in a retreat to cause healing, preparing for i
 	- learn the idea of the hygienic (passive) attitude toward healing. No need to believe it before seeing its truth for yourself in darkness.
 	- assimilate my discoveries and avoid my many errors
 - [*design*](/design) and [*make*](/make) a darkroom (1 month) 
-- learn enough about eating frugivorously to feel satisfied (1 month to read and apply Graham's book)
-- schedule a retreat
+- learn enough about eating frugivorously to feel satisfied (1 month to read and test Graham's book)
 - arrange support. This is important for mechanical and psychical reasons. See [*protocol > support*](/protocol#support)
+- schedule a retreat
 - obtain food
+- begin
 
-Deeper preparation than that is made in the same way as for weeks in traction in a hospital bed after a car crash. Ie, it is too late. You are already prepared.
+Next we will discuss the psychological implications of hygienic darkroom retreating.
 
 &nbsp;
 
 [^1]: Herbert Shelton, [*Science and Fine Art of Natural Hygiene*](/nhs.pdf), p 35
 [^2]: Ibid, p 139
 [^3]: Ayn Rand, _The Virtue of Selfishness_, p18, "The Objectivist Ethics"
-
