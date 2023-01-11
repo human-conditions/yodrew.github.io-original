@@ -6,7 +6,7 @@ navprev: hygiene
 navnext: psychology
 ---
 
-High-level theory applies to low-level theory, then to practice. So the general hygiene of chapter one applies to the specific hygiene of darkroom retreating in this chapter, including some practical considerations. We will examine the **elements** of hygienic darkroom retreating. **Distinctions** between hygiene and other approaches further aid understanding. Some **mechanics** follow.
+Theory applies to practice. This chapter applies the theory of chapter one applies to the specific practice of darkroom retreating.. We will examine the **elements** of hygienic darkroom retreating. **Distinctions** between hygiene and other approaches further aid understanding. Some **mechanics** follow.
 
 #### elements
 
