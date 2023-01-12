@@ -151,7 +151,9 @@ Besides a darkroom, food, and support, a hygienic retreat requires a fourth crit
 
     Thus there is no need crack the whip on yourself. I mean engaging in long, vigorous introspection, thinking hard, figuring out your life, etc. Leave these complicated matters to the unconscious and subconcious.
     It is normal to consider your feelings, impulses, thoughts, and needs. So it is fine in darkness, too. Everything in your being plays a part in life. Anything could be an important cue. Every movement of the organism ultimately has health as its aim. Listen, wait, receive.
-- It is quite possible to have a specific internal goal for a retreat and make progress with it. I did this several times. But now I know it was out of lack of confidence in my autonomic self. My aims were security objects. Such over-purposefulness interferes with the organism's priorities, which cannot be improved upon. Life always knows what is actually most important, millisecond by millisecond.
+- It is quite possible to have a specific internal goal for a retreat and make progress with it. I did this several times. But I did it out of lack of confidence in my autonomic self. My aims were security objects.
+
+    Such over-purposefulness interferes with the organism's priorities. Which cannot be improved upon. Life always knows what is most important, millisecond by millisecond. I recommend retreating with this as a hypothesis.
 
     My [most effective retreat](/reports/2x2-day-retreat) happened when I felt sure it would not work and I gave up on any specific aim I might have had besides just to rest. I only continued out of sheer logic. My own arguments still seemed airtight and unavoidable. I could not see anything else to do, so I stuck with the plan. Then I witnessed a marvel of self-healing.
 - This process is as foolproof as possible. Given the conditions of rest---most of which are built into the room itself---you will heal.
