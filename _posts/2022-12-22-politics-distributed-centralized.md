@@ -1,7 +1,7 @@
 ---
-title: "politics: centralized and distributed"
+title: "politics: distributed and centralized"
 date: 2022-12-22 00:00:00 Z
-permalink: "/blog/2022/12/22/politics-centralized-and-distributed/"
+permalink: "/blog/2022/12/22/politics-distributed-centralized/"
 layout: post
 published: true
 ---
