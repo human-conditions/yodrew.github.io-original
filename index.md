@@ -66,9 +66,11 @@ _continue reading online for free_{: style="font-size: .5em;padding-top:-10px 0;
 
 #### help out
 
-See [participate](/about/participate/) for many ways to support hygienic darkroom retreating.
+If you provide me with a decent, safe, quiet house for a year, I will make hygienic darkroom retreating work. 
 
-Donations: I appreciate them very much. I live simply. Even small amounts help. Methods:
+Otherwise, here are other ideas to [participate](/about/participate/) in hygienic darkroom retreating.
+
+Donations: I appreciate them very much. I live simply. Even small amounts help. I'll send you my ebook and a printable version of the PDF. Methods:
 
 - PayPal
 <form action="https://www.paypal.com/donate" method="post" target="_top">
