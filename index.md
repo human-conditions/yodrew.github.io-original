@@ -66,7 +66,7 @@ _continue reading online for free_{: style="font-size: .5em;padding-top:-10px 0;
 
 #### help out
 
-If you provide me with a decent, safe, quiet house for a year, I will make hygienic darkroom retreating work. 
+I need a decent, safe, quiet house for a year to make hygienic darkroom retreating work. If you can arrange one, please [let me know](/about).
 
 Otherwise, here are other ideas to [participate](/about/participate/) in hygienic darkroom retreating.
 
