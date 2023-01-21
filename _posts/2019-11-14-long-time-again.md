@@ -1,7 +1,7 @@
 ---
 title: long time again
 date: 2019-11-14 00:00:00 Z
-permalink: "/blog/2019/11/long-time-again"
+permalink: "/blog/2019/11/long-time-again/"
 layout: post
 ---
 
