@@ -1,7 +1,7 @@
 ---
 title: surpassing john galt
 date: 2019-11-26 00:00:00 Z
-permalink: "/blog/2019/11/surpassing-john-galt"
+permalink: "/blog/2019/11/surpassing-john-galt/"
 layout: post
 ---
 
