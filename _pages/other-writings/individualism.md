@@ -8,7 +8,7 @@ next: /other-writings/sanity-and-health
 
 #### notes toward an individualist form of government
 
-These are semi-organized. They are enough to begin thinking along new lines. There are also three relevant posts in the [blog](/blog) from 2020–2022: politics: centralized and distributed, individualism, and scene: freedom.
+These are semi-organized. They are enough to begin thinking along new lines. There are also three relevant posts in the [blog](/blog) from 2020–2022: politics: distributed and centralized, individualism, and scene: freedom.
 
 ##### immutable 
 
