@@ -42,13 +42,6 @@ People outside the central bodies have lost their power, so they become desperat
 
 ### recovery
 
-It is a plenum by nature. It can be again. Nature provides a way back to that state. Once a few individuals recover their living power, they will move others to recover theirs. Nothing conducts faster through people than life force. Capacity for correct ideas about politics will return. The disastrous situation of the last several millennia can begin to turn around within months and be totally reversed within a few years.
+Society, like the world, is naturally a plenum. It can be again. Nature provides a way back to that state. Once a few individuals recover their living power, they will move others to recover theirs. Nothing conducts faster through people than life force. Capacity for correct ideas about politics will return. The disastrous situation of the last several millennia can begin to turn around within months and be totally reversed within a few years.
 
-I found the way back and developed it into a practical method. I need help to begin, but less than anyone imagined.
-
-4 people
-2 months
-2 houses
-$2k for expenses
-
-In three years, it will be done. I have described the [process](/protocol/#power]. Also in two other recent blog posts and an essay linked in them. The overall method is simple, quick, cheap, pleasant, and rational. Read my book and try it. See the plausibility of it for yourself.
+I found the way back and developed it into a practical method. It requires a place and a team. It will take three years. I have described the [process](/protocol/#power). I discuss the politics further in two other recent blog posts, [individualism](/blog/2022/08/17/individualism/) and [scene: freedom](/blog/2020/11/11/scene-freedom/), and notes toward an [individualist distributed hyperstate](/other-writings/individualism/). The overall method is simple, quick, cheap, pleasant, and rational. Read my book, try it, and see the plausibility of it for yourself.
