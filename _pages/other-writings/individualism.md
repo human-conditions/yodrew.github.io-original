@@ -1,16 +1,16 @@
 ---
 title: individualism
 layout: page
-permalink: /other-writings/individualism
-previous: /other-writings/from-where
-next: /other-writings/sanity-and-health
+permalink: /other-writings/individualism/
+previous: /other-writings/from-where/
+next: /other-writings/sanity-and-health/
 ---
 
 #### notes toward an individualist form of government
 
-These are semi-organized. They are enough to begin thinking along new lines. There are also three relevant posts in the [blog](/blog) from 2020–2022: politics: distributed and centralized, individualism, and scene: freedom.
+These are semi-organized. They are enough to begin thinking along new lines. There are also some relevant posts in the [blog](/blog) including: [politics: distributed and centralized](/blog/2022/12/politics-distributed-centralized/) [individualism](/blog/2022/08/individualism/), and [scene: freedom](/blog/2020/11/scene-freedom/).
 
-##### immutable 
+##### immutable
 
 Whatever forms legislation, defense, and adjudication take in a society, they make up its state. Every society morally sanctions certain uses of force through these institutions. Man is a volitional being, thus fallible. Principles must guide his actions, personally and socially, especially in his of force.
 
@@ -196,7 +196,7 @@ Individualism is based on the ethics of selfism, the epistemology of reason, and
 
 Collectivism mystically views society as the moral agent. It views an individual as provisional, or illusory, or as a mere cell in the larger "whole" of society. The individual has no will, no rights. The life, motility, and possessions loosely associated with him belong to the state. 
 
-The Vatican has operated by Satanic power through the nobility of Europe, communism in Russia and China, fascism in Germany, Italy, and Japan, and Islam in the Middle East. This amounts to a billion murdered in cold blood over two millennia. Not to mention the destruction by civilizations before Christ.
+The Vatican has operated by Satanic power through the nobility of Europe, communism in Russia and China, fascism in Germany, Italy, and Japan, and Islam in the Middle East. This amounts to a billion murdered in cold blood over two millennia. Not to mention the murders by civilizations from the East and from before Christ.
 
 ##### objection
 
