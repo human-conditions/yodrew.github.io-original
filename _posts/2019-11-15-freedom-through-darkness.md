@@ -60,7 +60,7 @@ I wrote this quickly. Perfect Darkness may not the best name and it can change. 
 Also, besides developing darkrooms, the team may also publish, consult, speak, and anything else that has to do with hygienic
 darkroom retreating and eventually hygiene, reason, and freedom in general.
 
-#### Free Humanity in Three Years with 10 People & $100,000I disagree with Yaron that we have to wait 100 years. 
+#### Free Humanity in 3 Years with 10 People & $100,000
 
 The cause of humanity's enslavement is powerlessness. 
 
@@ -110,5 +110,4 @@ The alternative is... nature. What started the horrors? Nature, through cataclys
 
 Civilization merely functions as a shock-absorber. It is not to blame, nor any humans involved from day one. Non-human intelligence seems to have had something to do with it, and we will have to deal with them. But we will not be capable of that until we use nature to get ourselves back.
 
-Start at the very beginning of my free book about it and read for 15 minutes. See if it makes sense to you. Everything else can wait. Recovery of the lost self cannot wait.  
-darkroomretreat.com
+Start at the very beginning of my [free book](/) about it and read for 15 minutes. See if it makes sense to you. Everything else can wait. Recovery of the lost self cannot wait.
