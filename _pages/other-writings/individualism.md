@@ -3,7 +3,7 @@ title: individualism
 layout: page
 permalink: /other-writings/individualism/
 previous: /other-writings/from-where/
-next: /other-writings/sanity-and-health/
+next: /other-writings/sanity-and-health/ 
 ---
 
 #### notes toward an individualist form of government
@@ -77,7 +77,7 @@ Individualism would likely win a first battle. But without proper preparation (s
 
 More important than voting is jury nullification of unjust laws. But this  has been suppressed by centralized courts. 
 
-Far more important is the prosecution of suits in court. Common people can do this without lawyers. Dr Frederick Graves has proven this with his law course, [jurisdictionary](https://jurisdictionary.com). This knowledge and skill is useful both before and after the emergence of an individualist government.
+Far more important is the prosecution of suits in court. Common people can do this without lawyers. Dr Frederick Graves has proven this with his law course, [jurisdictionary](https://howtowinincourt.com?refercode=DA0054). This knowledge and skill is useful both before and after the emergence of an individualist government.
 
 Of course, the will to self-defense and the skills necessary are important at all times.
 
