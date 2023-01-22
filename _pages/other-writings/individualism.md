@@ -36,7 +36,7 @@ Maximization prevents the power vacuums that evil exploits. Like a beating heart
 
 #### precepts 
 
-Rather than a constitution or proclamation, our party issues a non-binding _preception_ of rights, crimes, and state functions. These provide a basis for binding law. A 10 year-old can understand it. Everyone becomes his own legislator through contracts. Lawyers help. Defense and adjudication companies help people protect themselves and their property and to settle disputes. Good actors---always a majority---band together to crush rogues.
+Rather than a constitution or proclamation, our party publishes non-binding precepts of rights, crimes, and state functions. These provide a basis for binding law. It would be a short, simple statement. A 10 year-old could understand it. Everyone becomes his own legislator through contracts based on the precepts and the maxims of law. Lawyers help. Defense and adjudication companies help people protect themselves and their property and to settle disputes. Good actors---always a majority---band together to crush rogues.
 
 Individualism is the moral-political philosophy that recognizes the individual as the cognitive and moral agent and political unit in a society. The individual alone possesses reason, the faculty of choice. He is indivisible and uncollectable into another agent or unit. He is an end in himself. Securing his freedom is the purpose of politics.  
 (Contrast with collectivism.)
