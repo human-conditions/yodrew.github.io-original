@@ -8,7 +8,7 @@ navnext: 2-day-retreat
 
 #### 2012 Feb 09
 
-I had a depressive breakdown in December and let out a cry on my personal facebook page for help with a dark retreat to recover. Within a few weeks, and with the help of a small, far-flung team of supporters, I did a five-day dark retreat. I am feeling much better. (Fourteen days as planned proved impractical in the location, so I am still psychotic :)
+I had a depressive breakdown in December and let out a cry on my personal facebook page for help with a dark retreat to recover. Within a few weeks, and with the help of a small, far-flung team of supporters, I did a five-day dark retreat. I am feeling much better. (Fourteen days as planned proved impractical in the location, so I am stable but still [psychotic](/darkness-conjecture/psychosis/) &nbsp;;p) )
 
 The retreat began Friday about noon local time, two days late due to technical difficulties, which is typical. Then I must have slept 16 hours a day for 2-3 days until I started feeling better.
 
@@ -31,6 +31,3 @@ Along with with this major lesson, I learned some useful minor things to be care
 * audible and psychic noise from the building's 35 other occupants, and electromagnetic distortion from the building's steel and wiring have a huge, negative effect on the quality of rest possible in a darkroom.
 
 Will soon commence 12th attempt at a long dark retreat, somehow, somewhere.
-
- 
-

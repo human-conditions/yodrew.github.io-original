@@ -60,7 +60,7 @@ It didn't start so great. I came off an all-nighter trying to get the room ready
 
 My mind was fairly clear for a few hours. I felt calm and well. Then my habitual worry about what I should do after darkness returned somewhat. I was able to detach from it more than usual. Nothing else happened till the next morning at about hour 68. I was dreaming when I woke up.
 
-The dream was in hyper-technicolor, clearer, brighter, more vivid than anything I've seen with my two eyes. Just a middle-aged womans face and a big photographic mural behind her and some flowers in a vase to the side. Except I didn't wake from it. I awoke and it kept going. I opened my eyes and the image persisted for 15 seconds before fading. Really stunning.
+The dream was in hyper-technicolor. It was clearer, brighter, more vivid than anything I've seen with my two eyes. I saw a middle-aged woman's face, a big, colorful photographic mural behind her, and some flowers in a vase to the side. Except I didn't wake from it. I awoke and it kept going. I opened my eyes and the image persisted for 15 seconds before fading. It was stunning.
 
 The other main thing about this retreat was that, in catching up on lost sleep, I felt like I'd fallen through an internal trapdoor. During my lazy third day, I had a strong hunch that: there were five or six more trapdoors I could fall through; it would take two weeks to fall through all of them; and that doing so would lead to a qualitative shift, a deep and permanent restoration in my being somehow. (Two months later, this sense would return clear, verbalized, and full-blown as _the darkness conjecture_.)
 
