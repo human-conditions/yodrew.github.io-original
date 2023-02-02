@@ -37,9 +37,7 @@ Trimurti: my second family, torn away as soon as I noticed, for helping further 
 
 ##### influences
 
-...for friendship, support, and/or raising the bar so high that anti-gravity boots became necessary. And especially: 
-
-##### elders
+...for friendship, support, and/or raising the bar so high that anti-gravity boots became necessary. And especially my elders: 
 
 - Jack Nuckols: a giant and first among my elders, you took care of me till I found my way. RIP.
 - Willetta Warberg: you poured your heart and soul into me through your piano, kindness, and huge personality
@@ -100,7 +98,8 @@ Each of you gave me the world.
 	- 40 contributors to my successful 2016 crowdfund to support my 20-day retreat, sadly aborted at 5 days. I'll try again. 
 	- Aimee Fenech and TomTom, friends, hosts, helpers, and mentors
     - Mary Salama for proof-editing this book in 2018
-    - Pavel Pelikan, Cestr family, Jarda and Jana, and my neighbors in Czech Republic, for peace and respect
+    - Jan Hlavacek, Stepanka Trenz, Martin Pokorny, Petr Vesely, Katerina Cervena, Honza Dlabal for showing me dark retreating in Czech Republic
+    - Pavel Pelikan, Cestr family, Jarda and Jana, and my other neighbors in Czech Republic, for peace and respect
 
 ##### end
 

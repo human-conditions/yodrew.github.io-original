@@ -15,7 +15,9 @@ navnext: "/about/bibliography-influences/"
 - [participate](./participate)
 {:.submenu}
 
-Welcome. This website contains my book, <em>hygienic darkroom retreat</em>, related writings, and a blog. Bio, newsletter and site changelog are below.
+Welcome. This website contains my book, <em>hygienic darkroom retreat</em>, related writings, and a blog.
+
+This page contains my bio, links to the back matter of my book, and a newsletter subscription form. A changelog of the site follows that.
 
 #### bio
 
@@ -68,10 +70,6 @@ Welcome. This website contains my book, <em>hygienic darkroom retreat</em>, rela
 <!--End mc_embed_signup-->
 
 #### site changelog
-
-2023
-
-Small changes throughout site since 2019.
 
 2019
 

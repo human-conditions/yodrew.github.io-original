@@ -16,7 +16,9 @@ Welcome to the political-economy of _cool_, where you get rewarded for cooperati
     4. include a printed or electronic copy of this book with components (a link is sufficient)
 3. Furthermore, I will also give you my [endorsement](http://questioncopyright.org/creator_endorsed), a visible mark to use in your marketing copy if you: 
     - share with me part of your earnings from:
-        - reprints of my writings (8% of retail price for print and 70-90% for e-books)
+        - reprints of my writings
+            - print: 8% of retail price
+            - ebook: 70% of proceeds
         - reproductions of darkroom components (1% of retail price)
     - and/or somehow astound me
 
@@ -26,4 +28,4 @@ Welcome to the political-economy of _cool_, where you get rewarded for cooperati
     
 The idea is to make the book and components available with minimal friction in every way, at every level of distribution, so that we all can retreat asap and make reasonable livings as we go. If anything about this license seem to conflict with these goals, please let me know.
 
-We now possess the means of recovering the whole self, the source of all wealth. Applying it even slightly will make money irrelevant. Let's be cool and have a good time with this.
+We now possess the means of recovering the whole self, the source of all wealth. It will eventually make money irrelevant. Let's be cool and have a good time as we make money with this.
