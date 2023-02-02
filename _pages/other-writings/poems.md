@@ -176,8 +176,10 @@ His identity
 Free, alone, complete  
 A city-state-nation unto himself
 
-This...  
+This...
+[lost lines]
 ...  
+
 Quiet, he says  
 The mob absent  
 The comportment of his soul  
@@ -391,7 +393,8 @@ Deliver me! Deliver me! You are my only hope!
 I would beg all the saints  
 Disguised as the ordinary people  
 Who surround this self of my present  
-Please help him to help me,  
+Please help him
+To help me,  
 To remember me  
 Remember all his own failings, which I am  
 Remember everything that led me to this point  
@@ -404,33 +407,11 @@ Seal my love
 For myself, for life, for others, for this lovely Earth,  
 Seal it in wax  
 Feed it to the flame in the hearts  
-Of all ourselves  
+Of all our selves  
 Whom we might now meet at this point in our lives  
 Again and again and again and again
 
 LV 2001 Mar
-
-##### 1.19.02 4 b
-
-Did I storm your yard?  
-I bid you relax  
-Then caught you off guard  
-Now I know the facts
-
-Now your face is too much  
-Only your feet can play in my mind  
-These I can see and touch  
-Without going numb or blind
-
-These rhymes spring from love  
-Won't you believe this old heart?  
-Fly to me flitting dove  
-May we nevermore be apart
-
-You are wine, I, a drunken cup  
-The sky opens and you pour down  
-At the first red drops I look up  
-At the receding blue before I drown
 
 ##### Kamikazes
 
@@ -451,7 +432,7 @@ It occupies my heart
 It has locked itself in  
 It is making ransom demands  
 It intimates that you are in its care  
-But for how long!
+But for how long?!
 
 These things cannot, however, concern me  
 I lean back  
@@ -460,6 +441,28 @@ Like so many kamikazes
 Coming in
 
 Seattle 2001 Dec
+
+##### 2002.01.19, for B
+
+Did I storm your yard?  
+I bid you relax  
+Then caught you off guard  
+Now I know the facts
+
+Now your face is too much  
+Only your feet can play in my mind  
+These I can see and touch  
+Without going numb or blind
+
+These rhymes spring from love  
+Won't you believe this old heart?  
+Fly to me flitting dove  
+May we nevermore be apart
+
+You are wine, I, a drunken cup  
+The sky opens and you pour down  
+At the first red drops I look up  
+At the receding blue before I drown
 
 ##### The crest and the trough
 
@@ -560,7 +563,8 @@ God is with him
 God awaits him  
 With prostheses that work better  
 Than the arms and legs  
-Of a born champion:  
+Of a born champion
+
 This one will be made
 
 Among the six billion cells of Maitreya's body  
