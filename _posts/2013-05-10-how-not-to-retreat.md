@@ -23,7 +23,7 @@ Myself, I have enough difficulty getting to bed without the promise of disaster 
 
 The last couple weeks, I have felt strangely paralyzed. I knew I was in trouble. But for once, I could not ask for help. I couldn't figure out what was going on. Now I think my winter and spring has been extra weird for this reason.
 
-My shocking break-up in the fall from a girlfriend, set me up for all this. But the two mini-retreats I did afterward crystallized this pattern of emotional implosion. Since then, I have been especially imbalanced. A third one a few weeks ago revealed the pattern to me. I had wandered into the dark side of darkness! After watching me wander like a zombie in oblivion all winter, no wonder my fellow villagers are so hesitant about doing a retreat.
+My shocking break-up in the fall from a girlfriend set me up for all this. But the two mini-retreats I did afterward established this pattern of emotional implosion. Since then, I have been especially imbalanced. A third one a few weeks ago revealed the pattern to me. I had wandered into the dark side of darkness! After watching me wander like a zombie in oblivion all winter, no wonder my fellow villagers are so hesitant about doing a retreat.
 
 I was thinking of offering this kind of retreat as an introduction to darkness. It proved a _failure point test_: finessing a design to the point of collapse to find its absolute minimum requirements. A mini-retreat simply does not meet them.
 

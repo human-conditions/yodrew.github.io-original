@@ -15,9 +15,9 @@ I have news about the gift economy that could blow your mind. It has blown mine,
 
 Here's the gist: the gift economy is **not** made up of people just giving things to each other without expectation of return. This is a completely mistaken notion spread by a few lucky people who somehow pull that nonsense off (or pretend to). The gift economy is simply letting people you know and trust have things of yours when they need them, with the mutual understanding that when you call on them, they'll do the same. You say, "You like it? Take it!" and understand, "You owe me one."
 
-It is because this understanding among traditional people is unstated, deeply engrained, even _obscene_ to verbalize that modern civilized observers didn't notice it and assumed theirs was the same as our system of unconditional gifts. Which, you'll notice, often has a strange charge of propriety around it, a stale remnant of our past decency.
+This understanding among traditional people is deeply ingrained. It is unstated, even considered _obscene_ if verbalized. Civilized observers often didn't notice it. They assumed this system was the same as our system of unconditional gifts. Which has a strange charge of propriety around it. This is the remnant of our past decency.
 
-So the gift economy consists of an endless series of:
+The gift economy consists of an endless series of:
 
   1. delayed exchanges of
   2. unequal values
