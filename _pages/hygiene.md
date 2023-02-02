@@ -228,7 +228,7 @@ This idea of capacity has its roots in the Ayn Rand's character studies in _Atla
 
 The world equips us, its creatures, with everything we need to live fully. This seems to be about 50 times more than we need to just survive. Which is good because we have lost so much of it. But even this huge margin is proving insufficient. In our permanent state of emergency and distress, a single major crisis can overwhelm most of us.
 
-We compensate for damaged normal capacity by building _false capacity_. By constant effort, we attain substance and momentum as personalities, even some personal power. We gain knowledge, strength, skills, character. We beat competitors, achieve independence, win respect. We gain a modicum of stability, reserves, resilience. It's hard work, but if you are a good person, you do it. If you are lazy and don't struggle, you only get what you deserve. (Sound familar?)
+We compensate for damaged normal capacity by building _false capacity_. By constant effort, we attain substance and momentum as personalities, even some personal power. We gain knowledge, strength, skills, character. We beat competitors, achieve independence, win respect. We gain a modicum of stability, reserves, resilience. It's hard work, but if you are a good person, you do it. If you are lazy and don't struggle, you only get what you deserve. (Sound familiar?)
 
 False capacity is not only hard to build, but hard to maintain. It is inefficient and gives partial results. So as the organism restores normal capacity in darkness, it removes false capacity as soon as possible, similar to the _Law of Selectivity_.
 
