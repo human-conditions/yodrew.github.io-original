@@ -244,7 +244,7 @@ But, no. Doing far too many 3- and 4-day retreats caused the problem of _overlos
 
 ~/~
 
-This is the general theory of hygiene 3.0. Our main subject, the darkroom retreat, necessitated the new version. Now, in context, we can see our subject more precisely.
+This is the general theory of hygiene 3.0. Our main subject, the darkroom retreat, necessitated the upgrade. Now, in context, we can see our subject more precisely.
 
 &nbsp;
 
