@@ -27,7 +27,8 @@ _He that believeth on me, the works that I do shall he do also; and greater work
 
 _To him who has much, more and more is given. But from him who has little, even that which he has is taken away._
 
- -- Jesus 
+_Seek ye first the Kingdom of God and His righteousness, and all these things will be added unto you._
+ -- Jesus Christ
 
 _If you want to build a ship, don't drum up the men to gather wood, divide the work, and give orders. Instead, teach them to yearn for the vast and endless sea._
  -- Antoine de Saint-Exupéry
@@ -37,3 +38,6 @@ _It is useless to try to willfully change ourselves. We are much too entrenched 
 
 _My daughter will teach you our ways. Learn well, Jake Sully. Then we will see if your insanity can be cured._
  --Mo'At the shamaness in _Avatar_
+
+_You're free to change your course, but so long as you follow it, you're not free to escape its logic._
+ --John Galt in _Atlas Shrugged_

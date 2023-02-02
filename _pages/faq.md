@@ -10,7 +10,7 @@ navnext: appendix-laws-of-life
 
 - _Where can I go to retreat?_
  
-While there are dozens of darkroom retreat centers worldwide, none can support hygienic darkroom retreats. So, if you can, I recommend making darkness happen first in your own home for sleeping, then for a 4-day retreat. Once you've learned the ropes, share the idea with others. Make another darkroom in its own building and support each other's 8-day and longer retreats.
+While there are dozens of darkroom retreat centers worldwide, none can support hygienic darkroom retreats. So make darkness happen first in your own home for sleeping, then for a 4-day retreat. Once you've learned the ropes, share the idea with others. Support 4-day retreats for each other. Make another darkroom in its own building. Support each other's 8-day retreats once till there are four of you who can
 
 - _Do you eat in a retreat?_
 

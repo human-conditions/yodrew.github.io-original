@@ -6,13 +6,13 @@ navprev: protocol
 navnext: design
 ---
 
-The following questionnaire, menu, and list of things to bring will help you prepare for a retreat. The form will help you prepare mentally for the retreat. Later, if you support retreats for others, give it to them.
+The following registration form with questionnaire, menu, and list of things to bring will help you prepare for a retreat. The form will help you prepare mentally for the retreat. Give it to others when you support their retreats.
 
 Someday, there will be centers that support hygienic darkroom retreats. For now, just do it yourself. Use your home, a friend or relative's place, or vacation rental. If you want help, share the book: with a friend, in an announcement, a public talk, in a book club, in class, or at work. Sometimes it is easier to work alone, sometimes with others. I have done both, depending on my circumstances and abilities.
 
-I am speaking of 4-day retreats, of course. Retreats of eight days and longer require help.
+I am speaking of 4-day retreats, of course. Hygienic retreats of eight days and longer require supporters.
 
-#### overview {#overview}
+#### overview
 
 Follow instructions carefully.
 
@@ -21,7 +21,28 @@ Follow instructions carefully.
 3. Respond to the questionnaire below. Responses of one or two sentences per question are sufficient. 
 4. Gather things listed below and retreat!
 
-#### questionnaire {#questionnaire}
+
+##### terms
+
+This is just an example:
+
+- Price: $60 + $100/day (eg, 4-day retreat=$460)
+	- charge 20% more than you might
+	- the people who can pay, will
+	- negotiate with the rest. Subsidize worthy people with little money. Find out what they are good at and have them do something for you. No one serious turned away for lack of funds.
+- Discounts: 
+    - Local, student, or friend
+    - Trades gladly considered
+- Reserve dates with a 50% deposit. Balance due 2-4 weeks before.
+- Cancellation fees (% of _total_ price): 
+    - 5% 30+ days before retreat
+    - 50% (deposit) 2-4 weeks before retreat or 
+    - 10% if you find someone else to take your spot
+
+Other terms are possible. The Vipassana model is interesting, too. They post a detailed ledger showing the costs of a retreat and let people donate what they will.
+
+
+#### questionnaire
 
 1. Name:
 2. Email address:
@@ -31,39 +52,47 @@ Follow instructions carefully.
 6. Emergency contact name, email, and phone:
 7. Retreat length:\_\_\_ days
 8. Retreat starting date\_\_\_\_\_\_\_\_\_\_\_\_ +/-\_\_\_ days (for absolute date, put 0)  
-alternate date:\_\_\_\_\_\_\_\_\_\_\_\_ +/-\_\_\_ days
-9. How did you first hear about hygienic darkroom retreating?
-10. Why would you like to retreat?
-11. What will you be doing the week after the retreat? (It should be routine and familiar, not unusual, exhausting, or intense)
+alternative date:\_\_\_\_\_\_\_\_\_\_\_\_ +/-\_\_\_ days
+9. Please briefly describe any dark retreats you have done.
+10. How did you first hear about hygienic darkroom retreating?
+11. Why would you like to do it?
 12. How does the menu sound to you?
 13. Would you like to maintain silence during your retreat?
-14. Quiz:
-    1. What is the hygienic purpose of retreating?
-    2. What heals you in darkness?
-    3. What does this imply about what to do with your will and attention?
-    4. Where is a good place to put your attention most of the time?
-    5. How much does the air you breathe weigh compared to the food you eat, and what does that imply about the importance of continuous fresh air?
-    6. How much does a silent location matter for a successful retreat?
-    7. If a retreat becomes overwhelming, what are 4 things you can do to lower its intensity in order to keep retreating?
-15. What fears or concerns do you have that might interfere with your retreat, eg, fear of the dark, claustrophobia, superstition, etc? How will you handle them? What support might you need?
-16. Assuming I am correct that everyone is psychotic to some degree, how do you feel darkness might significantly affect you, for better or worse?
-17. Is there anything else you would like to add?
+14. What will you be doing the week after the retreat? (It should routine and familiar, not unusual, exhausting, or intense)
+15. Quiz:
+	a. What is the hygienic purpose of retreating?
+	b. What heals you in darkness?
+	c. What does this imply about what to do with your will and attention?
+	d. Where is a good place to put your attention most of the time?
+	e. How much does the air you breathe weigh compared to the food you eat?
+	f. What does this imply about the importance of continuous fresh air?
+	g. How much does a silent location matter for a successful retreat?
+	h. If a retreat becomes overwhelming, what are 4 things you can do to lower its intensity and keep retreating?
+	i. What must you always do when standing up or sitting down or crouching in darkness?
+16. What fears or concerns do you have that might interfere with your retreat, eg, fear of the dark, claustrophobia, superstition, etc? How will you handle them? What support might you need?
+17. Assuming I am correct that everyone is psychotic to some degree, how do you feel darkness might significantly affect you, for better or worse?
+18. Is there anything else you would like to add?
 
-#### menu {#menu}
 
-##### summary {#summary}
+#### menu
 
-- 3L pure water per day
+##### summary
+
+- pure water, min 3L per day
 - frugivorous menu
     - fruit: whole, raw, ripe, in season, well-washed, ample for eating anytime
     - tender leafy greens: romaine, escarole, young spinach; also celery
     - treats:
-    	- green salad: sweet or savory, properly combined, served at midday or evening, maximum one per day
-       	- smoothie, max one per 4 days
-    	- 1/2 avocado or 15 olives in salads, max once every 2 days
-    - no: ferments (eg, vinegar, saurkraut, kim chee, cheese), onions, garlic, ginger, spices, salt, juice, oil, dried food, nuts or seeds
+        - green salad: sweet or savory, large, properly combined, served at midday or evening
+        - 1/2 avocado or 15 olives max once per 2 days
+        - smoothie, max 1 per 4 days
+    - no:
+    	- ferments: vinegar, saurkraut, kim chee, cheese
+    	- stimulants: onions, garlic, ginger, spices, salt
+    	- extracts: juice, oil, dried food
+    	- complex fatty foods: nuts or seeds
 
-##### guide  {#guide-}
+##### guide
 
 Most of the time, just eat plain fruit:
 
@@ -118,38 +147,37 @@ bitter, sweet, sour, salty, savory, spicy, crunchy, fatty
 - fatty
     - with sufficient chewing, oiliness of lettuce is usually enough
     - tricky because it is surprisingly easy to overeat fat
-        - eat a small quantity once per 2-4 days, eg, 1/2 avocado or 15 olives
-        - eat only one kind of fatty food in a day
-        - stick to fatty fruits like avocado and olives
-        - eat 5-6% of your daily calories from fat, no more than 10%. Track your calories for two weeks. It's very surprising. Use nutrition tables, websites, or apps.
+        - eat only one kind of fatty food per day
+        - eat a small quantity once per 2-4 days: 1/2 avocado, 15 olives
+        - stick to fatty fruits like avocado and olives (rinse off any oil from packaging)
+        - eat 5-6% of your daily calories from fat, no more than 10%. Track your calories for two weeks. It's surprising. Use nutrition tables, websites, or apps.
 
 Just say no to: 
 
+- nuts, seeds
+- fractured foods: oil, juice, dried food
 - ferments, like vinegar (the second stage of fermentation beyond alcohol and even more toxic. It's a digestive disaster.)
 - onions, garlic, ginger
 - spices or salt
-- fractured foods like juice, oil, dried food
-- nuts, seeds
 
 These imbalance, overload, or destroy digestive chemistry, bacteria, and enzymes. The good things you hear about vinegar, garlic, and ginger are old wives' tales or industry-sponsored hype. 
 
-If you would study this idea before trying it, see:
+If you would like to know more about this menu before trying it, see:
 
 - [*darkroom-retreat > food*](/darkroom-retreat/#food-darkroom-retreat) and [*protocol > food*](/protocol/#food-protocol)
 - Dr Douglas Graham's masterful  [*80/10/10 Diet*](http://foodnsport.com)
 - [Loren Lockman's videos](https://www.youtube.com/user/LorenLockman)
-- [*Science and Fine Art of Food and Nutrition (Orthotrophy)*](/f/fnhs.pdf) by Herbert Shelton. This book devastates convention. You'll never look at prepared food the same way again.
 
-If eating frugivorously during your retreat is too much to deal with, eat as simply and naturally as you know how. Give more attention to it later when your motivation and capacity increase.
+If somehow you cannot eat this way, eat as simply and naturally as you know how. For suggestions, write me with your limitations. Give more attention to it later when your motivation and capacity increase.
 
-#### bring {#bring}
+#### bring
 
 - Yes:
     - bedsheets and pillow (if retreating at a center and need these provided, let supporter know ahead of time)
     - pajamas and loose clothes
     - sweater
     - slippers
-    - water bottles totaling 3-4L
+    - water bottles totaling 3L at least, more if you are bigger than 80kg
     - clock (unlit analog or red LCD)
     - cellphone
     - red LED light
@@ -164,57 +192,7 @@ If eating frugivorously during your retreat is too much to deal with, eat as sim
     - toiletries and personal items
     - prescription medication
 - No: 
-    - cigarettes
-    - contraband, psychedelics, alcohol
+    - contraband
+    - cigarettes, alcohol, or psychedelics
     - electronic devices that make sound, light, vibration, or smell: phones, computers, audio players, watches, clocks, vaporizers, oils, massage devices, etc
-    - if you must bring any of these things, turn them off and store them during the retreat, maybe with your supporter. If something is somehow critical for your survival, then keep it with you.
-
-<!-- &emsp;
-
-&emsp;
-
-&emsp;
-
-&emsp;
-
-
-&emsp;
-
-&emsp;
-
-&emsp;
-
-&emsp;
-
-
-&emsp;
-
-&emsp;
-
-&emsp;
-
-&emsp;
-
-
-&emsp;
-
-&emsp;
-
-&emsp;
-
-&emsp;
-
-
-&emsp;
-
-&emsp;
-
-&emsp;
-
-&emsp;
-
-.
--->
-
-
-
+    - if you must bring any of these things, turn them off and store them during the retreat, maybe with your supporter. If something is so critical for your survival you might be sick or injured without it, tell your supporter and keep it with you.

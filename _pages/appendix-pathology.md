@@ -4,4 +4,4 @@ permalink: "/appendix-pathology/"
 layout: page
 ---
 
-See [*depths > pathology*](/depths#pathology)
+See [*psychology > pathology*](/psychology#pathology)

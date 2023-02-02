@@ -6,9 +6,9 @@ navprev: introduction
 navnext: darkroom-retreat
 ---
 
-Hygiene is a complete system of health and healing based on the self-preserving nature of life and an appreciation for its normal conditions. More than mere cleanliness, hygiene is a 185 year-old, globally embedded health care system. We hardly discuss it because it's just how things are done. Almost unknown in its fullness, its details strike newcomers as oddly familiar.
+Hygiene is the science of health. It is also a practical system for daily life and healing. It is based on respect for the self-preserving nature of life and the normal conditions of life. More than mere cleanliness, hygiene is a 190 year-old, globally embedded health care system. We hardly discuss it. It's just how things are done. Everyone knows its basics. Its depths strike newcomers as oddly familiar.
 
-Hygiene provides a comprehensive context for the restful use of darkness in support of the self-healing psyche. Hygiene enables us to understand what darkness is and how to relate to it for the purpose of health.
+Hygiene contextualizes the restful use of darkness in support of the self-healing psyche. Hygiene enables us to understand what darkness is. It shows us how to relate to it for the purpose of health.
 
 Which is the point. We are organisms, so our purpose is to live. To live fully, we need health. 
 
@@ -17,57 +17,79 @@ What is health like according to hygiene?
 > "Health does not consist merely of the absence of symptoms of illness. It is a state of positive well-being that is evidenced by a constant state of euphoria. It is rarely, if ever, experienced by humans today."  
 --Herbert Shelton, father of modern hygiene[^1]
 
-Euphoria is exactly the sign of long-lost function that my adolescent rapture hinted at. Once tasted, nothing else will do. The thing is to come by it on purpose, not just by chance. What conditions would make it possible? Identifying and providing conditions is hygiene's forte. It accomplishes this by making ordinary observations of life in nature along certain lines. 
+Euphoria is the sign of lost function that my adolescent rapture hinted at. Once tasted, nothing else will do. What conditions would make it possible? Identifying and providing conditions is hygiene's forte. It accomplishes this by making observations of life in nature along certain lines.
 
-So we will learn these lines---these principles---in this chapter, which relates the theory of hygiene. Chapter 2, **darkroom retreat**, relates its application. In chapter 3, we head into the uncharted territory of hygienic **psychology**.
+So we will learn these lines---these principles---in this chapter. It relates the theory of hygiene. The next chapter, **darkroom retreat**, relates the application of hygiene to darkness. In chapter 3, we head into the uncharted depths of hygienic `**psychology**.
 
-I aim to do much in this book: reform hygiene's laws, its pathology, and add a psychology. It is renewal through radicalization and completion. If the 19th century was hygiene version 1.0, and Shelton's systematization of that vast body of work into modern hygiene was hygiene 2.0, then this is the beginning of hygiene 3.0. This is when hygiene becomes complete and instigates another global mass health movement. 
+I aim to do much for hygiene in this book: 
+
+- systematize its laws
+- reform its pathology
+- give it a psychology
+
+and thus renew it by radicalizing and completing it. This will:
+
+- inspire a new movement for greater health and freedom
+- finally eliminate the great parasite, medicine. 
+- end our strange suffering and restore joy and peace in the world, once and for all.
 
 #### essence
 
-Hygiene has three senses in its definition:
+Hygiene has three senses in its dictionary definition:
 
 1. the science of health; a branch of biology.
 2. conditions and practices conducive to the preservation of health
 3. cleanliness
 
-In common usage, the third sense strangely dominates. Hygiene is reduced to vigilant cleanliness against germs and the use of safety equipment to protect against a hostile environment. Why? We will get to that. Meanwhile, the dictionary shows that hygiene includes all healthy conditions and practices. It is fearless and relaxed. It respects life's resilience.
+I would like you to see this for yourself. Take a moment and look up the word, hygiene, in 3-4 dictionaries. 
 
-Natural Hygiene makes all this explicit. It identifies "preservation" with life's defining characteristic of self-preservation. And it identifies "conditions and practices conducive" to health with the normal conditions of life. Thus it recognizes the self-preserving organism and seeks to provide it with normal conditions of life in both sickness and health. This originates in hygiene's observation of ubiquitous health in nature, where organisms also get injured and sick, yet only normal conditions of life exist. For humans, these conditions and practices, both physiological and social, include:
+In common usage, the third sense strangely dominates. Hygiene is reduced to vigilant cleanliness against germs and the use of safety equipment to protect against a hostile environment. Why? We will get to that. 
+
+Meanwhile, the dictionary shows that hygiene includes all healthy conditions and practices. It is fearless and relaxed. It respects life's resilience.
 
 - air, warmth, water, food, light & darkness, shelter
 - rest, work, poise, exercise, cleanliness
 - family & friends, camaraderie, affection, sex, love
 - freedom, peace, prosperity, habitat
 
-The extent and organization of this list are somewhat arbitrary. It simply helps ground our discussion in biology, including psycho- and sociobiology.
+The extent and organization of this list are somewhat arbitrary. It simply helps ground our discussion in biology. Which includes psychobiology and sociobiology. 
 
 #### rest
 
-This book mainly deals with the condition of rest, which is half of life. In our action-obsessed lifeway, we disdain and resist it, viewing it as a waste of time. But not only is rest an end in itself, another equal aspect of living, but nothing else is possible without it, neither action nor healing. If we wish to be healthy, we simply must correct ourselves in this matter.
+This book mainly deals with the condition of rest. It is half of life. In our action-obsessed lifeway, we disdain and resist it. We view it as laziness, indulgence, a waste of time.
+
+But rest is an end in itself. It is another equal aspect of living. Moreover, nothing else is possible without it, neither action nor healing. As Shelton says, "Time spent at rest is never wasted." If we wish to be healthy, we simply must correct ourselves in this matter.
 
 Rest is of two kinds: ordinary and profound. 
 
 Ordinary rest includes nightly sleep, naps, and relaxation, alternated with daily activity in light. It is for maintenance of health.
 
-Profound rest means extended retreat lasting days, weeks, even months. It is for recovery from major trauma and sickness, including aging. It is gained in four ways (in ascending order of intensity):
+Profound rest is extended and under perfected conditions. It lasts days, weeks, even months. It is for recovery of health: for healing from major trauma and sickness. It is gained in four ways (in order of increasing depth):
 
-- silence
 - solitude
+- silence
 - fasting
 - darkness
 
-The benefits of profound rest accumulate day by day. If interrupted, some healing processes must start over. One good night's sleep, or several in a row, are simply not enough to recover from what really ails us. We must bring retreats into our lives in a serious way to get the profound rest needed for healing.
+The benefits of profound rest accumulate day by day. If interrupted, some healing processes must start over. To heal from major trauma, a good night's sleep is not enough, even several in a row. We must bring hygienic retreats into our lives to get the profound rest we need.
 
 #### history
 
-Hygiene originated in America when it was still the world's freest country. It came a generation after the revolution, in the Enlightenment. Hygiene became a mass movement in 1832 with the lectures of Sylvester Graham, physiologist & namesake of Graham (whole) flour. Two doctors, Isaac Jennings and Russell Trall, abandoned drugging, further developed hygienic theory and practice, and spread hygiene widely with publications, teaching, and organization. 
+Hygiene originated at the peak of the Enlightenment in America, a gift of its Revolutionaries' children. Hygiene became a mass movement in 1832 with the lectures of Sylvester Graham, physiologist and namesake of Graham (whole wheat) flour. Two doctors, Isaac Jennings and Russell Trall, amplified Graham's efforts. Each had independently abandoned drugging. They further developed hygienic theory and practice. They spread hygiene widely with publications, teaching, and organization.
 
-Mary Gove helped bring hygiene to women of the 19th century, whose increasing independence it matched. Florence Nightingale transmitted its rudiments internationally through nursing (before medicine co-opted it). John Tilden buoyed and innovated in hygiene after the untimely death of Dr Trall. Herbert Shelton revived and systematized it for the 20th century. He formalized it as "Natural Hygiene" to strike the imagination and distinguish it from narrow medical usage. 
+Florence Nightingale, perhaps more than anyone else, spread hygiene through nursing, before nursing was co-opted by medicine. Ellen G White imbued the Seventh Day Adventist Church with hygienic teaching. Adventists still live 10 years longer than non-Adventists under the same circumstances. 
 
-Hygiene led the natural health movement of the 19th century which resulted in the famous improvement to public health then. Medicine, funded through Rockefeller's pharmaceutical interests, opposed hygiene while taking credit for this. Medicine made war on hygiene's exponents, institutions, and full teachings through propaganda, lobbying, and prosecution, nearly destroying hygiene. Medicine covered its tracks by using hygiene's mistaken emphasis on toxemia to reduce hygiene to the idea of cleanliness. Thus few know the real story.
+John Tilden buoyed hygiene with his innovations after the untimely death of Dr Trall. Herbert Shelton revived and systematized hygiene for the 20th century. He rechristened it, "Natural Hygiene". He did this to strike the imagination, but also to distinguish it from medicine's corruption of the word to mean mere cleanliness.
 
-Nonetheless, hygiene remains the most effective and influential approach to health and healing in world history. It now benefits nearly every person on the planet several times a day with the understanding that fresh air, pure water, regular bathing and exercise, and nutritious food are matters of course in a healthy life. With the advent of a hygienic psychology and the astounding self-healing power of the organism in darkness, hygiene's influence will increase exponentially. So I am leaving behind the special name, Natural Hygiene, to reclaim the ordinary word, hygiene, for our tradition.
+Many other bold men and women alike gave their lives to hygiene, touching tens of thousands and affecting hundreds of millions. To name a few: William Alcott, Emmet Densmore, Helen Densmore, Edward Dewey, Susanna Dodds, O S Fowler, Felix Oswald, Mary Gove, James Jackson, Edmond Moras, Thomas Nichols, Chas Page, Hermann Reinheimer, Harriet Shaw, Joel Shew, George Taylor, Robert Walter.
+
+While other approaches to health emerged, hygiene was the most rational and radical of all. Thus it became the vanguard of the natural health movement of the 19th century. That century's famous improvements in public health resulted.
+
+Medicine, funded through Rockefeller's pharmaceutical interests, opposed this progress every step of the way. But in psychopathic manner, it took credit for the successes it failed to prevent. Medicine made especial war on hygiene's teachings, exponents, and institutions. It used propaganda, lobbying, and prosecution. It nearly destroyed hygiene. It covered its tracks by using hygiene's emphasis on toxemia to reduce hygiene to the idea of cleanliness. Thus few know the real story.
+
+Nonetheless, hygiene remains the most effective and influential approach to health and healing in world history. It now benefits nearly every person on the planet several times a day, whether he knows the word, hygiene, or not. Virtually everyone knows that fresh air, pure water, regular bathing and exercise, and nutritious food are matters of course in a healthy life.
+
+With the advent of a hygienic psychology and the astounding self-healing power of the organism in darkness, hygiene's influence will regain its former ascendency and increase to permanent dominance. To mark this turnaround, I am leaving behind the special name, Natural Hygiene, to reclaim the ordinary word, hygiene, for our tradition.
 
 #### laws of life
 
@@ -121,21 +143,15 @@ The perfect sense of these laws exposes common myths of health. The laws affirm 
 
 Elder hygienists have written much about these laws, and I refer you to their work, beginning with [Shelton](/nhs.pdf). I will make a few comments here.
 
-As we can see, hygiene is philosophical. It mirrors the axiomatic concepts found in realist metaphysics. Hygiene is based on the being, identity, consciousness, and causality of life. Life is. Life is what it is: alive (self-preserving). Human life is self-aware and volitional: Life knows and chooses. Life acts in accordance with its nature.
+As we can see, hygiene is philosophical. It mirrors the axiomatic concepts found in realist metaphysics. Hygiene is based on the being, identity, consciousness, and causality of life. Life is. Life is what it is: alive, ie, self-preserving and conditional. Man is self-knowing and volitional. Life functions in accordance with its nature.
 
 Life is assertive, intelligent, and active. It is not a helpless, stupid reaction. This regards the laws of _Force_ and _Coordination_. Self-preserving means self-generating, self-maintaining, and self-healing. These obtain in every aspect of life and at every scale, from the cells to the organism as a whole. This is part of the _Law of Order_. It preserves itself as well as it can stand to, and this capacity varies. This is the _Law of Capacity_ (more about this law later).
 
 Other laws follow. The _Law of Action_ states that only the organism performs vital action, including healing. So only the organism can heal the organism. Again, this is true at every scale. Even a cell must heal itself; another cannot. The _Law of Power_ states that energy used to perform action resides only in the organism, not anything external to it. (This law might have treated the ability as well as the energy to act. The _Law of Capacity_ now addresses ability along with other elements.)
 
-Thus, no drug, herb, or food heals; neither any condition or practice; nor treatment, person, or device. Thus there are no cures. Attempting to heal the body from the outside further damages it or drains its power to heal itself. Whatever benefit might appear in the short term, such attempts mask the body's illness and delay its healing. This is an example of the intriguing _Law of Dual Effect_. 
+Thus, no drug, herb, or food heals; neither any condition nor practice; nor treatment, person, or device. Thus there is no cure, no indication to medicate. Attempting to correct the organism from the outside further traumatizes, poisons, and exhausts its power to heal itself. Whatever benefit appears in the short term undermines vitality in the long term. Such attempts mask the body's illness and delay its healing. This is an example of the intriguing _Law of Dual Effect_. 
 
 The other laws compliment and develop on these. 
-
-NOTE: In an earlier edition of this book, I wrote:
-
-> Sixteen laws is too great a number for the mind to apprehend at once. So over time, integrating laws will emerge or some laws will be recognized as primary to others. Three to five "Great Laws", with the others as corollaries or sub-laws, will bring hygiene within reach of everyone's understanding.
-
-In the above list, this process has commenced.
 
 ##### examples
 
@@ -143,19 +159,25 @@ Whether well or ill, one's conscious (volitional) role is to discover and provid
 
 A drug, for example, is a poison by definition. This is why drugs are legally controlled. An organism does not relate with poison but rapidly neutralizes and expels it. It gets hurt in the process and we call it side effects. By contrast, an organism assimilates food into its own structure without harm or compromise.
 
-Fasting when ill is an instinctive extension of time between meals. It is observable in many other animals and has long been a part of Natural Hygiene. In this pause in eating, the body can rest from most metabolic processes. It repairs tissues, eliminates deeply stored toxins and waste, and replenishes itself with unabsorbed nutrients and energy to the farthest reaches of every cell. For example, anemia, supposedly caused by iron deficiency, disappears. Blood iron levels normalize during a fast. We might say a similar case is women who cannot conceive become pregnant after fasting. The capacity either to absorb iron or conceive is restored. Just as fasting enables metabolic rest, darkroom retreating enables profound psychic rest.
+Fasting when ill is an instinctive extension of time between meals. It is observable in many other animals and has long been a part of Natural Hygiene. In this pause in eating, the body can rest from most metabolic processes. It repairs tissues. It eliminates untended waste and toxins stored deeply in excess fat. It replenishes itself with unabsorbed nutrients and energy.
 
-One of hygiene's striking insights regards disease. In disease, symptoms do not afflict the body. They are how the body heals itself and signals for care. Disease is not hostile. It does not invade from without, as in the germ theory. It is the body itself in action. Pain signifies damaged tissues and their repair. Infection and inflammation after first aid signify neutralization and elimination of internal toxins. Unpleasant discharges---vomiting, diarrhea, extra sweating, rashes, bad breath, dark urine---are the elimination of gross accumulated toxins and waste through every organ. Fatigue indicates energy has been diverted to all this critical work.
+For example, anemia, supposedly caused by iron deficiency, disappears. Blood iron levels normalize during a fast. A similar case is barrenness. Women who could not conceive become pregnant after fasting. The capacity either to absorb iron or conceive is restored. Just as fasting enables profound physical rest, darkroom retreating enables profound psychic rest.
 
-These healthy processes must not be stopped but supported and waited out. Drugs or treatment require the body to neutralize or recover from them. Creating "another disease" does not aid healing but delays it. It adds to one's damage, toxic load, and exhaustion. It guarantees worse symptoms later when one has less time and energy to deal with them. With medicine, one goes from a cough to a cold to bronchitis to pneumonia to death. We can trace similar tracks in the pathologies of those with cancer, diabetes, stroke, digestive disorders, depression, AIDS, etc. More about pathology in [*psychology > pathology*](/psychology#pathology)
+One of hygiene's striking insights regards disease. In disease, symptoms do not afflict the body. They are how the body heals itself and how it signals for care. Disease is not hostile. It does not invade, as in the germ hypothesis. It is bodily activity. Trying to get rid of symptoms only makes war on the body that causes them. Such effort must stop.
 
-Loss of appetite conserves energy from the immense effort of digestion. Pain, nausea, weakness, and exhaustion immobilize the organism, enabling all vital force to be used for healing. Every one of these is a biological virtue. None should be feared or suppressed. All should be viewed as vital victories to be trusted, observed, and supported, not fought. All occur in the most efficient possible way for the purpose of restoring health. Disease is our friend. 
+Pain signifies repair of damaged tissues. Infection and inflammation after first aid signify neutralization and elimination of internal toxins. Unpleasant discharges---vomiting, diarrhea, extra sweating, rashes, bad breath, dark urine---are the elimination of gross accumulated toxins and waste through various organs. Fatigue indicates energy has been diverted to all this critical work.
 
-In the relationship between food and nerve energy lies another example of vital relations. Food does not actually give energy to the body directly. Food initially takes nerve, chemical, and muscular energy to eat and digest. Otherwise, we could just eat to restore our vigor, even when sleepy. Food provides sugar, which refuels everything from large muscle movement to thinking to cell operation. Some of this refueling can occur within seconds of eating fruit, the most easily digested food. But even this takes material and energetic reserves to accomplish. The body only transforms sugar into reserve electrical potential of the nerves during sleep. It only repairs tissue eliminates toxins from it completely while they are unused. Eventually we run out of the power necessary to utilize food and must rest.
+These healthy processes must not be stopped but supported and waited out. Drugs or treatment require the body to neutralize or recover from them. Creating "another disease" does not aid healing but delays it. It adds to one's damage, toxic load, and exhaustion. It guarantees worse symptoms later when one has less time and energy to deal with them.
+
+With medicine, one goes from a cough to a cold to bronchitis to pneumonia to death. We can trace similar tracks in the pathologies of those with cancer, diabetes, stroke, digestive disorders, depression, AIDS, etc. More about pathology in [*psychology > pathology*](/psychology#pathology)
+
+Loss of appetite conserves energy from the immense effort of digestion. Pain, nausea, weakness, and exhaustion immobilize the organism, enabling all vital force to be used for healing. Every one of these is a biological virtue. None should be feared or suppressed. All should be viewed as vital victories to be trusted, observed, and supported, not fought. All occur in the most efficient possible way for the purpose of restoring health. Disease is not an enemy to battle, but our friend to tend to.
+
+In the relationship between food and nerve energy lies another example of vital relations. Food does not actually give energy to the body directly. Eating and digesting food initially takes energy, both nerve, chemical, and muscular. Otherwise, we could eat to restore our vigor, even when sleepy. Food provides sugar, which refuels everything from large muscle movement to thinking to cell operation. Some of this refueling can occur within seconds of eating fruit, the most easily digested food. But even this takes material and energetic reserves to accomplish. The body only transforms sugar into reserve electrical potential of the nerves during sleep. It only repairs and eliminates toxins from tissue completely while they are unused. Eventually we run out of the power necessary to function and utilize food and must rest.
 
 Again we see that no external force has the power to act for life, only life itself. Life is the doer. Hygiene helps us redirect to the _autonomic self_ the vast attention paid in our lifeway to the volitional self. Volition plays a critical yet small part in the whole process of life. Hygiene puts these elements in their proper places. Hygiene can now offer darkness as a means of caring for the autonomic self in its primary system, the psyche.
 
-The deep self will not solve all one's problems in darkroom retreat. But it will have the chance to recover lost capacity. Recapacitated, one can then make the radical changes in lifeway necessary to handle one's remaining problems. See  
+The deep self will not solve all one's problems in darkness. Some remain for the will. The deep self will restore the will's capacity. One can then make the radical changes in lifeway necessary to handle one's remaining problems. See  
 [*protocol > post-retreat*](/protocol#post-retreat).
 
 ##### capacity
@@ -168,9 +190,9 @@ This is the philosophical law of causality applied to health: a thing acts in ac
 
 Everything has a structure, whether it is an idea, a building, a body, a galaxy. In organisms, structure is the psychophysical framework of life, holding it up, keeping it together. Like life, capacity is a union of being and consciousness. It is the vital pattern of an organism. It exists at every scale like a fractal or hologram. It is lifeforce in a particular form. Yet it cannot be reduced to consciousness, the nervous system, the skeleton or myofascia, or DNA. Any of these might serve to represent its status. 
 
-Capacity is synonymous with constitution, endowment, type, inheritance, stock, and potential. Like these, capacity is conventionally assumed to be static. In fact, it is dynamic, changing constantly. Capacity is experienced as a sense of ease in doing something.
+Capacity is synonymous with constitution, endowment, type, inheritance, stock, and potential. Like these, capacity is conventionally assumed to be static. In fact, it is dynamic, changing constantly. Capacity is experienced as a sense of ease in doing something. 
 
-Capacity shows up in colloquialisms: "Do you have... it in you? What it takes? The wherewithal? The right stuff? The touch? The X factor?" Or, "He's a natural. He was born to do it. It's in the blood." 
+It shows up in colloquialisms: "Do you have it in you? Do you have what it takes? The wherewithal? The right stuff? The touch? The X factor?" Or, "He's a natural. He was born to do it. It's in the blood." 
 
 Two influences affect capacity significantly: profound rest (positively) and major trauma (negatively). Profound rest is both physical and psychical. Fasting provides primarily physical rest; darkroom retreating, primarily psychic rest. These can be used together or separately depending on capacity. 
 
@@ -222,9 +244,9 @@ But, no. Doing far too many 3- and 4-day retreats caused the problem of _overlos
 
 ~/~
 
-This is the general theory of hygiene 3.0. Our main subject, the darkroom retreat, instigated the revision. Now, in context, we can see our subject more precisely.
+This is the general theory of hygiene 3.0. Our main subject, the darkroom retreat, necessitated the new version. Now, in context, we can see our subject more precisely.
 
 &nbsp;
 
-[^1]: TC Fry, [*Life Science Health System*](http://www.scribd.com/doc/225734352/The-Life-Science-Health-System-T-C-Fry), This is actually Fry's 'elegant paraphrase of original quote by Herbert Shelton in  [*Natural Hygiene: Man's Pristine Way of Life*](http://soilandhealth.org/wp-content/uploads/02/0201hyglibcat/020125shelton.pristine/020125ch8.htm)
+[^1]: TC Fry, [*Life Science Health System*](http://www.scribd.com/doc/225734352/The-Life-Science-Health-System-T-C-Fry), This is actually Fry's elegant paraphrase of original quote by Herbert Shelton in  [*Natural Hygiene: Man's Pristine Way of Life*](http://soilandhealth.org/wp-content/uploads/02/0201hyglibcat/020125shelton.pristine/020125ch8.htm)
 [^2]: Herbert Shelton, [*Science and Fine Art of Natural Hygiene*](/nhs.pdf), back cover

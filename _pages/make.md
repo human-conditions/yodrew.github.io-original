@@ -9,13 +9,13 @@ navnext: air
 > "The time for half-measures and talk is over."  
  -- Maximus in _Gladiator_
 
-&nbsp;
+#### intro
 
 Just the ideas in this book can bring relief and hope. But 99% of their value lies in their application. This requires a darkroom. Since darkrooms are uncommon, these last four chapters explain how to build darkrooms, usually inside existing buildings. 
 
 This chapter provides basic information that applies to all components of a darkroom. The next three chapters provide blueprints and instructions for components related to three elements: air, darkness, water. They are vents, silencers, seals, blinds, and kitchen and bathroom fixtures. Designs are low-cost, low-tech, and work off-grid.
 
-A darkroom is a real thing you see and touch, make, use, and offer others. It is not a metaphor. It takes knowledge, imagination, design, measurement, plans, materials, craftsmanship, construction, testing, and improvement. 
+A darkroom is a real thing you see and touch, make, use, and offer others. It is not a metaphor. It takes a knowledge, imagination, design, measurement, plans, materials, craftsmanship, construction, testing, and improvement. 
 
 These are normal human activities everyone can do to some degree and get help with the rest. If you can walk down stairs without falling, hit a plate when you aim food at it, hold a pencil, cognize sentences, tell light from dark, and feel a breeze, you are mechanically sufficient to begin. As Jack Nuckols, an engineer and my grand-elder, once told me when my time came, "Become a craftsman." Perhaps your time has come.
 
@@ -30,11 +30,11 @@ All components rely on the basic instructions in the following sections: **metri
 After improvising darkness to sleep in [*tonight*](/format#tonight), the  
 [*instant sleeping mask*](/darkness#instant) probably comes next. Thus initiated, you can begin your training as a darkroom-building ninja. You will become invisible to everyone for a while. And you won't be able to see anything, either. Haha.
 
-If you need more specific advice for darkening your space, I provide [*design consultation*](/about/services). Yes, guiding people by word and picture on a chat application toward a completed darkroom and successful retreat actually works, and I have done it. Likewise, feel free to use these [*open-source*](/introduction#open-source) designs and my consultation to darken other people's spaces as a service for money. See [*license*](/about/license) for my liberal terms.
+If you need more specific advice for darkening your space, I provide [*design consultation*](/about/services). I guide people through text, voice, and image on a chat app toward a completed darkroom and successful retreat. Likewise, feel free to use these [*open-source*](/introduction#open-source) designs and my consultation to darken other people's spaces as a service for money. See [*license*](/about/license) for my liberal terms.
 
 #### metric
 
-I give all measurements in metric, mostly millimeters. Are you used to inches, pounds, and gallons? Get a handle on the brain-descrambling metric system in a split-minute:
+I give all measurements in metric, mostly millimeters. Are you used to the inches, pounds, and gallons of the imperial system? Get a handle on the brain-descrambling metric system in a split-minute:
 
 1. understand that, with metric, you will simply be counting to 10 and multiplying by 10 like normal. You will not be wrangling fractions and multiple conversion factors as in the imperial system.
     - basic metric conversions:
@@ -53,20 +53,21 @@ I give all measurements in metric, mostly millimeters. Are you used to inches, p
         - 30cm = 1' (foot)
         - 1m = 1 yard & 4" 
         - 3m = 10'
+        - 1km = 0.6 mile
     - area
         - 1m<sup>2</sup> = 11'<sup>2</sup>
         - 4' x 8' sheet = 120cm x 240cm (~3m<sup>2</sup>)
-        - the genius &radic;2-based A1-A8 paper size system
+        - the genius A0-A8 paper size system. A sheet's 1:&radic;2 proportion remain the same when cut in half the short way. A0 = 841 x 1189 = 1m<sup>2</sup>. A1 = 595 x 841 = 0.5m<sup>2</sup>. A4, the metric counterpart to North American letter size paper, is 210 x 297 = 0.0625m<sup>2</sup>, 1/2<sup>(A)4</sup> of a square meter
     - volume
         - *4L = 1 gallon
-        - 1.7cmh = 1cfm (cubic meter/hour; cubic feet/minute of air)
+        - 1.7cmh = 1cfm (cubic meter per hour to cubic feet per minute; for airflow)
     - mass 
         - 28g = 1 oz
-        - *1kg = 2 lb
+        - *1kg = 2.2 lb
 
 #### tools
 
-Making components requires some or all of these tools:
+Making components requires most or all of these tools:
 
 1. table or desk
 2. measure
@@ -198,8 +199,8 @@ These instructions apply to all components, or as indicated. Read special instru
         3. skip to step "3. make parts" (about two pages below)
     2. customize [roller blind plans](/darkness/#roller-blind)
         1. cut out parts, leaving as much paper around them as possible 
-        2. measure variables (_h_, _w_, _t_) and derive measurements for parts. Write measurements on parts next to variables.
-        4. cut lines running through stretch arrows
+        2. measure variables (_h_, _w_, _t_) and derive measurements for parts. Measure sill where it meets wall or trim. Write measurements on parts next to variables.
+        4. cut lines running through stretch arrows. Rejoin with a couple small pieces of tape to keep them together until transfering plans to material.
     3. customize [threshold vent](/air/#threshold-vent)
         1. using straight edge and razor knife, cut vertical lines running through shrink arrows in grey areas
         2. shrink left and right sections (push them inward, overlapping center section) until cut edges match center section's top and bottom mm marks equal to _h_ 

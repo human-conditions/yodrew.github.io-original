@@ -12,21 +12,18 @@ Though often easier to deal with than ventilation, light is relentless. It sneak
 
 Generally, to darken a space,
 
-1. use dense inherently lightproof sheet material in 1-2 layers to cover area 
+1. use dense inherently lightproof sheet material in 1-2 layers to cover area. Using few layers means:
+    - better function
+    - easier, more reliable operation
+    - neater appearance
+    - greater need for precision
 2. use black polar fleece (or soft) fabric to seal edges
 3. outer surfaces exposed to sun should be reflective: white or silver
 4. in vents, channel light around 6 black-surfaced corners
 
-Usually, using fewer layers means:
+If improvising for [tonight](/format/#tonight): use many layers. With each layer, block as much light as close to the source as possible. First, block 99% the light. Then 99% of what's left. Then the last 0.01% is easier to address or ignore. Close curtains in rooms or hallways outside a darkroom's door. Where possible, shade your darkening measures from direct sunlight.
 
-- easier, more reliable operation
-- better function
-- neater appearance
-- greater need for precision
-
-If improvising for [tonight](/format/#tonight): use many layers. With each layer, block as much light as close to the source as possible. First, block 99% the light. Then 99% of what's left. Then the last 0.01% is easier to address or ignore. Close any curtains in rooms or hallways outside a darkroom's door. Where possible, prevent direct sunlight from hitting your darkening measures with shade. 
-
-Edges are tricky. Black polar fleece is the best thing I have found for sealing edges. It's like a sponge for light. It is widely available, cheap, and forgiving. A knit fabric, its edges require no hem. Just cut and attach with school glue or tape.
+Edges are tricky. Black polar fleece is the best thing I have found for sealing edges. It's like a sponge for light. It is widely available, cheap, and forgiving. A knit fabric, its edges require no hem. Just cut and attach with school glue or masking tape.
 
 We will start with the simplest and most portable design, which darkens the small space immediately around the eyes: the sleeping mask.
 
@@ -137,7 +134,7 @@ If door has a window, use one of the methods below to cover it.
 
 #### blinds
 
-To darken windows, use one of the five methods I have come up with---foil, plastic, panel, velcro, and rollerblind---or have blackout blinds custom made with side rails for 10-100x the money. Or invent something else.
+To darken windows, use one of the five methods I have come up with---foil, plastic, panel, velcro, and rollerblind---or have blackout blinds custom made with side rails for 10-100x the money. Or invent something of your own.
 
 ##### constraints
 
@@ -156,27 +153,32 @@ To darken windows, use one of the five methods I have come up with---foil, plast
 
 ##### intro
 
-Blackout blind fabric is plastic-coated to seal tiny holes in the weave. Like anything, fabric quality varies greatly. Light still leaks through the surface of some fabric. Here is how to test it.
+Blackout blind fabric is plastic-coated to seal tiny holes in the weave. Like anything, fabric quality varies greatly. Light still leaks through the surface of some fabric. 
 
-Use a high-power flashlight too bright to look directly into, like a big Mag-Lite or tactical flashlight. Get a sample of fabric big enough to cover the flashlight's lens twice. Test the flashlight to make sure it works. Tightly tape one layer of fabric over the lens with lightproof tape, then another. Put it by your bed. Quickly darken your sleeping room as well as possible with blankets, cardboard, foil, etc, and go to sleep. After waking, before looking directly at any light sources, point the flashlight at your eyes and turn it on for a few seconds. You should see no light. Turn off flashlight to prevent burning. If you see light, the fabric is unacceptable. Remove one layer of fabric. If you now see light, then use two layers of that fabric. If you still see no light, you have found excellent blackout fabric you can use in one layer. Please let me know the brand. Blackout fabric that works perfectly in one layer is rare.
+Test fabric using a high-power flashlight, like a big Mag-Lite or tactical flashlight. Get a sample of fabric big enough to cover the flashlight's lens twice. Test the flashlight to make sure it works. Tightly tape one layer of fabric over the lens with lightproof tape, then another. Put it by your bed. Darken your sleeping room as well as possible with blankets, cardboard, foil, etc, and go to sleep. 
 
-If buying a complete rollerblind, buy from an established local blind shop that cannot easily escape dissatisfied customers. Do not buy on the internet, regardless of price, guarantees, or reviews on (fake) review sites. (Yes, I learned this the hard way). Buy only well-known, internationally distributed brands (which generally cause the least complaints). Get a guarantee of absolute lightproofness of the entire installation. Tell them you will be testing it with high-tech equipment. That is, with human eyes that have had three days to adjust to darkness.
+After waking, keep your eyes closed. Grab the flashlight and point it at your eyes. Open them and turn it on for a few seconds. You should see no light. If you see light, the fabric is unacceptable. Turn off flashlight to prevent burning. Remove one layer of fabric. Turn on flashlight. If you now see light, then use two layers of that fabric. If you still see no light, you have found excellent blackout fabric you can use in one layer. Please let me know the brand. Blackout fabric that works perfectly in one layer is rare.
 
-Some fabric has toxic PVC (polyvinyl chloride) coatings. Get full disclosure of material content. The specifications of one product I looked at stretched to three pages. But still, under "coating", the manufacturer divulged merely one word: "polymer". This is another word for plastic. This could have meant PVC, so I did not buy it. It's too bad. Later I found out they use the industry standard, acrylic foam.
+If buying a complete rollerblind, buy from an established local blind shop that cannot easily escape dissatisfied customers. Do not buy on the internet, regardless of price, guarantees, or reviews on (fake) review sites. (Yes, I learned this the hard way). Buy only well-known, internationally distributed brands (which generally cause the least complaints). Get a guarantee of absolute lightproofness of the entire installation. Tell them you will be testing it with advanced sensors. That is, with eyes that have had three days to adjust to darkness.
+
+Some blackout fabric has toxic PVC (polyvinyl chloride) coatings. Get full disclosure of material content. The specifications of one product I looked at stretched to three pages. But still, under "coating", the manufacturer divulged merely one word: "polymer". This is another word for plastic. This could have meant PVC, so I did not buy it. It's too bad. Later I found out they use the industry standard, acrylic foam.
 
 Search for PVC-free blackout blinds and blackout fabric. A handful of companies make blinds for traveling (especially with children). Some sell the fabric they use by the meter.
 
-Below, I describe four methods to make blinds: roller, velcro, plastic, and foil. The rollerblind is most recognizable. For ease of fabrication and low cost, it has borders of heavy paper instead of aluminum or wood. It operates easily and looks good. It works with or without a vent. Making it takes patience and precision (difficulty level: 3 out of 5). The velcro blind is easier to make (difficulty: 2), almost as easy to operate, good looking if unconventional, but harder to remove. Plastic cover can be reused, even traveled with. It is the easiest and quickest method. Foil cover is for one-time use, easiest to get materials for, very cheap, quick, only a little tricky to make, and its PVC tape is toxic. So only use if really pinched for time, money, or material availability.
+Plastic can be reused, even traveled with. It is the easiest and quickest method. Foil is for one-time use, easiest to get materials for, very cheap, quick, and only a little tricky to make. Its PVC tape is toxic. So only use if really pinched for time, money, or material availability.
 
-If your room's air supply comes through your window, attach a lightproof vent to blind near the top. Attach it to the outside of the blind if there is space for it. Test position of vent before cutting a slot for it to make sure it clears the window frame and handles. If your supply and return air pass through your window, use two lightproof vents, one near the top and one near the bottom of a blind.
+The velcro blind is easier to make (difficulty: 2), almost as easy to operate, good looking if unconventional.
+Uninstalling it may damage paint. 
+
+The rollerblind is hardest to make. For ease of fabrication and low cost, it has borders of heavy paper instead of aluminum or wood. It operates easily and looks good. It works with or without a vent. Making it takes patience and precision (difficulty level: 3 out of 5). 
+
+If your room's air supply comes through your window, attach a lightproof vent to the blind near the top. Attach it to the back of the blind if the window is deep enough to allow it. Test position of vent before cutting a slot for it to make sure it clears the window frame and handles. If your supply and return air pass through your window, use two lightproof vents, one near the top and one near the bottom of a blind.
 
 Some casement windows leave no space for a blind or vent because they are flush with the wall and open inwardly on hinges. In this case, either:
  
 1. build a deep-set frame around window to attach blind to
 2. sew a velcro blind into the shape of a box so it attaches to the wall but then sticks out enough to allow the window to open behind it and contain a [*helix vent*](/air#helix-vent).
-3. remove window temporarily and replace it with a solid panel of wood of the same size with a slot cut in it for vent. See hard panel section below.
-
-I will list the methods from quickest and cheapest to slowest and most expensive (in terms of both money and time).
+3. remove the window temporarily and replace it with a solid panel of wood of the same size with a slot cut in it for vent. See hard panel section below.
 
 ##### lesson
 
@@ -187,15 +189,15 @@ Now for a quick lesson on window types and anatomy.
     - opening
         - sliding
             - horizontal
-            - double hung (vertical)
+            - double-hung (vertical)
         - casement (hinged)
 - anatomy, from center of window to wall:
     1. pane: the glass itself
-    2. frame: holds pane
-    3. sash: holds frame, which closes against it. Often same as frame in non-opening windows.
+    2. frame: holds pane directly, moving with it in opening windows 
+    3. sash: attached to wall, surrounds frame. In opening windows, the frame closes against the sash. With non-opening windows, it is often the same as the frame.
     4. sill: holds sash; it's the surface where you put plants, candles, etc, but also corresponding sides and top
-    5. recess: entire opening in wall where window is. Often same as sill. For roller blind, measure sill where it meets wall or trim
-    6. trim: sometimes surrounds recess. It's on wall where it meets sill. If trim has a gently curved surface, bend roller blind rails to fit it. But do not attach blind to convoluted trim.
+    5. recess: entire opening in wall where window is installed. Often same as sill. 
+    6. trim: decorative wood trim on wall at edge of recess, surrounding it. Not always present. 40-100 wide, 10-20 deep. On wall where it meets sill.  Joined to sill at a right angle. 
     7. wall
 
 ##### foil
@@ -232,24 +234,24 @@ Do not tape foil to the frame, suspended in midair away from the window. It will
 
 ###### reusable
 
-Using white school glue (PVA), attach foil to cardboard or black posterboard. Once dry, wedge board in place over window, prop it up with a chair, or hang it with 1-2 pieces of tape. If the sun comes through really hot, face the foil outward toward it. Otherwise, face the black side toward the sun.
+Use Reynolds brand paper-laminated foil for baking. Or, using white school glue (PVA glue, cola blanca), attach foil to dark posterboard. Once dry, wedge board in place over window, prop it up with a chair, or hang it with 1-2 pieces of tape. If the sun comes through really hot, face the foil outward toward it. Otherwise, face the dark side toward the sun.
 
-Use this method to quickly reduce light where absolute lightproofness is not required or practical. For example, during travel. Or if you have an unsealed bedroom door which is almost dark enough for nightly sleep, except direct sunlight hits it from the outside in the morning through a small curtainless hallway window, cover the window this way.
+Use this method to quickly reduce light where absolute lightproofness is not required or practical. For example, during travel. Or if you have an unsealed bedroom door which is almost dark enough for nightly sleep, except direct sunlight hits it from the outside in the morning through a small curtainless hallway window, cover the window this way.  
 
 ##### plastic
 
-This method consists of taping thick black plastic over windows. This is my main method for quickly and cheaply darkening rooms for temporary use. To preserve the plastic for use elsewhere, I reroll it. Refolding big pieces on original parallel creases before rerolling is ok. But not making perpendicular folds, which can tear the plastic at intersections of creases.
+This method consists of taping thick black plastic over windows. It is my main method for quickly and cheaply darkening rooms for temporary use. It is reusable, durable, cleanable.
 
 This plastic is also great for traveling. Tape it up with masking tape in the corners. It cuts out 99% of light. The sleeping mask stops the rest.
 
 1. materials (test whatever you use for absolute lightproofness)
-    - 1 layer: extra-thick black polyethylene or EPDM rubber for pond lining or construction
+    - 1 layer: extra-thick (0.35mm) black polyethylene, construction sheeting, or EPDM rubber pond lining
     - 2-3 layers
-        - common construction sheeting, black polyethylene, .2mm thick, found at building supply houses in rolls or off a roll by the meter
-        - farmer's plastic/agricultural plastic/"light deprivation" tarp used in greenhouses, one side white, the other black or white with thin layer of black sandwiched between
+        - common construction sheeting, black polyethylene, 0.2mm thick, found at building supply houses in rolls or off a roll by the meter
+        - farmer's plastic/agricultural plastic/"light deprivation" tarp used in greenhouses, one side white, the other black, or 2 white layers sandwiching 1 of black
     - several layers: large black garbage bags
 1. assembly
-    1. **Important**: First, cover inside of windows with white paper or fabric. Dual or triple-pane windows can be damaged or even explode if simply sealed with black plastic! Black plastic also attracts attention. 
+    1. **Important**: First, cover inside of windows with white material: paper, fabric, or plastic. Windows build up fierce heat when sealed with black plastic. It can damage paint, wooden frames, and trim. It can destroy the vacuum in dual or triple-pane windows, even causing them to explode! Black plastic also looks strange from the outside, attracting negative attention. 
     2. measure and cut plastic to extend 100mm beyond window recess and any trim in case light and air leak between the window and wall. Or, if all joints and seals are perfect, and the window will not open during rest, cut plastic to almost cover frame.
     3. tape plastic to wall (or frame). Use 25mm black masking tape: Intertape PF3 or PB1, Shurtape T106<!-- from American Tape and Label-->. It is effective, cheap, sticks and conforms well to irregular wall surfaces, yet comes off easily without residue (unless you leave it up a long time). Not perfectly lightproof, it works with the plastic. Local art and professional lighting supply stores carry it. If it is not sticky enough on your surfaces, use photographic masking tape or black kraft paper tape. These are thicker (more lightproof), stronger, stickier, and more expensive. Look for ProGaff (formerly Permacel) 743, Shurtape 724 or 743, and 3M 235. 
     4. avoid electrical tape and most duct and gaffer's tape. They are made of soft vinyl and especially obnoxious adhesives and are thus extremely toxic in their manufacture, handling, use, and disposal. One exception I know is Shurtape PC 657, a polyethylene coated gaffer's tape. Do research; the devil is in the details.
@@ -424,6 +426,7 @@ This design takes considerable time. I've built it only once. The price of manuf
         - SW+SC=10
         - black line between SW and bar is layer of black paper glued to SW
     - mount rails with caulk on corner of sill and wall/trim 
+    - If face of trim has one shallow curve, concave or, more commonly, convex, bend roller blind rails to fit it. Or plan a larger blind and attach rails and cassette to wall outside the trim. But do not attach them to convoluted trim (with both convex and concave curves).
 - panel
     - carefully transfer hole & slot marks from plan to fabric & braces
     - cut slot and attach vent to panel

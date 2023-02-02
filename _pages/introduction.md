@@ -12,7 +12,7 @@ In civilization, we are:
 - exhausted. We need rest.
 - hurt and sick. We need recovery.
 
-How? By _hygienic darkroom retreating_: profound rest for the self-healing organism. It is a rational method of switching off the world, with its noise and demands. One takes refuge in the deep self, supporting it in healing itself by itself. This book is a complete manual for understanding and doing it. 
+How? By _hygienic darkroom retreating_: profound rest for the self-healing organism. It is a rational method of switching off the world, with its noise and demands. One takes refuge in the deep self, supporting it in healing itself by itself. This book is the complete manual for understanding and doing it. 
 
 #### basics
 
@@ -32,9 +32,9 @@ The book reveals what healing requires in detail. It inspires you to heal and to
 ##### terminology
 
 hygiene
-: 1&#46; caring for health by respecting life's self-preserving nature and providing its normal conditions.  
-2&#46; the biological science of health  
-3&#46; hygienism; Natural Hygiene
+: 1 - the science of health, a branch of biology  
+2 - caring for health by respecting life's self-preserving nature and providing its normal conditions.  
+3 - hygienism; Natural Hygiene
 
 Natural Hygiene
 : the two-century-old school of health that exemplifies and champions hygiene
@@ -43,7 +43,7 @@ normal
 : what is biologically appropriate (not merely usual or average)
 
 psyche
-: the faculty of consciousness, including:
+: the faculty of consciousness, specifically of man, including:
 
     - forms of intelligence and associations
         - moving: sensation / physical / instinctive / gut / reptilian
@@ -70,13 +70,11 @@ lifeway
 
 ###### usage
 
-Here is a note on my use of words.
-
 I don't use neologisms. I don't use words in any special sense. Virtually any dictionary will clear up confusion you may have while reading. Read through the senses and the etymology as well.
 
-My usage is sometimes unusual because I take pains to recover the original or essential meanings of words using etymology and historical usage. Popular use and manipulation by elites constantly degrade the true senses of high-level abstractions. Words become corrupt or acquire unfortunate associations. Language is artificial and must be maintained.
+My usage is sometimes unusual. I take pains to recover the original or essential meanings of words by digging into etymology and historical usage. Manipulation by elites and sloppy popular use constantly degrades the true senses of high-level abstractions. Words become corrupt or acquire unfortunate associations. Language is artificial and must be maintained.
 
-I consider this half the job of intellectuals and our audiences alike. The Oxford English Dictionary exemplifies this effort. Editions of American Heritage Dictionary and Webster's from before 1970 are excellent. Beware of newer lexicology. It is both better and worse than ever due to extreme divergence of philosophical influences in the last 40 years.
+I consider this half the job of intellectuals. The Oxford English Dictionary exemplifies this effort. Editions of American Heritage Dictionary and Webster's from before 1970 are excellent. Beware of newer lexicology. It is both better and worse than ever due to extreme divergence of philosophical influences.
 
 ##### requirements
 
@@ -209,15 +207,16 @@ As Finn says, what else can go right?
 
 This book is for:
 
-- those who appreciate good arguments and reasonable tests thereof
+- normal people: busy, functional, reasonable, positive people who know there is more to life than the Program, but only have evenings, weekends and vacations in which to explore it.
 - those who suffer in any way---spiritually, mentally, emotionally, physically, socially, ecologically---and need hope and a way out
-- those who sense hygiene's greater potential 
-- self-experimenters and self-explorers who don't necessarily have terrible problems, just yearning, curiosity, wonder, or a wish to find their next steps.
+- self-experimenters and self-explorers who don't suffer terribly but feel yearning, curiosity, wonder, or a wish to find their next steps.
 - those who wish to understand why humanity is in such rough shape and what to do about it
+- those who appreciate good arguments and reasonable tests thereof
+- those who sense hygiene's unrealized potential 
 
-Darkroom retreating is for anyone to whom it makes sense and who feels moved to do it, whether to heal from acute illness or just see what it's like. Much if not all physical illness is psychosomatic and therefore amenable to self-healing in darkness. 
+Darkroom retreating is for anyone to whom it makes sense and who feels moved to do it, whether to heal from acute illness or just see what it's like. Physical illness is originates or is anchored in psychic trauma. It is amenable to self-healing in darkness.
 
-However, darkness is no escape. Sometimes illness needs to be addressed in other obvious ways first. But just knowing about darkroom retreating can be greatly encouraging in doing so. It helps puts things in perspective. And acquaintance with hygienic principles is invaluable to healing from any illness. 
+However, darkness is no escape. Sometimes illness needs to be addressed in obvious and more pressing ways first. Hygiene will help with them. But learning about about hygiene through darkroom retreating reveals its scope like nothing else. It helps one understand the basic processes of health in a complete context of body _and_ soul. It shows where one is in the process of healing. It offers encouragement and hope. It helps puts things in perspective. And acquaintance with hygienic principles is invaluable to healing from any illness. 
 
 ##### how to use this book
 

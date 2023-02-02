@@ -6,25 +6,29 @@ navprev: make
 navnext: darkness
 ---
 
-The tricky part of making a darkroom is not darkening it but ventilating it. After all, now its windows and doors are sealed! So we'll look at ventilation first and darkness in the next chapter.
+The tricky part of making a darkroom is not darkening it but ventilating it. After all, now its windows and doors are sealed. Ventilation requires planning. We'll look at it first and darkness in the next chapter.
 
-Even trickier is making it quiet. With noise pollution, we are usually at the mercy of our neighbors whereas with air pollution, we could buy a purifier if necessary. Ventilation most affects the silence of a darkroom. It also affects temperature. Let's examine each condition and see how they work together in a mechanical system.
+Silencing a room is even trickier. We can install filters against air pollution. But noise puts us at the mercy of our surroundings. 
+
+Ventilation most affects the silence of a darkroom. It also affects temperature. We will examine each condition and see how they work together in a mechanical system.
 
 #### ventilation
 
-Below, I will give design constraints and describe various systems of ventilation. But I will first address its physiological importance.
+Below, I will give design constraints and describe various systems of ventilation. But first, I will address its physiological importance.
 
 ##### breathe
 
-Nature gives us a constant, abundant supply of fresh air, so our buildings should, too.
+Nature gives us a constant, abundant supply of fresh air. Our buildings should, too.
 
-I have observed a shocking number of people who seem oblivious to their own need for fresh air. Even though everyone knows we die within minutes without air, the importance of continuous fresh air has somehow escaped many. I can only attribute this negligence to mass psychosis, my explanation for the appalling features of civilized life. At the risk of insulting your intelligence, I am bound to address this fact of life, though it is one of the most basic, most obvious ones of all.
+I have observed a shocking number of people who seem oblivious to their own need for fresh air. Everyone knows we die within minutes without air. Yet the importance of a continuous fresh supply of it has escaped many. 
 
-Fresh air is always important. It is a normal condition of life and, along with warmth and safety, one of our most urgent necessities. Every second of our lives, quintillions of organic processes occur, and virtually all of them require oxygen. It is the most important nutrient we consume. We can live days without water and weeks without food. Not so, air.
+I can only attribute this negligence to mass psychosis. It is my stock explanation for the appalling features of civilized life. The need for fresh air is one of the most basic, most obvious facts of life. At the risk of insulting your intelligence, I am bound to address it.
 
-Just like food, air becomes a part of one's organism with every breath. This affects quality of life to a very great degree. Though it weighs little, the daily amount of air you breathe weighs twice as much as the food you eat. In a darkroom, you have little to do besides breathe. So if you haven't usually paid attention to air quality, you will likely notice it in darkness. 
+Fresh air is always important. It is a normal condition of life. Along with warmth and safety, it is one of our most urgent necessities. Every second of our lives, quintillions of organic processes occur. Virtually all of them require oxygen. It is the most important nutrient we consume. We can live days without water and weeks without food. Not so, air.
 
-Whether you do or not, poor air quality cancels most benefits of a retreat. Intermittently airing the room out _does not work_. I mean opening the door a couple times a day with eyes covered. Put this approach out of your mind. This is darkness, not the dark ages. Whatever it takes, no matter where you are or what you are doing, always provide yourself with continuous fresh air. 
+Just like food, air becomes a part of one's organism. It affects quality of life to a very great degree. It seems like nothing. But the amount of air you breathe masses twice as much as the food you eat. In a darkroom, you have little to do besides breathe. If you haven't paid attention to air quality, you will notice it in darkness. 
+
+Even if you don't, poor air quality cancels most benefits of a retreat. Intermittently airing the room out _does not work_. I mean opening the door a couple times a day with eyes covered. Put this approach out of your mind. This is darkness, not the dark ages. Whatever it takes, no matter where you are or what you are doing, always provide yourself with continuous fresh air. 
 
 For a darkroom retreat, this means:
 

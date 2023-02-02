@@ -183,7 +183,7 @@ How tiresome to find we live in voluntary prisons. What is to be done?
 
 The problem solves itself. We simply turn our prisons into escape pods. After all, we do need to stop moving around. We are sick. We are slaves. We need to rest, to recover ourselves, to reset our relationship to the world. Conscious of the immobilizing influence of these boxes, these cells, we can turn it to our advantage. We use it to stop. But not halfway, like beasts pacing restlessly in a cage. We stop fully, more and faster than anyone expected, without the slightest concession to the demand to constantly be busy. We can even say this is what our buildings were always for.
 
-So rectilinear buildings are not just acceptable, but perfectly suitable for short retreats. We begin to remedy them by an art of placement: feng shui, vastuveda, wabi sabi, or [ordo](/other-writings/ordo). This may render them suitable for medium-length retreats. If not, and certainly for long retreats, we replace, vacate, and dismantle them. We burn or bury their materials or purify them through re-use in round buildings. 
+So rectilinear buildings are not just acceptable, but perfectly suitable for short retreats. We begin to remedy them by an art of placement: feng shui, vastuveda, wabi sabi, or [ordo](/other-writings/ordo). This may render them suitable for medium-length retreats. If not, and certainly for long retreats, we replace, vacate, and dismantle them. We burn or bury their materials or renew them through re-use in round buildings. 
 
 A good building for the long-term is curved, round, or has five or more sides of equal length joined at equal angles. Rectangular walls are fine. So are right angles where floors meet walls. But not where walls meet ceilings or each other, as in orthogonal floor plans.
 
@@ -193,6 +193,6 @@ Happily, a handful of elegant, cheap, quick, [round shelter designs](/other-writ
 
 Now, let's learn to actually make escape vehicles out of prison cells. The next chapter gives detailed instructions and computer-drawn plans for your very own darkroom.
 
-NEW PAGE: [plan](/plan) for a hygienic house. A design and budget.
+See also my new [plan](/plan) for a hygienic house, with sketch and budget.
 
 

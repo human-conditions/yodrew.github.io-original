@@ -29,7 +29,22 @@ This is the orginal list. Hygienist, Victoria Bidwell, [compiled them](https://w
 
 It's a gripping set of ideas. It's essential to understanding hygiene and appreciating its gravitas. 
 
-But as a writer and thinker, I now find this form of the list arcane. Without grouping and hierarchy, it is five times too long to remember and use. Order is nearly random. Its numbers only highlight its length and distract from the titles. Some titles are too long. The hundred-year old language is verbose everywhere. The laws over-emphasize action, food, and energy. They barely treat being, consciousness, structure, which are more fundamental. No wonder hygiene has been marginalized.
+But as a writer and thinker, I now find this form of the list arcane.
 
-In my version, I fixed these flaws. This included splitting the difficult _Life's Great Law_ into the primary law of _Force_ and the new secondary law of _Proportion_. I expanded the law of _Order_ and formulated two new axiomatic laws of _Coordination_ and _Capacity_. I combined the nearly identical laws of _Development_ and _the Minimum_. There is probably more to do, but at least the work is started.
+- without grouping and hierarchy, it is 3-4 times too long to remember and use
+- order is nearly random
+- its numbers only highlight its length and distract from the titles
+- some titles are too long
+- the hundred-year old language is verbose everywhere
+- the laws emphasize action, food, and energy and barely treat being, consciousness, and structure, which are more fundamental
 
+No wonder hygiene has been marginalized. In my version, I fixed these flaws. I have identified the laws as either primary or secondary, and organized the secondary ones into 4 groups: process, reserves, energy, substance.
+
+This included:
+
+- splitting the difficult _Life's Great Law_ into the primary law of _Force_ and the new secondary law of _Proportion_
+- expanding the law of _Order_ 
+- formulating two new primary laws, of _Coordination_ and _Capacity_
+- combining the nearly identical secondary laws of _Development_ and _the Minimum_
+
+There is probably more to do, but at least the work is started. Perhaps there should be only 3-5 laws, and each would include the principles of the rest as elements or sub laws. Anyway, over time, further integration or reformulation will bring hygiene within reach of everyone's understanding.

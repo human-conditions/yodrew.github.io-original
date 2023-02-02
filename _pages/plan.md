@@ -201,7 +201,7 @@ I built this small short conic hut (~3m diameter x 2.5m high) in 2008. It shows 
 ##### Notes
 
 v.3.1
-Noticed 20% was not added to materials. Corrected. Bid increased to $15,352
+I noticed 20% was not added to MATERIAL costs in bottom group of totals. Corrected. Bid increased to $15,352
 
 v.3
 Massive increase in bid: doubled to $14k
@@ -211,8 +211,8 @@ Massive increase in bid: doubled to $14k
 - Stipend 
 	- increased by 1/3 to cover all personal expenses (see [sane personal economy](/other-writings/economy))
 	- extended for new work period
-- MATERIAL costs padded by 20%. Usual 10% for breakage and error plus 10% in case of more insane price increases
-- Estimate of license doubled, built into shell cost
+- MATERIAL costs padded by 20%. Usual 10% for breakage and mistakes, plus 10% in case of more insane price increases
+- Estimate of license doubled and built into shell cost
 I hope actual cost will be lower. I will track time, purchases, personal expenses to find savings.
 
 v.2
