@@ -72,6 +72,8 @@ Otherwise, here are other ideas to [participate](/about/participate/) in hygieni
 
 Donations: I appreciate them very much. I live simply. Even small amounts help. I'll send you my ebook and a printable version of the PDF. Methods:
 
+- [Wise](https://wise.com/share/andrewd1878) (formerly Transferwise)
+
 - PayPal
 <form action="https://www.paypal.com/donate" method="post" target="_top">
 <input type="hidden" name="hosted_button_id" value="TF5HRJLU52YJE" />
