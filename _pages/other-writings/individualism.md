@@ -12,17 +12,17 @@ These are semi-organized. They are enough to begin thinking along new lines. Som
 
 ##### immutable
 
-Whatever forms legislation, defense, and adjudication take in a society, they make up its state. Every society morally sanctions certain uses of force through these institutions. Man is a volitional being, thus fallible. Principles must guide his actions, personally and socially, especially in his of force.
+Whatever forms legislation, defense, and adjudication take in a society, they make up its state. Every society morally sanctions certain uses of force through these institutions. Man is a volitional being, thus fallible. Principles must guide his actions, personally and socially, especially his use of force.
 
-A state is an immutable institution of any society. It is not whether a society will have one, but what kind it has. It is axiomatic. State power would be needed to abolish states, as in the anarchist fantasy. It is impossible.
+Every society has a state of some kind. A state is an immutable institution of any society. It is not whether a society will have one, but what kind it has. It is axiomatic. State power (organized force) would be needed to abolish states and keep them abolished, as in the anarchist fantasy. It is impossible.
 
-A state could be the centralized, monopolizing, established beast we are used to. Or it could be distributed, internally competitive, and open-source. A new Individualist Party advocates a distributed state to best support individuals in the exercise of our natural rights to life, liberty, and property.
+A state could be the centralized, monopolizing, established beast we are used to. Or it could be distributed, internally competitive, and open-source. A new Individualist Party would advocate a distributed state to best support individuals in the exercise of our natural rights to life, liberty, and property.
 
 #### individualist distributed hyperstate
 
 This is a state that is:
 
-- based on individualist principles
+- based on individualist principles (the rights of man)
 - embodied by individuals throughout the population
 - of maximum size in terms of number of participants, amount of laws (through contracts), degree of control exercised (by individuals of their own affairs), and amount of power held by them in total.
 
@@ -56,7 +56,9 @@ A right is related to oneself. One exercises it at will, by choice, by right.
 
 #### rights
 
-Life, liberty, and property are rights because they are right. They enable us to fulfill basic biological functions, thus to fulfill the essential task of every organism: to live. Self-preservation is the distinguishing characteristic of life and its absolute imperative. Every life is an end in itself, not the means to any other end.
+Life, liberty, and property are rights because they are right. They are right because they enable him to fulfill the essential task of every organism: to live. To live, man, as a mammal, must be, move, and have. Self-preservation is the distinguishing characteristic of life and its absolute imperative.
+
+Every life is an end in itself, not the means to any other end. He exists for his own sake. His existence is the justification of his actions. His existence is not justified by any benefit it affords others.
 
 #### so much for voting and representation (democracy and republics)
 
