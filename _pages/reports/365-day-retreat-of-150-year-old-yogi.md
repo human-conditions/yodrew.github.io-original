@@ -6,7 +6,7 @@ navprev: lindsey-vona-darkness-retreat
 navnext: 3-day-sith-bathchamber
 ---
 
-_This story was sent me by [Finn Po](http://members.efn.org/~finnpo/info.html) and seems to have come from [Rhio's website](http://hookedonraw.com/?page_id=5648)_
+_This story came from [Rhio's website](http://hookedonraw.com/?page_id=5648)_
 
 Remember I had told you about the Indian Mahatma who had lived for 185 years and rejuvenated his body three times, growing new teeth, and regaining a youthful, flexible and wrinkle-free body. The book has a picture of him when he was 168. I wish I could put it through this email.
 
