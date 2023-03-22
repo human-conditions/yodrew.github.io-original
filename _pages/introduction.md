@@ -149,33 +149,17 @@ Slowly, I absorbed the essence of Natural Hygiene's radical perspective through 
 
 Frederic's dedication and great knowledge made him immovable where I was merely stubborn. I can only hope to return the favor with the current work. It illuminates certain mysteries of diet that frustrated us. Like why some people can stick with eating healthy food and others can't (see [*hygiene > capacity*](/hygiene#capacity)). And the greater mystery of metaphysical suffering that we, like so many others, failed to solve with diet.
 
-###### finn
+###### harold
 
 I first heard about darkroom retreating in 2004 from my former guru, Purna Steinitz. An American Hindu, he had heard about its use in Ayurveda. He told me, "Apparently, after a few weeks of it, one comes out completely renewed." I found the idea very strange. A budding hygienist and attracted to spirituality's Apollonian upper world, I thought we needed light. But like a lot of earthy things Purna said, the idea of renewal in darkness stayed with me.
 
-A year later, I moved to an ecovillage in Oregon. I hit it off with the old village maintenance man. Name of [Finn Po](http://www.efn.org/~finnpo/info.html). Scrawny guy. Lots of energy. A hippy from birth since his dad was a beatnik. Wizard-level resourcefulness. Full of wry optimistic sayings as well as good-natured quips about people's hang-ups. Drinks his own pee and lives in a tiny geodesic dome he built out of garbage 20 years ago.
+A year later, I moved to an ecovillage in Oregon. I met the village maintenance man. I'll call him Harold. He actually had a darkroom.
 
-Naturally, Finn also had a darkroom.
-
-"Tired of enlightenment?" he asked. "Try endarkenment."
-
-I said, "Ohmigod, Finn, really?!"
-
-"It's the way of the future. Don't be the last to know."
-
-"What's it like?"
-
-Eyes closed, arms wrapped round himself, he said, "It's a _luxury_." 
-
-"How do you do it?"
-
-"Ah, just git in the room." 
-
-A benevolent Pied Piper and the coolest 60 year-old around, he had inspired all the village's youth to try a retreat. After listening to him rhapsodize about it all winter, I did, too.
+He had inspired the village's youth to try retreats. After listening to him about it that winter, I did, too.
 
 [Wow](/reports/four-darkness-experiences).
 
-But as Finn says, I was just getting started. It would take two more years, the shock of leaving my guru, and another successful retreat for me to grasp the significance of retreating in darkness.
+But as Harold liked to say, I was just getting started. It would take two more years, the shock of leaving my guru, and another successful retreat for me to grasp the significance of retreating in darkness.
 
 ###### andrew
 
@@ -199,8 +183,6 @@ Over the course of my 25 retreats of 2--7 days, noticeable restoration of my psy
 
 Besides this supporting evidence, no data contradicting the basic idea has yet emerged. Interest in darkness is growing worldwide. I met an internationally recognized psychology professor with decades of experience as a flotation researcher. She unqualifiedly agrees with my theory and wants to do research with my exact method. Wherever I go, people are as struck as I am by the simple logic of this idea and want to try a retreat.
 
-As Finn says, what else can go right?
-
 #### application
 
 ##### audience
@@ -220,7 +202,7 @@ However, darkness is no escape. Sometimes illness needs to be addressed in obvio
 
 ##### how to use this book
 
-Above all, this book presents an idea for consideration. For now, doing a retreat is not at issue. To do something like this, you must know how and you must want to. To want to, you must believe in it. To believe, you must know enough about it to find it true. So first, learn the idea. Natural motivation comes from rational belief. Invest your time in knowledge by reading every word of this book, cover to cover. As Finn says, "Nothing costs more than what you don't pay for."
+Above all, this book presents an idea for consideration. For now, doing a retreat is not at issue. To do something like this, you must know how and you must want to. To want to, you must believe in it. To believe, you must know enough about it to find it true. So first, learn the idea. Natural motivation comes from rational belief. Invest your time in knowledge by reading every word of this book, cover to cover.
 
 Once you are motivated, use the book as a manual for making basic darkness for yourself at your own place. Download the companion darkroom retreat [zip file](/darkroom-retreat.zip) to get all the plans for components<!-- as well as some reference reading -->.
 
