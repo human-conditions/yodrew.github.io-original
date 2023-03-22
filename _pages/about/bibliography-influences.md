@@ -53,7 +53,7 @@ navnext: acknowledgments
     - 23 days fasting in California desert, 1991
     - hundreds of hours since 1986 in conversation with mentor and godfather, John Boyer, especially 1991-93
     - 1 week at Rainbow National Gathering, Idaho, 2001
-    - 60-hour darkroom retreat supported by elder, [Finn Po](http://www.efn.org/~finnpo/info.html), Oregon, 2006
+    - 60-hour darkroom retreat supported by Harold, Oregon, 2006
     - 10 days in audience of Advaita grandmaster, [Arnaud Desjardins](http://arnauddesjardinsdvds.com), Montana, 2007
     - 8 seconds in dreamtime with elder, [Adrian Wolfe](http://www.efn.org/~wolfe), Oregon, 2008
     - 18 months with the Maya at Lake Atitlan, Guatemala, 2011

@@ -44,7 +44,7 @@ Trimurti: my second family, torn away as soon as I noticed, for helping further 
 - John Boyer: you fed me with so much of your _time_
 - Purna Steinitz: you destroyed my sentimentality and kept your terrible promise. Shiva Shambo.
 - DeWaynn Rogers: you helped me up and kept me from the system's clutches. RIP.
-- Finn Po: elder, master job trainer, and pioneer of the way of the future, you could not have done more
+- Harold: you showed me my job
 
 Each of you gave me the world.
 
