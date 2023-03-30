@@ -593,11 +593,11 @@ My observations about the psyche and darkness follow. I show how hygiene applies
 
 ### psyche
 
-Shelton reviewed hygienic ideas about the psyche. "Graham pointed out that the 'vital instincts' behaved as though directed by intelligence. Tilden held that physiology is 'organized psychology.'"[^3] 
+Shelton reviewed hygienic ideas about the psyche. "Graham pointed out that the 'vital instincts' behaved as though directed by intelligence. Tilden held that physiology is 'organized psychology.'"[^1] 
 
-Shelton's own unsentimental view is: "The conscious functions of the body serve primarily to protect and provide the needs of the subconscious functions."[^4] This means consciousness is not an end in itself. It serves a biological function. Hygiene views consciousness as primarily autonomic (unconscious), secondarily volitional (conscious).
+Shelton's own unsentimental view is: "The conscious functions of the body serve primarily to protect and provide the needs of the subconscious functions."[^2] This means consciousness is not an end in itself. It serves a biological function. Hygiene views consciousness as primarily autonomic (unconscious), secondarily volitional (conscious).
 
-Furthermore, the psyche is the _primary_ system in the human organism. "Consciousness---for those living organisms which possess it---is the basic means of survival," said philosopher, Ayn Rand, in her _meta-ethics_[^5]. Whatever affects the psyche hugely affects the rest of the organism, whether for good or ill.
+Furthermore, the psyche is the _primary_ system in the human organism. "Consciousness---for those living organisms which possess it---is the basic means of survival," said philosopher, Ayn Rand, in her _meta-ethics_[^3]. Whatever affects the psyche hugely affects the rest of the organism, whether for good or ill.
 
 The psyche coordinates all other systems. It does so consciously, subconsciously, and unconsciously. The psyche is diffuse throughout the organism. It functions at every scale. It autonomically monitors and harmonizes all processes. How many at once? 70 trillion cells * 5 million processes per cell = 350 quintillion 350,000,000,000,000,000,000) organic processes per second.
 
@@ -808,9 +808,9 @@ Next we will discuss the psychological implications of hygienic darkroom retreat
 
 &nbsp;
 
-[^3]: Herbert Shelton, [*Science and Fine Art of Natural Hygiene*](/nhs.pdf), p 35
-[^4]: Ibid, p 139
-[^5]: Ayn Rand, _The Virtue of Selfishness_, p18, "The Objectivist Ethics"
+[^1]: Herbert Shelton, [*Science and Fine Art of Natural Hygiene*](/nhs.pdf), p 35
+[^2]: Ibid, p 139
+[^3]: Ayn Rand, _The Virtue of Selfishness_, p18, "The Objectivist Ethics"
 
 # 3 - psychology
 
@@ -945,7 +945,7 @@ On the other hand, distinct patterns repeat among those who suffer. Those who do
 
 In response, medicine continually moves the goalposts. It invents new diagnoses to cover for the insanity of its pathology. It is a holy war. Logic does not apply. 
 
-Fortunately, people tire of this hairsplitting. They just want to be well so they can get on with their lives. They quit the doctors, strike out on their own, and hope for the best. Medicine is so harmful, this proves remarkably successful[^6].
+Fortunately, people tire of this hairsplitting. They just want to be well so they can get on with their lives. They quit the doctors, strike out on their own, and hope for the best. Medicine is so harmful, this proves remarkably successful[^1].
 
 The hygienist's rational and benevolent view of disease keeps him cool as a cucumber. He does not react. He immediately provides good conditions. He observes. He studies. He modifies the conditions as necessary. Disease is a normal function of an organism under poor conditions. It is not an enemy but a messenger. One does not fight against it but cooperates with it. It is not a foreign entity to attack and expel. Hygiene makes the time necessary to correct allopathy's drunken imbalances with careful etiology (study of causes).
 
@@ -991,7 +991,7 @@ I'm going to list common examples of the plague of polite violence I refer to. O
 - absent, pushover, smothering, abusive, and negligent parents
 - nannies and day care
 - cribs, playpens, strollers (the worst designs of all time, which crystallize alienation in the nervous systems of billions.)
-- television, computers, games (screen technology causes not mere atrophy, but lifelong damage to the imaginative faculty when much used at critical phases of development.[^7])
+- television, computers, games (screen technology causes not mere atrophy, but lifelong damage to the imaginative faculty when much used at critical phases of development.[^2])
 - factory food (including unripe harvesting, chemical farming, genetic modification, irradiation) 
 - insincerity, negative emotion, and irrational ideas from others
 - and finally, the last nail so big it splinters the coffin: _school_. 
@@ -1004,7 +1004,7 @@ Let's finally get it through our numb skulls: no adult can get brutalized day in
 
 Personal failure originates in psychophysical malfunction from deep damage. We cover up this unpleasant fact by moralizing about weakness, cowardice, inability. Or we shrug it off mystically as bad luck. Chronic failure is not our fault but the result of disaster. We are not weak or bad. We are hurt. We don't need to work harder. We need time to rest so we can heal. We need to recover the capacity to succeed. I suggest we take a mass leave of absence from our absurd existence and find comfortable places to collapse. We'll do it in shifts.
 
-Damage from major psychic trauma is real. It is deep. It persists through generations until it heals.[^8] Meanwhile, it disrupts everything else in our lives: memory, reliability, conscientiousness, poise, digestion, sleep, circulation, coordination, humor, desire, clarity, etc. Everything. The mounting disaster motivates us to take it seriously. We can heal from it. We just need basic, decent conditions in which to do so.
+Damage from major psychic trauma is real. It is deep. It persists through generations until it heals.[^3] Meanwhile, it disrupts everything else in our lives: memory, reliability, conscientiousness, poise, digestion, sleep, circulation, coordination, humor, desire, clarity, etc. Everything. The mounting disaster motivates us to take it seriously. We can heal from it. We just need basic, decent conditions in which to do so.
 
 Lastly, unconscious psychic trauma often expresses itself somatically: as physical illness. If you are physically ill, you will certainly find psychic wounds underneath your condition, wounds of surprising intensity. These wounds are doors. On the other side of them lie unexpected paths back to physical health and personal power, the power to live.
 
@@ -1064,7 +1064,7 @@ I submit, we are actually crazy. But we weren't always. Something went terribly 
 
 What would we recover? Common sense, memory, and honesty. Joy and empathy. Vigor and grace. Just for starters. But much more awaits us. When the thinking, feeling, and moving centers of intelligence function again, and in harmony with each other, life will improve to a degree known only in legend. 
 
-I mean engagement with the other basic plane of reality. It mirrors spacetime, so some cutting edge scientists call it timespace: three dimensions of time---past, present, future---and one dimension of space, that is, one location.[^9] Australian Aboriginals call it dreamtime. Kogi Indians call it the _aluna_. 
+I mean engagement with the other basic plane of reality. It mirrors spacetime, so some cutting edge scientists call it timespace: three dimensions of time---past, present, future---and one dimension of space, that is, one location.[^4] Australian Aboriginals call it dreamtime. Kogi Indians call it the _aluna_. 
 
 They access it at will for daily living. It is how they can track someone 100 miles through the desert a year later with only a scrap of his clothing. Or talk to people on the other side of the world without telephones. Or go out to meet a scarce deer in the middle of nowhere to bring back for food. It is how spiritual adepts famously know things they have no normal way of knowing.
 
@@ -1118,7 +1118,7 @@ Trauma changes form but keeps its intensity. Society rearranges itself into civi
 
 What if we are the butt of a bad cosmic joke? If so, then our wars, big and small, are pointless. No one started it. No one need be punished. Everyone is essentially innocent. Everyone is free to walk away from the conflict and heal. 
 
-Trauma from such large-scale events is unavoidable. It is natural. Trying to prevent it is futile. Hope lies in having a way to recover from it.[^10][^11]
+Trauma from such large-scale events is unavoidable. It is natural. Trying to prevent it is futile. Hope lies in having a way to recover from it.[^5][^6]
 
 ## hygienic psychology
 
@@ -1131,11 +1131,11 @@ In light of the essence of hygiene, _conditional self-preservation_; the restful
 5. Rest that is profound enough for healing from major trauma occurs in total darkness.
 6. By hygienic darkroom retreating, we gain relief, rest, and recovery of health and its attributes.
 
-Hygiene upholds basic findings of psychology from several traditions. Hygiene merely declines psychology's conscious over-involvement in the unconscious. Only the unconscious is competent to direct self-healing. It only needs support of the conscious. The conscious is helpless to fix the damage. We are correct in believing we have a problem and need to do something about it. We have been disastrously incorrect about which part of the self has to do it.[^12]
+Hygiene upholds basic findings of psychology from several traditions. Hygiene merely declines psychology's conscious over-involvement in the unconscious. Only the unconscious is competent to direct self-healing. It only needs support of the conscious. The conscious is helpless to fix the damage. We are correct in believing we have a problem and need to do something about it. We have been disastrously incorrect about which part of the self has to do it.[^7]
 
 ### fasting
 
-Focusing on profound psychic rest in absolute darkness is new in hygiene. Due to its naive pathology, it has focused on the profound physiological rest of fasting. Fasting has been hygiene's ultimate means of dealing with serious illness. At most, hygiene recommends keeping curtains and eyes closed during fasts. This reduces the significant work of sensory processing of vision[^13]. A darkroom retreat embodies this principle fully. It provides the energy and, frankly, the psychic security of food, until the underlying psychic system necessary for comfortable fasting has repaired itself.
+Focusing on profound psychic rest in absolute darkness is new in hygiene. Due to its naive pathology, it has focused on the profound physiological rest of fasting. Fasting has been hygiene's ultimate means of dealing with serious illness. At most, hygiene recommends keeping curtains and eyes closed during fasts. This reduces the significant work of sensory processing of vision[^8]. A darkroom retreat embodies this principle fully. It provides the energy and, frankly, the psychic security of food, until the underlying psychic system necessary for comfortable fasting has repaired itself.
 
 In other words, the psychic system is more fundamental than the digestive and eliminative systems. Darkroom retreating is thus more urgently needed than fasting in most cases.
 
@@ -1171,13 +1171,13 @@ I am only saying enough here to give you a solid basis for beginning to do hygie
 
 &nbsp;
 
-[^6]: Wherever doctors have gone on strike, life expectancy increases overnight by 9 years and falls again when the strike ends, and a hundred other amusing facts about medicine. See Dr Robert S Mendelsohn, _Confessions of a Medical Heretic_. See also [Medical Myths](http://foodkills.org/medicalmyths/)
-[^7]: Joseph Chilton Pearce, _Evolution's End_
-[^8]: This provides the unconscious motivation for the current over-fascination with genetics, a negligible and corrupt quasi-science shot through with distrust of life and mechanistic control-freakishness.
-[^9]: David Wilcock, [Enigma 2012](https://divinecosmos.com/videos/free-videos/374-the-2012-enigma-free-full-length-documentary-film/)
-[^10]: This echoes one of Gurdjieff's main points that a proper psychology and method of living will enable people to deal with life's inevitable _shocks_. See Ouspensky's incomparable spiritual text, _In Search of the Miraculous_.
-[^11]: See my longer essay about cataclysm, [catastrophe](/darkness-conjecture/catastrophe)
-[^12]: Psychologists Michael Meade and James Hillman say it all with the title of their 1993 book, _We’ve Had a Hundred Years of Psychotherapy—And the World’s Getting Worse_.
-[^13]: Bernarr Zovluck, [Alternative Healing: What Nobody Understands](http://www.towardsfreedom.com/wdh/towardsfreedom/RTAlternativeHeal.html) Frederic Patenaude met this Los Angeles hygienist and mentioned him and his advice to me. Later, this comment would help me connect darkness with hygiene.
+[^1]: Wherever doctors have gone on strike, life expectancy increases overnight by 9 years and falls again when the strike ends, and a hundred other amusing facts about medicine. See Dr Robert S Mendelsohn, _Confessions of a Medical Heretic_. See also [Medical Myths](http://foodkills.org/medicalmyths/)
+[^2]: Joseph Chilton Pearce, _Evolution's End_
+[^3]: This provides the unconscious motivation for the current over-fascination with genetics, a negligible and corrupt quasi-science shot through with distrust of life and mechanistic control-freakishness.
+[^4]: David Wilcock, [Enigma 2012](https://divinecosmos.com/videos/free-videos/374-the-2012-enigma-free-full-length-documentary-film/)
+[^5]: This echoes one of Gurdjieff's main points that a proper psychology and method of living will enable people to deal with life's inevitable _shocks_. See Ouspensky's incomparable spiritual text, _In Search of the Miraculous_.
+[^6]: See my longer essay about cataclysm, [catastrophe](/darkness-conjecture/catastrophe)
+[^7]: Psychologists Michael Meade and James Hillman say it all with the title of their 1993 book, _We’ve Had a Hundred Years of Psychotherapy—And the World’s Getting Worse_.
+[^8]: Bernarr Zovluck, [Alternative Healing: What Nobody Understands](http://www.towardsfreedom.com/wdh/towardsfreedom/RTAlternativeHeal.html) Frederic Patenaude met this Los Angeles hygienist and mentioned him and his advice to me. Later, this comment would help me connect darkness with hygiene.
 
 
