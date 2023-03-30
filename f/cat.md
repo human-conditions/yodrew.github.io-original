@@ -1,7 +1,10 @@
-# hygienic darkroom retreat
+---
+title: "hygienic darkroom retreat"
+---
 
-profound rest for the self-healing psyche
-by Andrew Durham
+profound rest for the self-healing psyche  
+by Andrew Durham  
+
 –front matter & first 3 chapters
 
 ## blurb
