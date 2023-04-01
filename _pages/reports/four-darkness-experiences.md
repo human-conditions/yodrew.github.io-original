@@ -16,7 +16,7 @@ I just came out of a pitch black room after two days inside. We call it a dark r
 
 In the small room is a bed and a small open area with a rug. The building is cob (straw-reinforced earth) with windows that have been thoroughly blacked out for this purpose. There is an electric radiant heater and a composting toilet. This is an infinitely more pleasant update on the chamber pot of old. There is an inversion swing for hanging upside down.
 
-My host and guide would come in a couple of times a day to find out how I was doing, and to bring me fruit and anything else I needed. Mostly, I lay in bed. I slept a lot, well, and easily. Sometimes I would stretch or swing. I had my CD player, a U2 album, and a French language course.
+My supporter would come in a couple of times a day to find out how I was doing, and to bring me fruit and anything else I needed. Mostly, I lay in bed. I slept a lot, well, and easily. Sometimes I would stretch or swing. I had my CD player, a U2 album, and a French language course.
 
 From the first moment of turning off the light, I felt a wave of relief. It came from what I had never known until then as the constant assault of ambient light in cities. The rumbling of the city did not go away, but the break from light calmed me significantly.
 
