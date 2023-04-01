@@ -66,11 +66,9 @@ _continue reading online for free_{: style="font-size: .5em;padding-top:-10px 0;
 
 #### help out
 
-To make hygienic darkroom retreating work, I need a decent, safe, quiet house for a year. If my book makes sense to you and you would like to provide the house, please [let me know](/about).
+If my book makes sense to you and you would like to provide a house where it can be applied for yourself and others, please [let me know](/about). Here are other ideas to [participate](/about/participate/)
 
-Otherwise, here are other ideas to [participate](/about/participate/) in hygienic darkroom retreating.
-
-Donations: I appreciate them very much. I live simply. Even small amounts help. I'll send you my ebook and a printable version of the PDF. Methods:
+Donations: I appreciate them very much. I live simply. S mall amounts help. I'll send you my ebook and a printable version of the PDF. Methods:
 
 - [Wise](https://wise.com/share/andrewd1878) (formerly Transferwise)
 
