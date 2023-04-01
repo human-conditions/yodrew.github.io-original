@@ -20,7 +20,7 @@ These came after my childhood training in design and making things with my paren
 |1995|building||enlightentent|siliconized ripstop|Seattle|||
 |1996|building||enlightentent v.2|siliconized ripstop|Borrego Springs, CA||Jack Stephenson of Warmlite Gear|
 |1997-now|experiment||alt/natural building exploration||communities|worldwide|John Cruikshank RIP|
-|1999|interior|birth of ordo||Patagonia, AZ|Tree of Life|Frederic Patenaude, Gabriel Cousens|||
+|1999|interior|birth of ordo||Patagonia, AZ|Tree of Life|big brick building|Frederic Patenaude, Gabriel Cousens|
 |2001|interior||birth of tribal housing||Las Vegas|The Space|Micha Grainger|
 |2002-3|interior||interior experiments||Montreal|Caroline's, St Denis|Frederic Patenaude, Caroline|
 |2004|building||straw vault||Ashland||David Ward/ASET|
