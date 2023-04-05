@@ -61,7 +61,7 @@ Each of you gave me the world.
 - America
     - Rob Miller, Malia Shultheis, and Jen Carroll: supporters and early retreat hosts
     - Jesse King, John Monroe, and Elisabeth Goward, Dome Villagers at Maitreya Ecovillage, Eugene: serious camaraderie and support
-    - Blanche Colson: for getting Finn and me started in commercial window coverings for darkrooms. Of course, it was cardboard.
+    - Blanche Colson: for getting Harold and me started in commercial window coverings for darkrooms. Of course, it was cardboard.
 	- [Hannah Christina Torres](https://hannahtorres.massagetherapy.com) for the second prototype window covering idea
     - Daniel Tucker and Les Stitt, then Ben Ramsey and Stephanie: for KCMO shelter
 - Guatemala
