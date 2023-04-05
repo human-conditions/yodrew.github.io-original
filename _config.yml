@@ -6,8 +6,8 @@ collections:
     title: Posts
     output: true
 description: profound rest for the self-healing psyche
-baseurl: ''
-url: https://darkroomretreat.com
+baseurl: /yodrew.github.io
+url: yodrew.github.io
 markdown: kramdown
 plugins:
 - jekyll-feed
