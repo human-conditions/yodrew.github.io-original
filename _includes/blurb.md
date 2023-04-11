@@ -1,3 +1,5 @@
+<!---->
+
 ##### relief, rest, recovery
 
 A hygienic darkroom retreat consists of extended rest in a totally dark room. One is alone, with supporters nearby. There is food. The room is quiet, comfortable, and well-ventilated.
