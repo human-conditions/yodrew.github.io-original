@@ -6,7 +6,7 @@ layout: index
 
 {% include blurb.md %}
 
-_continue reading online for free_{: style="font-size: .5em;padding-top:-10px 0;"} [&gt;](/dedication)
+_continue reading for free_{: style="font-size: .5em;padding-top:-10px 0;"} [&gt;](/dedication)
 {:.arrow}
 
 #### ebook
@@ -15,8 +15,8 @@ _continue reading online for free_{: style="font-size: .5em;padding-top:-10px 0;
     - adjustable price
     - pdf, epub, mobi
     - check option for automatic notification of new versions, free forever
-    - no spam and your contact info remains hidden, even from me
-- or send me an [email](/about) and at least $5 (see methods below) and I'll send it to you.
+    - no spam
+- or send me an [email](/about) and $8 or more (see methods below), and I'll send it to you.
 
 #### newsletter
 
