@@ -1,4 +1,5 @@
 <!---->
+
 Born 1971, Twin Falls, Idaho. From age 16, I sought the cause of joy. I independently studied philosophy, health, and design. I tested my findings while traveling America. I lived outside or in small groups, doing odd jobs, playing music, and building alternative shelter. 
 
 In 2008, my quest culminated in [_the darkness conjecture_](/darkness-conjecture/), a concept of the restful use of darkness in support of the self​-healing psyche. I began:
