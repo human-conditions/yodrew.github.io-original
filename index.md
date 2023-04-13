@@ -68,7 +68,7 @@ _continue reading for free_{: style="font-size: .5em;padding-top:-10px 0;"} [&gt
 
 If my book makes sense to you and you would like to provide a house where it can be applied for yourself and others, please [let me know](/about). Here are other ideas to [participate](/about/participate/)
 
-Donations: I appreciate them very much. I live simply. S mall amounts help. I'll send you my ebook and a printable version of the PDF. Methods:
+Donations: I appreciate them very much. I live simply. Small amounts help. I'll send you my ebook and a printable version of the PDF. Methods:
 
 - [Wise](https://wise.com/share/andrewd1878) (formerly Transferwise)
 
