@@ -1,12 +1,8 @@
 ---
 title: hygienic darkroom retreat
 timezone: UTC
-collections:
-  posts:
-    title: Posts
-    output: true
 description: profound rest for the self-healing psyche
-baseurl: /yodrew.github.io
+baseurl: "/yodrew.github.io"
 url: https://darkroomretreat.com
 permalink: /:title/
 # The release of Jekyll Now that you're using
