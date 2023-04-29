@@ -8,7 +8,7 @@ published: true
 
 An individualist politics is not enough to secure freedom. An individualist form of government is necessary to apply the politics. An individualist party is necessary to institute such a government.
 
-Individualism has relied on the centralized state and traditional parties. But they are inherently collectivist. The centralized state involve delegation of power, representation, voting, secret societies, and arcane rules and laws. Traditional parties are intellectually impure. Their centralization and hierarchy mirror the states they are oriented toward. Together, centralized state and parties chew up the individualist vision and spit it out as collectivist tyranny. 
+Individualistic movements have relied on the centralized state and traditional parties. But these are inherently collectivist. The centralized state involves delegation of power, representation, voting, secret societies, and arcane rules and laws. Traditional parties compromise principle. Their centralization and hierarchy mirror the states they are oriented toward. Together, centralized states and parties chew up the individualist vision and spit it out as collectivist tyranny. 
 
 _Structure determines function_. "The medium is the message" (McCluhan). "We shape our buildings, and afterwards our buildings shape us" (Churchill). The means are the end.
 
