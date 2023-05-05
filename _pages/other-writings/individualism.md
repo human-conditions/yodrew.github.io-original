@@ -8,11 +8,17 @@ next: /other-writings/sanity-and-health/
 
 #### notes toward an individualist form of government
 
-These are semi-organized. They are enough to begin thinking along new lines. Some relevant posts are in the blog, including: [politics: distributed and centralized](/blog/2022/12/politics-distributed-centralized/), [individualism](/blog/2022/08/individualism/), and [scene: freedom](/blog/2020/11/scene-freedom/).
+These notes are only semi-organized. It may be better to begin with these posts in my blog:
+
+- [individualism](/blog/2022/08/individualism/)
+- [scene: freedom](/blog/2020/11/scene-freedom/).
+- [politics: distributed and centralized](/blog/2022/12/politics-distributed-centralized/)
+
+Start where you like. The point is to begin thinking along new lines.
 
 ##### immutable
 
-Whatever forms legislation, defense, and adjudication take in a society, they make up its state. Every society morally sanctions certain uses of force through these institutions. Man is a volitional being, thus fallible. Principles must guide his actions, personally and socially, especially his use of force.
+Whatever forms legislation, defense, and adjudication take in a society, they make up its state. Every society morally sanctions certain uses of force through these institutions. Man is a volitional being, thus fallible. Principles must guide his actions, personally and socially. This is especially true of his use of force. Force is where personal error or virtue crosses over into the lives of others.
 
 Every society has a state of some kind. A state is an immutable institution of any society. It is not whether a society will have one, but what kind it has. It is axiomatic. State power (organized force) would be needed to abolish states and keep them abolished, as in the anarchist fantasy. It is impossible.
 
@@ -23,12 +29,15 @@ A state could be the centralized, monopolizing, established beast we are used to
 This is a state that is:
 
 - based on individualist principles (the rights of man)
-- embodied by individuals throughout the population
-- of maximum size in terms of number of participants, amount of laws (through contracts), degree of control exercised (by individuals of their own affairs), and amount of power held by them in total.
+- undertaken and operated by all individuals throughout the population
+- of maximum size in terms of 
+    - number of participants
+    - comprehensiveness of laws (through contracts)
+    - amount of power held and degree of control exercised by individuals over their own affairs 
 
-Individualism sets the operational context of the society. It opposes altruism. This is a pretense of focusing on the good of others. It is actually a pathological denial and sacrifice of self.
+Individualism sets the operational context of the society. It opposes altruism. This is a pretense of focusing on the good of others. It is actually a pathological denial and sacrifice of self. It opposes collectivism, the false assertion of a collective being that individuals owe allegiance to.
 
-The rights of man to life, liberty, and property and the corollary maxims of law will become common sense again. Little children understand, apply, and uphold them. No one will be confused by collectivist appeals to the common good or offers of representation or stewardship. Everyone can be mentally, emotionally, physically, and legally aligned with his self-preserving nature as an organism.
+The rights of man to life, liberty, and property and the corollary maxims of law will become common sense again. Little children understand, apply, and uphold them. No one will be confused by collectivist appeals to the "common good" or offers of representation or stewardship. Everyone can be mentally, emotionally, physically, and legally aligned with his self-preserving nature as an organism.
 
 Distribution is the basis of resilience. It eliminates central points of failure through attack, corruption, or manipulation. Everyone is a policeman. Every property's line is a border. Everyone knows how things work. Everyone is officially responsible. No one imagines otherwise.
 
@@ -171,7 +180,7 @@ People choose in order to gain the good. Good is what serves the life of the ind
 
 We acknowledge our need for freedom from each other so that we can sincerely be ourselves and be together. 
 
-Freedom means a society characterized by safety from the initiation of force by others.
+Freedom is the quality of a society that stands against the initiation of force, both in its laws, defenses, judgments, and attitudes.
 
 ##### types
 
@@ -186,9 +195,9 @@ Freedom means a society characterized by safety from the initiation of force by 
     - near: fascism, monarchy, Islam, Catholocism
     - mixed: socialism, democracy, republic, Satanism, tribalism
 
-##### against anarchy
+##### anti-anarchy
 
-The worst attitude is to deny the state, as with anarchy. This immature repression causes the state to assume the worst possible forms. Anarchy is the most insidious form of collectivism. Communists spread the lie of anarchy among conscientious but naive youth. They become the useful idiots and cannon fodder of collectivist states.
+The worst attitude is to deny the state as such, ie, anarchy. This immature repression causes the state to assume the worst possible forms. Anarchy is the most insidious form of collectivism. Communists spread the lie of anarchy among conscientious but naive youth. They become the useful idiots and cannon fodder of collectivist states.
 
 Government is not mind control but control by the mind, according to principle. 
 
@@ -198,10 +207,23 @@ Individualism is based on the ethics of selfism, the epistemology of reason, and
 
 Collectivism mystically views society as the moral agent. It views an individual as provisional, or illusory, or as a mere cell in the larger "whole" of society. The individual has no will, no rights. The life, motility, and possessions loosely associated with him belong to the state. 
 
-The Vatican has operated by Satanic power through the nobility of Europe, communism in Russia and China, fascism in Germany, Italy, and Japan, and Islam in the Middle East. This amounts to a billion murdered in cold blood over two millennia. Not to mention the murders by civilizations from the East and from before Christ.
+This is all a lie. There is no collective entity. One cannot live for others. So it is a denial of what is. It does not uphold the collective. It denies and violates the rights of the individual. It does not help others. It gets people to deny and destroy themselves.
 
-##### objection
+The Vatican has operated by Satanic power through the Jesuits and nobility of Europe; communism in Russia and China; fascism in Germany, Italy, and Japan; and Islam in the Middle East. This amounts to a billion murdered in cold blood over two millennia. Not to mention the murders by civilizations from the East and from before Christ.
 
-A politician or intellectual will object, "But people are too stupid and irresponsible too take care of themselves. They need to be protected."
+##### deception
 
-Don't patronize me. Your life is more than enough for you to worry about.
+Collectivism is a lie. So it is advanced by denials and stealth. You know you're talking to a communist, for example, when you hear:
+
+- real communism never happened
+- communism is a myth
+- communists don't exist
+
+Collectivism has to be advanced in secret, by deception. Observe the:
+
+- self-sacrificing ("charitable") ethics and centralizing politics of secret socities
+- closed-door sessions of special committees
+- black-book projects of military and industry
+- blackmail that participants operate under (Epstein)
+
+Individualism, by contrast, wins in the open, by proud assertion of right, and transparent action. It takes very little of this to reverse a collectivist tide. Let's get cracking. 
