@@ -11,7 +11,7 @@ next: /other-writings/sanity-and-health/
 These notes are only semi-organized. It may be better to begin with these posts in my blog:
 
 - [individualism](/blog/2022/08/individualism/)
-- [scene: freedom](/blog/2020/11/scene-freedom/).
+- [scene: freedom](/blog/2020/11/scene-freedom/) (at least the first section, "scene", up to the proposal section)
 - [politics: distributed and centralized](/blog/2022/12/politics-distributed-centralized/)
 
 Start where you like. The point is to begin thinking along new lines.
